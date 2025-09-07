@@ -1,0 +1,2450 @@
+{
+  "session_id": "migration_202507_135757_04807254",
+  "organization": "Kodiak Venture Partners",
+  "timestamp": "2025-09-07T14:04:16.334435",
+  "total_processed": 305,
+  "successful": 283,
+  "failed": 22,
+  "results": [
+    {
+      "asset_id": "45635039",
+      "asset_name": "Allvue",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b66ad1e83fb661026e89230feaad37c",
+      "error_message": null
+    },
+    {
+      "asset_id": "54151822",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c876ad1e83fb661026e89230feaad3d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "21223168",
+      "asset_name": "Other",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc76ad1e83fb661026e89230feaad3df",
+      "error_message": null
+    },
+    {
+      "asset_id": "52519507",
+      "asset_name": "Egnyte Desktop",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8876ad1e83fb661026e89230feaad3db",
+      "error_message": null
+    },
+    {
+      "asset_id": "52519657",
+      "asset_name": "Egnyte WebEdit",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4c76ad1e83fb661026e89230feaad3d4",
+      "error_message": null
+    },
+    {
+      "asset_id": "52520307",
+      "asset_name": "Kodiak - Finance J:\\",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9c76ed1e83fb661026e89230feaad37c",
+      "error_message": null
+    },
+    {
+      "asset_id": "52520369",
+      "asset_name": "Kodiak - VPFinance F:\\",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5076ed1e83fb661026e89230feaad3a8",
+      "error_message": null
+    },
+    {
+      "asset_id": "52520392",
+      "asset_name": "Kodiak - Company I:\\",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9876ed1e83fb661026e89230feaad3b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "52520403",
+      "asset_name": "kodiakventurepartners Z:\\",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d076ed1e83fb661026e89230feaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "95633942",
+      "asset_name": "Kodiak VPN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e476215e83fb661026e89230feaad303",
+      "error_message": null
+    },
+    {
+      "asset_id": "19038674",
+      "asset_name": "Mimecast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2476215e83fb661026e89230feaad319",
+      "error_message": null
+    },
+    {
+      "asset_id": "45634989",
+      "asset_name": "Allvue",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a476ed1e83fb661026e89230feaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "52519484",
+      "asset_name": "Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f476215e83fb661026e89230feaad33a",
+      "error_message": null
+    },
+    {
+      "asset_id": "52522061",
+      "asset_name": "Spanning",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b076215e83fb661026e89230feaad35c",
+      "error_message": null
+    },
+    {
+      "asset_id": "52522458",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3876215e83fb661026e89230feaad377",
+      "error_message": null
+    },
+    {
+      "asset_id": "54151787",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8976215e83fb661026e89230feaad369",
+      "error_message": null
+    },
+    {
+      "asset_id": "17696761",
+      "asset_name": "Cisco SMARTnet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8d76215e83fb661026e89230feaad3d5",
+      "error_message": null
+    },
+    {
+      "asset_id": "17696768",
+      "asset_name": "HP Care Pack",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1976615e83fb661026e89230feaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "17696741",
+      "asset_name": "Adobe Volume Licensing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8d76215e83fb661026e89230feaad39a",
+      "error_message": null
+    },
+    {
+      "asset_id": "22778896",
+      "asset_name": "Other pdfMachine pdfMachine ultimate plus 2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2576615e83fb661026e89230feaad374",
+      "error_message": null
+    },
+    {
+      "asset_id": "52522625",
+      "asset_name": "Spanning Microsoft 365 Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3576a15e83fb661026e89230feaad30a",
+      "error_message": null
+    },
+    {
+      "asset_id": "54151667",
+      "asset_name": "Sentinel One Control",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fd76a15e83fb661026e89230feaad333",
+      "error_message": null
+    },
+    {
+      "asset_id": "54151876",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fd76a15e83fb661026e89230feaad311",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644260",
+      "asset_name": "KVP-CCE-RDS01 - KVP-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4a76a15e83fb661026e89230feaad374",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644261",
+      "asset_name": "KVP-CCE-FP - KVP-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1e76a15e83fb661026e89230feaad3a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644262",
+      "asset_name": "KVP-CCE-DC01 - KVP-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5276a15e83fb661026e89230feaad3be",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644263",
+      "asset_name": "KVP-CORE-MAIL01 - KVP-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a276e15e83fb661026e89230feaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644386",
+      "asset_name": "KVP-CORE-MAIL01 - KVP-CCE-QUARTERLY-LTR",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2a76e15e83fb661026e89230feaad32d",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644387",
+      "asset_name": "KVP-CCE-FP - KVP-CCE-QUARTERLY-LTR",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e276e15e83fb661026e89230feaad31d",
+      "error_message": null
+    },
+    {
+      "asset_id": "13645045",
+      "asset_name": "KVP-CCE-INV - KVP-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3676e15e83fb661026e89230feaad3c1",
+      "error_message": null
+    },
+    {
+      "asset_id": "20613112",
+      "asset_name": "KVP-CORE-MAIL01-qhy7 - KVP-CCE-QUARTERLY-LTR",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fe76e15e83fb661026e89230feaad3c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "20613113",
+      "asset_name": "KVP-CCE-FP-uW5L - KVP-CCE-QUARTERLY-LTR",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b276e15e83fb661026e89230feaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "20613114",
+      "asset_name": "KVP-CCE-INV-r5d9 - KVP-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b76255e83fb661026e89230feaad33c",
+      "error_message": null
+    },
+    {
+      "asset_id": "20613115",
+      "asset_name": "KVP-CCE-FP-uW5L - KVP-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f76255e83fb661026e89230feaad338",
+      "error_message": null
+    },
+    {
+      "asset_id": "20613116",
+      "asset_name": "KVP-CCE-DC01-yaoh - KVP-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0776255e83fb661026e89230feaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "20613117",
+      "asset_name": "KVP-CORE-MAIL01-qhy7 - KVP-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2f76255e83fb661026e89230feaad3b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "50445133",
+      "asset_name": "kvp-cce-egnyte-InHu - KVP-CCE-QUARTERLY-LTR",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e776255e83fb661026e89230feaad3c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "50445134",
+      "asset_name": "kvp-cce-egnyte-InHu - KVP-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e376255e83fb661026e89230feaad3eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "50646324",
+      "asset_name": "kvp-cce-egnyte-InHu - KVP-CCE-QUARTERLY-LTR",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb76655e83fb661026e89230feaad338",
+      "error_message": null
+    },
+    {
+      "asset_id": "50646325",
+      "asset_name": "kvp-cce-egnyte-InHu - KVP-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7776655e83fb661026e89230feaad346",
+      "error_message": null
+    },
+    {
+      "asset_id": "52520181",
+      "asset_name": "CoreBDR Volume/Image Egnyte ELC Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b376655e83fb661026e89230feaad34a",
+      "error_message": null
+    },
+    {
+      "asset_id": "52522690",
+      "asset_name": "Spanning Mailboxes Microsoft 365 Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0c86655e83fb661026e89230feaad37e",
+      "error_message": null
+    },
+    {
+      "asset_id": "53787598",
+      "asset_name": "Kodiak Venture Partners - contact",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1086655e83fb661026e89230feaad3d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "53787599",
+      "asset_name": "Kodiak Venture Partners - OneDrive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc86655e83fb661026e89230feaad3dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "53840689",
+      "asset_name": "Kodiak Venture Partners - contact",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 53787598 (Kodiak Venture Partners - contact)"
+    },
+    {
+      "asset_id": "53840690",
+      "asset_name": "Kodiak Venture Partners - OneDrive",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 53787599 (Kodiak Venture Partners - OneDrive)"
+    },
+    {
+      "asset_id": "53787600",
+      "asset_name": "Kodiak Venture Partners - calendar",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5086a55e83fb661026e89230feaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "53787602",
+      "asset_name": "Kodiak Venture Partners - mail",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2886a55e83fb661026e89230feaad36f",
+      "error_message": null
+    },
+    {
+      "asset_id": "53840692",
+      "asset_name": "Kodiak Venture Partners - calendar",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2886a55e83fb661026e89230feaad369",
+      "error_message": null
+    },
+    {
+      "asset_id": "53840693",
+      "asset_name": "Kodiak Venture Partners - mail",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c86a55e83fb661026e89230feaad399",
+      "error_message": null
+    },
+    {
+      "asset_id": "69408820",
+      "asset_name": "kvp-cce-egnyte-InHu - CORE316-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3486a55e83fb661026e89230feaad3be",
+      "error_message": null
+    },
+    {
+      "asset_id": "17696783",
+      "asset_name": "Microsoft Open Value Agreement",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9576615e83fb661026e89230feaad352",
+      "error_message": null
+    },
+    {
+      "asset_id": "22010940",
+      "asset_name": "Domain Registration",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010941",
+      "asset_name": "DNS Hosting",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010943",
+      "asset_name": "Kodiakvp.com Website Hosting",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010944",
+      "asset_name": "Go Daddy SSL Certificate",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010945",
+      "asset_name": "MS Open Value",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010952",
+      "asset_name": "katie-bruno-lt2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010953",
+      "asset_name": "aourfalian02-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010948",
+      "asset_name": "DECOM - kvp-cce-fp",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22010950",
+      "asset_name": "lvolpe-lt2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010956",
+      "asset_name": "pbreen-x1carbon",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010954",
+      "asset_name": "kvp-cce-rds01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010955",
+      "asset_name": "kvp-cce-util",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010957",
+      "asset_name": "DECOM - investran",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22010959",
+      "asset_name": "kodiak-lt2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "45864258",
+      "asset_name": "kvp-cce-elc01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3496a95e83fb661026e89230feaad33e",
+      "error_message": null
+    },
+    {
+      "asset_id": "721111",
+      "asset_name": "kodiakventurepartners.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c196a95e83fb661026e89230feaad357",
+      "error_message": null
+    },
+    {
+      "asset_id": "1350082",
+      "asset_name": "kodiakventure.partners",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a96a95e83fb661026e89230feaad3a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "11644956",
+      "asset_name": "Allvue Maintenance December 16, 2022 - December 19, 2022",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7796ed5e83fb661026e89230feaad3e6",
+      "error_message": null
+    },
+    {
+      "asset_id": "9837530",
+      "asset_name": "How to set up Scan to Email on Home Printers",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80a6219e83fb661026e89230feaad329",
+      "error_message": null
+    },
+    {
+      "asset_id": "10205408",
+      "asset_name": "AzureAD - Self-Service-Enrollment-ChangePassword",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4ca6619e83fb661026e89230feaad306",
+      "error_message": null
+    },
+    {
+      "asset_id": "10205409",
+      "asset_name": "AzureAD - Multi-Factor-Authentication-MFA-Enrollment-iOS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "21a6659e83fb661026e89230feaad39a",
+      "error_message": null
+    },
+    {
+      "asset_id": "10432319",
+      "asset_name": "How to Install SentinelOne on Windows",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7eb629de83fb661026e89230feaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "9715900",
+      "asset_name": "Egnyte - How to Deploy Egnyte to Windows Machines via Kaseya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "87b669de83fb661026e89230feaad364",
+      "error_message": null
+    },
+    {
+      "asset_id": "9800299",
+      "asset_name": "Egnyte - How to Add New Users",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dbb669de83fb661026e89230feaad3bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "10040917",
+      "asset_name": "How to Enable Backups for New Users using Spanning",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "efb6a9de83fb661026e89230feaad3a4",
+      "error_message": null
+    },
+    {
+      "asset_id": "10040918",
+      "asset_name": "How to Restore and Export Emails from Backup with Spanning",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e3b6e9de83fb661026e89230feaad3c0",
+      "error_message": null
+    },
+    {
+      "asset_id": "10040919",
+      "asset_name": "How to Add Spanning Licenses to New Microsoft 365 Users",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7b62dde83fb661026e89230feaad3c7",
+      "error_message": null
+    },
+    {
+      "asset_id": "3762089",
+      "asset_name": "Angelique Ourfalian Checklist.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c4c62dde83fb661026e89230feaad368",
+      "error_message": null
+    },
+    {
+      "asset_id": "3762090",
+      "asset_name": "Generic New Hire Checklist.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8c6adde83fb661026e89230feaad3c0",
+      "error_message": null
+    },
+    {
+      "asset_id": "3762091",
+      "asset_name": "Kodiak Info Sheet.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78c6edde83fb661026e89230feaad398",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757537",
+      "asset_name": "2016_MAPTool_Inventory.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c1c66112833f661026e89230feaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757539",
+      "asset_name": "4333599 WindowsServerEnvironmentDetailsAudit.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25c66112833f661026e89230feaad3fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757541",
+      "asset_name": "Kodiak Technology Audit.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fdc6a112833f661026e89230feaad37d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757543",
+      "asset_name": "KODIAK AUDIT.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c6c6a112833f661026e89230feaad38c",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757554",
+      "asset_name": "Debbie - desktop & mapped drives (2).msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1ac6a112833f661026e89230feaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757557",
+      "asset_name": "Penny - desktop & mapped drives (1).msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3ec6e112833f661026e89230feaad36a",
+      "error_message": null
+    },
+    {
+      "asset_id": "10157029",
+      "asset_name": "Kodiak iOS Email setup.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dbc6e112833f661026e89230feaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "10157030",
+      "asset_name": "Kodiak Android Email setup.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2fc62512833f661026e89230feaad34a",
+      "error_message": null
+    },
+    {
+      "asset_id": "10157031",
+      "asset_name": "Kodiak Outlook self configuration instructions.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "73c62512833f661026e89230feaad38e",
+      "error_message": null
+    },
+    {
+      "asset_id": "10157032",
+      "asset_name": "Kodiak Outlook self configuration instructions from Control Panel.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "58d62512833f661026e89230feaad3be",
+      "error_message": null
+    },
+    {
+      "asset_id": "10157033",
+      "asset_name": "Kodiak Outlook for Microsoft 365 (OWA).pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e4d62512833f661026e89230feaad3db",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757580",
+      "asset_name": "187216f6b4b9442.crt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f4d66512833f661026e89230feaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757581",
+      "asset_name": "CSR_072018.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "41d66512833f661026e89230feaad3dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757582",
+      "asset_name": "gd-g2_iis_intermediates.p7b",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2dd6a512833f661026e89230feaad338",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757585",
+      "asset_name": "How to set MacBook to mirror displays.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f5d6a512833f661026e89230feaad399",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757586",
+      "asset_name": "How to set MacBook to mirror displays.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cad6a512833f661026e89230feaad3ce",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757589",
+      "asset_name": "Large Conference Room Presentation.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ded6e512833f661026e89230feaad35e",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757590",
+      "asset_name": "Small Conference Room Presentation.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b2d6e512833f661026e89230feaad3bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757594",
+      "asset_name": "Small Conference Room Presentation.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "47d6e512833f661026e89230feaad3fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757595",
+      "asset_name": "Large Conference Room Presentation.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e7d62912833f661026e89230feaad343",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757616",
+      "asset_name": "IT Inventory  Warranty - 9-28-2010.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f3d62912833f661026e89230feaad3e8",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757617",
+      "asset_name": "Kodiak - IT Inventory & Warranty - 9-16-09.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "18e66912833f661026e89230feaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757618",
+      "asset_name": "Kodiak - IT Inventory & Warranty 2013.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ace66912833f661026e89230feaad3a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757628",
+      "asset_name": "Kodiak.pcf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "38e66912833f661026e89230feaad3d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757629",
+      "asset_name": "Please follow these instructions for PC installation.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dde6a912833f661026e89230feaad319",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757632",
+      "asset_name": "Client.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25e6a912833f661026e89230feaad37e",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761534",
+      "asset_name": "Andrey.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ae6e912833f661026e89230feaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761535",
+      "asset_name": "2016 KODIAK Holiday Schedule.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "72e6e912833f661026e89230feaad3c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761536",
+      "asset_name": "Kodiak Cisco ASA5510 (04-02-08).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dbe62d12833f661026e89230feaad374",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761537",
+      "asset_name": "Kodiak Finance Department Computer Checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2fe62d12833f661026e89230feaad3be",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761538",
+      "asset_name": "kodiak lanspy.xml",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7fe66d12833f661026e89230feaad317",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761539",
+      "asset_name": "Kodiak Pix.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "18f66d12833f661026e89230feaad32c",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761540",
+      "asset_name": "Kodiak Venture Partners cerificate of recycle 11 12 2012.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8f66d12833f661026e89230feaad3a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761541",
+      "asset_name": "Kodiak Recycling List 9-14-12.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f4f66d12833f661026e89230feaad3f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761542",
+      "asset_name": "Kodiak report[2].pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8df66d12833f661026e89230feaad3e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761545",
+      "asset_name": "Kodiak_20080403.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "29f6ad12833f661026e89230feaad398",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761546",
+      "asset_name": "Kodiak Network.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5f6ad12833f661026e89230feaad3f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761550",
+      "asset_name": "Kodiak_20080505_Updated.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5af6ed12833f661026e89230feaad354",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761552",
+      "asset_name": "Kodiak Proposed Network.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a2f6ed12833f661026e89230feaad3a4",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761553",
+      "asset_name": "INV_Admin_Guide_52.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cbf6ed12833f661026e89230feaad3dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761554",
+      "asset_name": "Penny Breen.vcf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1ff62152833f661026e89230feaad314",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761555",
+      "asset_name": "KVP Router (OLD).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e7f62152833f661026e89230feaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761556",
+      "asset_name": "Kodiak Current Network.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fbf62152833f661026e89230feaad3d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761557",
+      "asset_name": "kodiakastro.xml",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "10072152833f661026e89230feaad3e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761561",
+      "asset_name": "kodiak pw.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6c076152833f661026e89230feaad346",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761562",
+      "asset_name": "Kodiak Daily.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f4076152833f661026e89230feaad391",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761565",
+      "asset_name": "Kodiak_20080416_Updated.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4107a152833f661026e89230feaad300",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761566",
+      "asset_name": "Kodiak ASA.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2907a152833f661026e89230feaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761567",
+      "asset_name": "Kodiak ASA 04-24-08 NEW.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fd07e152833f661026e89230feaad31a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761568",
+      "asset_name": "GPO Setup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c607e152833f661026e89230feaad348",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761569",
+      "asset_name": "Finance Laptop Assessment for Kodiak.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea07e152833f661026e89230feaad3a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761570",
+      "asset_name": "Ecessa Authoritative DNS 11-20-09.xps",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f207e152833f661026e89230feaad3d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761533",
+      "asset_name": "Archive.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf07e152833f661026e89230feaad3b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761657",
+      "asset_name": "Kodiak - LAN IP Spreadsheet.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0172552833f661026e89230feaad3d4",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761658",
+      "asset_name": "Kodiak Office Jack Layout.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1d176552833f661026e89230feaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761659",
+      "asset_name": "Kodiak.rdm",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "69176552833f661026e89230feaad316",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761584",
+      "asset_name": "ASA5510_2-7-2014.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "06176552833f661026e89230feaad37a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761585",
+      "asset_name": "ASA5510_6-19-2015.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d2176552833f661026e89230feaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761586",
+      "asset_name": "ASA5510_11-25-2013.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6a176552833f661026e89230feaad3c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761606",
+      "asset_name": "cmeakem NY router.bin",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7617a552833f661026e89230feaad360",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761607",
+      "asset_name": "WiFi Info.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5f17a552833f661026e89230feaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761608",
+      "asset_name": "Dave F Speed.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef17e552833f661026e89230feaad323",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761616",
+      "asset_name": "Kodiak.pcf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b717e552833f661026e89230feaad36d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761623",
+      "asset_name": "vpnclient-win-msi-4.8.00.0440-k9.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4027e552833f661026e89230feaad353",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761628",
+      "asset_name": "Kodiak - LAN IP Spreadsheet.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "05276952833f661026e89230feaad39e",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761633",
+      "asset_name": "Kodiak.pcf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25272952833f661026e89230feaad3ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761634",
+      "asset_name": "Kodiak-New.pcf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3d27a952833f661026e89230feaad30c",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761649",
+      "asset_name": "7363_9.4.0.0.110.Bl7",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ce27a952833f661026e89230feaad360",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761653",
+      "asset_name": "7363_9.3.2.0.3.Bl7",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e27a952833f661026e89230feaad3a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761639",
+      "asset_name": "9-3-2-0-3- MR2 - release-notes - 20120523.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a327e952833f661026e89230feaad371",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761640",
+      "asset_name": "Whats New in ZF 9.4GA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7727e952833f661026e89230feaad398",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761641",
+      "asset_name": "Whats New in ZF 9.3 - v20120123.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "50372d52833f661026e89230feaad30d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761642",
+      "asset_name": "800-70311-001 - 7343-7363 - QSG 20110223.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a8372d52833f661026e89230feaad316",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761643",
+      "asset_name": "800-70355-001 - ZoneFlex AP User Guide 9.3 - 20111207.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fc372d52833f661026e89230feaad33b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761644",
+      "asset_name": "ZoneFlex Indoor AP User Guide 9.4 - Rev B - 20120702.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "51372d52833f661026e89230feaad374",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757587",
+      "asset_name": "Kodiak Remote Desktop Instructions - Windows 7.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "35376d52833f661026e89230feaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757588",
+      "asset_name": "Kodiak Remote Desktop Instructions - Windows 8-10.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4e376d52833f661026e89230feaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757591",
+      "asset_name": "Kodiak - CoreCloud East VPN Instructions.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "92376d52833f661026e89230feaad391",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757592",
+      "asset_name": "Kodiak Remote Desktop Instructions - Windows 8-10.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fe376d52833f661026e89230feaad3fd",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757593",
+      "asset_name": "Kodiak - CoreCloud East VPN Instructions.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0737ad52833f661026e89230feaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757596",
+      "asset_name": "Kodiak Remote Desktop Instructions - Windows 7.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9737ad52833f661026e89230feaad346",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761683",
+      "asset_name": "Kodiak On Call Procedure.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb37ad52833f661026e89230feaad3e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761689",
+      "asset_name": "Create PDFMachine Merge Templates.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8c47ed52833f661026e89230feaad31a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761693",
+      "asset_name": "Kodiak Server update.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e047ed52833f661026e89230feaad33f",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761694",
+      "asset_name": "Kodiak.rdm",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f847ed52833f661026e89230feaad332",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761952",
+      "asset_name": "SQLSysClrTypes.msi",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c5472192833f661026e89230feaad314",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761965",
+      "asset_name": "ReportViewer.msi",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd472192833f661026e89230feaad35e",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761823",
+      "asset_name": "20111018 INV_61_HF_Package_31291.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e5472192833f661026e89230feaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761843",
+      "asset_name": "Inv521 HF2580 V4 - Fix ATM ProcessOwner 03082007.sql",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "44576592833f661026e89230feaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761844",
+      "asset_name": "Inv521 HF2580 V4 - Fix ATM ProcessOwner 03082007.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28576992833f661026e89230feaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761855",
+      "asset_name": "FW  Open Value Order Confirmation (IEX3539) (V9997905){~43615979 1~}.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4957a992833f661026e89230feaad3c7",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761856",
+      "asset_name": "Open Value Agreement - 2013.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "11572d92833f661026e89230feaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761857",
+      "asset_name": "Software Assurance 6-10-10.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6d57ad92833f661026e89230feaad3d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "3762078",
+      "asset_name": "Kodiak APC Information.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd57ed92833f661026e89230feaad37a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3762079",
+      "asset_name": "WIFI.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d65721d2833f661026e89230feaad356",
+      "error_message": null
+    },
+    {
+      "asset_id": "3762080",
+      "asset_name": "Pwords.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "225761d2833f661026e89230feaad3ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "3762088",
+      "asset_name": "Vendor Info.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f65761d2833f661026e89230feaad3b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "9836848",
+      "asset_name": "1. How to access Egnyte Web Portal.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "535765d2833f661026e89230feaad332",
+      "error_message": null
+    },
+    {
+      "asset_id": "9836849",
+      "asset_name": "2. External Sharing with Egnyte.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b57e5d2833f661026e89230feaad332",
+      "error_message": null
+    },
+    {
+      "asset_id": "9836852",
+      "asset_name": "5. Egnyte Android App Quick Start Guide.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7757e5d2833f661026e89230feaad3c7",
+      "error_message": null
+    },
+    {
+      "asset_id": "9836853",
+      "asset_name": "6. Egnyte iPhone App Guide.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a067e9d2833f661026e89230feaad30f",
+      "error_message": null
+    },
+    {
+      "asset_id": "9836854",
+      "asset_name": "7. Egnyte User Guide.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd67edd2833f661026e89230feaad306",
+      "error_message": null
+    },
+    {
+      "asset_id": "9836855",
+      "asset_name": "4. How to install Egnyte Mobile App.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25672116833f661026e89230feaad32e",
+      "error_message": null
+    },
+    {
+      "asset_id": "9836856",
+      "asset_name": "3. How to Map Drives Manually.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8a67a116833f661026e89230feaad38c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3762089",
+      "asset_name": "Angelique_Ourfalian_Checklist.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d0c66dde83fb661026e89230feaad3a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3762090",
+      "asset_name": "Generic_New_Hire_Checklist.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8c6edde83fb661026e89230feaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3762091",
+      "asset_name": "Kodiak_Info_Sheet.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0dc62112833f661026e89230feaad354",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757537",
+      "asset_name": "2016_MAPTool_Inventory.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "19c62112833f661026e89230feaad3ad",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757539",
+      "asset_name": "4333599_WindowsServerEnvironmentDetailsAudit.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2dc6a112833f661026e89230feaad366",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757541",
+      "asset_name": "Kodiak_Technology_Audit.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "75c6a112833f661026e89230feaad3a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757543",
+      "asset_name": "KODIAK_AUDIT.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "56c6a112833f661026e89230feaad3ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757554",
+      "asset_name": "Debbie_-_desktop___mapped_drives_(2).msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aec6a112833f661026e89230feaad3fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757557",
+      "asset_name": "Penny_-_desktop___mapped_drives_(1).msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8fc6e112833f661026e89230feaad399",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10157029",
+      "asset_name": "Kodiak_iOS_Email_setup.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dfc62512833f661026e89230feaad319",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10157030",
+      "asset_name": "Kodiak_Android_Email_setup.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7c62512833f661026e89230feaad36a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10157031",
+      "asset_name": "Kodiak_Outlook_self_configuration_instructions.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "40d62512833f661026e89230feaad382",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10157032",
+      "asset_name": "Kodiak_Outlook_self_configuration_instructions_from_Control_Panel.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "98d62512833f661026e89230feaad3f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10157033",
+      "asset_name": "Kodiak_Outlook_Web_Access_(OWA).pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28d66512833f661026e89230feaad319",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757580",
+      "asset_name": "187216f6b4b9442.crt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "81d66512833f661026e89230feaad3be",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757581",
+      "asset_name": "CSR_072018.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "51d6a512833f661026e89230feaad321",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757582",
+      "asset_name": "gd-g2_iis_intermediates.p7b",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3757585",
+      "asset_name": "How_to_set_MacBook_to_mirror_displays.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bdd6a512833f661026e89230feaad3ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757586",
+      "asset_name": "How_to_set_MacBook_to_mirror_displays.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ad6e512833f661026e89230feaad32a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757589",
+      "asset_name": "Large_Conference_Room_Presentation.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a2d6e512833f661026e89230feaad3a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757590",
+      "asset_name": "Small_Conference_Room_Presentation.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cbd6e512833f661026e89230feaad3da",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757594",
+      "asset_name": "Small_Conference_Room_Presentation.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "17d6e512833f661026e89230feaad3f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757595",
+      "asset_name": "Large_Conference_Room_Presentation.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bfd62912833f661026e89230feaad39a",
+      "error_message": null
+    },
+    {
+      "asset_id": "10205408",
+      "asset_name": "14171661",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "10205408",
+      "asset_name": "14171662",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "10205408",
+      "asset_name": "14171658",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "10205409",
+      "asset_name": "14171639",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "10205409",
+      "asset_name": "14171641",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "10205409",
+      "asset_name": "14171632",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "10205409",
+      "asset_name": "14171631",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "10205409",
+      "asset_name": "14171677",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "10205409",
+      "asset_name": "14171676",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "10205409",
+      "asset_name": "14171640",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "10205409",
+      "asset_name": "14171633",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "10205409",
+      "asset_name": "14171629",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3757616",
+      "asset_name": "IT_Inventory__Warranty_-_9-28-2010.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8ce66912833f661026e89230feaad307",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757617",
+      "asset_name": "Kodiak_-_IT_Inventory___Warranty_-_9-16-09.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ece66912833f661026e89230feaad388",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757618",
+      "asset_name": "Kodiak_-_IT_Inventory___Warranty_2013.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bce66912833f661026e89230feaad3ca",
+      "error_message": null
+    },
+    {
+      "asset_id": "3757628",
+      "asset_name": "Kodiak.pcf",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3757629",
+      "asset_name": "Please_follow_these_instructions_for_PC_installation.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5de6a912833f661026e89230feaad369",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757632",
+      "asset_name": "Client.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0ee6a912833f661026e89230feaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761534",
+      "asset_name": "Andrey.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "36e6e912833f661026e89230feaad3eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761535",
+      "asset_name": "2016_KODIAK_Holiday_Schedule.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4be62d12833f661026e89230feaad32e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761536",
+      "asset_name": "Kodiak_Cisco_ASA5510_(04-02-08).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "57e62d12833f661026e89230feaad36f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761537",
+      "asset_name": "Kodiak_Finance_Department_Computer_Checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3fe62d12833f661026e89230feaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761538",
+      "asset_name": "kodiak_lanspy.xml",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "08f66d12833f661026e89230feaad332",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761539",
+      "asset_name": "Kodiak_Pix.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "94f66d12833f661026e89230feaad39d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761540",
+      "asset_name": "Kodiak_Venture_Partners_cerificate_of_recycle_11_12_2012.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20f66d12833f661026e89230feaad3a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761541",
+      "asset_name": "Kodiak_Recycling_List_9-14-12.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0df6ad12833f661026e89230feaad30e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761542",
+      "asset_name": "Kodiak_report_2_.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "95f6ad12833f661026e89230feaad37d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761545",
+      "asset_name": "Kodiak_20080403.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7df6ad12833f661026e89230feaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761546",
+      "asset_name": "Kodiak_Network.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "02f6ed12833f661026e89230feaad331",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761550",
+      "asset_name": "Kodiak_20080505_Updated.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ef6ed12833f661026e89230feaad37e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761552",
+      "asset_name": "Kodiak_Proposed_Network.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3af6ed12833f661026e89230feaad36f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761553",
+      "asset_name": "INV_Admin_Guide_52.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "87f6ed12833f661026e89230feaad3fd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761554",
+      "asset_name": "Penny_Breen.vcf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9ff62152833f661026e89230feaad340",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761555",
+      "asset_name": "KVP_Router_(OLD).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "73f62152833f661026e89230feaad3af",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761556",
+      "asset_name": "Kodiak_Current_Network.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "44072152833f661026e89230feaad3c1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761557",
+      "asset_name": "kodiakastro.xml",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc072152833f661026e89230feaad3f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761561",
+      "asset_name": "kodiak_pw.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "70076152833f661026e89230feaad33c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761562",
+      "asset_name": "Kodiak_Daily.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c9076152833f661026e89230feaad3aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761565",
+      "asset_name": "Kodiak_20080416_Updated.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5107a152833f661026e89230feaad333",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761566",
+      "asset_name": "Kodiak_ASA.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fd07a152833f661026e89230feaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761567",
+      "asset_name": "Kodiak_ASA_04-24-08_NEW.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8607e152833f661026e89230feaad318",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761568",
+      "asset_name": "GPO_Setup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9e07e152833f661026e89230feaad399",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761569",
+      "asset_name": "Finance_Laptop_Assessment_for_Kodiak.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ae07e152833f661026e89230feaad36f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761570",
+      "asset_name": "Ecessa_Authoritative_DNS_11-20-09.xps",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f072552833f661026e89230feaad316",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761533",
+      "asset_name": "Archive.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7072552833f661026e89230feaad357",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761657",
+      "asset_name": "Kodiak_-_LAN_IP_Spreadsheet.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09172552833f661026e89230feaad3e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761658",
+      "asset_name": "Kodiak_Office_Jack_Layout.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "69176552833f661026e89230feaad330",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761659",
+      "asset_name": "Kodiak.rdm",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3761584",
+      "asset_name": "ASA5510_2-7-2014.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c6176552833f661026e89230feaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761585",
+      "asset_name": "ASA5510_6-19-2015.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6e17a552833f661026e89230feaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761586",
+      "asset_name": "ASA5510_11-25-2013.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3a17a552833f661026e89230feaad345",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761606",
+      "asset_name": "cmeakem_NY_router.bin",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3761607",
+      "asset_name": "WiFi_Info.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1b17a552833f661026e89230feaad3c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761608",
+      "asset_name": "Dave_F_Speed.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7b17e552833f661026e89230feaad34a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761616",
+      "asset_name": "Kodiak.pcf",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3761623",
+      "asset_name": "vpnclient-win-msi-4.8.00.0440-k9.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20272952833f661026e89230feaad3a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761628",
+      "asset_name": "Kodiak_-_LAN_IP_Spreadsheet.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d9272952833f661026e89230feaad3bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761633",
+      "asset_name": "Kodiak.pcf",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "3761634",
+      "asset_name": "Kodiak-New.pcf",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3761649",
+      "asset_name": "7363_9.4.0.0.110.Bl7",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ae27a952833f661026e89230feaad369",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761653",
+      "asset_name": "7363_9.3.2.0.3.Bl7",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5b27e952833f661026e89230feaad33e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761639",
+      "asset_name": "9-3-2-0-3-_MR2_-_release-notes_-_20120523.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3327e952833f661026e89230feaad3a8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761640",
+      "asset_name": "Whats_New_in_ZF_9.4GA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8837e952833f661026e89230feaad3d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761641",
+      "asset_name": "Whats_New_in_ZF_9.3_-_v20120123.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "10372d52833f661026e89230feaad322",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761642",
+      "asset_name": "800-70311-001_-_7343-7363_-_QSG_20110223.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0372d52833f661026e89230feaad352",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761643",
+      "asset_name": "800-70355-001_-_ZoneFlex_AP_User_Guide_9.3_-_20111207.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c5372d52833f661026e89230feaad382",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761644",
+      "asset_name": "ZoneFlex_Indoor_AP_User_Guide_9.4_-_Rev_B_-_20120702.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6d376d52833f661026e89230feaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757587",
+      "asset_name": "Kodiak_Remote_Desktop_Instructions_-_Windows_7.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "35376d52833f661026e89230feaad369",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757588",
+      "asset_name": "Kodiak_Remote_Desktop_Instructions_-_Windows_8-10.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "12376d52833f661026e89230feaad31c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757591",
+      "asset_name": "Kodiak_-_CoreCloud_East_VPN_Instructions.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ae376d52833f661026e89230feaad3aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757592",
+      "asset_name": "Kodiak_Remote_Desktop_Instructions_-_Windows_8-10.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f637ad52833f661026e89230feaad30e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757593",
+      "asset_name": "Kodiak_-_CoreCloud_East_VPN_Instructions.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1737ad52833f661026e89230feaad362",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3757596",
+      "asset_name": "Kodiak_Remote_Desktop_Instructions_-_Windows_7.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "af37ad52833f661026e89230feaad399",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761683",
+      "asset_name": "Kodiak_On_Call_Procedure.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f37ad52833f661026e89230feaad3fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761689",
+      "asset_name": "Create_PDFMachine_Merge_Templates.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d047ed52833f661026e89230feaad334",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761693",
+      "asset_name": "Kodiak_Server_update.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2847ed52833f661026e89230feaad3a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "3761694",
+      "asset_name": "Kodiak.rdm",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "3761952",
+      "asset_name": "SQLSysClrTypes.msi",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Attachment migration failed"
+    },
+    {
+      "asset_id": "3761965",
+      "asset_name": "ReportViewer.msi",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Attachment migration failed"
+    },
+    {
+      "asset_id": "att_3761823",
+      "asset_name": "20111018_INV_61_HF_Package_31291.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "12472192833f661026e89230feaad3a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761843",
+      "asset_name": "Inv521_HF2580_V4_-_Fix_ATM_ProcessOwner_03082007.sql",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2457e592833f661026e89230feaad3b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761844",
+      "asset_name": "Inv521_HF2580_V4_-_Fix_ATM_ProcessOwner_03082007.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f457a992833f661026e89230feaad33e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761855",
+      "asset_name": "FW__Open_Value_Order_Confirmation_(IEX3539)_(V9997905)__43615979_1__.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4157e992833f661026e89230feaad33c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761856",
+      "asset_name": "Open_Value_Agreement_-_2013.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "99576d92833f661026e89230feaad3fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3761857",
+      "asset_name": "Software_Assurance_6-10-10.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3157ed92833f661026e89230feaad323",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3762078",
+      "asset_name": "Kodiak_APC_Information.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a5721d2833f661026e89230feaad34e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3762079",
+      "asset_name": "WIFI.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "125721d2833f661026e89230feaad397",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3762080",
+      "asset_name": "Pwords.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e57e1d2833f661026e89230feaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3762088",
+      "asset_name": "Vendor_Info.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf57a5d2833f661026e89230feaad308",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9836848",
+      "asset_name": "1._How_to_access_Egnyte_Web_Portal.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5b5725d2833f661026e89230feaad348",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9836849",
+      "asset_name": "2._External_Sharing_with_Egnyte.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3757e5d2833f661026e89230feaad356",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9836852",
+      "asset_name": "5._Egnyte_Android_App_Quick_Start_Guide.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c86769d2833f661026e89230feaad395",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9836853",
+      "asset_name": "6._Egnyte_iPhone_App_Guide.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7467e9d2833f661026e89230feaad366",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9836854",
+      "asset_name": "7._Egnyte_User_Guide.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d1672116833f661026e89230feaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9836855",
+      "asset_name": "4._How_to_install_Egnyte_Mobile_App.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3d67edd2833f661026e89230feaad37d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9836856",
+      "asset_name": "3._How_to_Map_Drives_Manually.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8267e116833f661026e89230feaad30f",
+      "error_message": null
+    }
+  ]
+}

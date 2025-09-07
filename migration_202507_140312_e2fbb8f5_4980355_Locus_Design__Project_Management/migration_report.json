@@ -1,0 +1,378 @@
+{
+  "session_id": "migration_202507_140312_e2fbb8f5",
+  "organization": "Locus Design & Project Management",
+  "timestamp": "2025-09-07T14:04:50.660040",
+  "total_processed": 46,
+  "successful": 46,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "19011935",
+      "asset_name": "Locus Wireless FPS wireless",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0e97659693ffe2102dadffed1dba1002",
+      "error_message": null
+    },
+    {
+      "asset_id": "19016701",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ca97659693ffe2102dadffed1dba102c",
+      "error_message": null
+    },
+    {
+      "asset_id": "58176868",
+      "asset_name": "AutoCad Architectural 2023",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4697659693ffe2102dadffed1dba1036",
+      "error_message": null
+    },
+    {
+      "asset_id": "153767130",
+      "asset_name": "Revit",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a97659693ffe2102dadffed1dba100a",
+      "error_message": null
+    },
+    {
+      "asset_id": "19020731",
+      "asset_name": "Dropbox",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5297659693ffe2102dadffed1dba10d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "19019811",
+      "asset_name": "Optimum Other",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e697a59693ffe2102dadffed1dba100e",
+      "error_message": null
+    },
+    {
+      "asset_id": "19019784",
+      "asset_name": "Optimum",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6e97a59693ffe2102dadffed1dba1056",
+      "error_message": null
+    },
+    {
+      "asset_id": "19020728",
+      "asset_name": "Dropbox",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e297a59693ffe2102dadffed1dba1070",
+      "error_message": null
+    },
+    {
+      "asset_id": "19391992",
+      "asset_name": "Autodesk",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3697a59693ffe2102dadffed1dba10bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "19014192",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e97e59693ffe2102dadffed1dba1058",
+      "error_message": null
+    },
+    {
+      "asset_id": "19020721",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b97e59693ffe2102dadffed1dba1091",
+      "error_message": null
+    },
+    {
+      "asset_id": "67809014",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4b97e59693ffe2102dadffed1dba1098",
+      "error_message": null
+    },
+    {
+      "asset_id": "19016267",
+      "asset_name": "Files Revision",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0397e59693ffe2102dadffed1dba10c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "19011745",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1f97299693ffe2102dadffed1dba1005",
+      "error_message": null
+    },
+    {
+      "asset_id": "33593490",
+      "asset_name": "Locus Cable Modem",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f797299693ffe2102dadffed1dba10ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "33659999",
+      "asset_name": "elizabeth_evoy_",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "33660001",
+      "asset_name": "desktop-6fdoulp",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "33660043",
+      "asset_name": "laptop-heapc7cd",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "33742214",
+      "asset_name": "desktop-88mef48",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "33742215",
+      "asset_name": "laptop-c5durg62",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "33742216",
+      "asset_name": "laptop-h5fblh1q",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "33742217",
+      "asset_name": "slittle-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "33742218",
+      "asset_name": "laptop-jnqn0ik6",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "33742219",
+      "asset_name": "christinacorrie",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "33742220",
+      "asset_name": "jwoods-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "33742221",
+      "asset_name": "laptop-e2d0g4h4",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "33593491",
+      "asset_name": "Locus Copier",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7397699693ffe2102dadffed1dba102c",
+      "error_message": null
+    },
+    {
+      "asset_id": "33966282",
+      "asset_name": "laptop-r2jko5md",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "33966283",
+      "asset_name": "nvasp-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "34884464",
+      "asset_name": "desktop-2fnghus",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "37148760",
+      "asset_name": "hamano-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "33593493",
+      "asset_name": "Locus Switch",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7f97699693ffe2102dadffed1dba1050",
+      "error_message": null
+    },
+    {
+      "asset_id": "33897535",
+      "asset_name": "Locus Ubiquiti",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d4a7699693ffe2102dadffed1dba10ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "33593492",
+      "asset_name": "Locus Optimum Router",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7b97699693ffe2102dadffed1dba1059",
+      "error_message": null
+    },
+    {
+      "asset_id": "887315",
+      "asset_name": "locusdesignco.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "68a7a99693ffe2102dadffed1dba1062",
+      "error_message": null
+    },
+    {
+      "asset_id": 368437,
+      "asset_name": "www.locusdesignco.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "34a7e99693ffe2102dadffed1dba1003",
+      "error_message": null
+    },
+    {
+      "asset_id": "6793601",
+      "asset_name": "User Offboarding Guide - Locus Design & Project Management",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d9a7e99693ffe2102dadffed1dba10cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "7363015",
+      "asset_name": "Shared Inboxes",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ada72d9693ffe2102dadffed1dba1066",
+      "error_message": null
+    },
+    {
+      "asset_id": "7574592",
+      "asset_name": "AppRiver Quarantine Management [ICheck]",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "35a72d9693ffe2102dadffed1dba10b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "7574593",
+      "asset_name": "AppRiver User Management [ICheck]",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b6a7ad9693ffe2102dadffed1dba10bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "9339144",
+      "asset_name": "New User Onboarding Guide - Locus Design & Project Management",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bfa721d693ffe2102dadffed1dba102b",
+      "error_message": null
+    },
+    {
+      "asset_id": "9341539",
+      "asset_name": "Windows Setup Guide - Locus Design & Project Management",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c0b721d693ffe2102dadffed1dba10a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "6793600",
+      "asset_name": "Locus_Design_Network_Details.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "10b761d693ffe2102dadffed1dba1021",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_6793600",
+      "asset_name": "Locus_Design_Network_Details.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "acb761d693ffe2102dadffed1dba1060",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7574592",
+      "asset_name": "Appriver_Quarantine_Management.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e6a7ad9693ffe2102dadffed1dba106a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7574593",
+      "asset_name": "Appriver_User_Management.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "73a7ed9693ffe2102dadffed1dba10a2",
+      "error_message": null
+    }
+  ]
+}

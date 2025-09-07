@@ -1,0 +1,1994 @@
+{
+  "session_id": "migration_202507_140944_26665058",
+  "organization": "Kingfish Group",
+  "timestamp": "2025-09-07T14:17:38.737318",
+  "total_processed": 248,
+  "successful": 208,
+  "failed": 40,
+  "results": [
+    {
+      "asset_id": "34997865",
+      "asset_name": "Client has no AD environment Client has no AD environment",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf19a156833f66109bdf5e60ceaad375",
+      "error_message": null
+    },
+    {
+      "asset_id": "34984665",
+      "asset_name": "Cloud Provider",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b19a156833f66109bdf5e60ceaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "34984640",
+      "asset_name": "Other",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8719a156833f66109bdf5e60ceaad372",
+      "error_message": null
+    },
+    {
+      "asset_id": "34984603",
+      "asset_name": "Other",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8319a156833f66109bdf5e60ceaad37e",
+      "error_message": null
+    },
+    {
+      "asset_id": "34979589",
+      "asset_name": "KF-SF KF-SF",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4429e556833f66109bdf5e60ceaad376",
+      "error_message": null
+    },
+    {
+      "asset_id": "34979591",
+      "asset_name": "kfsfguest kfsfguest",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fc29a956833f66109bdf5e60ceaad333",
+      "error_message": null
+    },
+    {
+      "asset_id": "34983271",
+      "asset_name": "Quip (Retired)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "34979759",
+      "asset_name": "KF_4_Is That You (Guest) KF_4_Is That You",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c296956833f66109bdf5e60ceaad3df",
+      "error_message": null
+    },
+    {
+      "asset_id": "40493279",
+      "asset_name": "KING-FISH_GUEST KING-FISH_GUEST",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b429a956833f66109bdf5e60ceaad337",
+      "error_message": null
+    },
+    {
+      "asset_id": "40493319",
+      "asset_name": "KING-FISH-03 KING-FISH-03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5629ad56833f66109bdf5e60ceaad3c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "35320902",
+      "asset_name": "EBSTA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5629ed56833f66109bdf5e60ceaad32b",
+      "error_message": null
+    },
+    {
+      "asset_id": "35320990",
+      "asset_name": "G-Suite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5629ed56833f66109bdf5e60ceaad314",
+      "error_message": null
+    },
+    {
+      "asset_id": "35321139",
+      "asset_name": "Microsoft 365 Apps for Business",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ae29ed56833f66109bdf5e60ceaad387",
+      "error_message": null
+    },
+    {
+      "asset_id": "35321245",
+      "asset_name": "SalesForce",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "88392596833f66109bdf5e60ceaad311",
+      "error_message": null
+    },
+    {
+      "asset_id": "35321329",
+      "asset_name": "Slack",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c4392596833f66109bdf5e60ceaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "35321397",
+      "asset_name": "Zoom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc392596833f66109bdf5e60ceaad3e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "35321495",
+      "asset_name": "Docusign",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc392596833f66109bdf5e60ceaad3c0",
+      "error_message": null
+    },
+    {
+      "asset_id": "35321547",
+      "asset_name": "QuickBooks",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b9396996833f66109bdf5e60ceaad3fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "35619952",
+      "asset_name": "15Five",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3d39a996833f66109bdf5e60ceaad34c",
+      "error_message": null
+    },
+    {
+      "asset_id": "35620038",
+      "asset_name": "Acrobat Pro",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd39a996833f66109bdf5e60ceaad366",
+      "error_message": null
+    },
+    {
+      "asset_id": "35620297",
+      "asset_name": "Bill.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8639a996833f66109bdf5e60ceaad3f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "35620772",
+      "asset_name": "Expensify",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6339ed96833f66109bdf5e60ceaad311",
+      "error_message": null
+    },
+    {
+      "asset_id": "35620977",
+      "asset_name": "Grammarly",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b39ed96833f66109bdf5e60ceaad3bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "35621364",
+      "asset_name": "CapIQ",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b39ed96833f66109bdf5e60ceaad3d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "35621390",
+      "asset_name": "Splashtop",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bb3921d6833f66109bdf5e60ceaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "35621405",
+      "asset_name": "Vast Conferencing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6d4965d6833f66109bdf5e60ceaad35b",
+      "error_message": null
+    },
+    {
+      "asset_id": "58288487",
+      "asset_name": "Global Relay",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e94965d6833f66109bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "54489102",
+      "asset_name": "Sales Navigator",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6d4965d6833f66109bdf5e60ceaad35f",
+      "error_message": null
+    },
+    {
+      "asset_id": "58978632",
+      "asset_name": "Jamf Pro",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a54965d6833f66109bdf5e60ceaad363",
+      "error_message": null
+    },
+    {
+      "asset_id": "69736863",
+      "asset_name": "Cisco Umbrella",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d349a9d6833f66109bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "69766162",
+      "asset_name": "Google Credential Provider for Windows",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9349e9d6833f66109bdf5e60ceaad30c",
+      "error_message": null
+    },
+    {
+      "asset_id": "79036226",
+      "asset_name": "Miro",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d749e9d6833f66109bdf5e60ceaad345",
+      "error_message": null
+    },
+    {
+      "asset_id": "83034746",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1349e9d6833f66109bdf5e60ceaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "33353852",
+      "asset_name": "Google Apps",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6459edd6833f66109bdf5e60ceaad327",
+      "error_message": null
+    },
+    {
+      "asset_id": "34998273",
+      "asset_name": "Google Drive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b459edd6833f66109bdf5e60ceaad3aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "34979561",
+      "asset_name": "Comcast - Primary SF",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8959211a833f66109bdf5e60ceaad3a8",
+      "error_message": null
+    },
+    {
+      "asset_id": "34979742",
+      "asset_name": "Airtel - Primary India",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5d59611a833f66109bdf5e60ceaad38d",
+      "error_message": null
+    },
+    {
+      "asset_id": "35228439",
+      "asset_name": "YOU Broadband",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2a59251a833f66109bdf5e60ceaad391",
+      "error_message": null
+    },
+    {
+      "asset_id": "34979575",
+      "asset_name": "SanFran 10.100.100.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7259651a833f66109bdf5e60ceaad34e",
+      "error_message": null
+    },
+    {
+      "asset_id": "34998174",
+      "asset_name": "No user remote access",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "34979745",
+      "asset_name": "India 192.168.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0359a51a833f66109bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "35963953",
+      "asset_name": "SanFran Guest 192.168.2.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b59a51a833f66109bdf5e60ceaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "61488340",
+      "asset_name": "India - Wireless 192.168.2.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e469a91a833f66109bdf5e60ceaad3d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "169302145",
+      "asset_name": "Kingfish VPN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a469e91a833f66109bdf5e60ceaad30c",
+      "error_message": null
+    },
+    {
+      "asset_id": "33353833",
+      "asset_name": "Google",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3869e91a833f66109bdf5e60ceaad3c0",
+      "error_message": null
+    },
+    {
+      "asset_id": "34979559",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "81692d1a833f66109bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "34979581",
+      "asset_name": "Ubiquiti",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1a69ed1a833f66109bdf5e60ceaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "34979679",
+      "asset_name": "Airtel",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea69615a833f66109bdf5e60ceaad355",
+      "error_message": null
+    },
+    {
+      "asset_id": "34979753",
+      "asset_name": "Cisco",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b269a15a833f66109bdf5e60ceaad311",
+      "error_message": null
+    },
+    {
+      "asset_id": "34979755",
+      "asset_name": "Fortinet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf69a15a833f66109bdf5e60ceaad3e8",
+      "error_message": null
+    },
+    {
+      "asset_id": "34979767",
+      "asset_name": "Enom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c79a55a833f66109bdf5e60ceaad3c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "34979781",
+      "asset_name": "GoDaddy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2479e55a833f66109bdf5e60ceaad353",
+      "error_message": null
+    },
+    {
+      "asset_id": "34982839",
+      "asset_name": "Quip",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "34980136",
+      "asset_name": "Wordpress",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3c79295a833f66109bdf5e60ceaad3d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "34982218",
+      "asset_name": "SalesForce",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8179695a833f66109bdf5e60ceaad30a",
+      "error_message": null
+    },
+    {
+      "asset_id": "34982556",
+      "asset_name": "EBSTA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d679ad5a833f66109bdf5e60ceaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "34983793",
+      "asset_name": "Slack",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e279ed5a833f66109bdf5e60ceaad3ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "34984371",
+      "asset_name": "Spanning",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3a79619a833f66109bdf5e60ceaad396",
+      "error_message": null
+    },
+    {
+      "asset_id": "34984436",
+      "asset_name": "Amazon",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4b79619a833f66109bdf5e60ceaad366",
+      "error_message": null
+    },
+    {
+      "asset_id": "34984546",
+      "asset_name": "RFI Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a489699a833f66109bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "34984582",
+      "asset_name": "Panterra Networks",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ec89299a833f66109bdf5e60ceaad3eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "34984648",
+      "asset_name": "Zoom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c89699a833f66109bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "35228352",
+      "asset_name": "YOU Broadband",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d9892d9a833f66109bdf5e60ceaad3cc",
+      "error_message": null
+    },
+    {
+      "asset_id": "35234395",
+      "asset_name": "Jamf Pro",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5289ad9a833f66109bdf5e60ceaad3da",
+      "error_message": null
+    },
+    {
+      "asset_id": "35252635",
+      "asset_name": "Mimecast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea8921da833f66109bdf5e60ceaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "35317387",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2e8921da833f66109bdf5e60ceaad376",
+      "error_message": null
+    },
+    {
+      "asset_id": "35321443",
+      "asset_name": "Docusign",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0389a1da833f66109bdf5e60ceaad335",
+      "error_message": null
+    },
+    {
+      "asset_id": "35321539",
+      "asset_name": "Intuit",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e899e5da833f66109bdf5e60ceaad325",
+      "error_message": null
+    },
+    {
+      "asset_id": "35508195",
+      "asset_name": "KnowBe4",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6c99e5da833f66109bdf5e60ceaad34c",
+      "error_message": null
+    },
+    {
+      "asset_id": "35619808",
+      "asset_name": "15Five",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2899e5da833f66109bdf5e60ceaad383",
+      "error_message": null
+    },
+    {
+      "asset_id": "35619993",
+      "asset_name": "Adobe",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ad9969da833f66109bdf5e60ceaad327",
+      "error_message": null
+    },
+    {
+      "asset_id": "35620208",
+      "asset_name": "Bill.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6e992dda833f66109bdf5e60ceaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "35620445",
+      "asset_name": "ComplySci",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "32996dda833f66109bdf5e60ceaad33b",
+      "error_message": null
+    },
+    {
+      "asset_id": "35620578",
+      "asset_name": "Drawbridge",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3a996dda833f66109bdf5e60ceaad3e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "35620624",
+      "asset_name": "Expensify",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5799edda833f66109bdf5e60ceaad34c",
+      "error_message": null
+    },
+    {
+      "asset_id": "35620907",
+      "asset_name": "Grammarly",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2ca9e11e833f66109bdf5e60ceaad36a",
+      "error_message": null
+    },
+    {
+      "asset_id": "35621278",
+      "asset_name": "greytHR",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3ca9e11e833f66109bdf5e60ceaad3df",
+      "error_message": null
+    },
+    {
+      "asset_id": "35621125",
+      "asset_name": "Grata",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9da9251e833f66109bdf5e60ceaad3aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "35621357",
+      "asset_name": "S&P Global",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ada9651e833f66109bdf5e60ceaad348",
+      "error_message": null
+    },
+    {
+      "asset_id": "35621380",
+      "asset_name": "Splashtop",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "faa9691e833f66109bdf5e60ceaad387",
+      "error_message": null
+    },
+    {
+      "asset_id": "35621397",
+      "asset_name": "Conference Calling",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4ba9691e833f66109bdf5e60ceaad348",
+      "error_message": null
+    },
+    {
+      "asset_id": "44950440",
+      "asset_name": "Sentinel One",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9ba9e91e833f66109bdf5e60ceaad359",
+      "error_message": null
+    },
+    {
+      "asset_id": "57234266",
+      "asset_name": "Global Relay - Archiving",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "efa9e91e833f66109bdf5e60ceaad392",
+      "error_message": null
+    },
+    {
+      "asset_id": "69736840",
+      "asset_name": "Cisco Umbrella",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "70b9215e833f66109bdf5e60ceaad30c",
+      "error_message": null
+    },
+    {
+      "asset_id": "34997793",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "edb9615e833f66109bdf5e60ceaad393",
+      "error_message": null
+    },
+    {
+      "asset_id": "34984422",
+      "asset_name": "Spanning Other SalesForce, Google Drive and Mailboxes",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f9b9615e833f66109bdf5e60ceaad3ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "34984679",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eeb9655e833f66109bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "34984681",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d7b9e55e833f66109bdf5e60ceaad38c",
+      "error_message": null
+    },
+    {
+      "asset_id": "34998154",
+      "asset_name": "Client has no virtualization environment",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "93b9e55e833f66109bdf5e60ceaad390",
+      "error_message": null
+    },
+    {
+      "asset_id": "37155896",
+      "asset_name": "Veritas Merge 1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "01b9215e833f66109bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113673",
+      "asset_name": "SW:  Ubiquiti US-48-750W-2",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "1ed9a08097226910511ff957f053afdd",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113663",
+      "asset_name": "FW:  Ubiquiti USG-Pro-4",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e5c9219e833f66109bdf5e60ceaad314",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113679",
+      "asset_name": "AP:  UAP-AC-Pro - 1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "adc9219e833f66109bdf5e60ceaad302",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113672",
+      "asset_name": "SW:  Ubiquiti US-48-750W-1",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "86d9a08097226910511ff957f053afa7",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113789",
+      "asset_name": "PC:  Door Management",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "42113680",
+      "asset_name": "AP:  UAP-AC-Pro - 2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2fc9659e833f66109bdf5e60ceaad3f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113681",
+      "asset_name": "AP:  UAP-AC-Pro - 3",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6fc9659e833f66109bdf5e60ceaad3d4",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113808",
+      "asset_name": "FW:  Fortigate 60E",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "b8d9ac4097226910511ff957f053af0b",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113700",
+      "asset_name": "CK:  Ubquiti Cloud Key Gen-2-Plus",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2fc9659e833f66109bdf5e60ceaad3d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113810",
+      "asset_name": "SW:  Cisco SG300 28PP-K9",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a5d9a99e833f66109bdf5e60ceaad31d",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113823",
+      "asset_name": "AP:  Cisco 1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "79d92d9e833f66109bdf5e60ceaad3cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113825",
+      "asset_name": "AP:  Cisco 2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5d92d9e833f66109bdf5e60ceaad35b",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113826",
+      "asset_name": "AP:  Cisco 3",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "39d92d9e833f66109bdf5e60ceaad3d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113925",
+      "asset_name": "Printer:  HP Laserjet Pro MFP M128fw",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "58e925de833f66109bdf5e60ceaad3a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113827",
+      "asset_name": "AP:  Cisco 4",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dbd961de833f66109bdf5e60ceaad39f",
+      "error_message": null
+    },
+    {
+      "asset_id": "42114478",
+      "asset_name": "Google Meeting Room1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dce925de833f66109bdf5e60ceaad3b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "42113829",
+      "asset_name": "AP:  Cisco 5",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "10e925de833f66109bdf5e60ceaad35e",
+      "error_message": null
+    },
+    {
+      "asset_id": "42492242",
+      "asset_name": "PC:  NServer",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "42114480",
+      "asset_name": "Google Meeting Room2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "96e969de833f66109bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "42114495",
+      "asset_name": "Printer:  Brother MFC- 9340CDW Series",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "16e969de833f66109bdf5e60ceaad304",
+      "error_message": null
+    },
+    {
+      "asset_id": "42114496",
+      "asset_name": "Printer:  HP Office Pro Jet 6978",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "52e969de833f66109bdf5e60ceaad365",
+      "error_message": null
+    },
+    {
+      "asset_id": "43207377",
+      "asset_name": "FW:  ASUS RT-N12C1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "27e9e9de833f66109bdf5e60ceaad3c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "57021825",
+      "asset_name": "Kingfish-Util-US",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "67e92dde833f66109bdf5e60ceaad3cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "1057070",
+      "asset_name": "kingfishgroup.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3be96dde833f66109bdf5e60ceaad38b",
+      "error_message": null
+    },
+    {
+      "asset_id": "1062582",
+      "asset_name": "kingfish-group.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dcf9adde833f66109bdf5e60ceaad392",
+      "error_message": null
+    },
+    {
+      "asset_id": "1062583",
+      "asset_name": "kingfishgroup.ca",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bcf92112837f66109bdf5e60ceaad375",
+      "error_message": null
+    },
+    {
+      "asset_id": "1062584",
+      "asset_name": "kingfishgroup.co",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "89f9edde833f66109bdf5e60ceaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "1062585",
+      "asset_name": "kingfishgroup.in",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a1f92112837f66109bdf5e60ceaad3df",
+      "error_message": null
+    },
+    {
+      "asset_id": "1062586",
+      "asset_name": "kingfishgroup.net",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ef9a112837f66109bdf5e60ceaad382",
+      "error_message": null
+    },
+    {
+      "asset_id": "1062587",
+      "asset_name": "kingfishgroup.us",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b2f92512837f66109bdf5e60ceaad33e",
+      "error_message": null
+    },
+    {
+      "asset_id": "1062588",
+      "asset_name": "kingfshgroup.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c7f92512837f66109bdf5e60ceaad3ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "1062589",
+      "asset_name": "kngfishgroup.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ff9e512837f66109bdf5e60ceaad344",
+      "error_message": null
+    },
+    {
+      "asset_id": "1062590",
+      "asset_name": "kfcapitalpartners.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "400a2912837f66109bdf5e60ceaad3bd",
+      "error_message": null
+    },
+    {
+      "asset_id": 816691,
+      "asset_name": "apsp:665a0509-2d5d-4aa9-8452-1264727ce3ec",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "180a6912837f66109bdf5e60ceaad3b5",
+      "error_message": null
+    },
+    {
+      "asset_id": 471508,
+      "asset_name": "apsp:ceba9cf9-193b-46ec-aeef-d0d83d4495b9",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac0aa912837f66109bdf5e60ceaad317",
+      "error_message": null
+    },
+    {
+      "asset_id": 479068,
+      "asset_name": "google",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": "570d23f5937b22102dadffed1dba1092",
+      "error_message": "SSL certificate with same u_itg_id or name already exists in ServiceNow"
+    },
+    {
+      "asset_id": 835438,
+      "asset_name": "google",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": "570d23f5937b22102dadffed1dba1092",
+      "error_message": "SSL certificate with same u_itg_id or name already exists in ServiceNow"
+    },
+    {
+      "asset_id": 466203,
+      "asset_name": "kingfishgroup.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "740aa912837f66109bdf5e60ceaad3db",
+      "error_message": null
+    },
+    {
+      "asset_id": 482790,
+      "asset_name": "selfsignedcert_kingfishgroup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "810ae912837f66109bdf5e60ceaad388",
+      "error_message": null
+    },
+    {
+      "asset_id": "9809270",
+      "asset_name": "Windows 11 Update Disabled via Kaseya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed0a2d12837f66109bdf5e60ceaad38e",
+      "error_message": null
+    },
+    {
+      "asset_id": "9330861",
+      "asset_name": "Creating_Self-signed_Certificates_in_Salesforce",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "860aad12837f66109bdf5e60ceaad3a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "10144184",
+      "asset_name": "Process_for_Mimecast_Q_Random_and_Keyword_Reviews_Reporting",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "441a6552837f66109bdf5e60ceaad397",
+      "error_message": null
+    },
+    {
+      "asset_id": "10588024",
+      "asset_name": "Gmail Routing: Mimecast-Archiving",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd1a6952837f66109bdf5e60ceaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "14149254",
+      "asset_name": "Cisco Umbrella - How to Install Umbrella on Roaming Clients",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8a1a6d52837f66109bdf5e60ceaad32e",
+      "error_message": null
+    },
+    {
+      "asset_id": "14366768",
+      "asset_name": "Website_management_Kingfish.com_-_SSL_Renewal_procedure",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1a1aad52837f66109bdf5e60ceaad33a",
+      "error_message": null
+    },
+    {
+      "asset_id": "14415737",
+      "asset_name": "Updating APNS Cert",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2a1aad52837f66109bdf5e60ceaad3d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "17040609",
+      "asset_name": "Lifecycle Management Policy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6e1a2192837f66109bdf5e60ceaad334",
+      "error_message": null
+    },
+    {
+      "asset_id": "17522328",
+      "asset_name": "KingFishGoogleMDMSignIn",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "361a2192837f66109bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "18553133",
+      "asset_name": "Updating Cert for JAMF/Google Cloud Connector",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "822aad92837f66109bdf5e60ceaad305",
+      "error_message": null
+    },
+    {
+      "asset_id": "15837817",
+      "asset_name": "Disaster Recovery Plan",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e32aa1d2837f66109bdf5e60ceaad3eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "11830834",
+      "asset_name": "Kingfish Global Relay Config [ICheck]",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "243a65d2837f66109bdf5e60ceaad37d",
+      "error_message": null
+    },
+    {
+      "asset_id": "18189182",
+      "asset_name": "Global Relay SMS Archiving Setup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f44a6116837f66109bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "8920636",
+      "asset_name": "User Offboarding Guide - Kingfish Group",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "814aa116837f66109bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "8920637",
+      "asset_name": "System Build Specs Sheet - Kingfish Group",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0e4a6516837f66109bdf5e60ceaad308",
+      "error_message": null
+    },
+    {
+      "asset_id": "8920638",
+      "asset_name": "New User Onboarding Guide - Kingfish Group [ICheck]",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c64aa516837f66109bdf5e60ceaad3a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "9149782",
+      "asset_name": "Windows Setup Guide - Kingfish Group",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "395a6156837f66109bdf5e60ceaad3d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "9621526",
+      "asset_name": "Offboarding: How to forward email adresses in Google Workspace",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "565ae156837f66109bdf5e60ceaad355",
+      "error_message": null
+    },
+    {
+      "asset_id": "13442140",
+      "asset_name": "Mac Setup Guide - Kingfish Group",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7f5ae556837f66109bdf5e60ceaad39e",
+      "error_message": null
+    },
+    {
+      "asset_id": "11523631",
+      "asset_name": "Server and Website Info",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0c6a2956837f66109bdf5e60ceaad314",
+      "error_message": null
+    },
+    {
+      "asset_id": "19623173",
+      "asset_name": "New Document",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e06a6956837f66109bdf5e60ceaad387",
+      "error_message": null
+    },
+    {
+      "asset_id": "19623174",
+      "asset_name": "Global_Relay_App_-_Getting_Started_with_Global_Relay_Text_20230613.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b46aa956837f66109bdf5e60ceaad340",
+      "error_message": null
+    },
+    {
+      "asset_id": "9008803",
+      "asset_name": "Business Continuity Plan 2021-08 Final (2).pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd6ae956837f66109bdf5e60ceaad3de",
+      "error_message": null
+    },
+    {
+      "asset_id": "10374442",
+      "asset_name": "Business Continuity and Disaster Recovery Plan v2 41522.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e56a2d56837f66109bdf5e60ceaad345",
+      "error_message": null
+    },
+    {
+      "asset_id": "9005391",
+      "asset_name": "KF 3rd Floor Wan Network Layout 2022 Jan.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "866a6d56837f66109bdf5e60ceaad3e6",
+      "error_message": null
+    },
+    {
+      "asset_id": "18194873",
+      "asset_name": "CarlsbadOfficeNetwork.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5a6aad56837f66109bdf5e60ceaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "9299330",
+      "asset_name": "KingFishGroup-Jamf-Enrollment-UserGuide.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a66aed56837f66109bdf5e60ceaad345",
+      "error_message": null
+    },
+    {
+      "asset_id": "10238934",
+      "asset_name": "Kingfish Group - Google MDM Enrollment Instruction.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf6a2196837f66109bdf5e60ceaad3d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "11696589",
+      "asset_name": "2FAEnrollment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5f6aa196837f66109bdf5e60ceaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "17040608",
+      "asset_name": "New Document",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b36a2596837f66109bdf5e60ceaad330",
+      "error_message": null
+    },
+    {
+      "asset_id": "9018706",
+      "asset_name": "backups passwords and patching confirmations.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8c7a2596837f66109bdf5e60ceaad3c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "9305235",
+      "asset_name": "dd2.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "907a6596837f66109bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "9305236",
+      "asset_name": "desk director.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e07aa596837f66109bdf5e60ceaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "9462225",
+      "asset_name": "RE Monitored Devices Audit.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b07aa596837f66109bdf5e60ceaad3fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "9025294",
+      "asset_name": "Kingfish Group - Onboarding Docs - COMPLETED.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "197ae596837f66109bdf5e60ceaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "9025296",
+      "asset_name": "Kingfish Group - India Employee Roster - COMPLETED.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed7a6996837f66109bdf5e60ceaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "9025298",
+      "asset_name": "Kingfish Group - US Employee Roster - COMPLETED.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f17aa996837f66109bdf5e60ceaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "9008802",
+      "asset_name": "Record Destruction Policy .pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c67ae996837f66109bdf5e60ceaad396",
+      "error_message": null
+    },
+    {
+      "asset_id": "9008804",
+      "asset_name": "Final Information Security Appendix to Compliance Manual (1) (1).pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e67a2d96837f66109bdf5e60ceaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "10374445",
+      "asset_name": "Incident Response Plan v2 41522.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a7a6d96837f66109bdf5e60ceaad329",
+      "error_message": null
+    },
+    {
+      "asset_id": "10374446",
+      "asset_name": "Appendix J \u2013 Information and Cybersecurity Policy_2020-05 jv edits.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "477aad96837f66109bdf5e60ceaad390",
+      "error_message": null
+    },
+    {
+      "asset_id": "18320225",
+      "asset_name": "Local Admin Credentials Waiver",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b7aad96837f66109bdf5e60ceaad345",
+      "error_message": null
+    },
+    {
+      "asset_id": "11466398",
+      "asset_name": "KingfishGlobalRelayConfig.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb7a21d6837f66109bdf5e60ceaad307",
+      "error_message": null
+    },
+    {
+      "asset_id": "11515860",
+      "asset_name": "Kingfish-ArchivingTransitionNotes.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac8aa1d6837f66109bdf5e60ceaad335",
+      "error_message": null
+    },
+    {
+      "asset_id": "18189181",
+      "asset_name": "Global Relay for Apple Messages - Authorizing and Setting up Archiving Reference Card_20240618.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c8ae1d6837f66109bdf5e60ceaad375",
+      "error_message": null
+    },
+    {
+      "asset_id": "9177665",
+      "asset_name": "Onboarding _ Off Boarding Checklist (2).xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "898a25d6837f66109bdf5e60ceaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "18127853",
+      "asset_name": "Kingfish Group - 12_20_2024 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e98a65d6837f66109bdf5e60ceaad3e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11523631",
+      "asset_name": "Kingfish_Group_-_Server_and_website_details_v1.1.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "546a6956837f66109bdf5e60ceaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_19623174",
+      "asset_name": "Global_Relay_App_-_Getting_Started_with_Global_Relay_Text_20230613.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "056aa956837f66109bdf5e60ceaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9008803",
+      "asset_name": "Business_Continuity_Plan_2021-08_Final_(2).pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d96ae956837f66109bdf5e60ceaad309",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10374442",
+      "asset_name": "Business_Continuity_and_Disaster_Recovery_Plan_v2_41522.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed6a6d56837f66109bdf5e60ceaad330",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9005391",
+      "asset_name": "KF_3rd_Floor_Wan_Network_Layout_2022_Jan.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c66aad56837f66109bdf5e60ceaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18194873",
+      "asset_name": "NetworkDevices.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "926aed56837f66109bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9299330",
+      "asset_name": "KingFishGroup-Jamf-Enrollment-UserGuide.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e6a2196837f66109bdf5e60ceaad36e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9330861",
+      "asset_name": "Set_Up_Salesforce_With_Google_Single_Sign-On_(SSO).pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "230ae152837f66109bdf5e60ceaad342",
+      "error_message": null
+    },
+    {
+      "asset_id": "9330861",
+      "asset_name": "12879673",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "9330861",
+      "asset_name": "12879670",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "9330861",
+      "asset_name": "12879671",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "9330861",
+      "asset_name": "12879672",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "10144184",
+      "asset_name": "14074179",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "10144184",
+      "asset_name": "14074178",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_10238934",
+      "asset_name": "Kingfish_Group_-_Google_MDM_Enrollment_Instruction.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b6aa196837f66109bdf5e60ceaad342",
+      "error_message": null
+    },
+    {
+      "asset_id": "10588024",
+      "asset_name": "14692320",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "10588024",
+      "asset_name": "14692335",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_11696589",
+      "asset_name": "2FAEnrollment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eb6ae196837f66109bdf5e60ceaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17522328",
+      "asset_name": "gcpw_(3).ps1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd2aa992837f66109bdf5e60ceaad372",
+      "error_message": null
+    },
+    {
+      "asset_id": "17522328",
+      "asset_name": "26747030",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17522328",
+      "asset_name": "26747039",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17522328",
+      "asset_name": "26747032",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17522328",
+      "asset_name": "26747036",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17522328",
+      "asset_name": "26747031",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17522328",
+      "asset_name": "26747042",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17522328",
+      "asset_name": "26747034",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "18553133",
+      "asset_name": "28563864",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "18553133",
+      "asset_name": "28564229",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "18553133",
+      "asset_name": "28563878",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_9018706",
+      "asset_name": "backups_passwords_and_patching_confirmations.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "807ae196837f66109bdf5e60ceaad341",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9305235",
+      "asset_name": "dd2.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "907a6596837f66109bdf5e60ceaad3cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9305236",
+      "asset_name": "desk_director.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f87aa596837f66109bdf5e60ceaad39a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9462225",
+      "asset_name": "RE_Monitored_Devices_Audit.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "097ae596837f66109bdf5e60ceaad3d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9025294",
+      "asset_name": "Kingfish_Group_-_Onboarding_Docs_-_COMPLETED.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "557a6996837f66109bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9025296",
+      "asset_name": "Kingfish_Group_-_India_Employee_Roster_-_COMPLETED.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fd7a6996837f66109bdf5e60ceaad3ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9025298",
+      "asset_name": "Kingfish_Group_-_US_Employee_Roster_-_COMPLETED.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "867ae996837f66109bdf5e60ceaad391",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9008802",
+      "asset_name": "Record_Destruction_Policy_.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "927a2d96837f66109bdf5e60ceaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9008804",
+      "asset_name": "Final_Information_Security_Appendix_to_Compliance_Manual_(1)_(1).pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aa7a6d96837f66109bdf5e60ceaad342",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10374445",
+      "asset_name": "Incident_Response_Plan_v2_41522.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0f7aad96837f66109bdf5e60ceaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10374446",
+      "asset_name": "Appendix_J_\u0393\u00c7\u00f4_Information_and_Cybersecurity_Policy_2020-05_jv_edits.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5b7aad96837f66109bdf5e60ceaad340",
+      "error_message": null
+    },
+    {
+      "asset_id": "15837817",
+      "asset_name": "23056587",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "15837817",
+      "asset_name": "23056588",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_18320225",
+      "asset_name": "Coretelligent_Waiver_Kingfish.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "637aed96837f66109bdf5e60ceaad3ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11466398",
+      "asset_name": "KingfishGlobalRelayConfig.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "108a21d6837f66109bdf5e60ceaad3ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11515860",
+      "asset_name": "Kingfish-ArchivingTransitionNotes.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "688aa1d6837f66109bdf5e60ceaad3bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "11830834",
+      "asset_name": "16564295",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "11830834",
+      "asset_name": "16564294",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "11830834",
+      "asset_name": "16564292",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "11830834",
+      "asset_name": "16564291",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "11830834",
+      "asset_name": "16564287",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "11830834",
+      "asset_name": "16564293",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "11830834",
+      "asset_name": "16564289",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "11830834",
+      "asset_name": "16564296",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_18189181",
+      "asset_name": "Global_Relay_for_Apple_Messages_-_Authorizing_and_Setting_up_Archiving_Reference_Card_20240618.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "629a291a837f66109bdf5e60ceaad323",
+      "error_message": null
+    },
+    {
+      "asset_id": "8920636",
+      "asset_name": "19406927",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "8920636",
+      "asset_name": "19406929",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_8920638",
+      "asset_name": "Kingfish_Signature_instructions.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "415aad16837f66109bdf5e60ceaad395",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8920638",
+      "asset_name": "kingfish_logo.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "595aed16837f66109bdf5e60ceaad3af",
+      "error_message": null
+    },
+    {
+      "asset_id": "8920638",
+      "asset_name": "19406748",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "8920638",
+      "asset_name": "21814060",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "8920638",
+      "asset_name": "19639727",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "8920638",
+      "asset_name": "19406752",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "8920638",
+      "asset_name": "21814092",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "8920638",
+      "asset_name": "19639740",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_9149782",
+      "asset_name": "Kingfish_GCPW.ps1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4e5aa156837f66109bdf5e60ceaad3a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9149782",
+      "asset_name": "gcpw.ps1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4e5aa156837f66109bdf5e60ceaad3ad",
+      "error_message": null
+    },
+    {
+      "asset_id": "9621526",
+      "asset_name": "13324269",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "9621526",
+      "asset_name": "13324254",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "9621526",
+      "asset_name": "13324281",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "9621526",
+      "asset_name": "13324259",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_9177665",
+      "asset_name": "Onboarding___Off_Boarding_Checklist_(2).xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d58a65d6837f66109bdf5e60ceaad383",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18127853",
+      "asset_name": "Kingfish_Group_-_12_20_2024_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f58aa5d6837f66109bdf5e60ceaad3e2",
+      "error_message": null
+    }
+  ]
+}

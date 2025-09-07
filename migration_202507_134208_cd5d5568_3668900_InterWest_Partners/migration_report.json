@@ -1,0 +1,5002 @@
+{
+  "session_id": "migration_202507_134208_cd5d5568",
+  "organization": "InterWest Partners",
+  "timestamp": "2025-09-07T13:54:32.252032",
+  "total_processed": 624,
+  "successful": 613,
+  "failed": 11,
+  "results": [
+    {
+      "asset_id": "17172628",
+      "asset_name": "Corporate Wireless InterWest Secure",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "17172632",
+      "asset_name": "Guest Wireless IW-Guest",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "14478852",
+      "asset_name": "interwest.com interwest",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7c2a9da933fe2102dadffed1dba107e",
+      "error_message": null
+    },
+    {
+      "asset_id": "14479352",
+      "asset_name": "Mimecast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7bc2a9da933fe2102dadffed1dba105b",
+      "error_message": null
+    },
+    {
+      "asset_id": "14479015",
+      "asset_name": "Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "04d2a9da933fe2102dadffed1dba10ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "14479357",
+      "asset_name": "Office 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80d2e9da933fe2102dadffed1dba1006",
+      "error_message": null
+    },
+    {
+      "asset_id": "17773474",
+      "asset_name": "Acrobat",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "08d2e9da933fe2102dadffed1dba1082",
+      "error_message": null
+    },
+    {
+      "asset_id": "16221798",
+      "asset_name": "Data 10.1.1.0/24",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "16221826",
+      "asset_name": "Voice 10.1.2.0/24",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "16221832",
+      "asset_name": "WiFi 10.1.3.0/24",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "16221833",
+      "asset_name": "Guest WiFi 192.168.255.0/24",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "50996457",
+      "asset_name": "Exchange 2019",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "90d2e9da933fe2102dadffed1dba10c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "17172593",
+      "asset_name": "ATT",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "14d22dda933fe2102dadffed1dba1061",
+      "error_message": null
+    },
+    {
+      "asset_id": "16221943",
+      "asset_name": "vpn.interwest.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8d22dda933fe2102dadffed1dba10a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "17172602",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28d22dda933fe2102dadffed1dba10e6",
+      "error_message": null
+    },
+    {
+      "asset_id": "14232120",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20d26dda933fe2102dadffed1dba1017",
+      "error_message": null
+    },
+    {
+      "asset_id": "14232181",
+      "asset_name": "Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fcd26dda933fe2102dadffed1dba1066",
+      "error_message": null
+    },
+    {
+      "asset_id": "14479019",
+      "asset_name": "Mimecast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c1d26dda933fe2102dadffed1dba10fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "17172586",
+      "asset_name": "ATT",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "49d2adda933fe2102dadffed1dba104f",
+      "error_message": null
+    },
+    {
+      "asset_id": "17172588",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "05d2adda933fe2102dadffed1dba105d",
+      "error_message": null
+    },
+    {
+      "asset_id": "17211312",
+      "asset_name": "Meraki",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ddd2adda933fe2102dadffed1dba10a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "17773397",
+      "asset_name": "Adobe",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "99d2edda933fe2102dadffed1dba103d",
+      "error_message": null
+    },
+    {
+      "asset_id": "16740134",
+      "asset_name": "Meraki Meraki - combined Meraki MR53 IEEE 802.11ac 2.50 Gbit/s Wireless Access Point",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "16740289",
+      "asset_name": "Meraki COMBINED RENEWAL MS250-48FP-HW MS250-48FP-HW",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "17945061",
+      "asset_name": "VMware",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e5d2edda933fe2102dadffed1dba10a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "39555132",
+      "asset_name": "Fortinet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2dd2edda933fe2102dadffed1dba10bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "17026374",
+      "asset_name": "Microsoft Windows Server 2016 Standard",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cad2211e933fe2102dadffed1dba10dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "17772051",
+      "asset_name": "Acronis True Image Home 2010",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c2d2611e933fe2102dadffed1dba1072",
+      "error_message": null
+    },
+    {
+      "asset_id": "17772117",
+      "asset_name": "Adobe Acrobat 7",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "26d2a11e933fe2102dadffed1dba1059",
+      "error_message": null
+    },
+    {
+      "asset_id": "17689513",
+      "asset_name": "Licensing Inventory",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "02d2611e933fe2102dadffed1dba1050",
+      "error_message": null
+    },
+    {
+      "asset_id": "16388466",
+      "asset_name": "Microsoft Windows Server 2019 Standard",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "35d2211e933fe2102dadffed1dba1077",
+      "error_message": null
+    },
+    {
+      "asset_id": "17772133",
+      "asset_name": "Adobe Photoshop 7",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e6d2a11e933fe2102dadffed1dba107f",
+      "error_message": null
+    },
+    {
+      "asset_id": "17772250",
+      "asset_name": "Adobe Photoshop Elements 7",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4fd2e11e933fe2102dadffed1dba10f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "17772378",
+      "asset_name": "Microsoft Visio Standard 2007",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0fd2251e933fe2102dadffed1dba100d",
+      "error_message": null
+    },
+    {
+      "asset_id": "17772426",
+      "asset_name": "Other Card Scan 6",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8fd2251e933fe2102dadffed1dba1060",
+      "error_message": null
+    },
+    {
+      "asset_id": "17772471",
+      "asset_name": "Other Script Logic 8",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "07d2251e933fe2102dadffed1dba1088",
+      "error_message": null
+    },
+    {
+      "asset_id": "17872779",
+      "asset_name": "Veeam Backup",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "17918413",
+      "asset_name": "Lenovo Warranty",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "17918434",
+      "asset_name": "Fortinet IW-LA-FW01 - Serial Number: FG100FTK21023610",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "34674545",
+      "asset_name": "Fortinet 100F - S/N: FG100FTK21023610",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "17772680",
+      "asset_name": "Other Snagit 10",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e7d2651e933fe2102dadffed1dba1045",
+      "error_message": null
+    },
+    {
+      "asset_id": "17772803",
+      "asset_name": "Other Second Copy 7.1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2fd2651e933fe2102dadffed1dba10b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "17772854",
+      "asset_name": "Other Blackberry Manager",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "abd2651e933fe2102dadffed1dba10ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "16469209",
+      "asset_name": "IW-FILE - IW-Critical-CCW-REPLICA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "afd2651e933fe2102dadffed1dba10b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "16469211",
+      "asset_name": "Veeam Volume/Image IW-DC02 - IW-Critical-CCW-REPLICA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8ce2a51e933fe2102dadffed1dba103b",
+      "error_message": null
+    },
+    {
+      "asset_id": "16469245",
+      "asset_name": "IW-FILE - IW-Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cce2a51e933fe2102dadffed1dba10e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "16469246",
+      "asset_name": "IW-LA-DC02 - IW-Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "84e2a51e933fe2102dadffed1dba10f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "16469284",
+      "asset_name": "IW-LA-DC01 - IW-Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "54e2e51e933fe2102dadffed1dba1025",
+      "error_message": null
+    },
+    {
+      "asset_id": "17026194",
+      "asset_name": "Veeam Volume/Image IW-LA-DC01 - IW-Critical-CCW-REPLICA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a0e2e51e933fe2102dadffed1dba107d",
+      "error_message": null
+    },
+    {
+      "asset_id": "17195088",
+      "asset_name": "IW-LA-DC01 - IW-Critical-CCW-REPLICA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f4e2e51e933fe2102dadffed1dba10f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "17211282",
+      "asset_name": "Printing",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "17195148",
+      "asset_name": "IW-DC02 - IW-Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "34e2e51e933fe2102dadffed1dba10ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "16221835",
+      "asset_name": "IW-ESX",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "17279163",
+      "asset_name": "IW-LA-DC02 - IW-Critical-CCW-REPLICA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fce2291e933fe2102dadffed1dba101d",
+      "error_message": null
+    },
+    {
+      "asset_id": "61976136",
+      "asset_name": "iaasvmcontainerv2;interwest-Migrated;IW-AD-AZURE1 - IW-AD-AZURE1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0de2291e933fe2102dadffed1dba1052",
+      "error_message": null
+    },
+    {
+      "asset_id": "14478982",
+      "asset_name": "Azure",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8de2291e933fe2102dadffed1dba108e",
+      "error_message": null
+    },
+    {
+      "asset_id": "22010829",
+      "asset_name": "Cylance Endpoint Protection",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010835",
+      "asset_name": "aoronsky-dt1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010825",
+      "asset_name": "Veeam",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010836",
+      "asset_name": "fgianos-dt2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010838",
+      "asset_name": "djohn-dt2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010844",
+      "asset_name": "knasr-dt1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010845",
+      "asset_name": "<retired>iw-o365-mgmt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010846",
+      "asset_name": "<retired>iw-dc01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010849",
+      "asset_name": "kpalmer-dt1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010854",
+      "asset_name": "tchan-dt2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010848",
+      "asset_name": "<retired>iw-investran",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010857",
+      "asset_name": "reception-dt1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010852",
+      "asset_name": "iw-print2 (CSN)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22010859",
+      "asset_name": "ryamanaka-lt1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010862",
+      "asset_name": "rlambert2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010865",
+      "asset_name": "hgates-dt1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010866",
+      "asset_name": "<retired>iw-vc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010870",
+      "asset_name": "iw-file (CSN)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22010876",
+      "asset_name": "hpspare-2010",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010881",
+      "asset_name": "kpassa-dt2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010882",
+      "asset_name": "<retired>iw-xenapp2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010891",
+      "asset_name": "<retired>iw-invweb",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010894",
+      "asset_name": "<retired>iw-ad1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010898",
+      "asset_name": "mmir-dt1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010899",
+      "asset_name": "iw-ad-azure (DC)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22010902",
+      "asset_name": "kwilson-dt2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010904",
+      "asset_name": "mhauer-dt1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010909",
+      "asset_name": "<retired>iw-utility",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010910",
+      "asset_name": "<retired>iw-dc02",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010914",
+      "asset_name": "<retired>iw-sql1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010915",
+      "asset_name": "iw-bdr (Veeam Server)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22010918",
+      "asset_name": "ryamanaka-dt2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010920",
+      "asset_name": "mhaurer_w10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010922",
+      "asset_name": "kpassalacqua_w10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010923",
+      "asset_name": "kwilson_w10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010925",
+      "asset_name": "mmir_w10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010926",
+      "asset_name": "hpdt_w10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010931",
+      "asset_name": "rlambert_w10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22010932",
+      "asset_name": "reception_w10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "24337268",
+      "asset_name": "iw-gpotest",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "24337269",
+      "asset_name": "<retired>iw-gpotest2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "24885459",
+      "asset_name": "surfacepro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "25022477",
+      "asset_name": "knasr-lt3",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "25305086",
+      "asset_name": "knasr-lt-w10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26318989",
+      "asset_name": "iw-util",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "30463574",
+      "asset_name": "IW-LA-FW01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "30463575",
+      "asset_name": "IW-LA-FW02",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "30785779",
+      "asset_name": "IW-ESX",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "30785656",
+      "asset_name": "Synology",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b9e2691e933fe2102dadffed1dba10f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "30785898",
+      "asset_name": "IW-LA-ESX-iLO01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "30785834",
+      "asset_name": "IW-LA-SW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "39e2a91e933fe2102dadffed1dba1034",
+      "error_message": null
+    },
+    {
+      "asset_id": "30795843",
+      "asset_name": "iw-la-dc01 (DC)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "31516930",
+      "asset_name": "iw-la-dc02 (DC)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "30772450",
+      "asset_name": "IW-LA-PUBSW01",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "e1d9ec4097226910511ff957f053aff3",
+      "error_message": null
+    },
+    {
+      "asset_id": "30784734",
+      "asset_name": "IW-LA-PUBSW02",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "35d9208097226910511ff957f053afd4",
+      "error_message": null
+    },
+    {
+      "asset_id": "30786186",
+      "asset_name": "VEEAM Connection",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ae2e91e933fe2102dadffed1dba10cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "31522132",
+      "asset_name": "Xerox",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e2e2e91e933fe2102dadffed1dba10ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "32343355",
+      "asset_name": "VMware ESXI",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "31657359",
+      "asset_name": "IW-LA-WAP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ee22d1e933fe2102dadffed1dba1010",
+      "error_message": null
+    },
+    {
+      "asset_id": "31657363",
+      "asset_name": "IW-LA-WAP02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "32e22d1e933fe2102dadffed1dba10ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "31657417",
+      "asset_name": "IW-LA-WAP03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bae22d1e933fe2102dadffed1dba10e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "53812809",
+      "asset_name": "iw-ad-azure1 (DC)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0fe26d1e933fe2102dadffed1dba1032",
+      "error_message": null
+    },
+    {
+      "asset_id": "755982",
+      "asset_name": "interwest.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "53e26d1e933fe2102dadffed1dba1043",
+      "error_message": null
+    },
+    {
+      "asset_id": "3898115",
+      "asset_name": "Interwest Partners Runbook - AT Transfer",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c936912937fe2102dadffed1dba10fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "19656057",
+      "asset_name": "o365.interwest.com certificate",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c193e912937fe2102dadffed1dba1058",
+      "error_message": null
+    },
+    {
+      "asset_id": "15950317",
+      "asset_name": "Field Team Checklist",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1d93e912937fe2102dadffed1dba10a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947052",
+      "asset_name": "turn off cached login through registry and remove any cached logins.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b9932d12937fe2102dadffed1dba1062",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947379",
+      "asset_name": "IW-AD-AZURE-REMOTE.rdp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "02932d12937fe2102dadffed1dba10f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947491",
+      "asset_name": "Devices on UPS 12_12_18.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6a936d12937fe2102dadffed1dba10a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947492",
+      "asset_name": "Generic New Hire Checklist.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a936d12937fe2102dadffed1dba10fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947560",
+      "asset_name": "Postini Export.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b93ad12937fe2102dadffed1dba109a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947913",
+      "asset_name": "CylanceList_Aug20_2019.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5793ed12937fe2102dadffed1dba1027",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947921",
+      "asset_name": "2FA for O365.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bb93ed12937fe2102dadffed1dba10bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947922",
+      "asset_name": "0365 cert verified.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80a32152937fe2102dadffed1dba1057",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947930",
+      "asset_name": "Add Ability to change password via OWA (Azure Premium License).docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d8a32152937fe2102dadffed1dba10e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947931",
+      "asset_name": "Add Laptop to Interwest wireless Network without being a member of the Domain.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "34a36152937fe2102dadffed1dba1081",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947932",
+      "asset_name": "HP Elite Desk 800G4 SFF.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c9a36152937fe2102dadffed1dba10c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947933",
+      "asset_name": "go daddy cert on O365-MGMT.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1da32552937fe2102dadffed1dba102c",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947934",
+      "asset_name": "exclude ip ranges for MFA.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bda32552937fe2102dadffed1dba10af",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947935",
+      "asset_name": "Checking the Support Mailbox.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "06a36552937fe2102dadffed1dba1023",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947939",
+      "asset_name": "interwest-partners.2710-sand-hill-ca-KcsSetup.exe",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dea36552937fe2102dadffed1dba10ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947942",
+      "asset_name": "IW mapped drives.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "22a3a552937fe2102dadffed1dba102e",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947960",
+      "asset_name": "UPS Email settings.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3ea3a552937fe2102dadffed1dba10d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947965",
+      "asset_name": "Windowns Update on Servers.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "97a3e552937fe2102dadffed1dba1087",
+      "error_message": null
+    },
+    {
+      "asset_id": "12546403",
+      "asset_name": "Hand Off InterWest Partners.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aba32952937fe2102dadffed1dba100d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947174",
+      "asset_name": "VLANS.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "88b32952937fe2102dadffed1dba10ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947175",
+      "asset_name": "Interwest.rdg.old",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5cb3a952937fe2102dadffed1dba1007",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947176",
+      "asset_name": "Interwest.rdg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bcb3a952937fe2102dadffed1dba109c",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947284",
+      "asset_name": "Printer Inventory.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "89b3e952937fe2102dadffed1dba1047",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947285",
+      "asset_name": "Copy of Perimeter switches map.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "19b3e952937fe2102dadffed1dba10a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947288",
+      "asset_name": "Mimecast Signature Application.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25b32d52937fe2102dadffed1dba103a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947289",
+      "asset_name": "QuickBooks Info.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5b32d52937fe2102dadffed1dba10fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947290",
+      "asset_name": "SSL VPN User Guide.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d6b36d52937fe2102dadffed1dba106f",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947916",
+      "asset_name": "Cisco 3750 Core Stack 1-4 1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "62b3ad52937fe2102dadffed1dba1016",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947917",
+      "asset_name": "Cisco 3750 Core Stack 1-4 April10_19.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2b3ad52937fe2102dadffed1dba10a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947184",
+      "asset_name": "IW-PER-SW-01 2960 5-8-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dbb3ed52937fe2102dadffed1dba1057",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947185",
+      "asset_name": "Cisco SF300-24 Guest Switch.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2bb3ed52937fe2102dadffed1dba10c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947186",
+      "asset_name": "Cisco 3750 Core Stack 1-4 1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b3b32192937fe2102dadffed1dba1047",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947187",
+      "asset_name": "Cisco 2960S 1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c4c32192937fe2102dadffed1dba10db",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947188",
+      "asset_name": "Cisco 2960G 1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a4c36192937fe2102dadffed1dba1069",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947189",
+      "asset_name": "Cisco 2960B 1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "30c36192937fe2102dadffed1dba10a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947190",
+      "asset_name": "Cisco 3750 Core Stack 1-4 April10_19.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8dc3a192937fe2102dadffed1dba1031",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947191",
+      "asset_name": "Cisco 2950 Printers 1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "91c3e192937fe2102dadffed1dba1001",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947192",
+      "asset_name": "Cisco 2960A 1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25c3e192937fe2102dadffed1dba1060",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947193",
+      "asset_name": "iw-wap02-confg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "42c32592937fe2102dadffed1dba100c",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947194",
+      "asset_name": "IW-PER-SW-02 2960 5-8-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "12c32592937fe2102dadffed1dba10a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947195",
+      "asset_name": "iw-wap01-confg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "66c36592937fe2102dadffed1dba1013",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947218",
+      "asset_name": "Fortigate 200D HA.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b2c36592937fe2102dadffed1dba10b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947219",
+      "asset_name": "IWSecondaryFG_20180110_0834.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d3c3a592937fe2102dadffed1dba105d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947220",
+      "asset_name": "Fortigate200D_5-22-2015.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ebc3a592937fe2102dadffed1dba10c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947225",
+      "asset_name": "IWSecondaryFG_20180116_1050.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7fc3e592937fe2102dadffed1dba1055",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947253",
+      "asset_name": "Cisco 3750 Core Stack 5-8-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c4d3e592937fe2102dadffed1dba10f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947254",
+      "asset_name": "Cisco 2821 Voice 1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a8d32992937fe2102dadffed1dba1081",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947255",
+      "asset_name": "IW-ASA.254 1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78d36992937fe2102dadffed1dba100d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947256",
+      "asset_name": "IW-2801_5-22-2015.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "05d36992937fe2102dadffed1dba10cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947257",
+      "asset_name": "2900 router (data-voice) 9-25-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5dd3a992937fe2102dadffed1dba1032",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947258",
+      "asset_name": "Cisco 2801 Data 1-7-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "29d3a992937fe2102dadffed1dba10c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947259",
+      "asset_name": "IW-PER-SW-01 2960  10-13-2014.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "02d3a992937fe2102dadffed1dba10f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947260",
+      "asset_name": "IW-PER-SW-02 2960 10-13-2014.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ded32d92937fe2102dadffed1dba1092",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947261",
+      "asset_name": "1140AP-252config.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f6d36d92937fe2102dadffed1dba106b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947262",
+      "asset_name": "1140AP-251config.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cfd3ad92937fe2102dadffed1dba109d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947263",
+      "asset_name": "IW-ASA.253 1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9fd321d2937fe2102dadffed1dba1005",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947321",
+      "asset_name": "InterWest Audit.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2bd321d2937fe2102dadffed1dba10d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947322",
+      "asset_name": "Copy of Interwest Providers.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "48e3a1d2937fe2102dadffed1dba1094",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947323",
+      "asset_name": "Interwest Warranty Export 121018.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "94e325d2937fe2102dadffed1dba10f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947324",
+      "asset_name": "COMPANY PROFILE TEMPLATE.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ce3e5d2937fe2102dadffed1dba107e",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947325",
+      "asset_name": "Interwest Net Diagram.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "45e369d2937fe2102dadffed1dba109e",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947326",
+      "asset_name": ".DS_Store",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "59e32dd2937fe2102dadffed1dba1061",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947328",
+      "asset_name": "InterWest_Audit_021915_JR_Notes.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a1e3add2937fe2102dadffed1dba1066",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947329",
+      "asset_name": "Audit-Feb 2015-old.xls",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "46e36116937fe2102dadffed1dba107b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947335",
+      "asset_name": "Interwest Net Diagram Current.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eae32516937fe2102dadffed1dba10a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947336",
+      "asset_name": "Proposed Network.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4be3a516937fe2102dadffed1dba108a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947337",
+      "asset_name": ".smbdeleteAAA17000000079e45",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d3e32916937fe2102dadffed1dba10de",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947338",
+      "asset_name": "InterWest_Audit_021715_v2.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6be3a916937fe2102dadffed1dba1042",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947339",
+      "asset_name": "Proposed Network.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fbe32d16937fe2102dadffed1dba1028",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947340",
+      "asset_name": "InterWest_Audit_021715.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "94f36d16937fe2102dadffed1dba104a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947369",
+      "asset_name": ".DS_Store",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "74f36156937fe2102dadffed1dba10ca",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947371",
+      "asset_name": "Word Work File L_3.tmp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "89f3e156937fe2102dadffed1dba1006",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947372",
+      "asset_name": "InterWest_Audit_021915_final.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "61f32556937fe2102dadffed1dba10b6",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947373",
+      "asset_name": "InterWest_Audit_022015_final.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8af3a556937fe2102dadffed1dba107d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947374",
+      "asset_name": "InterWest_Audit_2015.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eaf32956937fe2102dadffed1dba100e",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947375",
+      "asset_name": "Word Work File L_215051413.tmp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cbf36956937fe2102dadffed1dba1081",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947376",
+      "asset_name": "InterWest_Audit_021915_final_LS.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d3f3a956937fe2102dadffed1dba104b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947362",
+      "asset_name": "Screen Shot 2015-02-19 at 11.52.26 PM.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f3f3e956937fe2102dadffed1dba103d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947363",
+      "asset_name": "Server3.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "88042d56937fe2102dadffed1dba1036",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947364",
+      "asset_name": "Server1.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2004ad56937fe2102dadffed1dba1030",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947365",
+      "asset_name": "Server2.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c04ed56937fe2102dadffed1dba1083",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947366",
+      "asset_name": "Server4.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "15042196937fe2102dadffed1dba104c",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947465",
+      "asset_name": "InterWest Login Info.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e5046196937fe2102dadffed1dba1036",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947466",
+      "asset_name": "InterWest Call Notes.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f904a196937fe2102dadffed1dba1028",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947467",
+      "asset_name": "InterWest Notes.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5604a196937fe2102dadffed1dba10f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947486",
+      "asset_name": "IW_IT_Password_Export.csv",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a204e196937fe2102dadffed1dba10bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947408",
+      "asset_name": "DAG.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f6042596937fe2102dadffed1dba10bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947409",
+      "asset_name": "IW-Exch-Report.html",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d3046596937fe2102dadffed1dba107a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947410",
+      "asset_name": "CASArray.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ab04a596937fe2102dadffed1dba108b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947434",
+      "asset_name": "IW-EXCH-3.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7304e596937fe2102dadffed1dba1060",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947435",
+      "asset_name": "IW-EXCH-2.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "54142996937fe2102dadffed1dba1051",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947436",
+      "asset_name": "IW-DAG-3.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "68146996937fe2102dadffed1dba10bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947437",
+      "asset_name": "IW-EXCH-1.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3c14a996937fe2102dadffed1dba10c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947438",
+      "asset_name": "IW-DAG-2.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d114e996937fe2102dadffed1dba10a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947439",
+      "asset_name": "IW-DAG-1.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a1142d96937fe2102dadffed1dba10cc",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947440",
+      "asset_name": "IW-Sites&Services.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d146d96937fe2102dadffed1dba10c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947450",
+      "asset_name": "Keeping and Using a PDF Library on Android Devices.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1214ad96937fe2102dadffed1dba1084",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947451",
+      "asset_name": "Android Email Setup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a614ed96937fe2102dadffed1dba108b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947452",
+      "asset_name": "Android Email Setup.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c71461d6937fe2102dadffed1dba1017",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947453",
+      "asset_name": "iOS Email Setup.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2314a1d6937fe2102dadffed1dba1039",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947454",
+      "asset_name": "iOS Email Setup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3714e1d6937fe2102dadffed1dba1039",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947509",
+      "asset_name": "Coretelligent_WelcomeLtr_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc2425d6937fe2102dadffed1dba104d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947510",
+      "asset_name": "Coretelligent_TransitionPlan_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "242465d6937fe2102dadffed1dba1081",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947511",
+      "asset_name": "Coretelligent_Onboarding_Agenda_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4524a5d6937fe2102dadffed1dba1034",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947512",
+      "asset_name": "Coretelligent_Team_Leadership_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5924e5d6937fe2102dadffed1dba104e",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947513",
+      "asset_name": "Coretelligent_NewClientForm_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e92469d6937fe2102dadffed1dba1071",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947514",
+      "asset_name": "360 SUPPORTProcedures_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c224a9d6937fe2102dadffed1dba109a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947515",
+      "asset_name": "360 SUPPORTProcedures_Interwest.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "da24e9d6937fe2102dadffed1dba107b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947516",
+      "asset_name": "PROCUREMENT_v3 0_Procurement_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3a242dd6937fe2102dadffed1dba10fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947517",
+      "asset_name": "PROCUREMENT_v3 0_Procurement_Interwest.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cb24add6937fe2102dadffed1dba1025",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947518",
+      "asset_name": "INVOICING_v3 0_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6324edd6937fe2102dadffed1dba1017",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947519",
+      "asset_name": "INVOICING_v3 0_Interwest.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b324211a937fe2102dadffed1dba1063",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947569",
+      "asset_name": "Printer Inventory.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d434611a937fe2102dadffed1dba108e",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947570",
+      "asset_name": "Copy of Perimeter switches map.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6034a11a937fe2102dadffed1dba104d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947571",
+      "asset_name": "QuickBooks Info.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b434e11a937fe2102dadffed1dba106b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947572",
+      "asset_name": "Mimecast Signature Application.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5d34251a937fe2102dadffed1dba10ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947573",
+      "asset_name": "SSL VPN User Guide.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f134651a937fe2102dadffed1dba10e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947584",
+      "asset_name": "Fortigate Firewall Config.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4e34a51a937fe2102dadffed1dba10da",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947585",
+      "asset_name": "ESX Memory Configurations.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a234e51a937fe2102dadffed1dba10c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947586",
+      "asset_name": "Datasafe VR Transmittal List.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0f34291a937fe2102dadffed1dba10ca",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947587",
+      "asset_name": "Client_Backup Scheme.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e734691a937fe2102dadffed1dba10c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947588",
+      "asset_name": "Interwest Net Diagram.old.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c044a91a937fe2102dadffed1dba10f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947589",
+      "asset_name": "Visio-Interwest Network Diagram - Current.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6844e91a937fe2102dadffed1dba10fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947590",
+      "asset_name": "Interwest Net Diagram Update in progress.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b8442d1a937fe2102dadffed1dba10f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947591",
+      "asset_name": "Interwest Net Diagram - Proposed.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4144ad1a937fe2102dadffed1dba1039",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947592",
+      "asset_name": "Interwest Net Diagram.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a944ed1a937fe2102dadffed1dba1040",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947593",
+      "asset_name": "Interwest Net Diagram - Simplified.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0644215a937fe2102dadffed1dba103e",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947594",
+      "asset_name": "APC Replacement Battery.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "de44615a937fe2102dadffed1dba1050",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947595",
+      "asset_name": "InterwestCitrix XenApp Implementation Plan (3).doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3644a15a937fe2102dadffed1dba1041",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947596",
+      "asset_name": "Symantec Customer ID.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c744e15a937fe2102dadffed1dba106b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947598",
+      "asset_name": "Port Map.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6744255a937fe2102dadffed1dba1052",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947599",
+      "asset_name": "Office Port Diagram 5-9-13.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bb44655a937fe2102dadffed1dba1038",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947600",
+      "asset_name": "Mail Monitoring System at Interwest.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8c54a55a937fe2102dadffed1dba101d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947601",
+      "asset_name": "IW Wireless LAN.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a854295a937fe2102dadffed1dba1011",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947602",
+      "asset_name": "IW Server Functions.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f054695a937fe2102dadffed1dba102c",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947603",
+      "asset_name": "IW Circuit and ISDN Numbers.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8d54695a937fe2102dadffed1dba10f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947604",
+      "asset_name": "IP Address Inventory.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6554a95a937fe2102dadffed1dba10fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947606",
+      "asset_name": "Interwest Net Diagram - Simplified.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "79542d5a937fe2102dadffed1dba1009",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947607",
+      "asset_name": "Interwest Net Diagram - Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9e546d5a937fe2102dadffed1dba1031",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947608",
+      "asset_name": "Interwest Mail Path Monitoring.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ee54ad5a937fe2102dadffed1dba10bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947609",
+      "asset_name": "IW-E-mail Diagram.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b54ed5a937fe2102dadffed1dba10b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947615",
+      "asset_name": "Interwest - Network Diagram.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f54619a937fe2102dadffed1dba1074",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947643",
+      "asset_name": "ASA_conf_082912.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3064259a937fe2102dadffed1dba10a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947644",
+      "asset_name": "ASA_conf_032812.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d564659a937fe2102dadffed1dba10aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947645",
+      "asset_name": "ASA_conf_013111.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e164a59a937fe2102dadffed1dba109b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947670",
+      "asset_name": "1-Netscreen VPN.bmp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d64e59a937fe2102dadffed1dba1094",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947671",
+      "asset_name": "4-AutoKey IKE.bmp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2a64699a937fe2102dadffed1dba101d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947672",
+      "asset_name": "3-P1 Proposal.bmp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf64a99a937fe2102dadffed1dba1034",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947673",
+      "asset_name": "2-Edit.bmp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eb64e99a937fe2102dadffed1dba100f",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947696",
+      "asset_name": "interwest.kdbx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "73642d9a937fe2102dadffed1dba1033",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947699",
+      "asset_name": "Xerox2VDR541173July152014.dlm",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d4746d9a937fe2102dadffed1dba1099",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947700",
+      "asset_name": "Xerox1VDR541153July21.dlm",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2474ad9a937fe2102dadffed1dba1093",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947648",
+      "asset_name": "IW2950-24-dmz-outside_9-10-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c574ed9a937fe2102dadffed1dba102f",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947649",
+      "asset_name": "IW-2960b - SAN - 9-15-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d97421da937fe2102dadffed1dba1039",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947650",
+      "asset_name": "IW2950a_9-10-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3d7421da937fe2102dadffed1dba10e6",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947651",
+      "asset_name": "IW-2060A - SAN - 9-15-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a7461da937fe2102dadffed1dba10e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947652",
+      "asset_name": "IWAccess2.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "da74a1da937fe2102dadffed1dba10d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947653",
+      "asset_name": "Config.Current.Running.IW-2970A.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ee74e1da937fe2102dadffed1dba10a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947654",
+      "asset_name": "Config.Current.Running.IW-3750.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0f7425da937fe2102dadffed1dba104c",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947655",
+      "asset_name": "Config.Current.Running.IW-3548A.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db7465da937fe2102dadffed1dba1065",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947656",
+      "asset_name": "IW-3000-concent_9-10-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f74a5da937fe2102dadffed1dba1030",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947657",
+      "asset_name": "Interwest-PIX_9-10-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9084e5da937fe2102dadffed1dba1029",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947658",
+      "asset_name": "IW2801_ ATT router - 9-10-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2084e5da937fe2102dadffed1dba10f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947659",
+      "asset_name": "IWAccess1.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b08429da937fe2102dadffed1dba10bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947660",
+      "asset_name": "Config.Current.Running.IW-2950a.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "198469da937fe2102dadffed1dba1093",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947661",
+      "asset_name": "Config.Current.Running.Interwest-PIX.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a584a9da937fe2102dadffed1dba1046",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947662",
+      "asset_name": "IW-3750_9-10-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7584e9da937fe2102dadffed1dba1039",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947663",
+      "asset_name": "iw-2960g.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "52842dda937fe2102dadffed1dba1026",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947679",
+      "asset_name": "IP Schema.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a846dda937fe2102dadffed1dba1033",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947680",
+      "asset_name": "IP Address Inventory New.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c784adda937fe2102dadffed1dba1025",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947681",
+      "asset_name": "IW Server Network Diagram.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6784edda937fe2102dadffed1dba1026",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947682",
+      "asset_name": "IW-E-mail Diagram.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8894211e937fe2102dadffed1dba1032",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947683",
+      "asset_name": "IW Routing Diagram.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9094611e937fe2102dadffed1dba1035",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947684",
+      "asset_name": "Device Inventory.xls",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac94a11e937fe2102dadffed1dba101a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947685",
+      "asset_name": "InterwestPix_20020821.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4994e11e937fe2102dadffed1dba1008",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947686",
+      "asset_name": "PIX 515 primary config 2-5-08.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e994251e937fe2102dadffed1dba1009",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947687",
+      "asset_name": "InterWest Partners Device Inventory template.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0e94251e937fe2102dadffed1dba10d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947688",
+      "asset_name": "InterwestT1_20020821.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5a94651e937fe2102dadffed1dba10a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947689",
+      "asset_name": "Interwest Zone File.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2a94651e937fe2102dadffed1dba10fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947690",
+      "asset_name": "IW HW retirement worksheet.xls",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8794e51e937fe2102dadffed1dba1077",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947691",
+      "asset_name": "Server Device Roll.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9394291e937fe2102dadffed1dba103b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947692",
+      "asset_name": "Interwest Radware As-Built.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2794291e937fe2102dadffed1dba10e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947717",
+      "asset_name": "Employee On-Boarding (New User) setup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dca4691e937fe2102dadffed1dba10cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947718",
+      "asset_name": "Which files are open on Egnyte.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20a4a91e937fe2102dadffed1dba105c",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947719",
+      "asset_name": "GoToMeeting Instructions.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0a4e91e937fe2102dadffed1dba1003",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947720",
+      "asset_name": "Citrix Enterprise Receiver Install.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "95a4e91e937fe2102dadffed1dba10bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947721",
+      "asset_name": "Add Laptop to Interwest wireless Network without being a member of the Domain.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "29a42d1e937fe2102dadffed1dba109a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947722",
+      "asset_name": "Instructions for using your Cisco IP Phone from home.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cea46d1e937fe2102dadffed1dba1046",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947723",
+      "asset_name": "EMC SourceOne Single Sign On Process - Firefox.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a6a4ad1e937fe2102dadffed1dba1047",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947724",
+      "asset_name": "Setting up a new User (mailbox).docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bea4ad1e937fe2102dadffed1dba10b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947725",
+      "asset_name": "User Conversion to Scriptlogic.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8fa4ed1e937fe2102dadffed1dba10f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947726",
+      "asset_name": "Checking the Support Mailbox.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "17a4215e937fe2102dadffed1dba108b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947727",
+      "asset_name": "Archive PST Files.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f3a4215e937fe2102dadffed1dba10d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947728",
+      "asset_name": "Daily Tasks.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "48b4615e937fe2102dadffed1dba10f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947729",
+      "asset_name": "Apple TV Setup Instructions.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "14b4a15e937fe2102dadffed1dba1077",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947730",
+      "asset_name": "InterWest_Conf_Wrkst-Install-checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "60b4e15e937fe2102dadffed1dba102a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947731",
+      "asset_name": "Interwest Server Maintenance.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "49b4e15e937fe2102dadffed1dba10ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947732",
+      "asset_name": "Add Ability to change password via OWA (Azure Premium License).docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d5b4255e937fe2102dadffed1dba1067",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947733",
+      "asset_name": "InterWest_Wrkst-Install-checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a1b4655e937fe2102dadffed1dba1019",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947734",
+      "asset_name": "Interwest Config Overview.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4eb4655e937fe2102dadffed1dba10d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947735",
+      "asset_name": "Generic New Hire Checklist_update 12_26.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d2b4a55e937fe2102dadffed1dba1099",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947736",
+      "asset_name": "How to Setup a Biba Video Conference.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e2b4e55e937fe2102dadffed1dba103b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947742",
+      "asset_name": "Mimecast Training Video Links.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "32b4e55e937fe2102dadffed1dba10c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947743",
+      "asset_name": "Using the Mimecast Outlook Plugin.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1fb4295e937fe2102dadffed1dba104d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947744",
+      "asset_name": "Mimecast Signature Application.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2bb4295e937fe2102dadffed1dba10f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947745",
+      "asset_name": "Using Mimecast online.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ffb4695e937fe2102dadffed1dba1059",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947746",
+      "asset_name": "Interwest Mimecast Mobile App.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "98c4a95e937fe2102dadffed1dba105a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947747",
+      "asset_name": "Interwest Mimecast Mobile App.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28c4a95e937fe2102dadffed1dba10e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947748",
+      "asset_name": "InterWest signatures.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3cc4e95e937fe2102dadffed1dba1071",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947749",
+      "asset_name": "Mimecast Personal Portal Full User Guide.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "91c42d5e937fe2102dadffed1dba1039",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947750",
+      "asset_name": "Using the Mimecast Outlook Plugin.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "edc42d5e937fe2102dadffed1dba109e",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947751",
+      "asset_name": "Mobile - Mimecast.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cec46d5e937fe2102dadffed1dba1059",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947754",
+      "asset_name": "Group Distribution Lists 8-26-2011.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ac4ad5e937fe2102dadffed1dba1042",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947756",
+      "asset_name": "Datasafe Tape Rotation Procedures.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7ac4ad5e937fe2102dadffed1dba10ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947757",
+      "asset_name": "InterWest Maintenance CheckList.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cbc4ed5e937fe2102dadffed1dba10d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947758",
+      "asset_name": "Office Communications Server 2007-How to generate a CSR for Microsoft- IW-OCS.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a3c4219e937fe2102dadffed1dba102d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947759",
+      "asset_name": "Accessing Common Folder Mac.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7bc4219e937fe2102dadffed1dba10d4",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947760",
+      "asset_name": "Working the ConnectWise Board.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "44d4619e937fe2102dadffed1dba1057",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947761",
+      "asset_name": "Workstation Installation Instruction for Sage Accpac 200 ERP.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d4d4a19e937fe2102dadffed1dba1010",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947762",
+      "asset_name": "CodeTwo.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0d4a19e937fe2102dadffed1dba10db",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947763",
+      "asset_name": "Office Communications Server 2007-How to generate a CSR for Microsoft- Sip.Interwest.com.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d9d4259e937fe2102dadffed1dba102a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947764",
+      "asset_name": "Office Communications Server 2007-How to generate a CSR for Microsoft- EDGE Server .docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "29d4659e937fe2102dadffed1dba102f",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947765",
+      "asset_name": "Click2Call draft7.7.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "06d4659e937fe2102dadffed1dba1092",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947766",
+      "asset_name": "OWA Password Change.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ad4a59e937fe2102dadffed1dba1085",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947767",
+      "asset_name": "OCS Setup Doc.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7ed4e59e937fe2102dadffed1dba101f",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947768",
+      "asset_name": "MM-Postini EndUser_Guide.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cfd4e59e937fe2102dadffed1dba1091",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947769",
+      "asset_name": "New User setup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5bd4299e937fe2102dadffed1dba101c",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947771",
+      "asset_name": "InterWest IP Telephony Documentation.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "afd4299e937fe2102dadffed1dba10c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947772",
+      "asset_name": "Imaging a PC.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "40e4699e937fe2102dadffed1dba1095",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947774",
+      "asset_name": "InterWest_Conf_Wrkst-Install-checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ece4a99e937fe2102dadffed1dba1089",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947775",
+      "asset_name": "InterWest_Wrkst-Install-checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b8e4e99e937fe2102dadffed1dba1028",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947776",
+      "asset_name": "Employee On-Boarding (New User) setup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "59e4e99e937fe2102dadffed1dba10a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947777",
+      "asset_name": "Employee Off-Boarding Technical Checklist - Interwest.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a5e42d9e937fe2102dadffed1dba103a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947778",
+      "asset_name": "Employee On-Boarding Technical Checklist - Interwest.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f5e42d9e937fe2102dadffed1dba10be",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947779",
+      "asset_name": "Setting up a new User (mailbox).docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "46e46d9e937fe2102dadffed1dba1065",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947782",
+      "asset_name": "Voice Mail - Main Line and Personal.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "26e46d9e937fe2102dadffed1dba10e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947783",
+      "asset_name": "Record a Holiday Greeting.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b2e4ad9e937fe2102dadffed1dba108c",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947798",
+      "asset_name": "Backup Jobs Schedule Overview v2.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8be4ed9e937fe2102dadffed1dba102b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947799",
+      "asset_name": "Restoring a VM from Backup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dbe4ed9e937fe2102dadffed1dba1061",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947800",
+      "asset_name": "Daily Backup Procedure.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "37e421de937fe2102dadffed1dba104e",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947801",
+      "asset_name": "Backup Overview Diagram v2.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80f461de937fe2102dadffed1dba1004",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947805",
+      "asset_name": "Set up Egnyte Desktop Sync on Domain Laptops.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5cf461de937fe2102dadffed1dba108a",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947806",
+      "asset_name": "Add a New User to Egnyte.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20f4a1de937fe2102dadffed1dba1016",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947808",
+      "asset_name": "Sharing Files with InterWest.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "05f4a1de937fe2102dadffed1dba1089",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947809",
+      "asset_name": "Egnyte 3rd Party File Sharing.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "99f4e1de937fe2102dadffed1dba1027",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947813",
+      "asset_name": "Install and Config Fortinet VPN Client.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2df4e1de937fe2102dadffed1dba1068",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947817",
+      "asset_name": "Upload Investran Database to Sungard.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4ef425de937fe2102dadffed1dba1009",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947818",
+      "asset_name": "Setting up a new Investran user.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1af425de937fe2102dadffed1dba109a",
+      "error_message": null
+    },
+    {
+      "asset_id": "12639073",
+      "asset_name": "InterWest Partners.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eef465de937fe2102dadffed1dba1046",
+      "error_message": null
+    },
+    {
+      "asset_id": "12639064",
+      "asset_name": "InterWest Partners - Azure Server Upgrade: STR0001959.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8ff465de937fe2102dadffed1dba10f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "16957764",
+      "asset_name": "InterWestPartners_DomainBlockList_8-30-24.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dbf4a5de937fe2102dadffed1dba1075",
+      "error_message": null
+    },
+    {
+      "asset_id": "16959026",
+      "asset_name": "InterWestPartners_DomainBlockList_8-30-24_(revised).xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "23f4e5de937fe2102dadffed1dba1002",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947052",
+      "asset_name": "turn_off_cached_login_through_registry_and_remove_any_cached_logins.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c6932d12937fe2102dadffed1dba10e6",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947379",
+      "asset_name": "IW-AD-AZURE-REMOTE.rdp",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3947491",
+      "asset_name": "Devices_on_UPS_12_12_18.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "66936d12937fe2102dadffed1dba10ce",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947492",
+      "asset_name": "Generic_New_Hire_Checklist.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8f93ad12937fe2102dadffed1dba1047",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947560",
+      "asset_name": "Postini_Export.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5793ad12937fe2102dadffed1dba10e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947913",
+      "asset_name": "CylanceList_Aug20_2019.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2f93ed12937fe2102dadffed1dba1088",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947921",
+      "asset_name": "2FA_for_O365.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3393ed12937fe2102dadffed1dba10fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947922",
+      "asset_name": "0365_cert_verified.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "50a32152937fe2102dadffed1dba107a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947930",
+      "asset_name": "Add_Ability_to_change_password_via_OWA_(Azure_Premium_License).docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20a36152937fe2102dadffed1dba1010",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947931",
+      "asset_name": "Add_Laptop_to_Interwest_wireless_Network_without_being_a_member_of_the_Domain.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78a36152937fe2102dadffed1dba10d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947932",
+      "asset_name": "HP_Elite_Desk_800G4_SFF.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9da3a152937fe2102dadffed1dba101f",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947933",
+      "asset_name": "go_daddy_cert_on_O365-MGMT.jpg",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3947934",
+      "asset_name": "exclude_ip_ranges_for_MFA.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fda32552937fe2102dadffed1dba10ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947935",
+      "asset_name": "Checking_the_Support_Mailbox.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d6a36552937fe2102dadffed1dba108f",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947939",
+      "asset_name": "interwest-partners.2710-sand-hill-ca-KcsSetup.exe",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Attachment migration failed"
+    },
+    {
+      "asset_id": "att_3947942",
+      "asset_name": "IW_mapped_drives.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "32a3a552937fe2102dadffed1dba1096",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947960",
+      "asset_name": "UPS_Email_settings.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cba3e552937fe2102dadffed1dba1032",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947965",
+      "asset_name": "Windowns_Update_on_Servers.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ba3e552937fe2102dadffed1dba10ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_12546403",
+      "asset_name": "InterWest_Partners.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "77a32952937fe2102dadffed1dba107a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947174",
+      "asset_name": "VLANS.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d4b36952937fe2102dadffed1dba1096",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947175",
+      "asset_name": "Interwest.rdg.old",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "3947176",
+      "asset_name": "Interwest.rdg",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3947284",
+      "asset_name": "Printer_Inventory.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "85b3e952937fe2102dadffed1dba106d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947285",
+      "asset_name": "Copy_of_Perimeter_switches_map.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "69b32d52937fe2102dadffed1dba100c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947288",
+      "asset_name": "Mimecast_Signature_Application.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f9b32d52937fe2102dadffed1dba10a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947289",
+      "asset_name": "QuickBooks_Info.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8ab36d52937fe2102dadffed1dba1026",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947290",
+      "asset_name": "SSL_VPN_User_Guide.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d6b36d52937fe2102dadffed1dba10cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947916",
+      "asset_name": "Cisco_3750_Core_Stack_1-4_1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "72b3ad52937fe2102dadffed1dba107e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947917",
+      "asset_name": "Cisco_3750_Core_Stack_1-4_April10_19.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "87b3ad52937fe2102dadffed1dba10fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947184",
+      "asset_name": "IW-PER-SW-01_2960_5-8-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "53b3ed52937fe2102dadffed1dba1093",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947185",
+      "asset_name": "Cisco_SF300-24_Guest_Switch.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "efb32192937fe2102dadffed1dba1012",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947186",
+      "asset_name": "Cisco_3750_Core_Stack_1-4_1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "44c32192937fe2102dadffed1dba1082",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947187",
+      "asset_name": "Cisco_2960S_1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "10c36192937fe2102dadffed1dba1021",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947188",
+      "asset_name": "Cisco_2960G_1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "24c36192937fe2102dadffed1dba109c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947189",
+      "asset_name": "Cisco_2960B_1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "34c3a192937fe2102dadffed1dba1044",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947190",
+      "asset_name": "Cisco_3750_Core_Stack_1-4_April10_19.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "59c3a192937fe2102dadffed1dba10b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947191",
+      "asset_name": "Cisco_2950_Printers_1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "adc3a192937fe2102dadffed1dba10ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947192",
+      "asset_name": "Cisco_2960A_1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "39c3e192937fe2102dadffed1dba10db",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947193",
+      "asset_name": "iw-wap02-confg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8ec32592937fe2102dadffed1dba102d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947194",
+      "asset_name": "IW-PER-SW-02_2960_5-8-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dac32592937fe2102dadffed1dba1094",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947195",
+      "asset_name": "iw-wap01-confg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "32c36592937fe2102dadffed1dba109e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947218",
+      "asset_name": "Fortigate_200D_HA.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8bc3a592937fe2102dadffed1dba100f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947219",
+      "asset_name": "IWSecondaryFG_20180110_0834.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5fc3a592937fe2102dadffed1dba1076",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947220",
+      "asset_name": "Fortigate200D_5-22-2015.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2bc3e592937fe2102dadffed1dba1018",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947225",
+      "asset_name": "IWSecondaryFG_20180116_1050.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "04d3e592937fe2102dadffed1dba10b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947253",
+      "asset_name": "Cisco_3750_Core_Stack_5-8-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5cd32992937fe2102dadffed1dba1043",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947254",
+      "asset_name": "Cisco_2821_Voice_1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a0d36992937fe2102dadffed1dba1006",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947255",
+      "asset_name": "IW-ASA.254_1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f8d36992937fe2102dadffed1dba1070",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947256",
+      "asset_name": "IW-2801_5-22-2015.txt",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3947257",
+      "asset_name": "2900_router_(data-voice)_9-25-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "edd3a992937fe2102dadffed1dba108b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947258",
+      "asset_name": "Cisco_2801_Data_1-7-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bdd3a992937fe2102dadffed1dba10e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947259",
+      "asset_name": "IW-PER-SW-01_2960__10-13-2014.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d6d3e992937fe2102dadffed1dba10a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947260",
+      "asset_name": "IW-PER-SW-02_2960_10-13-2014.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "66d32d92937fe2102dadffed1dba10f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947261",
+      "asset_name": "1140AP-252config.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bed3ad92937fe2102dadffed1dba100a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947262",
+      "asset_name": "1140AP-251config.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8bd3ed92937fe2102dadffed1dba1088",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947263",
+      "asset_name": "IW-ASA.253_1-9-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "efd321d2937fe2102dadffed1dba1092",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947321",
+      "asset_name": "InterWest_Audit.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "37d3a1d2937fe2102dadffed1dba100e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947322",
+      "asset_name": "Copy_of_Interwest_Providers.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0ce3e1d2937fe2102dadffed1dba1056",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947323",
+      "asset_name": "Interwest_Warranty_Export_121018.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dce3a5d2937fe2102dadffed1dba1066",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947324",
+      "asset_name": "COMPANY_PROFILE_TEMPLATE.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bce329d2937fe2102dadffed1dba10d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947325",
+      "asset_name": "Interwest_Net_Diagram.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "59e3e9d2937fe2102dadffed1dba101c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947328",
+      "asset_name": "InterWest_Audit_021915_JR_Notes.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "35e3edd2937fe2102dadffed1dba107b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947329",
+      "asset_name": "Audit-Feb_2015-old.xls",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d2e3a116937fe2102dadffed1dba10f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947335",
+      "asset_name": "Interwest_Net_Diagram_Current.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2e36516937fe2102dadffed1dba1098",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947336",
+      "asset_name": "Proposed_Network.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8be3e516937fe2102dadffed1dba10a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947338",
+      "asset_name": "InterWest_Audit_021715_v2.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "33e3e916937fe2102dadffed1dba1005",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947339",
+      "asset_name": "Proposed_Network.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "48f32d16937fe2102dadffed1dba109e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947340",
+      "asset_name": "InterWest_Audit_021715.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "acf3ed16937fe2102dadffed1dba105d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947371",
+      "asset_name": "Word_Work_File_L_3.tmp",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3947372",
+      "asset_name": "InterWest_Audit_021915_final.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7df36556937fe2102dadffed1dba104d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947373",
+      "asset_name": "InterWest_Audit_022015_final.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d6f3e556937fe2102dadffed1dba1039",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947374",
+      "asset_name": "InterWest_Audit_2015.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "72f32956937fe2102dadffed1dba109b",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947375",
+      "asset_name": "Word_Work_File_L_215051413.tmp",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3947376",
+      "asset_name": "InterWest_Audit_021915_final_LS.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6bf3a956937fe2102dadffed1dba10bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947362",
+      "asset_name": "Screen_Shot_2015-02-19_at_11.52.26_PM.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0404e956937fe2102dadffed1dba10db",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947363",
+      "asset_name": "Server3.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "90046d56937fe2102dadffed1dba1050",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947364",
+      "asset_name": "Server1.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7004ed56937fe2102dadffed1dba100c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947365",
+      "asset_name": "Server2.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8504ed56937fe2102dadffed1dba10fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947366",
+      "asset_name": "Server4.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "59042196937fe2102dadffed1dba10c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947465",
+      "asset_name": "InterWest_Login_Info.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "39046196937fe2102dadffed1dba10a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947466",
+      "asset_name": "InterWest_Call_Notes.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4a04a196937fe2102dadffed1dba107a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947467",
+      "asset_name": "InterWest_Notes.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1604e196937fe2102dadffed1dba1073",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947486",
+      "asset_name": "IW_IT_Password_Export.csv",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6a042596937fe2102dadffed1dba102b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947408",
+      "asset_name": "DAG.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf046596937fe2102dadffed1dba102d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947409",
+      "asset_name": "IW-Exch-Report.html",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef04a596937fe2102dadffed1dba1024",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947410",
+      "asset_name": "CASArray.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7f04e596937fe2102dadffed1dba101c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947434",
+      "asset_name": "IW-EXCH-3.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c814e596937fe2102dadffed1dba10fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947435",
+      "asset_name": "IW-EXCH-2.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c142996937fe2102dadffed1dba10eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947436",
+      "asset_name": "IW-DAG-3.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3414a996937fe2102dadffed1dba1052",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947437",
+      "asset_name": "IW-EXCH-1.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c514e996937fe2102dadffed1dba1035",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947438",
+      "asset_name": "IW-DAG-2.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "15142d96937fe2102dadffed1dba100b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947439",
+      "asset_name": "IW-DAG-1.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f9146d96937fe2102dadffed1dba1053",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947440",
+      "asset_name": "IW-Sites_Services.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4214ad96937fe2102dadffed1dba1000",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947450",
+      "asset_name": "Keeping_and_Using_a_PDF_Library_on_Android_Devices.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea14ed96937fe2102dadffed1dba103a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947451",
+      "asset_name": "Android_Email_Setup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fa1421d6937fe2102dadffed1dba1043",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947452",
+      "asset_name": "Android_Email_Setup.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db1461d6937fe2102dadffed1dba10a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947453",
+      "asset_name": "iOS_Email_Setup.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6714a1d6937fe2102dadffed1dba10c7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947454",
+      "asset_name": "iOS_Email_Setup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8024e1d6937fe2102dadffed1dba10d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947509",
+      "asset_name": "Coretelligent_WelcomeLtr_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c2425d6937fe2102dadffed1dba10fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947510",
+      "asset_name": "Coretelligent_TransitionPlan_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3c2465d6937fe2102dadffed1dba10d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947511",
+      "asset_name": "Coretelligent_Onboarding_Agenda_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8924a5d6937fe2102dadffed1dba10b7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947512",
+      "asset_name": "Coretelligent_Team_Leadership_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed2429d6937fe2102dadffed1dba10a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947513",
+      "asset_name": "Coretelligent_NewClientForm_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fd2469d6937fe2102dadffed1dba10c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947514",
+      "asset_name": "360_SUPPORTProcedures_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5624e9d6937fe2102dadffed1dba1031",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947515",
+      "asset_name": "360_SUPPORTProcedures_Interwest.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a2242dd6937fe2102dadffed1dba1043",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947516",
+      "asset_name": "PROCUREMENT_v3_0_Procurement_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "07246dd6937fe2102dadffed1dba1058",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947517",
+      "asset_name": "PROCUREMENT_v3_0_Procurement_Interwest.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1324add6937fe2102dadffed1dba10b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947518",
+      "asset_name": "INVOICING_v3_0_Interwest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb24edd6937fe2102dadffed1dba10cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947519",
+      "asset_name": "INVOICING_v3_0_Interwest.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4434211a937fe2102dadffed1dba10e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947569",
+      "asset_name": "Printer_Inventory.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1034611a937fe2102dadffed1dba10f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947570",
+      "asset_name": "Copy_of_Perimeter_switches_map.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3034a11a937fe2102dadffed1dba10d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947571",
+      "asset_name": "QuickBooks_Info.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4134251a937fe2102dadffed1dba1019",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947572",
+      "asset_name": "Mimecast_Signature_Application.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a934651a937fe2102dadffed1dba1071",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947573",
+      "asset_name": "SSL_VPN_User_Guide.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c634a51a937fe2102dadffed1dba1069",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947584",
+      "asset_name": "Fortigate_Firewall_Config.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5e34e51a937fe2102dadffed1dba104b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947585",
+      "asset_name": "ESX_Memory_Configurations.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a34291a937fe2102dadffed1dba1039",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947586",
+      "asset_name": "Datasafe_VR_Transmittal_List.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db34691a937fe2102dadffed1dba105a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947587",
+      "asset_name": "Client_Backup_Scheme.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f734a91a937fe2102dadffed1dba1092",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947588",
+      "asset_name": "Interwest_Net_Diagram.old.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5844e91a937fe2102dadffed1dba108f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947589",
+      "asset_name": "Visio-Interwest_Network_Diagram_-_Current.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6c442d1a937fe2102dadffed1dba1069",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947590",
+      "asset_name": "Interwest_Net_Diagram_Update_in_progress.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "45446d1a937fe2102dadffed1dba10ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947591",
+      "asset_name": "Interwest_Net_Diagram_-_Proposed.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1d44ad1a937fe2102dadffed1dba10b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947592",
+      "asset_name": "Interwest_Net_Diagram.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d44ed1a937fe2102dadffed1dba10d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947593",
+      "asset_name": "Interwest_Net_Diagram_-_Simplified.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1e44215a937fe2102dadffed1dba10c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947594",
+      "asset_name": "APC_Replacement_Battery.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a244615a937fe2102dadffed1dba10f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947595",
+      "asset_name": "InterwestCitrix_XenApp_Implementation_Plan_(3).doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0344a15a937fe2102dadffed1dba10f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947596",
+      "asset_name": "Symantec_Customer_ID.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9f44e15a937fe2102dadffed1dba10d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947598",
+      "asset_name": "Port_Map.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b44255a937fe2102dadffed1dba10e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947599",
+      "asset_name": "Office_Port_Diagram_5-9-13.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4054655a937fe2102dadffed1dba10db",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947600",
+      "asset_name": "Mail_Monitoring_System_at_Interwest.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d454e55a937fe2102dadffed1dba101a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947601",
+      "asset_name": "IW_Wireless_LAN.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b454295a937fe2102dadffed1dba10ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947602",
+      "asset_name": "IW_Server_Functions.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd54695a937fe2102dadffed1dba10bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947603",
+      "asset_name": "IW_Circuit_and_ISDN_Numbers.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d954a95a937fe2102dadffed1dba1074",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947604",
+      "asset_name": "IP_Address_Inventory.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7954e95a937fe2102dadffed1dba104c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947606",
+      "asset_name": "Interwest_Net_Diagram_-_Simplified.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c6542d5a937fe2102dadffed1dba10ca",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947607",
+      "asset_name": "Interwest_Net_Diagram_-_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2654ad5a937fe2102dadffed1dba102c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947608",
+      "asset_name": "Interwest_Mail_Path_Monitoring.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fa54ed5a937fe2102dadffed1dba1031",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947609",
+      "asset_name": "IW-E-mail_Diagram.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db54219a937fe2102dadffed1dba1073",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947615",
+      "asset_name": "Interwest_-_Network_Diagram.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c064a19a937fe2102dadffed1dba1046",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947643",
+      "asset_name": "ASA_conf_082912.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8164659a937fe2102dadffed1dba105b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947644",
+      "asset_name": "ASA_conf_032812.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e564a59a937fe2102dadffed1dba103b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947645",
+      "asset_name": "ASA_conf_013111.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7964e59a937fe2102dadffed1dba1037",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947670",
+      "asset_name": "1-Netscreen_VPN.bmp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "de64299a937fe2102dadffed1dba1063",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947671",
+      "asset_name": "4-AutoKey_IKE.bmp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3e64699a937fe2102dadffed1dba10c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947672",
+      "asset_name": "3-P1_Proposal.bmp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1764a99a937fe2102dadffed1dba10a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947673",
+      "asset_name": "2-Edit.bmp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef64e99a937fe2102dadffed1dba109f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947696",
+      "asset_name": "interwest.kdbx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "48742d9a937fe2102dadffed1dba10f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "3947699",
+      "asset_name": "Xerox2VDR541173July152014.dlm",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "3947700",
+      "asset_name": "Xerox1VDR541153July21.dlm",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3947648",
+      "asset_name": "IW2950-24-dmz-outside_9-10-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9d74ed9a937fe2102dadffed1dba10dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947649",
+      "asset_name": "IW-2960b_-_SAN_-_9-15-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e57421da937fe2102dadffed1dba109b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947650",
+      "asset_name": "IW2950a_9-10-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b17461da937fe2102dadffed1dba1080",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947651",
+      "asset_name": "IW-2060A_-_SAN_-_9-15-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ca74a1da937fe2102dadffed1dba106b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947652",
+      "asset_name": "IWAccess2.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aa74e1da937fe2102dadffed1dba1055",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947653",
+      "asset_name": "Config.Current.Running.IW-2970A.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f27425da937fe2102dadffed1dba1000",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947654",
+      "asset_name": "Config.Current.Running.IW-3750.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1f7425da937fe2102dadffed1dba10df",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947655",
+      "asset_name": "Config.Current.Running.IW-3548A.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ab7465da937fe2102dadffed1dba10f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947656",
+      "asset_name": "IW-3000-concent_9-10-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8084a5da937fe2102dadffed1dba10e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947657",
+      "asset_name": "Interwest-PIX_9-10-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1884e5da937fe2102dadffed1dba10ad",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947658",
+      "asset_name": "IW2801__ATT_router_-_9-10-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c8429da937fe2102dadffed1dba1049",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947659",
+      "asset_name": "IWAccess1.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "098469da937fe2102dadffed1dba103a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947660",
+      "asset_name": "Config.Current.Running.IW-2950a.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9984a9da937fe2102dadffed1dba1003",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947661",
+      "asset_name": "Config.Current.Running.Interwest-PIX.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d84a9da937fe2102dadffed1dba10d5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947662",
+      "asset_name": "IW-3750_9-10-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4e84e9da937fe2102dadffed1dba10db",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947663",
+      "asset_name": "iw-2960g.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "22842dda937fe2102dadffed1dba1081",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947679",
+      "asset_name": "IP_Schema.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b2846dda937fe2102dadffed1dba108e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947680",
+      "asset_name": "IP_Address_Inventory_New.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1b84adda937fe2102dadffed1dba107a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947681",
+      "asset_name": "IW_Server_Network_Diagram.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f784edda937fe2102dadffed1dba10c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947682",
+      "asset_name": "IW-E-mail_Diagram.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0894211e937fe2102dadffed1dba10e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947683",
+      "asset_name": "IW_Routing_Diagram.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e894611e937fe2102dadffed1dba10a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947684",
+      "asset_name": "Device_Inventory.xls",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8d94a11e937fe2102dadffed1dba10c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947685",
+      "asset_name": "InterwestPix_20020821.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6594e11e937fe2102dadffed1dba1050",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947686",
+      "asset_name": "PIX_515_primary_config_2-5-08.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7194251e937fe2102dadffed1dba1050",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947687",
+      "asset_name": "InterWest_Partners_Device_Inventory_template.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4e94651e937fe2102dadffed1dba1055",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947688",
+      "asset_name": "InterwestT1_20020821.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6294651e937fe2102dadffed1dba10ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947689",
+      "asset_name": "Interwest_Zone_File.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a94a51e937fe2102dadffed1dba1042",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947690",
+      "asset_name": "IW_HW_retirement_worksheet.xls",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8f94e51e937fe2102dadffed1dba10da",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947691",
+      "asset_name": "Server_Device_Roll.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a794291e937fe2102dadffed1dba1038",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947692",
+      "asset_name": "Interwest_Radware_As-Built.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7394691e937fe2102dadffed1dba1030",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947717",
+      "asset_name": "Employee_On-Boarding_(New_User)_setup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "90a4a91e937fe2102dadffed1dba1028",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947718",
+      "asset_name": "Which_files_are_open_on_Egnyte.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0a4a91e937fe2102dadffed1dba1095",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947719",
+      "asset_name": "GoToMeeting_Instructions.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "41a4e91e937fe2102dadffed1dba1047",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947720",
+      "asset_name": "Citrix_Enterprise_Receiver_Install.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "11a42d1e937fe2102dadffed1dba102c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947721",
+      "asset_name": "Add_Laptop_to_Interwest_wireless_Network_without_being_a_member_of_the_Domain.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "06a46d1e937fe2102dadffed1dba1036",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947722",
+      "asset_name": "Instructions_for_using_your_Cisco_IP_Phone_from_home.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1ea46d1e937fe2102dadffed1dba10e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947723",
+      "asset_name": "EMC_SourceOne_Single_Sign_On_Process_-_Firefox.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6aa4ad1e937fe2102dadffed1dba1064",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947724",
+      "asset_name": "Setting_up_a_new_User_(mailbox).docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7ea4ed1e937fe2102dadffed1dba1092",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947725",
+      "asset_name": "User_Conversion_to_Scriptlogic.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dba4215e937fe2102dadffed1dba1048",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947726",
+      "asset_name": "Checking_the_Support_Mailbox.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "afa4215e937fe2102dadffed1dba10d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947727",
+      "asset_name": "Archive_PST_Files.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bfa4615e937fe2102dadffed1dba109b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947728",
+      "asset_name": "Daily_Tasks.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c0b4a15e937fe2102dadffed1dba1027",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947729",
+      "asset_name": "Apple_TV_Setup_Instructions.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a4b4a15e937fe2102dadffed1dba10fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947730",
+      "asset_name": "InterWest_Conf_Wrkst-Install-checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fcb4e15e937fe2102dadffed1dba10a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947731",
+      "asset_name": "Interwest_Server_Maintenance.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "85b4255e937fe2102dadffed1dba102c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947732",
+      "asset_name": "Add_Ability_to_change_password_via_OWA_(Azure_Premium_License).docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e9b4255e937fe2102dadffed1dba10d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947733",
+      "asset_name": "InterWest_Wrkst-Install-checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5b4655e937fe2102dadffed1dba108c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947734",
+      "asset_name": "Interwest_Config_Overview.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4eb4655e937fe2102dadffed1dba10f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947735",
+      "asset_name": "Generic_New_Hire_Checklist_update_12_26.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "deb4e55e937fe2102dadffed1dba100f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947736",
+      "asset_name": "How_to_Setup_a_Biba_Video_Conference.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "beb4e55e937fe2102dadffed1dba1083",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947742",
+      "asset_name": "Mimecast_Training_Video_Links.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0fb4295e937fe2102dadffed1dba1002",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947743",
+      "asset_name": "Using_the_Mimecast_Outlook_Plugin.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "53b4295e937fe2102dadffed1dba10b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947744",
+      "asset_name": "Mimecast_Signature_Application.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ffb4695e937fe2102dadffed1dba1032",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947745",
+      "asset_name": "Using_Mimecast_online.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "44c4695e937fe2102dadffed1dba10cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947746",
+      "asset_name": "Interwest_Mimecast_Mobile_App.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1cc4a95e937fe2102dadffed1dba10a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947747",
+      "asset_name": "Interwest_Mimecast_Mobile_App.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "70c4e95e937fe2102dadffed1dba1055",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947748",
+      "asset_name": "InterWest_signatures.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8dc42d5e937fe2102dadffed1dba1000",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947749",
+      "asset_name": "Mimecast_Personal_Portal_Full_User_Guide.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9dc42d5e937fe2102dadffed1dba108a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947750",
+      "asset_name": "Using_the_Mimecast_Outlook_Plugin.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b9c46d5e937fe2102dadffed1dba1024",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947751",
+      "asset_name": "Mobile_-_Mimecast.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dec46d5e937fe2102dadffed1dba10ce",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947754",
+      "asset_name": "Group_Distribution_Lists_8-26-2011.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e6c4ad5e937fe2102dadffed1dba109d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947756",
+      "asset_name": "Datasafe_Tape_Rotation_Procedures.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c3c4ed5e937fe2102dadffed1dba1051",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947757",
+      "asset_name": "InterWest_Maintenance_CheckList.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d3c4219e937fe2102dadffed1dba1024",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947758",
+      "asset_name": "Office_Communications_Server_2007-How_to_generate_a_CSR_for_Microsoft-_IW-OCS.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "67c4219e937fe2102dadffed1dba109e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947759",
+      "asset_name": "Accessing_Common_Folder_Mac.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ccd4619e937fe2102dadffed1dba1016",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947760",
+      "asset_name": "Working_the_ConnectWise_Board.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dcd4619e937fe2102dadffed1dba10ca",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947761",
+      "asset_name": "Workstation_Installation_Instruction_for_Sage_Accpac_200_ERP.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28d4a19e937fe2102dadffed1dba105a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947762",
+      "asset_name": "CodeTwo.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8dd4e19e937fe2102dadffed1dba106b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947763",
+      "asset_name": "Office_Communications_Server_2007-How_to_generate_a_CSR_for_Microsoft-_Sip.Interwest.com.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e5d4259e937fe2102dadffed1dba109f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947764",
+      "asset_name": "Office_Communications_Server_2007-How_to_generate_a_CSR_for_Microsoft-_EDGE_Server_.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7dd4659e937fe2102dadffed1dba105a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947765",
+      "asset_name": "Click2Call_draft7.7.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "86d4a59e937fe2102dadffed1dba1000",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947766",
+      "asset_name": "OWA_Password_Change.doc",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e6d4a59e937fe2102dadffed1dba10a8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947767",
+      "asset_name": "OCS_Setup_Doc.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b6d4e59e937fe2102dadffed1dba1057",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947768",
+      "asset_name": "MM-Postini_EndUser_Guide.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cfd4e59e937fe2102dadffed1dba10e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947769",
+      "asset_name": "New_User_setup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "27d4299e937fe2102dadffed1dba105d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947771",
+      "asset_name": "InterWest_IP_Telephony_Documentation.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "33d4699e937fe2102dadffed1dba1011",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947772",
+      "asset_name": "Imaging_a_PC.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "50e4699e937fe2102dadffed1dba10e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947774",
+      "asset_name": "InterWest_Conf_Wrkst-Install-checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f8e4a99e937fe2102dadffed1dba10d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947775",
+      "asset_name": "InterWest_Wrkst-Install-checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0de4e99e937fe2102dadffed1dba1078",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947776",
+      "asset_name": "Employee_On-Boarding_(New_User)_setup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1de4e99e937fe2102dadffed1dba10f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947777",
+      "asset_name": "Employee_Off-Boarding_Technical_Checklist_-_Interwest.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3de42d9e937fe2102dadffed1dba1079",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947778",
+      "asset_name": "Employee_On-Boarding_Technical_Checklist_-_Interwest.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "06e46d9e937fe2102dadffed1dba100b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947779",
+      "asset_name": "Setting_up_a_new_User_(mailbox).docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dee46d9e937fe2102dadffed1dba10af",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947782",
+      "asset_name": "Voice_Mail_-_Main_Line_and_Personal.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ae4ad9e937fe2102dadffed1dba1055",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947783",
+      "asset_name": "Record_a_Holiday_Greeting.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "83e4ad9e937fe2102dadffed1dba10cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947798",
+      "asset_name": "Backup_Jobs_Schedule_Overview_v2.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "97e4ed9e937fe2102dadffed1dba108b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947799",
+      "asset_name": "Restoring_a_VM_from_Backup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "efe421de937fe2102dadffed1dba1017",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947800",
+      "asset_name": "Daily_Backup_Procedure.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "33e421de937fe2102dadffed1dba10a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947801",
+      "asset_name": "Backup_Overview_Diagram_v2.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dcf461de937fe2102dadffed1dba106e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947805",
+      "asset_name": "Set_up_Egnyte_Desktop_Sync_on_Domain_Laptops.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "acf461de937fe2102dadffed1dba10dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947806",
+      "asset_name": "Add_a_New_User_to_Egnyte.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0f4a1de937fe2102dadffed1dba103d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947808",
+      "asset_name": "Sharing_Files_with_InterWest.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c5f4a1de937fe2102dadffed1dba10f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947809",
+      "asset_name": "Egnyte_3rd_Party_File_Sharing.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25f4e1de937fe2102dadffed1dba1070",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947813",
+      "asset_name": "Install_and_Config_Fortinet_VPN_Client.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7df4e1de937fe2102dadffed1dba10bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947817",
+      "asset_name": "Upload_Investran_Database_to_Sungard.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8af425de937fe2102dadffed1dba1047",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3947818",
+      "asset_name": "Setting_up_a_new_Investran_user.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eaf425de937fe2102dadffed1dba10dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_12639073",
+      "asset_name": "InterWest_Partners.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "faf465de937fe2102dadffed1dba107c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_12639064",
+      "asset_name": "InterWest_Partners.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0bf4a5de937fe2102dadffed1dba103d",
+      "error_message": null
+    },
+    {
+      "asset_id": "15950317",
+      "asset_name": "23237817",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_16957764",
+      "asset_name": "InterWestPartners_DomainBlockList_8-30-24.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ebf4a5de937fe2102dadffed1dba10ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16959026",
+      "asset_name": "InterWestPartners_DomainBlockList_8-30-24_(revised).xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fff4e5de937fe2102dadffed1dba104a",
+      "error_message": null
+    }
+  ]
+}

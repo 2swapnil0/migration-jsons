@@ -1,0 +1,1426 @@
+{
+  "session_id": "migration_202507_140145_a0a057b1",
+  "organization": "Acree Plumbing and Air",
+  "timestamp": "2025-09-07T14:12:48.065172",
+  "total_processed": 177,
+  "successful": 97,
+  "failed": 80,
+  "results": [
+    {
+      "asset_id": "69045589",
+      "asset_name": "Acreeair.local Acreeair",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1657a19e473b66103c5e88f4116d4361",
+      "error_message": null
+    },
+    {
+      "asset_id": "69045461",
+      "asset_name": "acreeair acreeair",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9657a19e473b66103c5e88f4116d4385",
+      "error_message": null
+    },
+    {
+      "asset_id": "69045455",
+      "asset_name": "AcreeAir-WiFi AcreeAir-WiFi",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5a57a19e473b66103c5e88f4116d4371",
+      "error_message": null
+    },
+    {
+      "asset_id": "69046907",
+      "asset_name": "Cloud Provider",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5257a19e473b66103c5e88f4116d438f",
+      "error_message": null
+    },
+    {
+      "asset_id": "69045469",
+      "asset_name": "chromecast chromecast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1767e59e473b66103c5e88f4116d4327",
+      "error_message": null
+    },
+    {
+      "asset_id": "69045474",
+      "asset_name": "speaker speaker",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b67e59e473b66103c5e88f4116d436e",
+      "error_message": null
+    },
+    {
+      "asset_id": "69045484",
+      "asset_name": "private private",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4477299e473b66103c5e88f4116d4331",
+      "error_message": null
+    },
+    {
+      "asset_id": "69520447",
+      "asset_name": "Adobe Acrobat",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6177a99e473b66103c5e88f4116d433b",
+      "error_message": null
+    },
+    {
+      "asset_id": "69520448",
+      "asset_name": "Adobe Indesign",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2887ad9e473b66103c5e88f4116d430b",
+      "error_message": null
+    },
+    {
+      "asset_id": "69520449",
+      "asset_name": "Adobe Photoshop",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d187ad9e473b66103c5e88f4116d43ce",
+      "error_message": null
+    },
+    {
+      "asset_id": "69520452",
+      "asset_name": "ESC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4a87ed9e473b66103c5e88f4116d431c",
+      "error_message": null
+    },
+    {
+      "asset_id": "69520453",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "368721de473b66103c5e88f4116d4300",
+      "error_message": null
+    },
+    {
+      "asset_id": "69520455",
+      "asset_name": "QuickBooks",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "929765de473b66103c5e88f4116d43eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "69520456",
+      "asset_name": "Sentinel One",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0397a5de473b66103c5e88f4116d4393",
+      "error_message": null
+    },
+    {
+      "asset_id": "69520458",
+      "asset_name": "ServiceTitan",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c4a7e5de473b66103c5e88f4116d43c0",
+      "error_message": null
+    },
+    {
+      "asset_id": "69520459",
+      "asset_name": "Servman",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f4a769de473b66103c5e88f4116d43e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "69520460",
+      "asset_name": "SuccessWare21",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "18b7edde473b66103c5e88f4116d43e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "69520462",
+      "asset_name": "TimeForce II",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c1b76112477b66103c5e88f4116d431e",
+      "error_message": null
+    },
+    {
+      "asset_id": "69520463",
+      "asset_name": "Vehicle Fleet Manager 3.0",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "75b76112477b66103c5e88f4116d43f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "73438236",
+      "asset_name": "DialPlate",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "66b7a112477b66103c5e88f4116d434f",
+      "error_message": null
+    },
+    {
+      "asset_id": "88111448",
+      "asset_name": "Egnyte Desktop",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "88110511",
+      "asset_name": "Intune Endpoint Manager",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "56c76512477b66103c5e88f4116d43f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "88110630",
+      "asset_name": "Microsoft Authenticator",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3fc7e512477b66103c5e88f4116d433f",
+      "error_message": null
+    },
+    {
+      "asset_id": "88111070",
+      "asset_name": "Egnyte Desktop",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bfc7e512477b66103c5e88f4116d4343",
+      "error_message": null
+    },
+    {
+      "asset_id": "88111627",
+      "asset_name": "Egnyte WebEdit",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a0d72912477b66103c5e88f4116d4382",
+      "error_message": null
+    },
+    {
+      "asset_id": "69519758",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ce7a912477b66103c5e88f4116d43df",
+      "error_message": null
+    },
+    {
+      "asset_id": "69046854",
+      "asset_name": "Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c9e7e912477b66103c5e88f4116d4389",
+      "error_message": null
+    },
+    {
+      "asset_id": "68756523",
+      "asset_name": "Acree - Primary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "05e7e912477b66103c5e88f4116d43b7",
+      "error_message": null
+    },
+    {
+      "asset_id": "68756545",
+      "asset_name": "Acree - Secondary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aae72d12477b66103c5e88f4116d43fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "68757875",
+      "asset_name": "Acree Air vLAN 200 192.168.150.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "caf7ed12477b66103c5e88f4116d43fd",
+      "error_message": null
+    },
+    {
+      "asset_id": "69045389",
+      "asset_name": "Acree Air LAN 192.168.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "72f72152477b66103c5e88f4116d434f",
+      "error_message": null
+    },
+    {
+      "asset_id": "69045401",
+      "asset_name": "Acree Air vLAN 5 192.168.55.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2ff76152477b66103c5e88f4116d434f",
+      "error_message": null
+    },
+    {
+      "asset_id": "69045407",
+      "asset_name": "Acree Air vLAN 201 (WiFi) 10.10.15.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c508a152477b66103c5e88f4116d4381",
+      "error_message": null
+    },
+    {
+      "asset_id": "69046759",
+      "asset_name": "User VPN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "df082552477b66103c5e88f4116d4387",
+      "error_message": null
+    },
+    {
+      "asset_id": "69046766",
+      "asset_name": "Tunnel to cloud DC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3418a552477b66103c5e88f4116d430f",
+      "error_message": null
+    },
+    {
+      "asset_id": "68756338",
+      "asset_name": "Spectrum Business",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b418a552477b66103c5e88f4116d4314",
+      "error_message": null
+    },
+    {
+      "asset_id": "68756539",
+      "asset_name": "Frontier Communications",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28286952477b66103c5e88f4116d43a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "69046867",
+      "asset_name": "Savage Consulting",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20286952477b66103c5e88f4116d43e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "70129939",
+      "asset_name": "Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1228e952477b66103c5e88f4116d4386",
+      "error_message": null
+    },
+    {
+      "asset_id": "70129952",
+      "asset_name": "FieldEdge (dESCO)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "27282d52477b66103c5e88f4116d43b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "70129963",
+      "asset_name": "GoDaddy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4e382192477b66103c5e88f4116d43ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "70130045",
+      "asset_name": "iSolved (Qqest Software Systems)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "02382192477b66103c5e88f4116d43bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "70130050",
+      "asset_name": "ServiceTitan",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd482592477b66103c5e88f4116d4371",
+      "error_message": null
+    },
+    {
+      "asset_id": "70130055",
+      "asset_name": "SuccessWare",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f9482592477b66103c5e88f4116d4360",
+      "error_message": null
+    },
+    {
+      "asset_id": "70130058",
+      "asset_name": "Vinity Soft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5b486592477b66103c5e88f4116d4357",
+      "error_message": null
+    },
+    {
+      "asset_id": "70130060",
+      "asset_name": "Workwave",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "48586592477b66103c5e88f4116d43bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "73437995",
+      "asset_name": "Adobe",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b582992477b66103c5e88f4116d4389",
+      "error_message": null
+    },
+    {
+      "asset_id": "73438227",
+      "asset_name": "DialPlate",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac686992477b66103c5e88f4116d431f",
+      "error_message": null
+    },
+    {
+      "asset_id": "88110196",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1d686992477b66103c5e88f4116d43cc",
+      "error_message": null
+    },
+    {
+      "asset_id": "88110272",
+      "asset_name": "Other All licensing controlled via LTP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a68a992477b66103c5e88f4116d4347",
+      "error_message": null
+    },
+    {
+      "asset_id": "88111318",
+      "asset_name": "Egnyte Egnyte Latest Version",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4d782d92477b66103c5e88f4116d435c",
+      "error_message": null
+    },
+    {
+      "asset_id": "69520495",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "26786d92477b66103c5e88f4116d4378",
+      "error_message": null
+    },
+    {
+      "asset_id": "69520421",
+      "asset_name": "Spanning Mailboxes Email and OneDrive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d7786d92477b66103c5e88f4116d43ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "69042386",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c88ed92477b66103c5e88f4116d4307",
+      "error_message": null
+    },
+    {
+      "asset_id": "69046884",
+      "asset_name": "Savage Consulting Cloud",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0988ed92477b66103c5e88f4116d4352",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675131",
+      "asset_name": "FW:  usg210",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "56675235",
+      "asset_name": "CANON57E877",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5b98a1d2477b66103c5e88f4116d436f",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675236",
+      "asset_name": "BRNB422006C4C74",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5f98a1d2477b66103c5e88f4116d4333",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675237",
+      "asset_name": "BRWF0A654D39844",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1b98a1d2477b66103c5e88f4116d43f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675238",
+      "asset_name": "BRW10B1DF7C3529",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2f98a1d2477b66103c5e88f4116d4337",
+      "error_message": null
+    },
+    {
+      "asset_id": "58364553",
+      "asset_name": "AP:  Main",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "81b829d2477b66103c5e88f4116d4370",
+      "error_message": null
+    },
+    {
+      "asset_id": "58364650",
+      "asset_name": "AP:  NIKKIWAP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cdb829d2477b66103c5e88f4116d43a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "58364461",
+      "asset_name": "SW:  GS1900",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "f297186247988658e236f468436d43b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "58364527",
+      "asset_name": "SW:  GS1920",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "57a865d2477b66103c5e88f4116d438f",
+      "error_message": null
+    },
+    {
+      "asset_id": "58364681",
+      "asset_name": "AP:  Training Room",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "35c8edd2477b66103c5e88f4116d4301",
+      "error_message": null
+    },
+    {
+      "asset_id": "58364708",
+      "asset_name": "AP:  Break Room",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3ec8edd2477b66103c5e88f4116d43f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "58365444",
+      "asset_name": "SERVER:  AcreeAir-CS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2fc82116477b66103c5e88f4116d43ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "58365445",
+      "asset_name": "SERVER:  RDPSERVER",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e3c82116477b66103c5e88f4116d43f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "58365456",
+      "asset_name": "SERVER:  ESCSERVER",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "62d8e116477b66103c5e88f4116d43e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "68354224",
+      "asset_name": "FW: 18C24106AFC4",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2ed8e116477b66103c5e88f4116d43ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "1378433",
+      "asset_name": "acree.plumbing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fed82516477b66103c5e88f4116d431b",
+      "error_message": null
+    },
+    {
+      "asset_id": "1378434",
+      "asset_name": "acreeair.com",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "608182b293d922502dadffed1dba10b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "1378435",
+      "asset_name": "acreeelectric.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "23d82516477b66103c5e88f4116d434b",
+      "error_message": null
+    },
+    {
+      "asset_id": "1378438",
+      "asset_name": "acreeplumbing.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "37d82516477b66103c5e88f4116d43bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "1378439",
+      "asset_name": "acreeplumbingairelectric.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "88e82516477b66103c5e88f4116d43f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "1378440",
+      "asset_name": "acreeplumbingandair.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d8e86516477b66103c5e88f4116d4305",
+      "error_message": null
+    },
+    {
+      "asset_id": "1378441",
+      "asset_name": "callacree.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20e86516477b66103c5e88f4116d435a",
+      "error_message": null
+    },
+    {
+      "asset_id": "1378591",
+      "asset_name": "trustacree.com",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "ac8182b293d922502dadffed1dba10a7",
+      "error_message": null
+    },
+    {
+      "asset_id": 660307,
+      "asset_name": "*.trustacree.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b8e86516477b66103c5e88f4116d4398",
+      "error_message": null
+    },
+    {
+      "asset_id": 660218,
+      "asset_name": "acreeair.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c9e86516477b66103c5e88f4116d43ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "14177291",
+      "asset_name": "Egnyte - How to install Egnyte Mobile App",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "86e8a516477b66103c5e88f4116d4340",
+      "error_message": null
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "Egnyte - How to Share Files using Egnyte Desktop App",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20f82916477b66103c5e88f4116d430c",
+      "error_message": null
+    },
+    {
+      "asset_id": "14177293",
+      "asset_name": "Egnyte - Activation Email Process",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d0196d16477b66103c5e88f4116d438a",
+      "error_message": null
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "Egnyte - How to use the Egnyte Web Portal",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6219ad16477b66103c5e88f4116d43b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "17560308",
+      "asset_name": "Activate Egnyte Account",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b729a156477b66103c5e88f4116d43bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "Egnyte Desktop App Setup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "90492556477b66103c5e88f4116d4383",
+      "error_message": null
+    },
+    {
+      "asset_id": "17560715",
+      "asset_name": "RST - Egnyte Setup Guide",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a3592956477b66103c5e88f4116d4341",
+      "error_message": null
+    },
+    {
+      "asset_id": "14176917",
+      "asset_name": "New User Onboarding Guide - Acree Plumbing and Air",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf592956477b66103c5e88f4116d4368",
+      "error_message": null
+    },
+    {
+      "asset_id": "14176920",
+      "asset_name": "User Offboarding Guide - Len the Plumber (and all child orgs)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80692956477b66103c5e88f4116d43c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "14176930",
+      "asset_name": "Windows Setup Guide - Len the Plumber (and all child orgs)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c692956477b66103c5e88f4116d43b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "17560259",
+      "asset_name": "New Document",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a4696956477b66103c5e88f4116d4328",
+      "error_message": null
+    },
+    {
+      "asset_id": "17560264",
+      "asset_name": "New Document",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "70696956477b66103c5e88f4116d4340",
+      "error_message": null
+    },
+    {
+      "asset_id": "17774954",
+      "asset_name": "Acree Plumbing and Air - 11_13_2024 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "85696956477b66103c5e88f4116d438a",
+      "error_message": null
+    },
+    {
+      "asset_id": "19794778",
+      "asset_name": "Acree Plumbing and Air - 06_03_2025 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "39696956477b66103c5e88f4116d43be",
+      "error_message": null
+    },
+    {
+      "asset_id": "14177291",
+      "asset_name": "20429209",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177291",
+      "asset_name": "20429214",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177291",
+      "asset_name": "20429212",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177291",
+      "asset_name": "20429213",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177291",
+      "asset_name": "20429208",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177291",
+      "asset_name": "20429211",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177291",
+      "asset_name": "20429210",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429217",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429238",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429230",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429236",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429239",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429228",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429223",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429225",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429224",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429233",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429222",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429231",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429227",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429226",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429219",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429235",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429237",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429221",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429241",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429229",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429232",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177292",
+      "asset_name": "20429234",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177293",
+      "asset_name": "20429248",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177293",
+      "asset_name": "20429246",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177293",
+      "asset_name": "20429245",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177293",
+      "asset_name": "20429244",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177293",
+      "asset_name": "20429247",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177293",
+      "asset_name": "20429249",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429274",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429270",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429275",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429277",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429271",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429267",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429272",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429279",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429268",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429273",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429278",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429269",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429281",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429280",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177294",
+      "asset_name": "20429276",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560308",
+      "asset_name": "26828512",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560308",
+      "asset_name": "26828520",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560308",
+      "asset_name": "26828503",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560308",
+      "asset_name": "26828514",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560308",
+      "asset_name": "26828510",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560308",
+      "asset_name": "26828522",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560308",
+      "asset_name": "26828500",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560308",
+      "asset_name": "26828516",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560308",
+      "asset_name": "26828507",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560308",
+      "asset_name": "26828518",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560308",
+      "asset_name": "26828498",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829146",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829154",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829166",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829157",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829150",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829143",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829137",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829173",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829164",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829159",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829171",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829139",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829115",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829177",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829148",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829162",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829175",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829141",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17560656",
+      "asset_name": "26829168",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_17560715",
+      "asset_name": "Private_Folder_Location_Fix.bat",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf592956477b66103c5e88f4116d4378",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17774954",
+      "asset_name": "Acree_Plumbing_and_Air_-_11_13_2024_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "21696956477b66103c5e88f4116d4394",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_19794778",
+      "asset_name": "Acree_Plumbing_and_Air_-_06_03_2025_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8e696956477b66103c5e88f4116d439e",
+      "error_message": null
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "session_id": "migration_202507_143138_2cb751da",
+  "organization": "Kazmier & Associates, Inc.",
+  "timestamp": "2025-09-07T14:33:08.503919",
+  "total_processed": 51,
+  "successful": 37,
+  "failed": 14,
+  "results": [
+    {
+      "asset_id": "62090253",
+      "asset_name": "StarBuilder",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "36fde11ec3b7ea10fde1362c05013123",
+      "error_message": null
+    },
+    {
+      "asset_id": "62090334",
+      "asset_name": "KIP Print PRO",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "72fde11ec3b7ea10fde1362c0501316c",
+      "error_message": null
+    },
+    {
+      "asset_id": "62090316",
+      "asset_name": "MS Project",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "32fde11ec3b7ea10fde1362c050131a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "62090277",
+      "asset_name": "Planswift",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fafde11ec3b7ea10fde1362c05013133",
+      "error_message": null
+    },
+    {
+      "asset_id": "62090341",
+      "asset_name": "Install Citrix Windows Client",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "43fde11ec3b7ea10fde1362c05013154",
+      "error_message": null
+    },
+    {
+      "asset_id": "62090356",
+      "asset_name": "BlueBeam",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "17fde11ec3b7ea10fde1362c050131f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "62128172",
+      "asset_name": "Centrestack",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5bfd251ec3b7ea10fde1362c0501312d",
+      "error_message": null
+    },
+    {
+      "asset_id": "62127796",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d7fd251ec3b7ea10fde1362c05013101",
+      "error_message": null
+    },
+    {
+      "asset_id": "71822549",
+      "asset_name": "Charter",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ffde11ec3b7ea10fde1362c050131b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "62127891",
+      "asset_name": "Meraki VPN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a3fd251ec3b7ea10fde1362c050131c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "62127784",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6bfd251ec3b7ea10fde1362c050131d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "62127788",
+      "asset_name": "Unknown ISP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "27fd651ec3b7ea10fde1362c0501310f",
+      "error_message": null
+    },
+    {
+      "asset_id": "62127899",
+      "asset_name": "Meraki",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b7fd651ec3b7ea10fde1362c0501311e",
+      "error_message": null
+    },
+    {
+      "asset_id": "62128126",
+      "asset_name": "ACC Business",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fbfd651ec3b7ea10fde1362c0501312a",
+      "error_message": null
+    },
+    {
+      "asset_id": "62128138",
+      "asset_name": "Charter",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8c0e651ec3b7ea10fde1362c0501312f",
+      "error_message": null
+    },
+    {
+      "asset_id": "62128147",
+      "asset_name": "Gladinet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "400e651ec3b7ea10fde1362c050131bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "62854042",
+      "asset_name": "Star-to-Star",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "080e651ec3b7ea10fde1362c050131e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "67236396",
+      "asset_name": "3CX Phone System Professional",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "080e651ec3b7ea10fde1362c050131d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "67504864",
+      "asset_name": "Storagecraft - Desktop 5",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c0ea51ec3b7ea10fde1362c05013183",
+      "error_message": null
+    },
+    {
+      "asset_id": "62127834",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a40ea51ec3b7ea10fde1362c050131b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "67536296",
+      "asset_name": "Watchguard - T40-W -1 (2 Devices) T40W-KAZMIER-TN, T40W-KAZMIER-ATL",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "500ea51ec3b7ea10fde1362c05013163",
+      "error_message": null
+    },
+    {
+      "asset_id": "54520172",
+      "asset_name": "Sharon-LT",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "53875319",
+      "asset_name": "Ricoh MP c3503",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c50ee51ec3b7ea10fde1362c05013105",
+      "error_message": null
+    },
+    {
+      "asset_id": "1292689",
+      "asset_name": "kazmierinc.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "110ee51ec3b7ea10fde1362c05013123",
+      "error_message": null
+    },
+    {
+      "asset_id": 607886,
+      "asset_name": "kazmierinc.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ad0ee51ec3b7ea10fde1362c0501314c",
+      "error_message": null
+    },
+    {
+      "asset_id": "12557110",
+      "asset_name": "Setting Up the VPN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "060ee51ec3b7ea10fde1362c050131ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "12557241",
+      "asset_name": "Drive Shares",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d20ee51ec3b7ea10fde1362c050131cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "12557270",
+      "asset_name": "Cloudshare No Access to Specific Folder: Can Access Other Folders in Same Directory",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "620e291ec3b7ea10fde1362c0501310d",
+      "error_message": null
+    },
+    {
+      "asset_id": "12755585",
+      "asset_name": "ISP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f60e291ec3b7ea10fde1362c05013171",
+      "error_message": null
+    },
+    {
+      "asset_id": "12755606",
+      "asset_name": "VLANs",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0f0e291ec3b7ea10fde1362c050131bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "15844316",
+      "asset_name": "User Offboarding Guide - Non-Domain",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1f0e291ec3b7ea10fde1362c050131e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "15844317",
+      "asset_name": "Windows Setup Guide - Kazmier & Associates, Inc.",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "570e291ec3b7ea10fde1362c050131f9",
+      "error_message": null
+    },
+    {
+      "asset_id": "15844334",
+      "asset_name": "New User Onboarding Guide - Kazmier & Associates, Inc.",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2f0e691ec3b7ea10fde1362c0501312a",
+      "error_message": null
+    },
+    {
+      "asset_id": "17193714",
+      "asset_name": "Netcom: Installing Avast from Barracuda RMM",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "770e691ec3b7ea10fde1362c05013143",
+      "error_message": null
+    },
+    {
+      "asset_id": "17705653",
+      "asset_name": "P-Drive Folder Share Permissions  (CloudShare account",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b61ee91ec3b7ea10fde1362c05013122",
+      "error_message": null
+    },
+    {
+      "asset_id": "12757636",
+      "asset_name": "P Drive.bat",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "692e2d1ec3b7ea10fde1362c0501313e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_12757636",
+      "asset_name": "P_Drive.bat",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fd2e2d1ec3b7ea10fde1362c0501314a",
+      "error_message": null
+    },
+    {
+      "asset_id": "17193714",
+      "asset_name": "26226758",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17193714",
+      "asset_name": "26226767",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17193714",
+      "asset_name": "26226764",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17193714",
+      "asset_name": "26226765",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17193714",
+      "asset_name": "26226763",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17193714",
+      "asset_name": "26226757",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17193714",
+      "asset_name": "26226769",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17705653",
+      "asset_name": "27629750",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17705653",
+      "asset_name": "27092921",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17705653",
+      "asset_name": "27629735",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17705653",
+      "asset_name": "27092920",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17705653",
+      "asset_name": "27629575",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17705653",
+      "asset_name": "27092922",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17705653",
+      "asset_name": "27629676",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    }
+  ]
+}

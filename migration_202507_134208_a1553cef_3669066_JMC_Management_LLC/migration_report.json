@@ -1,0 +1,3210 @@
+{
+  "session_id": "migration_202507_134208_a1553cef",
+  "organization": "JMC Management, LLC",
+  "timestamp": "2025-09-07T13:50:13.983988",
+  "total_processed": 400,
+  "successful": 365,
+  "failed": 35,
+  "results": [
+    {
+      "asset_id": "15834531",
+      "asset_name": "jmccp Azure AD jmccp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f6c26dde83bb661026e89230feaad31c",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834492",
+      "asset_name": "JMCCP JMCCP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c7c26dde83bb661026e89230feaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834499",
+      "asset_name": "Guest Wifi JMCCP-Guest",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "47c26dde83bb661026e89230feaad33d",
+      "error_message": null
+    },
+    {
+      "asset_id": "60191276",
+      "asset_name": "Zoom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "93c26dde83bb661026e89230feaad36a",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834680",
+      "asset_name": "ShoreTel",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "53c26dde83bb661026e89230feaad371",
+      "error_message": null
+    },
+    {
+      "asset_id": "60191424",
+      "asset_name": "Carbonite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "97c26dde83bb661026e89230feaad39f",
+      "error_message": null
+    },
+    {
+      "asset_id": "60191610",
+      "asset_name": "Mimecast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5bc26dde83bb661026e89230feaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "60191695",
+      "asset_name": "Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6bc26dde83bb661026e89230feaad3c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "60216783",
+      "asset_name": "Adobe Reader",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e3c26dde83bb661026e89230feaad3c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "60217124",
+      "asset_name": "Sentinel One",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7bc26dde83bb661026e89230feaad3f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "60217269",
+      "asset_name": "Microsoft Office",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "33c26dde83bb661026e89230feaad3fd",
+      "error_message": null
+    },
+    {
+      "asset_id": "60217505",
+      "asset_name": "Kaseya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3fc2adde83bb661026e89230feaad317",
+      "error_message": null
+    },
+    {
+      "asset_id": "63862964",
+      "asset_name": "Printix",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0cd2adde83bb661026e89230feaad33b",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834425",
+      "asset_name": "RCN",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "15834642",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80d2adde83bb661026e89230feaad371",
+      "error_message": null
+    },
+    {
+      "asset_id": "66267119",
+      "asset_name": "Jamf Connect",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8cd2adde83bb661026e89230feaad383",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834648",
+      "asset_name": "Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "58d2adde83bb661026e89230feaad398",
+      "error_message": null
+    },
+    {
+      "asset_id": "18722585",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d8d2edde83bb661026e89230feaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834459",
+      "asset_name": "Lan 192.168.6.0 /24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e0d2edde83bb661026e89230feaad352",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834507",
+      "asset_name": "Wifi 192.168.7.0 /24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e4d2edde83bb661026e89230feaad37e",
+      "error_message": null
+    },
+    {
+      "asset_id": "15833786",
+      "asset_name": "Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "68d2edde83bb661026e89230feaad38b",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834106",
+      "asset_name": "Aerohive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f8d2edde83bb661026e89230feaad3cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834405",
+      "asset_name": "Cylance",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "15834108",
+      "asset_name": "Idaptive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0dd2211283fb661026e89230feaad311",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834111",
+      "asset_name": "RCN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4dd2211283fb661026e89230feaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834123",
+      "asset_name": "US- Telecenters",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "99d2211283fb661026e89230feaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834585",
+      "asset_name": "Mimecast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "51d2211283fb661026e89230feaad375",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834665",
+      "asset_name": "Carbonite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "95d2211283fb661026e89230feaad3d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "18722550",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "61d2611283fb661026e89230feaad31b",
+      "error_message": null
+    },
+    {
+      "asset_id": "56707384",
+      "asset_name": "Spanning Backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6dd2611283fb661026e89230feaad396",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834396",
+      "asset_name": "Aerohive Extreme Aerohive  Wi-Fi (SN:  0230180710050)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "18864487",
+      "asset_name": "Fortinet SN:  FGT81ETK18004788",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "59428713",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "39d2611283fb661026e89230feaad39d",
+      "error_message": null
+    },
+    {
+      "asset_id": "63231197",
+      "asset_name": "JAMF",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f9d2a11283fb661026e89230feaad30b",
+      "error_message": null
+    },
+    {
+      "asset_id": "63862918",
+      "asset_name": "Printix",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4ed2a11283fb661026e89230feaad322",
+      "error_message": null
+    },
+    {
+      "asset_id": "60633336",
+      "asset_name": "Sentinel One Control",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ded2a11283fb661026e89230feaad38f",
+      "error_message": null
+    },
+    {
+      "asset_id": "66264354",
+      "asset_name": "JAMF Mac Management Jamf Pro Latest Version",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "56d2a11283fb661026e89230feaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "66267086",
+      "asset_name": "JAMF Mac Management Jamf Connect Latest Version",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9ad2a11283fb661026e89230feaad3ca",
+      "error_message": null
+    },
+    {
+      "asset_id": "133702642",
+      "asset_name": "Cisco Ent Lic 3 Year",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "66d2e11283fb661026e89230feaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "156101492",
+      "asset_name": "Apple Business Token Connected to Jamf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2d2e11283fb661026e89230feaad341",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834411",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3ad2e11283fb661026e89230feaad35d",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834676",
+      "asset_name": "Carbonite Files Desktop and Documents backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bed2e11283fb661026e89230feaad3b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "25168811",
+      "asset_name": "JMC Capital Partners - Exchange",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c7d2e11283fb661026e89230feaad3e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "25168812",
+      "asset_name": "JMC Capital Partners - OneDrive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1fd2251283fb661026e89230feaad346",
+      "error_message": null
+    },
+    {
+      "asset_id": "25168813",
+      "asset_name": "JMC Capital Partners - SharePoint",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "13d2251283fb661026e89230feaad369",
+      "error_message": null
+    },
+    {
+      "asset_id": "56720302",
+      "asset_name": "Spanning Mailboxes Mailbox backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dbd2251283fb661026e89230feaad36e",
+      "error_message": null
+    },
+    {
+      "asset_id": "15834734",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "efd2251283fb661026e89230feaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "22015834",
+      "asset_name": "Cylance Endpoint Protection",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "22015864",
+      "asset_name": "Centrify",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22015961",
+      "asset_name": "sparembp2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22015974",
+      "asset_name": "aminahan-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22016080",
+      "asset_name": "scotts-macbook-air",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22016086",
+      "asset_name": "administrators-macbook-air",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22016100",
+      "asset_name": "jmc-dc01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22016087",
+      "asset_name": "jmc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22016114",
+      "asset_name": "mgianelli-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "22016113",
+      "asset_name": "nicoles-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22016195",
+      "asset_name": "gschultz-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22016125",
+      "asset_name": "larry-beros-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22016209",
+      "asset_name": "amandas-macbook-pro-2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22016248",
+      "asset_name": "jessicas-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22016249",
+      "asset_name": "jmc-cce-dc01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22016322",
+      "asset_name": "todds-air",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22016438",
+      "asset_name": "aminahan-lt2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "22442357",
+      "asset_name": "sparemba1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22861207",
+      "asset_name": "nverderame-mac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22861208",
+      "asset_name": "btamul-mac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "23212926",
+      "asset_name": "mdamelio-mac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "24179603",
+      "asset_name": "jcolton-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "24886625",
+      "asset_name": "cmoore-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "24231528",
+      "asset_name": "gburns-surface",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "31290139",
+      "asset_name": "minint-t9e5cv7",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "31044555",
+      "asset_name": "gburns-new-surface",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "33660203",
+      "asset_name": "mhaldoupiss-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22015874",
+      "asset_name": "Aerohive WAPs",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cce2651283fb661026e89230feaad364",
+      "error_message": null
+    },
+    {
+      "asset_id": "52062734",
+      "asset_name": "Sharp Printer",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "58e2651283fb661026e89230feaad37b",
+      "error_message": null
+    },
+    {
+      "asset_id": "22015875",
+      "asset_name": "Fortigate",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "54e2651283fb661026e89230feaad39e",
+      "error_message": null
+    },
+    {
+      "asset_id": "634237",
+      "asset_name": "jmccp.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "49e2a51283fb661026e89230feaad35b",
+      "error_message": null
+    },
+    {
+      "asset_id": 617986,
+      "asset_name": "apsp:0cfc5ec9-006c-4ab3-b596-75fcac730ee5",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "82e2e51283fb661026e89230feaad3a0",
+      "error_message": null
+    },
+    {
+      "asset_id": 231898,
+      "asset_name": "jmccp.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "86e2e51283fb661026e89230feaad3c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "3748914",
+      "asset_name": "JMC Capital Partners Runbook - AT Transfer",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d4f2691283fb661026e89230feaad3cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "5948326",
+      "asset_name": "site photos",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8f2a91283fb661026e89230feaad354",
+      "error_message": null
+    },
+    {
+      "asset_id": "3750049",
+      "asset_name": "JMC_-_How_to_publish_a_calendar",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d713e55283fb661026e89230feaad329",
+      "error_message": null
+    },
+    {
+      "asset_id": "16429471",
+      "asset_name": "jmc_mac_printix_unistall",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1823295283fb661026e89230feaad333",
+      "error_message": null
+    },
+    {
+      "asset_id": "11836434",
+      "asset_name": "How to reset Password for CyberArk/ Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fc23295283fb661026e89230feaad3e6",
+      "error_message": null
+    },
+    {
+      "asset_id": "4442128",
+      "asset_name": "JMC_Offboarding_checklist",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8123695283fb661026e89230feaad31a",
+      "error_message": null
+    },
+    {
+      "asset_id": "15988452",
+      "asset_name": "User Offboarding Guide - Non-Domain",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fd23695283fb661026e89230feaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "15988454",
+      "asset_name": "Mac Setup Guide - JMC Management, LLC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ca23695283fb661026e89230feaad3f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "15988455",
+      "asset_name": "New User Onboarding Guide - JMC Management, LLC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "de23a95283fb661026e89230feaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "16106858",
+      "asset_name": "Windows Setup Guide - JMC Management, LLC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e623e95283fb661026e89230feaad321",
+      "error_message": null
+    },
+    {
+      "asset_id": "4936671",
+      "asset_name": "Adobe Fails to Open files (spinning)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e23e95283fb661026e89230feaad3b6",
+      "error_message": null
+    },
+    {
+      "asset_id": "6504277",
+      "asset_name": "Holiday_Calendar_December_2020",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cb23e95283fb661026e89230feaad3a4",
+      "error_message": null
+    },
+    {
+      "asset_id": "12827582",
+      "asset_name": "Jamf - How to Reset Mac User's Password Remotely",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b232d5283fb661026e89230feaad39b",
+      "error_message": null
+    },
+    {
+      "asset_id": "12827685",
+      "asset_name": "Jamf - How to Send Terminal Commands to Macs through Jamft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5f236d5283fb661026e89230feaad377",
+      "error_message": null
+    },
+    {
+      "asset_id": "12843089",
+      "asset_name": "Jamf - Send FileVault key reissue Policy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2f236d5283fb661026e89230feaad3a8",
+      "error_message": null
+    },
+    {
+      "asset_id": "12939624",
+      "asset_name": "Jamf - How to log in to Macs running Jamf Connect using Core Local Account",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7f236d5283fb661026e89230feaad3ca",
+      "error_message": null
+    },
+    {
+      "asset_id": "13459792",
+      "asset_name": "FileVault Rollout",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0c33ad5283fb661026e89230feaad341",
+      "error_message": null
+    },
+    {
+      "asset_id": "13459820",
+      "asset_name": "How to Enable FileVault",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1433ad5283fb661026e89230feaad399",
+      "error_message": null
+    },
+    {
+      "asset_id": "13459829",
+      "asset_name": "How to Enroll your Mac to Jamf Pro",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2e33219283fb661026e89230feaad38f",
+      "error_message": null
+    },
+    {
+      "asset_id": "13459831",
+      "asset_name": "Jamf Connect Rollout",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ee43659283fb661026e89230feaad376",
+      "error_message": null
+    },
+    {
+      "asset_id": "13459835",
+      "asset_name": "Jamf Pro Rollout for macOS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3243659283fb661026e89230feaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "15799815",
+      "asset_name": "How to update Jamf Connect license",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3643a59283fb661026e89230feaad345",
+      "error_message": null
+    },
+    {
+      "asset_id": "13003498",
+      "asset_name": "InstallingPrintixandPrinters",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f43a59283fb661026e89230feaad387",
+      "error_message": null
+    },
+    {
+      "asset_id": "16771834",
+      "asset_name": "JMC Management, LLC Office Location",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4b53699283fb661026e89230feaad3ca",
+      "error_message": null
+    },
+    {
+      "asset_id": "11782477",
+      "asset_name": "New Document",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8463a99283fb661026e89230feaad3f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755070",
+      "asset_name": "How to Add Calendars to Cell Phones.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c63e99283fb661026e89230feaad35c",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755071",
+      "asset_name": "Create iCal link (publish calendar).docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b463e99283fb661026e89230feaad37a",
+      "error_message": null
+    },
+    {
+      "asset_id": "16429452",
+      "asset_name": "jmc printix unistall for mac.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c163e99283fb661026e89230feaad3ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060573",
+      "asset_name": "JMC \u2013 IT Laundry List - BN additions.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d1632d9283fb661026e89230feaad344",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060574",
+      "asset_name": "JMC  IT Laundry List - SR additions - 10_25_17.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "69632d9283fb661026e89230feaad39e",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060576",
+      "asset_name": "JMC Capital Partners - 1-Page Support Document.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f1632d9283fb661026e89230feaad3fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060577",
+      "asset_name": "JMC_Capital_Partners- Onboarding_Doc.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1e636d9283fb661026e89230feaad38e",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060578",
+      "asset_name": "JMC_Capital_Partners - Welcome_Letter.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a636d9283fb661026e89230feaad3f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060579",
+      "asset_name": "JMC Capital Partners - 1-Page Support Document.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c363ad9283fb661026e89230feaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060580",
+      "asset_name": "JMC_Capital_Partners - Welcome_Letter.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b63ad9283fb661026e89230feaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060581",
+      "asset_name": "JMCCP Account Termination Letter To PlumChoice.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b763ed9283fb661026e89230feaad30b",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060582",
+      "asset_name": "JMC_Capital_Partners- Onboarding_Doc.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc73ed9283fb661026e89230feaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060583",
+      "asset_name": "JMC \u2013 IT List - Client additions - 10.25.2017.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9073ed9283fb661026e89230feaad384",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060584",
+      "asset_name": "JMC \u2013 IT Laundry List.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ec73ed9283fb661026e89230feaad3f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755080",
+      "asset_name": "JMC Captial MAC VPN Setup.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c97321d283fb661026e89230feaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755081",
+      "asset_name": "JMC Captial MAC VPN Setup - Shared Secret JMCCapitalVPN.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "997321d283fb661026e89230feaad357",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755082",
+      "asset_name": "Windows10VPN.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a97321d283fb661026e89230feaad3b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755076",
+      "asset_name": "Centrify - How to set up your password - JMC.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c67361d283fb661026e89230feaad3b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755078",
+      "asset_name": "Centrify - How to set up your password - JMC.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5a73a1d283fb661026e89230feaad32d",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755072",
+      "asset_name": "Egnyte - How to set up your drive - JMC.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6e73a1d283fb661026e89230feaad385",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755073",
+      "asset_name": "Egnyte - Web Portal Guide - JMC.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf73a1d283fb661026e89230feaad3bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755074",
+      "asset_name": "Egnyte - Mobile App.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9773e1d283fb661026e89230feaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755075",
+      "asset_name": "Egnyte - How to set up your drive - JMC.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7f73e1d283fb661026e89230feaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755077",
+      "asset_name": "Egnyte - Mobile App.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "848325d283fb661026e89230feaad325",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755079",
+      "asset_name": "Egnyte - Web Portal Guide - JMC.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "988325d283fb661026e89230feaad3ad",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060629",
+      "asset_name": "Egnyte Mobile Login.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a48365d283fb661026e89230feaad317",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060625",
+      "asset_name": "JMC Mimecast Documentation.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "098365d283fb661026e89230feaad39d",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060626",
+      "asset_name": "JMC Mimecast Documentation.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d98365d283fb661026e89230feaad3f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060639",
+      "asset_name": "JMC Employee Network Access_06.15.2018.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d83a5d283fb661026e89230feaad330",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060648",
+      "asset_name": "JMC Capital Partners - Employee Roster.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4a83a5d283fb661026e89230feaad3ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060649",
+      "asset_name": "JMC Employee Network Access_01.12.2018.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "de83e5d283fb661026e89230feaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755087",
+      "asset_name": "Centrify Identity Service Purchase Notification for Coretelligent LLC-PO#062518_Centrify-UPDATES.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aa83e5d283fb661026e89230feaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "3755086",
+      "asset_name": "Thank you for Aerohive purchase! - PO# 25417170.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f8329d283fb661026e89230feaad34b",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060837",
+      "asset_name": "Password cover+reminder.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db8329d283fb661026e89230feaad3c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "19892752",
+      "asset_name": "Welcome_New_User_Template.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "778369d283fb661026e89230feaad335",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060698",
+      "asset_name": "Contact Information.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4c9369d283fb661026e89230feaad364",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060709",
+      "asset_name": "PlumChoice - IT Invoice Detail1.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "549369d283fb661026e89230feaad3a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060710",
+      "asset_name": "Contact Information.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e893a9d283fb661026e89230feaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060711",
+      "asset_name": "PlumChoice - JMC Password List - Document Password.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0993a9d283fb661026e89230feaad393",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060712",
+      "asset_name": "PlumChoice - JMC Password List.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d593a9d283fb661026e89230feaad3d4",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060717",
+      "asset_name": "It services and documentation.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed93e9d283fb661026e89230feaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060721",
+      "asset_name": "Welcome Kevin Wood.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8a93e9d283fb661026e89230feaad3a4",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060830",
+      "asset_name": "User Template - Gregory Schultz.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2693e9d283fb661026e89230feaad3c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060831",
+      "asset_name": "Welcome New User Template - Michael D'Amelio.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3e93e9d283fb661026e89230feaad3ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060833",
+      "asset_name": "User Template - Michael Gianelli.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f932dd283fb661026e89230feaad354",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060802",
+      "asset_name": "20190122_142445563_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d793e9d283fb661026e89230feaad3f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060804",
+      "asset_name": "20190122_143012771_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "88a32dd283fb661026e89230feaad3b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060807",
+      "asset_name": "20190122_142418617_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20a3add283fb661026e89230feaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060808",
+      "asset_name": "20190122_142830857_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dda3add283fb661026e89230feaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060809",
+      "asset_name": "20190122_142536202_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "caa3add283fb661026e89230feaad3f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060810",
+      "asset_name": "20190122_142822435_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7aa3edd283fb661026e89230feaad3be",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060811",
+      "asset_name": "20190122_142512304_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dfa3a11683fb661026e89230feaad3ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060812",
+      "asset_name": "20190122_142526263_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "44b3251683fb661026e89230feaad36e",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060815",
+      "asset_name": "20190122_142429076_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a8b3651683fb661026e89230feaad338",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060816",
+      "asset_name": "20190122_142432545_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "11b3651683fb661026e89230feaad396",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060817",
+      "asset_name": "20190122_142456010_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "39b3251683fb661026e89230feaad32c",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060818",
+      "asset_name": "20190122_142542771_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e2b3a51683fb661026e89230feaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060819",
+      "asset_name": "20190122_142547930_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d7b3a51683fb661026e89230feaad372",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060754",
+      "asset_name": "23rd floor - office entrance.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fbb3a51683fb661026e89230feaad3bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060755",
+      "asset_name": "23rdfloor - office entrance 2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "14c3e51683fb661026e89230feaad332",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060759",
+      "asset_name": "20190122_161504907_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4dc3e51683fb661026e89230feaad3a4",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060760",
+      "asset_name": "20190122_155908766_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a1c3e51683fb661026e89230feaad3f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060763",
+      "asset_name": "network closet.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9ac3291683fb661026e89230feaad30e",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060768",
+      "asset_name": "network closet network wiring.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "47c3291683fb661026e89230feaad368",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060776",
+      "asset_name": "20190122_161612694_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "67c3291683fb661026e89230feaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060784",
+      "asset_name": "20190122_155903094_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "58d3691683fb661026e89230feaad334",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060788",
+      "asset_name": "20190122_161524291_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "51d3691683fb661026e89230feaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060789",
+      "asset_name": "copy room & network closet.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "75d3691683fb661026e89230feaad3bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060791",
+      "asset_name": "20190122_161602618_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a2d3691683fb661026e89230feaad38e",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060792",
+      "asset_name": "20190122_161608023_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c7d3a91683fb661026e89230feaad332",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060794",
+      "asset_name": "20190122_161605954_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7fd3a91683fb661026e89230feaad366",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060796",
+      "asset_name": "network closet (2).jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "18e3691683fb661026e89230feaad3e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060797",
+      "asset_name": "20190122_161514049_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c9e3a91683fb661026e89230feaad30a",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060798",
+      "asset_name": "20190122_155817390_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a1e3e91683fb661026e89230feaad395",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060820",
+      "asset_name": "Aerohive Planning Checklist - JMC.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "52e3e91683fb661026e89230feaad34e",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060821",
+      "asset_name": "Re Cogent Quote Client confirmation re Second ISP not needed.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "62e3e91683fb661026e89230feaad3cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060822",
+      "asset_name": "Floor Plan - 2019_ 01.08 - JMC MA_BOSTON_53 STATE STREET_23rd FL-A1 - Overall1 (002).pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2e3e91683fb661026e89230feaad3f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060823",
+      "asset_name": "Biolabs Plans_PDFA102 - LEVEL 02 CONSTRUCTION PLAN (space only).pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c3e32d1683fb661026e89230feaad3e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060825",
+      "asset_name": "Aerohive Planning Checklist - JMC.XLSX",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a3e36d1683fb661026e89230feaad339",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060826",
+      "asset_name": "JMC_1547141882536.tar.gz",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7fe36d1683fb661026e89230feaad34b",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060827",
+      "asset_name": "JMC Heatmap.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "08f36d1683fb661026e89230feaad3c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060828",
+      "asset_name": "Floor Plan - 2019_ 01.08 - JMC MA_BOSTON_53 STATE STREET_23rd FL-A1 - Ov....pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a0f36d1683fb661026e89230feaad3f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060841",
+      "asset_name": "JMC New User Doc -110518.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "34f3ad1683fb661026e89230feaad381",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060842",
+      "asset_name": "JMC New User Doc - 061818.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "89f3ad1683fb661026e89230feaad3b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060843",
+      "asset_name": "JMC New User Doc - 061818.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "91f3ad1683fb661026e89230feaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060844",
+      "asset_name": "JMC New User Doc.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "35f3ed1683fb661026e89230feaad337",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060845",
+      "asset_name": "JMC New Hire Checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "42f3ed1683fb661026e89230feaad378",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060846",
+      "asset_name": "Don't Use, i think someone pulled this shit out of the stone ages - PC Build Checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5af3ed1683fb661026e89230feaad393",
+      "error_message": null
+    },
+    {
+      "asset_id": "4060847",
+      "asset_name": "JMC New User Doc.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "62f3ed1683fb661026e89230feaad3af",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818064",
+      "asset_name": "JMC Data Destruction Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0ff3215683fb661026e89230feaad308",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818065",
+      "asset_name": "JMC Incident Response Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "93f3215683fb661026e89230feaad33d",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818066",
+      "asset_name": "JMC Cyber Security Standards.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ff3215683fb661026e89230feaad37a",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818067",
+      "asset_name": "JMC Access Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "33f3215683fb661026e89230feaad38f",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818068",
+      "asset_name": "JMC Written Information Security Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc04215683fb661026e89230feaad377",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818069",
+      "asset_name": "JMC Risk Assessment Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e004615683fb661026e89230feaad381",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818070",
+      "asset_name": "JMC Removable Media Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7004615683fb661026e89230feaad3e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818071",
+      "asset_name": "JMC Password Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4504a15683fb661026e89230feaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818072",
+      "asset_name": "JMC Mobile Device Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2504a15683fb661026e89230feaad38a",
+      "error_message": null
+    },
+    {
+      "asset_id": "10666889",
+      "asset_name": "JMC IT Business Continuity.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7504a15683fb661026e89230feaad3db",
+      "error_message": null
+    },
+    {
+      "asset_id": "11194224",
+      "asset_name": "SpanningEndUserGuide0365.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9204a15683fb661026e89230feaad3ce",
+      "error_message": null
+    },
+    {
+      "asset_id": "11783365",
+      "asset_name": "JMC Capital Partners S1 support handoff doc.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3e04e15683fb661026e89230feaad36c",
+      "error_message": null
+    },
+    {
+      "asset_id": "13529607",
+      "asset_name": "JMC Azure AD migration.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf04255683fb661026e89230feaad308",
+      "error_message": null
+    },
+    {
+      "asset_id": "12843094",
+      "asset_name": "New Document",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5704255683fb661026e89230feaad33d",
+      "error_message": null
+    },
+    {
+      "asset_id": "15799811",
+      "asset_name": "New Document",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b04255683fb661026e89230feaad38a",
+      "error_message": null
+    },
+    {
+      "asset_id": "13432855",
+      "asset_name": "IMG_2640.HEIC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bb04255683fb661026e89230feaad3c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "13432856",
+      "asset_name": "IMG_2637.HEIC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5014655683fb661026e89230feaad32a",
+      "error_message": null
+    },
+    {
+      "asset_id": "13432858",
+      "asset_name": "IMG_2638.HEIC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6014655683fb661026e89230feaad369",
+      "error_message": null
+    },
+    {
+      "asset_id": "13432859",
+      "asset_name": "IMG_2635.HEIC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8514655683fb661026e89230feaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "13432860",
+      "asset_name": "IMG_2641.HEIC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2914e55683fb661026e89230feaad354",
+      "error_message": null
+    },
+    {
+      "asset_id": "13432861",
+      "asset_name": "IMG_2639.HEIC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0614295683fb661026e89230feaad35b",
+      "error_message": null
+    },
+    {
+      "asset_id": "13432862",
+      "asset_name": "IMG_2636.HEIC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9a14695683fb661026e89230feaad33d",
+      "error_message": null
+    },
+    {
+      "asset_id": "16771784",
+      "asset_name": "New Document",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f214a95683fb661026e89230feaad30e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_155903094_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f03615283fb661026e89230feaad359",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_155817390_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7303615283fb661026e89230feaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "23rd_floor_-_office_entrance.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf03a15283fb661026e89230feaad318",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161612694_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0813a15283fb661026e89230feaad321",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "Jnana_VPN.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc13a15283fb661026e89230feaad38d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161524291_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc13a15283fb661026e89230feaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_155908766_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1013a15283fb661026e89230feaad37b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161602618_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1413a15283fb661026e89230feaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161514049_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a813e15283fb661026e89230feaad325",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "copy_room___network_closet.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6c13e15283fb661026e89230feaad378",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "network_closet_(2).jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b013e15283fb661026e89230feaad3db",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161605954_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7813e15283fb661026e89230feaad3b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "network_closet_network_wiring.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8913e15283fb661026e89230feaad3c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_155903094_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f03615283fb661026e89230feaad359",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_155817390_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7303615283fb661026e89230feaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "23rd_floor_-_office_entrance.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf03a15283fb661026e89230feaad318",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161612694_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0813a15283fb661026e89230feaad321",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "Jnana_VPN.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc13a15283fb661026e89230feaad38d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161524291_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc13a15283fb661026e89230feaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_155908766_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1013a15283fb661026e89230feaad37b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161602618_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1413a15283fb661026e89230feaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161514049_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a813e15283fb661026e89230feaad325",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "copy_room___network_closet.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6c13e15283fb661026e89230feaad378",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "network_closet_(2).jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b013e15283fb661026e89230feaad3db",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161605954_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7813e15283fb661026e89230feaad3b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "network_closet_network_wiring.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8913e15283fb661026e89230feaad3c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_155903094_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f03615283fb661026e89230feaad359",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_155817390_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7303615283fb661026e89230feaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "23rd_floor_-_office_entrance.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf03a15283fb661026e89230feaad318",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161612694_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0813a15283fb661026e89230feaad321",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "Jnana_VPN.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc13a15283fb661026e89230feaad38d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161524291_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc13a15283fb661026e89230feaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_155908766_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1013a15283fb661026e89230feaad37b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161602618_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1413a15283fb661026e89230feaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161514049_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a813e15283fb661026e89230feaad325",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "copy_room___network_closet.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6c13e15283fb661026e89230feaad378",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "network_closet_(2).jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b013e15283fb661026e89230feaad3db",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "20190122_161605954_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7813e15283fb661026e89230feaad3b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5948326",
+      "asset_name": "network_closet_network_wiring.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8913e15283fb661026e89230feaad3c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "3750049",
+      "asset_name": "6235442",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "3750049",
+      "asset_name": "6235441",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_3755070",
+      "asset_name": "How_to_Add_Calendars_to_Cell_Phones.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a863e99283fb661026e89230feaad371",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3755071",
+      "asset_name": "Create_iCal_link_(publish_calendar).docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c63e99283fb661026e89230feaad3cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16429452",
+      "asset_name": "jmc_printix_unistall_for_mac.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "81632d9283fb661026e89230feaad327",
+      "error_message": null
+    },
+    {
+      "asset_id": "16429471",
+      "asset_name": "24062000",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_4060573",
+      "asset_name": "JMC_\u0393\u00c7\u00f4_IT_Laundry_List_-_BN_additions.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2d632d9283fb661026e89230feaad369",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060574",
+      "asset_name": "JMC__IT_Laundry_List_-_SR_additions_-_10_25_17.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3d632d9283fb661026e89230feaad3e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060576",
+      "asset_name": "JMC_Capital_Partners_-_1-Page_Support_Document.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d2636d9283fb661026e89230feaad339",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060577",
+      "asset_name": "JMC_Capital_Partners-_Onboarding_Doc.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "26636d9283fb661026e89230feaad3a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060578",
+      "asset_name": "JMC_Capital_Partners_-_Welcome_Letter.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7663ad9283fb661026e89230feaad30d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060579",
+      "asset_name": "JMC_Capital_Partners_-_1-Page_Support_Document.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d363ad9283fb661026e89230feaad395",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060580",
+      "asset_name": "JMC_Capital_Partners_-_Welcome_Letter.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef63ed9283fb661026e89230feaad303",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060581",
+      "asset_name": "JMCCP_Account_Termination_Letter_To_PlumChoice.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f763ed9283fb661026e89230feaad317",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060582",
+      "asset_name": "JMC_Capital_Partners-_Onboarding_Doc.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d873ed9283fb661026e89230feaad37c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060583",
+      "asset_name": "JMC_\u0393\u00c7\u00f4_IT_List_-_Client_additions_-_10.25.2017.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a873ed9283fb661026e89230feaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060584",
+      "asset_name": "JMC_\u0393\u00c7\u00f4_IT_Laundry_List.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bc7321d283fb661026e89230feaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3755080",
+      "asset_name": "JMC_Captial_MAC_VPN_Setup.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c97321d283fb661026e89230feaad335",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3755081",
+      "asset_name": "JMC_Captial_MAC_VPN_Setup_-_Shared_Secret_JMCCapitalVPN.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "697321d283fb661026e89230feaad3a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3755082",
+      "asset_name": "Windows10VPN.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "797321d283fb661026e89230feaad3d5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3755076",
+      "asset_name": "Centrify_-_How_to_set_up_your_password_-_JMC.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4673a1d283fb661026e89230feaad310",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3755078",
+      "asset_name": "Centrify_-_How_to_set_up_your_password_-_JMC.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e273a1d283fb661026e89230feaad367",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3755072",
+      "asset_name": "Egnyte_-_How_to_set_up_your_drive_-_JMC.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3a73a1d283fb661026e89230feaad3ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3755073",
+      "asset_name": "Egnyte_-_Web_Portal_Guide_-_JMC.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5f73e1d283fb661026e89230feaad348",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3755074",
+      "asset_name": "Egnyte_-_Mobile_App.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f73e1d283fb661026e89230feaad3b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3755075",
+      "asset_name": "Egnyte_-_How_to_set_up_your_drive_-_JMC.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bb73e1d283fb661026e89230feaad3f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3755077",
+      "asset_name": "Egnyte_-_Mobile_App.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d08325d283fb661026e89230feaad3a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3755079",
+      "asset_name": "Egnyte_-_Web_Portal_Guide_-_JMC.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a08325d283fb661026e89230feaad3c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060629",
+      "asset_name": "Egnyte_Mobile_Login.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c8365d283fb661026e89230feaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060625",
+      "asset_name": "JMC_Mimecast_Documentation.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "898365d283fb661026e89230feaad3c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060626",
+      "asset_name": "JMC_Mimecast_Documentation.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2983a5d283fb661026e89230feaad310",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060639",
+      "asset_name": "JMC_Employee_Network_Access_06.15.2018.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b183a5d283fb661026e89230feaad39d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060648",
+      "asset_name": "JMC_Capital_Partners_-_Employee_Roster.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8e83e5d283fb661026e89230feaad318",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060649",
+      "asset_name": "JMC_Employee_Network_Access_01.12.2018.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e283e5d283fb661026e89230feaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3755087",
+      "asset_name": "Centrify_Identity_Service_Purchase_Notification_for_Coretelligent_LLC-PO_062518_Centrify-UPDATES.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d534299683fb661026e89230feaad308",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_3755086",
+      "asset_name": "Thank_you_for_Aerohive_purchase!_-_PO__25417170.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db8329d283fb661026e89230feaad3a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060837",
+      "asset_name": "Password_cover_reminder.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "638369d283fb661026e89230feaad311",
+      "error_message": null
+    },
+    {
+      "asset_id": "4442128",
+      "asset_name": "6956013",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_19892752",
+      "asset_name": "Welcome_New_User_Template.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f78369d283fb661026e89230feaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060698",
+      "asset_name": "Contact_Information.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d49369d283fb661026e89230feaad3a4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060709",
+      "asset_name": "PlumChoice_-_IT_Invoice_Detail1.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c9369d283fb661026e89230feaad3f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060710",
+      "asset_name": "Contact_Information.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b493a9d283fb661026e89230feaad369",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060711",
+      "asset_name": "PlumChoice_-_JMC_Password_List_-_Document_Password.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0593a9d283fb661026e89230feaad3cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060712",
+      "asset_name": "PlumChoice_-_JMC_Password_List.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1d93e9d283fb661026e89230feaad312",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060717",
+      "asset_name": "It_services_and_documentation.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f993e9d283fb661026e89230feaad36d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060721",
+      "asset_name": "Welcome_Kevin_Wood.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "da93e9d283fb661026e89230feaad391",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060830",
+      "asset_name": "User_Template_-_Gregory_Schultz.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea932dd283fb661026e89230feaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060831",
+      "asset_name": "Welcome_New_User_Template_-_Michael_D'Amelio.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fa932dd283fb661026e89230feaad340",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060833",
+      "asset_name": "User_Template_-_Michael_Gianelli.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5b932dd283fb661026e89230feaad390",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060802",
+      "asset_name": "20190122_142445563_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f932dd283fb661026e89230feaad3c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060804",
+      "asset_name": "20190122_143012771_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c0a36dd283fb661026e89230feaad33a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060807",
+      "asset_name": "20190122_142418617_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b8a3add283fb661026e89230feaad35c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060808",
+      "asset_name": "20190122_142830857_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a5a3edd283fb661026e89230feaad30f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060809",
+      "asset_name": "20190122_142536202_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d6a3211683fb661026e89230feaad317",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060810",
+      "asset_name": "20190122_142822435_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cba3a11683fb661026e89230feaad3a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060811",
+      "asset_name": "20190122_142512304_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a7a3611683fb661026e89230feaad369",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060812",
+      "asset_name": "20190122_142526263_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "90b3251683fb661026e89230feaad378",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060815",
+      "asset_name": "20190122_142429076_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7cb3651683fb661026e89230feaad38d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060816",
+      "asset_name": "20190122_142432545_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e1b3651683fb661026e89230feaad3d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060817",
+      "asset_name": "20190122_142456010_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4eb3a51683fb661026e89230feaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060818",
+      "asset_name": "20190122_142542771_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "feb3a51683fb661026e89230feaad35b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060819",
+      "asset_name": "20190122_142547930_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "97b3a51683fb661026e89230feaad3d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060754",
+      "asset_name": "23rd_floor_-_office_entrance.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "88c3e51683fb661026e89230feaad306",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060755",
+      "asset_name": "23rdfloor_-_office_entrance_2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a4c3e51683fb661026e89230feaad331",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060759",
+      "asset_name": "20190122_161504907_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d1c3e51683fb661026e89230feaad3b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060760",
+      "asset_name": "20190122_155908766_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "46c3291683fb661026e89230feaad31b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060763",
+      "asset_name": "network_closet.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aac3291683fb661026e89230feaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060768",
+      "asset_name": "network_closet_network_wiring.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "57c3291683fb661026e89230feaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060776",
+      "asset_name": "20190122_161612694_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3bc3291683fb661026e89230feaad3fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060784",
+      "asset_name": "20190122_155903094_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0d3691683fb661026e89230feaad341",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060788",
+      "asset_name": "20190122_161524291_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e1d3a51683fb661026e89230feaad38b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060789",
+      "asset_name": "copy_room___network_closet.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c6d3691683fb661026e89230feaad3dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060791",
+      "asset_name": "20190122_161602618_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3ad3a91683fb661026e89230feaad33b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060792",
+      "asset_name": "20190122_161608023_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1fd3a91683fb661026e89230feaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060794",
+      "asset_name": "20190122_161605954_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "04e3a91683fb661026e89230feaad3b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060796",
+      "asset_name": "network_closet_(2).jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a0e3a91683fb661026e89230feaad3d5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060797",
+      "asset_name": "20190122_161514049_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "19e3e91683fb661026e89230feaad302",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060798",
+      "asset_name": "20190122_155817390_iOS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "31e3e91683fb661026e89230feaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060820",
+      "asset_name": "Aerohive_Planning_Checklist_-_JMC.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ae3e91683fb661026e89230feaad3d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060821",
+      "asset_name": "Re_Cogent_Quote_Client_confirmation_re_Second_ISP_not_needed.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eee3e91683fb661026e89230feaad3eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060822",
+      "asset_name": "Floor_Plan_-_2019__01.08_-_JMC_MA_BOSTON_53_STATE_STREET_23rd_FL-A1_-_Overall1_(002).pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "03e32d1683fb661026e89230feaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060823",
+      "asset_name": "Biolabs_Plans_PDFA102_-_LEVEL_02_CONSTRUCTION_PLAN_(space_only).pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9be36d1683fb661026e89230feaad303",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060825",
+      "asset_name": "Aerohive_Planning_Checklist_-_JMC.XLSX",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6fe36d1683fb661026e89230feaad35f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060826",
+      "asset_name": "JMC_1547141882536.tar.gz",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80f36d1683fb661026e89230feaad37e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060827",
+      "asset_name": "JMC_Heatmap.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d0f36d1683fb661026e89230feaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060828",
+      "asset_name": "Floor_Plan_-_2019__01.08_-_JMC_MA_BOSTON_53_STATE_STREET_23rd_FL-A1_-_Ov....pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "68f3ad1683fb661026e89230feaad34c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060841",
+      "asset_name": "JMC_New_User_Doc_-110518.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b8f3ad1683fb661026e89230feaad39a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060842",
+      "asset_name": "JMC_New_User_Doc_-_061818.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "95f3ad1683fb661026e89230feaad3dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060843",
+      "asset_name": "JMC_New_User_Doc_-_061818.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2df3ad1683fb661026e89230feaad3f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060844",
+      "asset_name": "JMC_New_User_Doc.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fdf3ed1683fb661026e89230feaad345",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060845",
+      "asset_name": "JMC_New_Hire_Checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9af3ed1683fb661026e89230feaad386",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060846",
+      "asset_name": "Don't_Use__i_think_someone_pulled_this_shit_out_of_the_stone_ages_-_PC_Build_Checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aef3ed1683fb661026e89230feaad3ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4060847",
+      "asset_name": "JMC_New_User_Doc.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2f3ed1683fb661026e89230feaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818064",
+      "asset_name": "JMC_Data_Destruction_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8ff3215683fb661026e89230feaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818065",
+      "asset_name": "JMC_Incident_Response_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6bf3215683fb661026e89230feaad362",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818066",
+      "asset_name": "JMC_Cyber_Security_Standards.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bff3215683fb661026e89230feaad396",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818067",
+      "asset_name": "JMC_Access_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0804615683fb661026e89230feaad306",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818068",
+      "asset_name": "JMC_Written_Information_Security_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1404615683fb661026e89230feaad363",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818069",
+      "asset_name": "JMC_Risk_Assessment_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b804615683fb661026e89230feaad371",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818070",
+      "asset_name": "JMC_Removable_Media_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd04615683fb661026e89230feaad3f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818071",
+      "asset_name": "JMC_Password_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d504a15683fb661026e89230feaad328",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818072",
+      "asset_name": "JMC_Mobile_Device_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2904a15683fb661026e89230feaad3a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10666889",
+      "asset_name": "JMC_IT_Business_Continuity.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c604a15683fb661026e89230feaad3f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11194224",
+      "asset_name": "SpanningEndUserGuide0365.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aa04e15683fb661026e89230feaad371",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11783365",
+      "asset_name": "JMC_Capital_Partners_S1_support_handoff_doc.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fe04e15683fb661026e89230feaad37a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13529607",
+      "asset_name": "JMC_Azure_AD_migration.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9704255683fb661026e89230feaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "13459820",
+      "asset_name": "19313663",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459820",
+      "asset_name": "19313661",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459820",
+      "asset_name": "19313660",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459820",
+      "asset_name": "19313664",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459820",
+      "asset_name": "19313659",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459820",
+      "asset_name": "19313662",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459829",
+      "asset_name": "19313685",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459829",
+      "asset_name": "19313688",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459829",
+      "asset_name": "19313684",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459829",
+      "asset_name": "19313692",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459829",
+      "asset_name": "19313683",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459829",
+      "asset_name": "19313681",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459829",
+      "asset_name": "19313682",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459829",
+      "asset_name": "19313687",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459829",
+      "asset_name": "19313689",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459829",
+      "asset_name": "19313690",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459829",
+      "asset_name": "19313686",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459829",
+      "asset_name": "19313691",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13003498",
+      "asset_name": "18585705",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13003498",
+      "asset_name": "18585706",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13003498",
+      "asset_name": "18585701",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13003498",
+      "asset_name": "18585710",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13003498",
+      "asset_name": "18585699",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13003498",
+      "asset_name": "18585708",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13003498",
+      "asset_name": "18585702",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13003498",
+      "asset_name": "18585704",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13003498",
+      "asset_name": "18585709",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13003498",
+      "asset_name": "18585711",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13003498",
+      "asset_name": "18585707",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_13432855",
+      "asset_name": "IMG_2640.HEIC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c814255683fb661026e89230feaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13432856",
+      "asset_name": "IMG_2637.HEIC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c14255683fb661026e89230feaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13432858",
+      "asset_name": "IMG_2638.HEIC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b014655683fb661026e89230feaad322",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13432859",
+      "asset_name": "IMG_2635.HEIC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5114a55683fb661026e89230feaad3e6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13432860",
+      "asset_name": "IMG_2641.HEIC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b114e55683fb661026e89230feaad3bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13432861",
+      "asset_name": "IMG_2639.HEIC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4e14295683fb661026e89230feaad393",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13432862",
+      "asset_name": "IMG_2636.HEIC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e214695683fb661026e89230feaad38a",
+      "error_message": null
+    },
+    {
+      "asset_id": "16771834",
+      "asset_name": "25703137",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "16771834",
+      "asset_name": "25703138",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    }
+  ]
+}

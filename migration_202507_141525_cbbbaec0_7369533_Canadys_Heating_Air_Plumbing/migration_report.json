@@ -1,0 +1,1050 @@
+{
+  "session_id": "migration_202507_141525_cbbbaec0",
+  "organization": "Canady's Heating Air Plumbing",
+  "timestamp": "2025-09-07T14:19:37.139436",
+  "total_processed": 130,
+  "successful": 80,
+  "failed": 50,
+  "results": [
+    {
+      "asset_id": "69042268",
+      "asset_name": "canadys.local canadys",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a56a2d5a477b66103c5e88f4116d43ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "69042246",
+      "asset_name": "canadys-guest canadys-guest",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d6a2d5a477b66103c5e88f4116d432d",
+      "error_message": null
+    },
+    {
+      "asset_id": "69046982",
+      "asset_name": "Cloud Provider",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "316a2d5a477b66103c5e88f4116d43db",
+      "error_message": null
+    },
+    {
+      "asset_id": "69042244",
+      "asset_name": "canadys canadys",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "656a2d5a477b66103c5e88f4116d43d4",
+      "error_message": null
+    },
+    {
+      "asset_id": "73576509",
+      "asset_name": "3cx Phone for Windows",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9e6aad5a477b66103c5e88f4116d43a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "73576516",
+      "asset_name": "Adobe Acrobat",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "be6aed5a477b66103c5e88f4116d4393",
+      "error_message": null
+    },
+    {
+      "asset_id": "73576633",
+      "asset_name": "Microsoft365",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "73576518",
+      "asset_name": "Adobe Indesign",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "766aed5a477b66103c5e88f4116d43cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "73576520",
+      "asset_name": "Adobe Photoshop",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e6aed5a477b66103c5e88f4116d43e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "73576627",
+      "asset_name": "ESC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "df6a619a477b66103c5e88f4116d43bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "73576683",
+      "asset_name": "ServiceTitan",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a76aa19a477b66103c5e88f4116d4348",
+      "error_message": null
+    },
+    {
+      "asset_id": "73576688",
+      "asset_name": "Servman",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a36aa19a477b66103c5e88f4116d439e",
+      "error_message": null
+    },
+    {
+      "asset_id": "73576679",
+      "asset_name": "Sentinel One",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e36aa19a477b66103c5e88f4116d4340",
+      "error_message": null
+    },
+    {
+      "asset_id": "73576691",
+      "asset_name": "SuccessWare21",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d47a259a477b66103c5e88f4116d43be",
+      "error_message": null
+    },
+    {
+      "asset_id": "84561326",
+      "asset_name": "Intune Endpoint Manager",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "687a659a477b66103c5e88f4116d4378",
+      "error_message": null
+    },
+    {
+      "asset_id": "73576696",
+      "asset_name": "TimeForce II",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "687a659a477b66103c5e88f4116d437c",
+      "error_message": null
+    },
+    {
+      "asset_id": "73576703",
+      "asset_name": "Vehicle Fleet Manager 3.0",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "287a659a477b66103c5e88f4116d4389",
+      "error_message": null
+    },
+    {
+      "asset_id": "84561374",
+      "asset_name": "Microsoft Authenticator",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd7aa59a477b66103c5e88f4116d43d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "84561391",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6d7a299a477b66103c5e88f4116d4301",
+      "error_message": null
+    },
+    {
+      "asset_id": "104453421",
+      "asset_name": "Spanning Backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "257a299a477b66103c5e88f4116d431a",
+      "error_message": null
+    },
+    {
+      "asset_id": "104668229",
+      "asset_name": "Egnyte Desktop",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "697a299a477b66103c5e88f4116d4305",
+      "error_message": null
+    },
+    {
+      "asset_id": "73576489",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9a7a299a477b66103c5e88f4116d4399",
+      "error_message": null
+    },
+    {
+      "asset_id": "69042317",
+      "asset_name": "cpac1605011740-E:\\Faxes W drive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a67a699a477b66103c5e88f4116d4320",
+      "error_message": null
+    },
+    {
+      "asset_id": "69042320",
+      "asset_name": "cpac1605011740-E:\\scan V drive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "627a299a477b66103c5e88f4116d43db",
+      "error_message": null
+    },
+    {
+      "asset_id": "69042323",
+      "asset_name": "cpac1605011740-E:\\share S drive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a27a699a477b66103c5e88f4116d4337",
+      "error_message": null
+    },
+    {
+      "asset_id": "69042327",
+      "asset_name": "cpac1605011740-E:\\users Z drive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "577a699a477b66103c5e88f4116d43b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "104669262",
+      "asset_name": "Public P",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "af7aa99a477b66103c5e88f4116d434f",
+      "error_message": null
+    },
+    {
+      "asset_id": "104669304",
+      "asset_name": "Private U",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e77aa99a477b66103c5e88f4116d4344",
+      "error_message": null
+    },
+    {
+      "asset_id": "104669459",
+      "asset_name": "Canadys Share R",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "277aa99a477b66103c5e88f4116d4359",
+      "error_message": null
+    },
+    {
+      "asset_id": "68756687",
+      "asset_name": "Canady's",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d08ae99a477b66103c5e88f4116d4351",
+      "error_message": null
+    },
+    {
+      "asset_id": "68758629",
+      "asset_name": "Canady's Data 10.11.136.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e88ae99a477b66103c5e88f4116d439d",
+      "error_message": null
+    },
+    {
+      "asset_id": "68758630",
+      "asset_name": "Canady's LAN 10.11.149.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e48ae99a477b66103c5e88f4116d4371",
+      "error_message": null
+    },
+    {
+      "asset_id": "68758631",
+      "asset_name": "Canady's Voice 10.11.137.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "248ae99a477b66103c5e88f4116d43a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "68758632",
+      "asset_name": "Canady's WiFi Users 10.11.148.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a18a6d9a477b66103c5e88f4116d435d",
+      "error_message": null
+    },
+    {
+      "asset_id": "73580924",
+      "asset_name": "This site has no remote access",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "798a6d9a477b66103c5e88f4116d43b6",
+      "error_message": null
+    },
+    {
+      "asset_id": "68756671",
+      "asset_name": "Comcast Business",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "318a6d9a477b66103c5e88f4116d43ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "68758638",
+      "asset_name": "Canady's Guest 172.16.90./24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "718a6d9a477b66103c5e88f4116d43ce",
+      "error_message": null
+    },
+    {
+      "asset_id": "69046973",
+      "asset_name": "3cx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "228aed9a477b66103c5e88f4116d4332",
+      "error_message": null
+    },
+    {
+      "asset_id": "73576529",
+      "asset_name": "Data Consulting Group (DCG)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4b8a21da477b66103c5e88f4116d4369",
+      "error_message": null
+    },
+    {
+      "asset_id": "84561176",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c38a21da477b66103c5e88f4116d4380",
+      "error_message": null
+    },
+    {
+      "asset_id": "104453383",
+      "asset_name": "Spanning",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf8aed9a477b66103c5e88f4116d43e6",
+      "error_message": null
+    },
+    {
+      "asset_id": "104664242",
+      "asset_name": "Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "378aa1da477b66103c5e88f4116d4360",
+      "error_message": null
+    },
+    {
+      "asset_id": "73581296",
+      "asset_name": "Other All licensing controlled via LTP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "049ae1da477b66103c5e88f4116d43f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "104667685",
+      "asset_name": "Egnyte Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c49a25da477b66103c5e88f4116d4326",
+      "error_message": null
+    },
+    {
+      "asset_id": "73576484",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "589a25da477b66103c5e88f4116d4305",
+      "error_message": null
+    },
+    {
+      "asset_id": "73580980",
+      "asset_name": "Altaro Volume/Image CPAC Servers to Z:\\Altaro041322",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "459a65da477b66103c5e88f4116d4337",
+      "error_message": null
+    },
+    {
+      "asset_id": "73581170",
+      "asset_name": "Altaro Volume/Image CPAC Servers to DCG Cloud",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "159a65da477b66103c5e88f4116d4327",
+      "error_message": null
+    },
+    {
+      "asset_id": "69042376",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9d9a65da477b66103c5e88f4116d438d",
+      "error_message": null
+    },
+    {
+      "asset_id": "69042297",
+      "asset_name": "Canady",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "159a65da477b66103c5e88f4116d4385",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675102",
+      "asset_name": "SW:  SWITCH 1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3e9aa5da477b66103c5e88f4116d43e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675103",
+      "asset_name": "SW:  SWITCH 2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f69ae5da477b66103c5e88f4116d4309",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675104",
+      "asset_name": "SW:  SWITCH 3",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b69ae5da477b66103c5e88f4116d4311",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675105",
+      "asset_name": "AP:  AP1-meeting room",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a9ae5da477b66103c5e88f4116d430d",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675106",
+      "asset_name": "AP:  AP2-sales room",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0caa29da477b66103c5e88f4116d4329",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675181",
+      "asset_name": "cpac1603311602",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ccaa29da477b66103c5e88f4116d4370",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675182",
+      "asset_name": "cpac1605011740",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "44aa29da477b66103c5e88f4116d4369",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675183",
+      "asset_name": "LisaWin7",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ccaa29da477b66103c5e88f4116d4386",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675184",
+      "asset_name": "CPAC1605101506",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "cec7d29cc3ac399095de9ebf05013110",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675209",
+      "asset_name": "HPC2AC65",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "99aaa9da477b66103c5e88f4116d4347",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675210",
+      "asset_name": "HPFBAAEE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d5aaa9da477b66103c5e88f4116d4364",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675211",
+      "asset_name": "BRN3C2AF4D3ECC5",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "59aaa9da477b66103c5e88f4116d434b",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675212",
+      "asset_name": "BRN3C2AF4E2EA5C",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0aaae9da477b66103c5e88f4116d4311",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675213",
+      "asset_name": "MF741C/743C",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2eaae9da477b66103c5e88f4116d43e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "56675215",
+      "asset_name": "HPB5F4D3",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2aaae9da477b66103c5e88f4116d43c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "61474005",
+      "asset_name": "FW:  UXG-Pro",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a6aae9da477b66103c5e88f4116d43ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "61474757",
+      "asset_name": "AP:  AP3",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cfaa2dda477b66103c5e88f4116d4332",
+      "error_message": null
+    },
+    {
+      "asset_id": "61474794",
+      "asset_name": "AP:  AP4-Warehouse",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d7aa2dda477b66103c5e88f4116d43c1",
+      "error_message": null
+    },
+    {
+      "asset_id": "1378569",
+      "asset_name": "canadys.com",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "a88182b293d922502dadffed1dba10a4",
+      "error_message": null
+    },
+    {
+      "asset_id": 660298,
+      "asset_name": "*.canadys.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ffaa2dda477b66103c5e88f4116d43f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "14177299",
+      "asset_name": "Egnyte - Activation Email Process",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7cba6dda477b66103c5e88f4116d43a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "Egnyte - How to Share Files using Egnyte Desktop App",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9fbaedda477b66103c5e88f4116d4398",
+      "error_message": null
+    },
+    {
+      "asset_id": "14177302",
+      "asset_name": "Egnyte - How to install Egnyte Mobile App",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "03da291e477b66103c5e88f4116d43b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "Egnyte - How to use the Egnyte Web Portal",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25ea2d1e477b66103c5e88f4116d4365",
+      "error_message": null
+    },
+    {
+      "asset_id": "14176685",
+      "asset_name": "User Offboarding Guide - Len the Plumber (and all child orgs)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "76fa615e477b66103c5e88f4116d4354",
+      "error_message": null
+    },
+    {
+      "asset_id": "14176689",
+      "asset_name": "New User Onboarding Guide - Canady's Heating Air Plumbing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "07fae15e477b66103c5e88f4116d4365",
+      "error_message": null
+    },
+    {
+      "asset_id": "14176690",
+      "asset_name": "Windows Setup Guide - Len the Plumber (and all child orgs)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1bfae15e477b66103c5e88f4116d439a",
+      "error_message": null
+    },
+    {
+      "asset_id": "17818352",
+      "asset_name": "Canady\u2019s Heating Air Plumbing - 11_18_2024 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6bfae15e477b66103c5e88f4116d43f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "19927278",
+      "asset_name": "Canady\u2019s Heating Air Plumbing - 06_17_2025 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "500b255e477b66103c5e88f4116d430d",
+      "error_message": null
+    },
+    {
+      "asset_id": "14177299",
+      "asset_name": "20429254",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177299",
+      "asset_name": "20429255",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177299",
+      "asset_name": "20429259",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177299",
+      "asset_name": "20429252",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177299",
+      "asset_name": "20429256",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177299",
+      "asset_name": "20429258",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429303",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429286",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429285",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429289",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429284",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429295",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429297",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429299",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429294",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429301",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429292",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429288",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429298",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429290",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429283",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429296",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429302",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429291",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429300",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429287",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429282",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177301",
+      "asset_name": "20429293",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177302",
+      "asset_name": "20429309",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177302",
+      "asset_name": "20429312",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177302",
+      "asset_name": "20429308",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177302",
+      "asset_name": "20429314",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177302",
+      "asset_name": "20429313",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177302",
+      "asset_name": "20429311",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177302",
+      "asset_name": "20429310",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429342",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429325",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429331",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429340",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429332",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429333",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429328",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429339",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429334",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429338",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429337",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429330",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429326",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429341",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "14177303",
+      "asset_name": "20429324",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_17818352",
+      "asset_name": "Canady\u0393\u00c7\u00d6s_Heating_Air_Plumbing_-_11_18_2024_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "080b255e477b66103c5e88f4116d433b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_19927278",
+      "asset_name": "Canady\u0393\u00c7\u00d6s_Heating_Air_Plumbing_-_06_17_2025_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac0b255e477b66103c5e88f4116d43a1",
+      "error_message": null
+    }
+  ]
+}

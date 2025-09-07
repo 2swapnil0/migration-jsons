@@ -1,0 +1,1418 @@
+{
+  "session_id": "migration_202507_134322_e900fd76",
+  "organization": "Jersey Infrared Consultants",
+  "timestamp": "2025-09-07T13:46:22.887264",
+  "total_processed": 176,
+  "successful": 176,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "71149478",
+      "asset_name": "AccountEdge",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9303a55e933fe2102dadffed1dba1075",
+      "error_message": null
+    },
+    {
+      "asset_id": "71149480",
+      "asset_name": "MarketCircle DayLite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6703a55e933fe2102dadffed1dba1081",
+      "error_message": null
+    },
+    {
+      "asset_id": "71149479",
+      "asset_name": "FileMaker Pro",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e303a55e933fe2102dadffed1dba108b",
+      "error_message": null
+    },
+    {
+      "asset_id": "71149481",
+      "asset_name": "TI Reporter",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ab03a55e933fe2102dadffed1dba1095",
+      "error_message": null
+    },
+    {
+      "asset_id": "83236659",
+      "asset_name": "Sentinel One",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3703a55e933fe2102dadffed1dba10a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "73049305",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb03a55e933fe2102dadffed1dba10a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "71149416",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0013a55e933fe2102dadffed1dba10f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "72442957",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8813e55e933fe2102dadffed1dba1029",
+      "error_message": null
+    },
+    {
+      "asset_id": "71149417",
+      "asset_name": "Daylite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c813e55e933fe2102dadffed1dba1039",
+      "error_message": null
+    },
+    {
+      "asset_id": "73049290",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9c13e55e933fe2102dadffed1dba1018",
+      "error_message": null
+    },
+    {
+      "asset_id": "73049295",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6813e55e933fe2102dadffed1dba10a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "73577022",
+      "asset_name": "Meraki Support License",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "73577023",
+      "asset_name": "SMARTnet - SNT (JMX2246G1E8)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "83866665",
+      "asset_name": "DropSuite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6413e55e933fe2102dadffed1dba10af",
+      "error_message": null
+    },
+    {
+      "asset_id": "73049315",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c13295e933fe2102dadffed1dba1051",
+      "error_message": null
+    },
+    {
+      "asset_id": "72356360",
+      "asset_name": "Cisco SN 2058505090 (JMX2246G1E8)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a413e55e933fe2102dadffed1dba10fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "74515610",
+      "asset_name": "Microsoft Microsoft 365 Annual Renewal",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c913295e933fe2102dadffed1dba105d",
+      "error_message": null
+    },
+    {
+      "asset_id": "71354972",
+      "asset_name": "Meraki subscription",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a013e55e933fe2102dadffed1dba10da",
+      "error_message": null
+    },
+    {
+      "asset_id": "83866740",
+      "asset_name": "DropSuite Mailboxes Mailbox Backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd13295e933fe2102dadffed1dba10b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "59916905",
+      "asset_name": "ANP Break/Fix",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916904",
+      "asset_name": "Accounting",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916906",
+      "asset_name": "Apple Push Notification Certificate",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916909",
+      "asset_name": "Beth\u00e2\u20ac\u2122s iMac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916910",
+      "asset_name": "Bruce",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916911",
+      "asset_name": "buildingsciencethermographer.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916912",
+      "asset_name": "buildingsciencethermographer.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916913",
+      "asset_name": "buildingsciencethermographer.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916915",
+      "asset_name": "Carol\u00e2\u20ac\u2122s iMac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916916",
+      "asset_name": "Carol\u00e2\u20ac\u2122s iMac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916917",
+      "asset_name": "certifiedinfraredthermographers.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916918",
+      "asset_name": "certifiedinfraredthermographers.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916919",
+      "asset_name": "certifiedinfraredthermographers.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916920",
+      "asset_name": "Cristina\u00e2\u20ac\u2122s MacBook Air",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916921",
+      "asset_name": "e-learnir.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916922",
+      "asset_name": "e-learnir.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916923",
+      "asset_name": "e-learnir.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916924",
+      "asset_name": "elearnir.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916925",
+      "asset_name": "elearnir.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916926",
+      "asset_name": "elearnir.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916927",
+      "asset_name": "Field2 Mac mini old",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916928",
+      "asset_name": "Field\u00e2\u20ac\u2122s iMac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916929",
+      "asset_name": "i-learninfrared.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916930",
+      "asset_name": "i-learninfrared.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916931",
+      "asset_name": "i-learninfrared.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916932",
+      "asset_name": "i-learnir.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916933",
+      "asset_name": "i-learnir.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916934",
+      "asset_name": "i-learnir.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916935",
+      "asset_name": "i-learnthermography.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916936",
+      "asset_name": "i-learnthermography.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916937",
+      "asset_name": "i-learnthermography.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916938",
+      "asset_name": "ilearninfrared.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916939",
+      "asset_name": "ilearninfrared.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916940",
+      "asset_name": "ilearninfrared.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916941",
+      "asset_name": "ilearnir.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916943",
+      "asset_name": "ilearnir.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916944",
+      "asset_name": "ilearnir.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916945",
+      "asset_name": "ilearnthermography.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916946",
+      "asset_name": "ilearnthermography.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916948",
+      "asset_name": "ilearnthermography.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916949",
+      "asset_name": "infrared-thermography-inspection.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916950",
+      "asset_name": "infraredcertifiedinspections.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916951",
+      "asset_name": "infraredcertifiedinspections.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916953",
+      "asset_name": "infraredcertifiedinspections.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916954",
+      "asset_name": "infraredelectricalinspection.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916957",
+      "asset_name": "infraredelectricalservices.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916958",
+      "asset_name": "infraredimagingservices.co Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916959",
+      "asset_name": "infraredimagingservices.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916960",
+      "asset_name": "infraredimagingservices.info Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916962",
+      "asset_name": "infraredimagingservices.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916963",
+      "asset_name": "infraredimagingservices.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916964",
+      "asset_name": "infraredroofservices.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916965",
+      "asset_name": "infraredsteampipeinspection.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916966",
+      "asset_name": "infraredthermalimaginginspections.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916967",
+      "asset_name": "infraredtraining-thermographycertification.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916968",
+      "asset_name": "INFRASPECTION",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916969",
+      "asset_name": "infraspection.co Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916970",
+      "asset_name": "infraspection.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916971",
+      "asset_name": "infraspection.mobi Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916972",
+      "asset_name": "infraspection.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916973",
+      "asset_name": "infraspection.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916974",
+      "asset_name": "infraspection.tv Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916975",
+      "asset_name": "infraspection.us Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916976",
+      "asset_name": "infraspectioninstitute.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916977",
+      "asset_name": "ir-certification.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916978",
+      "asset_name": "ir-certification.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916979",
+      "asset_name": "ir-certification.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916980",
+      "asset_name": "ircertified.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916981",
+      "asset_name": "ircertified.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916983",
+      "asset_name": "ircertified.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916984",
+      "asset_name": "irfeverscreen.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916985",
+      "asset_name": "irfeverscreen.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916988",
+      "asset_name": "irfeverscreen.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916992",
+      "asset_name": "irinfo.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916993",
+      "asset_name": "irinfo.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916994",
+      "asset_name": "irinfoconference.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916995",
+      "asset_name": "irinfoconference.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916996",
+      "asset_name": "irinfoconference.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59916907",
+      "asset_name": "Avaya IP Office",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d13695e933fe2102dadffed1dba102b",
+      "error_message": null
+    },
+    {
+      "asset_id": "59916908",
+      "asset_name": "Basement Switch / 192.168.0.2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3913695e933fe2102dadffed1dba1015",
+      "error_message": null
+    },
+    {
+      "asset_id": "59916914",
+      "asset_name": "Canon 5045",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7113695e933fe2102dadffed1dba1043",
+      "error_message": null
+    },
+    {
+      "asset_id": "59916997",
+      "asset_name": "Jersey IR APC UPS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7113695e933fe2102dadffed1dba105a",
+      "error_message": null
+    },
+    {
+      "asset_id": "59917001",
+      "asset_name": "jerseyinfrared.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917002",
+      "asset_name": "jerseyinfrared.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917003",
+      "asset_name": "jerseyinfrared.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917004",
+      "asset_name": "jerseyinfraredconsultants.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917005",
+      "asset_name": "jerseyinfraredconsultants.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917006",
+      "asset_name": "jerseyinfraredconsultants.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917007",
+      "asset_name": "Jerseyir.com Domain Registration",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917008",
+      "asset_name": "jerseyir.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917009",
+      "asset_name": "jerseyir.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917010",
+      "asset_name": "Jim's iMac (2)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917011",
+      "asset_name": "Jim's iMac (3)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917012",
+      "asset_name": "Jim's\u00e2\u20ac\u2122s iMac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917013",
+      "asset_name": "JIMS-DV6LAPTOP",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917014",
+      "asset_name": "JIMS-ENVY",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917015",
+      "asset_name": "JIR AnyConnect License (x25 users)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "59916998",
+      "asset_name": "Jersey IR Avaya Voice Router",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1e13695e933fe2102dadffed1dba1084",
+      "error_message": null
+    },
+    {
+      "asset_id": "59916999",
+      "asset_name": "Jersey IR Back-UPS Pro",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "de13695e933fe2102dadffed1dba109f",
+      "error_message": null
+    },
+    {
+      "asset_id": "59917000",
+      "asset_name": "Jersey IR Linksys E2500 Router",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9213695e933fe2102dadffed1dba10cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "59917018",
+      "asset_name": "Katrece\u00e2\u20ac\u2122s iMac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917019",
+      "asset_name": "Katrece\u00e2\u20ac\u2122s iMac (2)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917020",
+      "asset_name": "LAPTOP-73AL79PG",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917021",
+      "asset_name": "Linksys",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "59917023",
+      "asset_name": "Lucia's New Mac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917024",
+      "asset_name": "Lucia\u00e2\u20ac\u2122s iMac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917025",
+      "asset_name": "Mary Molle\u00e2\u20ac\u2122s MacBook Pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917026",
+      "asset_name": "Mary Seffrin\u00e2\u20ac\u2122s iMac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917027",
+      "asset_name": "Marys MacBook Pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917028",
+      "asset_name": "masterthermographer.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917029",
+      "asset_name": "masterthermographer.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917030",
+      "asset_name": "masterthermographer.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917031",
+      "asset_name": "Meraki Support License",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917034",
+      "asset_name": "Microsoft 365 Annual License Renewal",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "59917038",
+      "asset_name": "Mike's iMAC",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917039",
+      "asset_name": "Mike\u00e2\u20ac\u2122s iMac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917016",
+      "asset_name": "JIR ASA5506 Firewall",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fe13a95e933fe2102dadffed1dba10b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "59917041",
+      "asset_name": "newjerseyir.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917042",
+      "asset_name": "newjerseyir.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917043",
+      "asset_name": "newjerseyir.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917044",
+      "asset_name": "njinfrared.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917045",
+      "asset_name": "njinfrared.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917046",
+      "asset_name": "Patty\u00e2\u20ac\u2122s iMac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917047",
+      "asset_name": "Rachel's iMac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917049",
+      "asset_name": "server.jersey.private certificate",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "59917050",
+      "asset_name": "server.jersey.private Code Signing Certificate",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917017",
+      "asset_name": "JIR Ubiquity Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b13a95e933fe2102dadffed1dba10d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "59917052",
+      "asset_name": "SG200-26 LAN Switch",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "59917053",
+      "asset_name": "SMARTnet - ANYSL",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917054",
+      "asset_name": "SMARTnet - SNT",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917055",
+      "asset_name": "successiries.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917056",
+      "asset_name": "successiries.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917057",
+      "asset_name": "successiries.org Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917061",
+      "asset_name": "Sue's Computer",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917065",
+      "asset_name": "Susan\u00e2\u20ac\u2122s iMac",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917066",
+      "asset_name": "tirsystems.com Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917067",
+      "asset_name": "tirsystems.net Domain",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917068",
+      "asset_name": "Toms-Mac-mini.home",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "59917022",
+      "asset_name": "Linksys 2500",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8713a95e933fe2102dadffed1dba10ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "59917040",
+      "asset_name": "Netgear Range Extender",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf13a95e933fe2102dadffed1dba10f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "59917051",
+      "asset_name": "server.local",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1b13e95e933fe2102dadffed1dba1087",
+      "error_message": null
+    },
+    {
+      "asset_id": "1436457",
+      "asset_name": "jerseyir.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef13e95e933fe2102dadffed1dba1090",
+      "error_message": null
+    },
+    {
+      "asset_id": 700702,
+      "asset_name": "jerseyir.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5423e95e933fe2102dadffed1dba10b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "14484307",
+      "asset_name": "Checking_Time_Machine_backup_for_JerseyIR",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c63a9de933fe2102dadffed1dba10e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "15982966",
+      "asset_name": "RFT Reporting SOP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9f63adde933fe2102dadffed1dba1064",
+      "error_message": null
+    },
+    {
+      "asset_id": "17887734",
+      "asset_name": "New User Onboarding Guide - Jersey Infrared Consultants",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e363adde933fe2102dadffed1dba1097",
+      "error_message": null
+    },
+    {
+      "asset_id": "17887736",
+      "asset_name": "User Offboarding Guide - Jersey Infrared Consultants",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f763edde933fe2102dadffed1dba101c",
+      "error_message": null
+    },
+    {
+      "asset_id": "20042365",
+      "asset_name": "Mac Setup Guide - Jersey Infared Consultants",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4873edde933fe2102dadffed1dba103a",
+      "error_message": null
+    },
+    {
+      "asset_id": "20042612",
+      "asset_name": "Mac Setup Guide - Template Company",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9c73edde933fe2102dadffed1dba10be",
+      "error_message": null
+    },
+    {
+      "asset_id": "14484378",
+      "asset_name": "JIR_-_Customer_furnished_-_Schematic_Phone_system_-_04112016.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac732112937fe2102dadffed1dba1036",
+      "error_message": null
+    },
+    {
+      "asset_id": "14823569",
+      "asset_name": "Jersey Infrared Consultants firewall and ap replacement.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "30732112937fe2102dadffed1dba10a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "17605327",
+      "asset_name": "Jersey Infrared Consultants - 10_25_2024 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "15736112937fe2102dadffed1dba1036",
+      "error_message": null
+    },
+    {
+      "asset_id": "17704760",
+      "asset_name": "Jersey Infrared Consultants - 11_06_2024 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b973a112937fe2102dadffed1dba10a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14484378",
+      "asset_name": "JIR_-_Customer_furnished_-_Schematic_Phone_system_-_04112016.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "68732112937fe2102dadffed1dba1075",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14823569",
+      "asset_name": "Jersey_Infrared_Consultants_firewall_and_ap_replacement.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "89732112937fe2102dadffed1dba10fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17605327",
+      "asset_name": "Jersey_Infrared_Consultants_-_10_25_2024_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e5736112937fe2102dadffed1dba10e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17704760",
+      "asset_name": "Jersey_Infrared_Consultants_-_11_06_2024_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f573a112937fe2102dadffed1dba10cd",
+      "error_message": null
+    }
+  ]
+}

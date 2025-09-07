@@ -1,0 +1,3458 @@
+{
+  "session_id": "migration_202507_134208_dddc8cfe",
+  "organization": "KGD Architecture",
+  "timestamp": "2025-09-07T13:57:39.139811",
+  "total_processed": 431,
+  "successful": 430,
+  "failed": 1,
+  "results": [
+    {
+      "asset_id": "58332631",
+      "asset_name": "kgdarchitecture.local kgdarchitecture",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "94d26dda83f766109bdf5e60ceaad342",
+      "error_message": null
+    },
+    {
+      "asset_id": "58277341",
+      "asset_name": "KGD DC - Corporate WTLipM4",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0dd2211e83f766109bdf5e60ceaad356",
+      "error_message": null
+    },
+    {
+      "asset_id": "58277448",
+      "asset_name": "KGD DC - Guest KGD-guest",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4dd2211e83f766109bdf5e60ceaad37c",
+      "error_message": null
+    },
+    {
+      "asset_id": "58278379",
+      "asset_name": "Cloud Provider",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "45d2211e83f766109bdf5e60ceaad3a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "58277915",
+      "asset_name": "KGD VA - Guest KGD-guest",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "52d2651e83f766109bdf5e60ceaad3d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "58277934",
+      "asset_name": "KGD VA - Corporate WTLipM4",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "22d2e51e83f766109bdf5e60ceaad39e",
+      "error_message": null
+    },
+    {
+      "asset_id": "58164164",
+      "asset_name": "NetExtender",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "13d2a91e83f766109bdf5e60ceaad368",
+      "error_message": null
+    },
+    {
+      "asset_id": "58166255",
+      "asset_name": "ShareFile",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dfd2a91e83f766109bdf5e60ceaad397",
+      "error_message": null
+    },
+    {
+      "asset_id": "58166555",
+      "asset_name": "SpecLink",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a0e2ed1e83f766109bdf5e60ceaad3cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "58166787",
+      "asset_name": "Spexx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ece2215e83f766109bdf5e60ceaad348",
+      "error_message": null
+    },
+    {
+      "asset_id": "58167157",
+      "asset_name": "AutoDesk Suite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "01e2a15e83f766109bdf5e60ceaad3df",
+      "error_message": null
+    },
+    {
+      "asset_id": "58166930",
+      "asset_name": "Dashlane",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "15e2a15e83f766109bdf5e60ceaad3c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "58167386",
+      "asset_name": "Sketchup Pro",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ee2e55e83f766109bdf5e60ceaad3de",
+      "error_message": null
+    },
+    {
+      "asset_id": "58167455",
+      "asset_name": "BlueBeam Enterprise Cloud",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c7e2a95e83f766109bdf5e60ceaad356",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242198",
+      "asset_name": "Drawboard",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "43e2a95e83f766109bdf5e60ceaad384",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242248",
+      "asset_name": "Mental Canvas Pro",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "07e2a95e83f766109bdf5e60ceaad39a",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242277",
+      "asset_name": "Creative Cloud",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1cf2ad5e83f766109bdf5e60ceaad3d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242281",
+      "asset_name": "Acrobat DC Pro",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "01f2219e83f766109bdf5e60ceaad3c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242287",
+      "asset_name": "Rhino 7",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c5f2219e83f766109bdf5e60ceaad382",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242321",
+      "asset_name": "Office365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09f2619e83f766109bdf5e60ceaad340",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242324",
+      "asset_name": "Project",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d2f2659e83f766109bdf5e60ceaad31a",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242536",
+      "asset_name": "Enscape 3D",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4ff2e59e83f766109bdf5e60ceaad36e",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242617",
+      "asset_name": "VRay for Sketchup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8ff2e59e83f766109bdf5e60ceaad363",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242619",
+      "asset_name": "VRay for Rhino",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "53f2e59e83f766109bdf5e60ceaad3b6",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242627",
+      "asset_name": "VRay for Max",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "68032d9e83f766109bdf5e60ceaad36e",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242694",
+      "asset_name": "GoToMeeting",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78036d9e83f766109bdf5e60ceaad3be",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242749",
+      "asset_name": "Grid vApps",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9103ed9e83f766109bdf5e60ceaad353",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242751",
+      "asset_name": "Grid vDWS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ad03ed9e83f766109bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242832",
+      "asset_name": "PDQ",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a603a1de83f766109bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242867",
+      "asset_name": "Sentinel One",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db0365de83f766109bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242900",
+      "asset_name": "Ajera",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f0365de83f766109bdf5e60ceaad3ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242906",
+      "asset_name": "VantagePoint",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c81329de83f766109bdf5e60ceaad311",
+      "error_message": null
+    },
+    {
+      "asset_id": "58278074",
+      "asset_name": "RADIUS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "001329de83f766109bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "58519060",
+      "asset_name": "VMWare VDI vCenter",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25132dde83f766109bdf5e60ceaad378",
+      "error_message": null
+    },
+    {
+      "asset_id": "58592142",
+      "asset_name": "Horizon Client",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "86136dde83f766109bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "59356322",
+      "asset_name": "Horizon Unified Access Gateway",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "46136dde83f766109bdf5e60ceaad3f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "80762103",
+      "asset_name": "Azure AVD VDI Platform",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d613adde83f766109bdf5e60ceaad384",
+      "error_message": null
+    },
+    {
+      "asset_id": "58163982",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb13e112833b66109bdf5e60ceaad380",
+      "error_message": null
+    },
+    {
+      "asset_id": "58592400",
+      "asset_name": "the_Old_S K:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3713e112833b66109bdf5e60ceaad3c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "58592402",
+      "asset_name": "TempDrive M:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b13e112833b66109bdf5e60ceaad33d",
+      "error_message": null
+    },
+    {
+      "asset_id": "58592427",
+      "asset_name": "Company N:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f023e512833b66109bdf5e60ceaad346",
+      "error_message": null
+    },
+    {
+      "asset_id": "58592452",
+      "asset_name": "Marketing P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5236912833b66109bdf5e60ceaad3d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "58592475",
+      "asset_name": "Images R:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "79236912833b66109bdf5e60ceaad345",
+      "error_message": null
+    },
+    {
+      "asset_id": "58592498",
+      "asset_name": "kg_strg S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0223a912833b66109bdf5e60ceaad363",
+      "error_message": null
+    },
+    {
+      "asset_id": "58592530",
+      "asset_name": "Office O:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a323ed12833b66109bdf5e60ceaad37e",
+      "error_message": null
+    },
+    {
+      "asset_id": "58592569",
+      "asset_name": "ACCTScans W:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f23ed12833b66109bdf5e60ceaad3e8",
+      "error_message": null
+    },
+    {
+      "asset_id": "58592627",
+      "asset_name": "Scans Y:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e7232152833b66109bdf5e60ceaad31d",
+      "error_message": null
+    },
+    {
+      "asset_id": "80767683",
+      "asset_name": "PreAward File Share originated from Core KGD Internal File Sync \\\\fs-preaward",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3033e152833b66109bdf5e60ceaad36a",
+      "error_message": null
+    },
+    {
+      "asset_id": "80767685",
+      "asset_name": "PROFILE CONTAINER  File Share originated from Core KGD Internal File Sync \\\\profilecontainer",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7533e552833b66109bdf5e60ceaad355",
+      "error_message": null
+    },
+    {
+      "asset_id": "58163669",
+      "asset_name": "Comcast MPLS - VA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b933e552833b66109bdf5e60ceaad338",
+      "error_message": null
+    },
+    {
+      "asset_id": "58163672",
+      "asset_name": "Comcast MPLS - DC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7533e552833b66109bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "58163703",
+      "asset_name": "Allied Telecom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8733a952833b66109bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "58163733",
+      "asset_name": "YellowFiber",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f333ad52833b66109bdf5e60ceaad354",
+      "error_message": null
+    },
+    {
+      "asset_id": "58272422",
+      "asset_name": "DC 172.16.100.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1443ad52833b66109bdf5e60ceaad3c1",
+      "error_message": null
+    },
+    {
+      "asset_id": "58272431",
+      "asset_name": "Arlington 172.16.200.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1843ed52833b66109bdf5e60ceaad342",
+      "error_message": null
+    },
+    {
+      "asset_id": "80831920",
+      "asset_name": "KGD Azure LAN 172.19.0.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b0436192833b66109bdf5e60ceaad328",
+      "error_message": null
+    },
+    {
+      "asset_id": "58164173",
+      "asset_name": "VPN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5a432592833b66109bdf5e60ceaad3f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "57740938",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "52436592833b66109bdf5e60ceaad3cc",
+      "error_message": null
+    },
+    {
+      "asset_id": "57740948",
+      "asset_name": "GoDaddy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5643a592833b66109bdf5e60ceaad340",
+      "error_message": null
+    },
+    {
+      "asset_id": "57740967",
+      "asset_name": "CodeTwo",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b436992833b66109bdf5e60ceaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "58163597",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c532d92833b66109bdf5e60ceaad377",
+      "error_message": null
+    },
+    {
+      "asset_id": "58163614",
+      "asset_name": "Allied Telecom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ec532d92833b66109bdf5e60ceaad38f",
+      "error_message": null
+    },
+    {
+      "asset_id": "58163644",
+      "asset_name": "365 DataCenters (YellowFiber)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "70536d92833b66109bdf5e60ceaad34f",
+      "error_message": null
+    },
+    {
+      "asset_id": "58163744",
+      "asset_name": "Ubiquiti",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "355321d2833b66109bdf5e60ceaad3b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "58163749",
+      "asset_name": "Sonicwall",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1a53a1d2833b66109bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "58163760",
+      "asset_name": "VMWare",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4b53e1d2833b66109bdf5e60ceaad3e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "58163769",
+      "asset_name": "Dell",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cb53e1d2833b66109bdf5e60ceaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "58163947",
+      "asset_name": "DNS Made Easy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6353a5d2833b66109bdf5e60ceaad3b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "58163953",
+      "asset_name": "Cisco - Duo",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1563a9d2833b66109bdf5e60ceaad389",
+      "error_message": null
+    },
+    {
+      "asset_id": "58166229",
+      "asset_name": "Citrix",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9963e9d2833b66109bdf5e60ceaad383",
+      "error_message": null
+    },
+    {
+      "asset_id": "58166371",
+      "asset_name": "RIB (formerly BSD)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d163e9d2833b66109bdf5e60ceaad3df",
+      "error_message": null
+    },
+    {
+      "asset_id": "58166700",
+      "asset_name": "LOJIK Design Systems",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d263add2833b66109bdf5e60ceaad3ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "58166874",
+      "asset_name": "Dashlane",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "93636116833b66109bdf5e60ceaad3e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "58167006",
+      "asset_name": "AutoDesk",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f763a116833b66109bdf5e60ceaad3a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "58167186",
+      "asset_name": "Hornet Security (formerly Altaro)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7f63e116833b66109bdf5e60ceaad38a",
+      "error_message": null
+    },
+    {
+      "asset_id": "58167221",
+      "asset_name": "SketchUp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc732516833b66109bdf5e60ceaad3c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "58167434",
+      "asset_name": "BlueBeam",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ce73a916833b66109bdf5e60ceaad398",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242188",
+      "asset_name": "Drawboard",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4273e916833b66109bdf5e60ceaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242243",
+      "asset_name": "Mental Canvas",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4273a916833b66109bdf5e60ceaad39f",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242289",
+      "asset_name": "Adobe",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "43736d16833b66109bdf5e60ceaad34d",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242528",
+      "asset_name": "Enscape",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "50836156833b66109bdf5e60ceaad3d5",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242603",
+      "asset_name": "Chaos",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2483a156833b66109bdf5e60ceaad37c",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242675",
+      "asset_name": "GoTo",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6483a156833b66109bdf5e60ceaad396",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242739",
+      "asset_name": "NVidia",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5983a556833b66109bdf5e60ceaad304",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242821",
+      "asset_name": "PDQ",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0f832d56833b66109bdf5e60ceaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242860",
+      "asset_name": "Sentinel One",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8f832d56833b66109bdf5e60ceaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242853",
+      "asset_name": "Arete",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "47832d56833b66109bdf5e60ceaad3c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "58242895",
+      "asset_name": "Deltek",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c493ed56833b66109bdf5e60ceaad375",
+      "error_message": null
+    },
+    {
+      "asset_id": "58826272",
+      "asset_name": "Rhinocerus",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5993e196833b66109bdf5e60ceaad314",
+      "error_message": null
+    },
+    {
+      "asset_id": "68114901",
+      "asset_name": "Horizon View Support",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2593e196833b66109bdf5e60ceaad3a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "58491963",
+      "asset_name": "SonicWall Sonicwall Support and Licensing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25932596833b66109bdf5e60ceaad366",
+      "error_message": null
+    },
+    {
+      "asset_id": "59348423",
+      "asset_name": "Other NVidia RTX Virtual Workstation-5.0",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "07932996833b66109bdf5e60ceaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "59348449",
+      "asset_name": "Other NVIDIA Virtual Applications-3.0",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b936996833b66109bdf5e60ceaad396",
+      "error_message": null
+    },
+    {
+      "asset_id": "58272453",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "18a36d96833b66109bdf5e60ceaad36d",
+      "error_message": null
+    },
+    {
+      "asset_id": "66572773",
+      "asset_name": "Cisco Duo subscription - Auto renewal",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f793e996833b66109bdf5e60ceaad385",
+      "error_message": null
+    },
+    {
+      "asset_id": "58441661",
+      "asset_name": "Other Volume/Image Altaro VM Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1da321d6833b66109bdf5e60ceaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "58593640",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dda321d6833b66109bdf5e60ceaad38a",
+      "error_message": null
+    },
+    {
+      "asset_id": "58593757",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dea3e1d6833b66109bdf5e60ceaad36d",
+      "error_message": null
+    },
+    {
+      "asset_id": "58278104",
+      "asset_name": "KGD-HOST1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bea325d6833b66109bdf5e60ceaad3eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "58332645",
+      "asset_name": "DCRS1102",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "fb172c8097ee2910511ff957f053af8d",
+      "error_message": null
+    },
+    {
+      "asset_id": "58517329",
+      "asset_name": "KGD-HOST2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "41b3a9d6833b66109bdf5e60ceaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "58518678",
+      "asset_name": "KGD-VDIHOST",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c1b3e9d6833b66109bdf5e60ceaad310",
+      "error_message": null
+    },
+    {
+      "asset_id": "80764591",
+      "asset_name": "KGD AVD Azure Host Pool Virtual Machines",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09b32dd6833b66109bdf5e60ceaad344",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403812",
+      "asset_name": "SERVER: DC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ffb3251a833b66109bdf5e60ceaad373",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403815",
+      "asset_name": "KGDVCENTER",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7b3251a833b66109bdf5e60ceaad380",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403813",
+      "asset_name": "SERVER: FS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b7b3251a833b66109bdf5e60ceaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403814",
+      "asset_name": "SERVER: KGD-DC03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "37b3251a833b66109bdf5e60ceaad38e",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403816",
+      "asset_name": "SERVER: KGD-APPSERV",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aac3a91a833b66109bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403818",
+      "asset_name": "SERVER: HCONNECT01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ec3e91a833b66109bdf5e60ceaad397",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403819",
+      "asset_name": "SERVER:  HCONNECT02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "62c3e91a833b66109bdf5e60ceaad36d",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403820",
+      "asset_name": "SERVER: VDIUTILITY",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "26c3e91a833b66109bdf5e60ceaad389",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403821",
+      "asset_name": "SERVER: FSPRNTSRV (Named FSPRNTSRV-2024 in ESX)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cdd3e15a833b66109bdf5e60ceaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403822",
+      "asset_name": "SERVER: KGD-UTIL",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "15d3e15a833b66109bdf5e60ceaad3a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403823",
+      "asset_name": "SERVER: KGD-BACKUP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "91d3e15a833b66109bdf5e60ceaad372",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403824",
+      "asset_name": "SERVER: FS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "91d3e15a833b66109bdf5e60ceaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403825",
+      "asset_name": "SW:  CORE-STK",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "efd32d5a833b66109bdf5e60ceaad3bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403826",
+      "asset_name": "FW:  Sonicwall NSA3600 HA Pair",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "77d32d5a833b66109bdf5e60ceaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403827",
+      "asset_name": "FW:  Sonicwall NSA3600 HA Pair",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "44e36d5a833b66109bdf5e60ceaad334",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403828",
+      "asset_name": "DRV:  Seagate",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "34e3ed5a833b66109bdf5e60ceaad3e8",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403829",
+      "asset_name": "DRV:  Seagate",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "79e3a19a833b66109bdf5e60ceaad3fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403830",
+      "asset_name": "NAS:  KGD-SYNO2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "52e3259a833b66109bdf5e60ceaad3ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403831",
+      "asset_name": "NAS:  KGD-SYNO1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b2e3659a833b66109bdf5e60ceaad375",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403832",
+      "asset_name": "AP:  DC_STUDIO",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8fe3e59a833b66109bdf5e60ceaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403834",
+      "asset_name": "NAS:  KGD-SYNO-OS1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e0f3e99a833b66109bdf5e60ceaad3e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403835",
+      "asset_name": "AP:  DC_GARAGE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4df36d9a833b66109bdf5e60ceaad3e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403837",
+      "asset_name": "NAS:  KGD-SYNO3",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "31f321da833b66109bdf5e60ceaad3a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403841",
+      "asset_name": "DC-APC-01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f5f321da833b66109bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403842",
+      "asset_name": "Printer:  Konica bizhub c654e",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2bf3a5da833b66109bdf5e60ceaad393",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403843",
+      "asset_name": "Server:  E100-470F Print Server",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bbf329da833b66109bdf5e60ceaad393",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403844",
+      "asset_name": "DC-APC-02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "180469da833b66109bdf5e60ceaad3d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403846",
+      "asset_name": "Printer:  Konica2 bizhub C458",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4d042dda833b66109bdf5e60ceaad377",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403847",
+      "asset_name": "AP:  DC_CONF",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c204edda833b66109bdf5e60ceaad3be",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403849",
+      "asset_name": "FW:  Sonicwall NSA3600 HA Pair",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a204a11e833b66109bdf5e60ceaad340",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403850",
+      "asset_name": "FW:  Sonicwall NSA3600 HA Pair",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b604a11e833b66109bdf5e60ceaad348",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403851",
+      "asset_name": "SW:  Cisco VA-SW1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2814291e833b66109bdf5e60ceaad3ad",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403852",
+      "asset_name": "SW:  Cisco VA-SW2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e014291e833b66109bdf5e60ceaad3f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403854",
+      "asset_name": "AP:  VA_Studio",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d914e91e833b66109bdf5e60ceaad352",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403855",
+      "asset_name": "PWR:  Ubiquiti PM01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0214ad1e833b66109bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403856",
+      "asset_name": "Printer:  Konica bizhub C364e",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8714615e833b66109bdf5e60ceaad3ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403857",
+      "asset_name": "CAM: CAM01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f14255e833b66109bdf5e60ceaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403858",
+      "asset_name": "UPS:  APC Smart-UPS 1500",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bb14255e833b66109bdf5e60ceaad3e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403859",
+      "asset_name": "UPS:  APC Smart-UPS VA1  Hostname = KGD-VA-UPS1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e124e95e833b66109bdf5e60ceaad3f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403860",
+      "asset_name": "CAM: CAM02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e1242d5e833b66109bdf5e60ceaad30d",
+      "error_message": null
+    },
+    {
+      "asset_id": "50403861",
+      "asset_name": "AP:  VA_Studio_AP2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aa24ed5e833b66109bdf5e60ceaad36d",
+      "error_message": null
+    },
+    {
+      "asset_id": "50417741",
+      "asset_name": "WC:  Unifi Controller",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3a24219e833b66109bdf5e60ceaad3e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "50500953",
+      "asset_name": "SERVER:  HVJH01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c34e59e833b66109bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "50663586",
+      "asset_name": "SW:  DC_PowerSwitch",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd34699e833b66109bdf5e60ceaad32a",
+      "error_message": null
+    },
+    {
+      "asset_id": "50699913",
+      "asset_name": "ESXi:  KGD-VDIHOST",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "50663593",
+      "asset_name": "SW:  VA_PowerSwitch",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e534a99e833b66109bdf5e60ceaad369",
+      "error_message": null
+    },
+    {
+      "asset_id": "50741550",
+      "asset_name": "iDRAC:  KGD-VDIHOST",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "50699294",
+      "asset_name": "ESXi:  KGD-HOST1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "71342d9e833b66109bdf5e60ceaad33a",
+      "error_message": null
+    },
+    {
+      "asset_id": "50699487",
+      "asset_name": "ESXi:  KGD-HOST2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf34a1de833b66109bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "50741539",
+      "asset_name": "iDRAC:  KGD-DC03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0844e1de833b66109bdf5e60ceaad3f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "50741883",
+      "asset_name": "vCenter:  KGD vCenter",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "604465de833b66109bdf5e60ceaad3cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "50744863",
+      "asset_name": "Printer:  HP Pagewide XL 4000 ps",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d54429de833b66109bdf5e60ceaad39e",
+      "error_message": null
+    },
+    {
+      "asset_id": "54133107",
+      "asset_name": "UAG1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "54133135",
+      "asset_name": "UAG2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "50744880",
+      "asset_name": "Printer:  HP Pagewide XL 4000 ps",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9a446dde833b66109bdf5e60ceaad314",
+      "error_message": null
+    },
+    {
+      "asset_id": "51313167",
+      "asset_name": "iDRAC:  KGD-BACKUP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "56446dde833b66109bdf5e60ceaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "54132980",
+      "asset_name": "VCenter (Horizon View)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8854a112837b66109bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "59835514",
+      "asset_name": "KGD-SC2020 (VDI Compellent Storage)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c54e112837b66109bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "64659335",
+      "asset_name": "avd-m60-0 Virtual machine",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4554a512837b66109bdf5e60ceaad3a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "64659336",
+      "asset_name": "AVD-S-0 Virtual machine",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "86546912837b66109bdf5e60ceaad388",
+      "error_message": null
+    },
+    {
+      "asset_id": "64659337",
+      "asset_name": "AVD-S-1 Virtual machine",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "07546d12837b66109bdf5e60ceaad3d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "64747541",
+      "asset_name": "DC-APC-03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f3542152837b66109bdf5e60ceaad387",
+      "error_message": null
+    },
+    {
+      "asset_id": "66768879",
+      "asset_name": "DC-APC-2402",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bb542152837b66109bdf5e60ceaad38c",
+      "error_message": null
+    },
+    {
+      "asset_id": "69632454",
+      "asset_name": "DRV:  Seagate",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 50403828 (DRV:  Seagate)"
+    },
+    {
+      "asset_id": "66768907",
+      "asset_name": "DC-APC-2401",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e5646552837b66109bdf5e60ceaad3e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "68353695",
+      "asset_name": "Printer:  Konica bizhub c450I",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b964e552837b66109bdf5e60ceaad301",
+      "error_message": null
+    },
+    {
+      "asset_id": "69632440",
+      "asset_name": "SERVER: KGD-SYSLOG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b64a952837b66109bdf5e60ceaad346",
+      "error_message": null
+    },
+    {
+      "asset_id": "69645375",
+      "asset_name": "iDRAC:  KGD-HOST1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1764e952837b66109bdf5e60ceaad3e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "69645513",
+      "asset_name": "iDRAC: KGD-HOST2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a074ad52837b66109bdf5e60ceaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "69645561",
+      "asset_name": "iDRAC:  KGD-VDIHOST",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8974ed52837b66109bdf5e60ceaad3a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "69648172",
+      "asset_name": "DCRS1102",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "fb172c8097ee2910511ff957f053af8d",
+      "error_message": null
+    },
+    {
+      "asset_id": "75929470",
+      "asset_name": "FW:  SonicWall NSa 4700 HA Pair - DC Primary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "46742592837b66109bdf5e60ceaad304",
+      "error_message": null
+    },
+    {
+      "asset_id": "75929584",
+      "asset_name": "FW:  SonicWall NSa 4700 HA Pair - DC Secondary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a7746992837b66109bdf5e60ceaad34c",
+      "error_message": null
+    },
+    {
+      "asset_id": "75934259",
+      "asset_name": "FW:  SonicWall NSa 4700 HA Pair - VA Secondary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ab746992837b66109bdf5e60ceaad363",
+      "error_message": null
+    },
+    {
+      "asset_id": "75934236",
+      "asset_name": "FW:  SonicWall NSa 4700 HA Pair - VA Primary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "33746992837b66109bdf5e60ceaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "1217926",
+      "asset_name": "kgdarchitecture.com",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "888142b293d922502dadffed1dba109c",
+      "error_message": null
+    },
+    {
+      "asset_id": 564597,
+      "asset_name": "kgdarchitecture.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5484a992837b66109bdf5e60ceaad35b",
+      "error_message": null
+    },
+    {
+      "asset_id": 567671,
+      "asset_name": "vpn.kgdarchitecture.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d484e992837b66109bdf5e60ceaad346",
+      "error_message": null
+    },
+    {
+      "asset_id": "18898849",
+      "asset_name": "IT Room - DC Location",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6025255a837b66109bdf5e60ceaad348",
+      "error_message": null
+    },
+    {
+      "asset_id": "11536590",
+      "asset_name": "Standard System Specs Sheet - KGD Architecture",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "905525da837b66109bdf5e60ceaad339",
+      "error_message": null
+    },
+    {
+      "asset_id": "11536594",
+      "asset_name": "Client will be doing all machine setups and user provisioning internally",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4a5529da837b66109bdf5e60ceaad3e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "13841237",
+      "asset_name": "Horizon View SSL Certificate Renewal Process - mypc.kgdarchitecture.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1255a9da837b66109bdf5e60ceaad3cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "16149646",
+      "asset_name": "KGD Standard Operating Procedure (SOP) Creating an Azure Host Pool",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea55e9da837b66109bdf5e60ceaad322",
+      "error_message": null
+    },
+    {
+      "asset_id": "16149651",
+      "asset_name": "KGD Standard Operating Procedure (SOP) Creating an Azure Golden Image for AVD Host Pool",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3a552dda837b66109bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "16149673",
+      "asset_name": "KGD Standard Operating Procedure (SOP) Adding a Session Host to Azure Host Pool",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4b552dda837b66109bdf5e60ceaad3ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "16149691",
+      "asset_name": "KGD Standard Operating Procedure (SOP) Creating a Workspace in Azure Host Pool",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d7556dda837b66109bdf5e60ceaad38d",
+      "error_message": null
+    },
+    {
+      "asset_id": "16149712",
+      "asset_name": "KGD Standard Operating Procedure (SOP) Creating an Application Group in Azure AVD Host Pool",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eb55adda837b66109bdf5e60ceaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "16152148",
+      "asset_name": "KGD Standard Operating Procedure (SOP) Enabling OneDrive on Azure AVD Session Hosts",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b55edda837b66109bdf5e60ceaad352",
+      "error_message": null
+    },
+    {
+      "asset_id": "11744327",
+      "asset_name": "KGD Architecture -New Client SALES - IKO review new deal - REDACTED.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c065211e837b66109bdf5e60ceaad34b",
+      "error_message": null
+    },
+    {
+      "asset_id": "11667636",
+      "asset_name": "apps and licensing backups password policy.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ec65edda837b66109bdf5e60ceaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "11837225",
+      "asset_name": "kaseya monitoring patching user onboarding docs.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fc65a11e837b66109bdf5e60ceaad301",
+      "error_message": null
+    },
+    {
+      "asset_id": "11512815",
+      "asset_name": "KGD_Backup_Schedule.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8165a11e837b66109bdf5e60ceaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "11707419",
+      "asset_name": "Unkown Device Exception Report - KGD.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd65251e837b66109bdf5e60ceaad30c",
+      "error_message": null
+    },
+    {
+      "asset_id": "11757627",
+      "asset_name": "KGD_VDI_Visio.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3965651e837b66109bdf5e60ceaad312",
+      "error_message": null
+    },
+    {
+      "asset_id": "11757629",
+      "asset_name": "UAG_Settings.json",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d265a51e837b66109bdf5e60ceaad356",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590249",
+      "asset_name": "BDR PowerPoint.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b265a51e837b66109bdf5e60ceaad3dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590250",
+      "asset_name": "Asset Detail Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0f65291e837b66109bdf5e60ceaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590251",
+      "asset_name": "Excel Export.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1365291e837b66109bdf5e60ceaad3ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590252",
+      "asset_name": "Network Management Plan.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b65a91e837b66109bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590253",
+      "asset_name": "Network Assessment PowerPoint.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0875a91e837b66109bdf5e60ceaad360",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590254",
+      "asset_name": "Outdated Malware Definitions Summary.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9475e91e837b66109bdf5e60ceaad3bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590255",
+      "asset_name": "Layer 2-3 Diagram Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "30752d1e837b66109bdf5e60ceaad393",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590256",
+      "asset_name": "Layer 2-3 Detail Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "45756d1e837b66109bdf5e60ceaad380",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590257",
+      "asset_name": "IT SWOT Analysis Report-Scan Completion Confirmation Worksheet.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d975ed1e837b66109bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590258",
+      "asset_name": "IT SWOT Analysis Report-MS Cloud Compensating Control Worksheet.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f575ed1e837b66109bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590259",
+      "asset_name": "IT SWOT Analysis Report-BDR Needs Worksheet.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4275215e837b66109bdf5e60ceaad398",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590260",
+      "asset_name": "Full Detail Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1275615e837b66109bdf5e60ceaad3cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590261",
+      "asset_name": "Executive Summary.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6e75a15e837b66109bdf5e60ceaad392",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590262",
+      "asset_name": "Consolidated Management Plan.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4b75e15e837b66109bdf5e60ceaad3c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590263",
+      "asset_name": "Consolidated Risk Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1375255e837b66109bdf5e60ceaad3c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590264",
+      "asset_name": "Client Health Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2f75655e837b66109bdf5e60ceaad3c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590265",
+      "asset_name": "Client Risk Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4885a55e837b66109bdf5e60ceaad304",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590266",
+      "asset_name": "Windows Service Account Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1885e55e837b66109bdf5e60ceaad3a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590267",
+      "asset_name": "Windows Patch Assurance Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ec85295e837b66109bdf5e60ceaad306",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590268",
+      "asset_name": "Site Diagrams Export to Microsoft Visio.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8985295e837b66109bdf5e60ceaad38f",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590269",
+      "asset_name": "Site Diagram.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1d85a95e837b66109bdf5e60ceaad30c",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590270",
+      "asset_name": "Server Aging Infographic Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd85e95e837b66109bdf5e60ceaad34e",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590271",
+      "asset_name": "Outdated Operating Systems Summary.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ce85a95e837b66109bdf5e60ceaad385",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590272",
+      "asset_name": "Layer 2-3 Diagram.tif",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2e856d5e837b66109bdf5e60ceaad391",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590273",
+      "asset_name": "Layer 2-3 Diagram Export to Microsoft Visio.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3685ed5e837b66109bdf5e60ceaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590274",
+      "asset_name": "Layer 2-3 Detail Excel Export.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cb85ed5e837b66109bdf5e60ceaad32d",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590275",
+      "asset_name": "Consolidated Risk Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db85219e837b66109bdf5e60ceaad3db",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590276",
+      "asset_name": "BDR Needs Analysis.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b385619e837b66109bdf5e60ceaad3b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590278",
+      "asset_name": "Consolidated Security Report Card Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8895619e837b66109bdf5e60ceaad3a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590279",
+      "asset_name": "Anomalous Login Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1495e19e837b66109bdf5e60ceaad33f",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590280",
+      "asset_name": "Share Permission Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a495e19e837b66109bdf5e60ceaad3d4",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590281",
+      "asset_name": "Share Permission Report by User.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4995659e837b66109bdf5e60ceaad3b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590282",
+      "asset_name": "Security Risk Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9d95a59e837b66109bdf5e60ceaad36f",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590283",
+      "asset_name": "Security Policy Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed95a59e837b66109bdf5e60ceaad3a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590284",
+      "asset_name": "Security Management Plan.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3995299e837b66109bdf5e60ceaad33b",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590285",
+      "asset_name": "Security Health Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5a95299e837b66109bdf5e60ceaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590286",
+      "asset_name": "Security Assessment PowerPoint.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2695699e837b66109bdf5e60ceaad3f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590288",
+      "asset_name": "RSOP User Settings Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ba95e99e837b66109bdf5e60ceaad325",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590289",
+      "asset_name": "RSOP Computer Settings Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c7952d9e837b66109bdf5e60ceaad32a",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590290",
+      "asset_name": "Password Policies Summary.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e3956d9e837b66109bdf5e60ceaad33b",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590291",
+      "asset_name": "Outbound Security Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b795ad9e837b66109bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590292",
+      "asset_name": "Login History by Computer Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00a5ed9e837b66109bdf5e60ceaad333",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590293",
+      "asset_name": "Login Failures by Computer Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8a521de837b66109bdf5e60ceaad37d",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590294",
+      "asset_name": "Data Breach Liability Summary.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78a561de837b66109bdf5e60ceaad36c",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590295",
+      "asset_name": "Data Breach Liability Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "41a5a1de837b66109bdf5e60ceaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590296",
+      "asset_name": "Consolidated Security Report Card.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "55a5e1de837b66109bdf5e60ceaad363",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590297",
+      "asset_name": "User Behavior Analysis Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "71a525de837b66109bdf5e60ceaad3ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590298",
+      "asset_name": "Share Permission Report Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4ea5a5de837b66109bdf5e60ceaad36d",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590299",
+      "asset_name": "Share Permission Report by User Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ea5e5de837b66109bdf5e60ceaad316",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590300",
+      "asset_name": "Data Breach Liability Report Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eaa529de837b66109bdf5e60ceaad393",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590226",
+      "asset_name": "Microsoft Teams Assessment-1.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cba569de837b66109bdf5e60ceaad397",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590227",
+      "asset_name": "Azure AD Assessment Excel Export.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dfa5a9de837b66109bdf5e60ceaad390",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590228",
+      "asset_name": "SharePoint Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "67a5e9de837b66109bdf5e60ceaad3c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590229",
+      "asset_name": "Outlook Usage Detail Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "08b56dde837b66109bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590230",
+      "asset_name": "Risk Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a8b5adde837b66109bdf5e60ceaad346",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590231",
+      "asset_name": "OneDrive Usage Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "41b5211283bb66109bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590232",
+      "asset_name": "Outlook Mail Activity Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9db5611283bb66109bdf5e60ceaad3ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590233",
+      "asset_name": "OneDrive Usage Detail Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "31b5e11283bb66109bdf5e60ceaad32e",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590234",
+      "asset_name": "MS Cloud Compensating Control Worksheet.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ceb5251283bb66109bdf5e60ceaad3a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590235",
+      "asset_name": "Microsoft Teams Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e2b5651283bb66109bdf5e60ceaad3c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590236",
+      "asset_name": "Microsoft Cloud Security Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2b5a51283bb66109bdf5e60ceaad3fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590237",
+      "asset_name": "Configuration Change Report-3.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "03b5291283bb66109bdf5e60ceaad31b",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590238",
+      "asset_name": "Configuration Change Report-2.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6fb5691283bb66109bdf5e60ceaad302",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590239",
+      "asset_name": "Configuration Change Report-1.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b3b5a91283bb66109bdf5e60ceaad327",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590240",
+      "asset_name": "Configuration Change Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "44c5e91283bb66109bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590241",
+      "asset_name": "Azure AD Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "64c5e91283bb66109bdf5e60ceaad3ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590325",
+      "asset_name": "Management Plan.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b0c56d1283bb66109bdf5e60ceaad387",
+      "error_message": null
+    },
+    {
+      "asset_id": "11512809",
+      "asset_name": "KGD Incident Response Plan_r2021_Summary_rev0.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c9c5ad1283bb66109bdf5e60ceaad3bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "11512810",
+      "asset_name": "KGD Business_Continuity_r2022.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "65c5ed1283bb66109bdf5e60ceaad3fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "16025969",
+      "asset_name": "Network Diagram 5.28.24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "35c5215283bb66109bdf5e60ceaad3ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "18899116",
+      "asset_name": "KGD_DC_SeatingChart_2024-12-12.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "66c5a15283bb66109bdf5e60ceaad32d",
+      "error_message": null
+    },
+    {
+      "asset_id": "18899131",
+      "asset_name": "KGD_VA_SeatingChart_2024-12-12.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8bc5a15283bb66109bdf5e60ceaad3ad",
+      "error_message": null
+    },
+    {
+      "asset_id": "11689608",
+      "asset_name": "horizon-client-windows-installation.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a7c5255283bb66109bdf5e60ceaad32d",
+      "error_message": null
+    },
+    {
+      "asset_id": "11689646",
+      "asset_name": "horizon-installation.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c8d5655283bb66109bdf5e60ceaad3e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "11689660",
+      "asset_name": "Managing virtual-desktops.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "50d5e55283bb66109bdf5e60ceaad36a",
+      "error_message": null
+    },
+    {
+      "asset_id": "17336068",
+      "asset_name": "KGD Architecture - 09_27_2024 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0d5695283bb66109bdf5e60ceaad342",
+      "error_message": null
+    },
+    {
+      "asset_id": "19761985",
+      "asset_name": "KGD Architecture - 05_28_2025 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d1d5a95283bb66109bdf5e60ceaad33e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11744327",
+      "asset_name": "KGD_Architecture_-New_Client_SALES_-_IKO_review_new_deal_-_REDACTED.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c65211e837b66109bdf5e60ceaad3a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11667636",
+      "asset_name": "apps_and_licensing_backups_password_policy.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac65611e837b66109bdf5e60ceaad38c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11837225",
+      "asset_name": "kaseya_monitoring_patching_user_onboarding_docs.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0d65a11e837b66109bdf5e60ceaad382",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11512815",
+      "asset_name": "KGD_Backup_Schedule.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5d65e11e837b66109bdf5e60ceaad365",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11707419",
+      "asset_name": "Unkown_Device_Exception_Report_-_KGD.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2965251e837b66109bdf5e60ceaad372",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11757627",
+      "asset_name": "KGD_VDI_Visio.vsd",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4665651e837b66109bdf5e60ceaad3ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11757629",
+      "asset_name": "UAG_Settings.json",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2265e51e837b66109bdf5e60ceaad308",
+      "error_message": null
+    },
+    {
+      "asset_id": "11590249",
+      "asset_name": "BDR_PowerPoint.pptx",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_11590250",
+      "asset_name": "Asset_Detail_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf65691e837b66109bdf5e60ceaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590251",
+      "asset_name": "Excel_Export.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b65a91e837b66109bdf5e60ceaad31c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590252",
+      "asset_name": "Network_Management_Plan.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f65a91e837b66109bdf5e60ceaad3fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590253",
+      "asset_name": "Network_Assessment_PowerPoint.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0c752d1e837b66109bdf5e60ceaad30e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590254",
+      "asset_name": "Outdated_Malware_Definitions_Summary.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8752d1e837b66109bdf5e60ceaad3c1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590255",
+      "asset_name": "Layer_2-3_Diagram_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "30756d1e837b66109bdf5e60ceaad368",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590256",
+      "asset_name": "Layer_2-3_Detail_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9975ad1e837b66109bdf5e60ceaad305",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590257",
+      "asset_name": "IT_SWOT_Analysis_Report-Scan_Completion_Confirmation_Worksheet.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6975ed1e837b66109bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590258",
+      "asset_name": "IT_SWOT_Analysis_Report-MS_Cloud_Compensating_Control_Worksheet.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7175215e837b66109bdf5e60ceaad327",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590259",
+      "asset_name": "IT_SWOT_Analysis_Report-BDR_Needs_Worksheet.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0275215e837b66109bdf5e60ceaad3a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590260",
+      "asset_name": "Full_Detail_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a675615e837b66109bdf5e60ceaad331",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590261",
+      "asset_name": "Executive_Summary.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e75e15e837b66109bdf5e60ceaad306",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590262",
+      "asset_name": "Consolidated_Management_Plan.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4775e15e837b66109bdf5e60ceaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590263",
+      "asset_name": "Consolidated_Risk_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f75255e837b66109bdf5e60ceaad322",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590264",
+      "asset_name": "Client_Health_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b775655e837b66109bdf5e60ceaad328",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590265",
+      "asset_name": "Client_Risk_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c885a55e837b66109bdf5e60ceaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590266",
+      "asset_name": "Windows_Service_Account_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6485e55e837b66109bdf5e60ceaad3b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590267",
+      "asset_name": "Windows_Patch_Assurance_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f885295e837b66109bdf5e60ceaad329",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590268",
+      "asset_name": "Site_Diagrams_Export_to_Microsoft_Visio.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c585695e837b66109bdf5e60ceaad388",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590269",
+      "asset_name": "Site_Diagram.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d185a95e837b66109bdf5e60ceaad37d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590270",
+      "asset_name": "Server_Aging_Infographic_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c685e95e837b66109bdf5e60ceaad302",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590271",
+      "asset_name": "Outdated_Operating_Systems_Summary.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1e852d5e837b66109bdf5e60ceaad3f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590272",
+      "asset_name": "Layer_2-3_Diagram.tif",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2285ad5e837b66109bdf5e60ceaad36f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590273",
+      "asset_name": "Layer_2-3_Diagram_Export_to_Microsoft_Visio.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b85ed5e837b66109bdf5e60ceaad334",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590274",
+      "asset_name": "Layer_2-3_Detail_Excel_Export.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5785219e837b66109bdf5e60ceaad37a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590275",
+      "asset_name": "Consolidated_Risk_Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b85219e837b66109bdf5e60ceaad33f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590276",
+      "asset_name": "BDR_Needs_Analysis.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f785619e837b66109bdf5e60ceaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590278",
+      "asset_name": "Consolidated_Security_Report_Card_Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0495e19e837b66109bdf5e60ceaad35e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590279",
+      "asset_name": "Anomalous_Login_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a895a19e837b66109bdf5e60ceaad3f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590280",
+      "asset_name": "Share_Permission_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fc95259e837b66109bdf5e60ceaad399",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590281",
+      "asset_name": "Share_Permission_Report_by_User.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c595659e837b66109bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590282",
+      "asset_name": "Security_Risk_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a195a59e837b66109bdf5e60ceaad3ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590283",
+      "asset_name": "Security_Policy_Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7595a59e837b66109bdf5e60ceaad3f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590284",
+      "asset_name": "Security_Management_Plan.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ca95e59e837b66109bdf5e60ceaad3df",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590285",
+      "asset_name": "Security_Health_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "de95699e837b66109bdf5e60ceaad32e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590286",
+      "asset_name": "Security_Assessment_PowerPoint.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b695699e837b66109bdf5e60ceaad39f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590288",
+      "asset_name": "RSOP_User_Settings_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4395e99e837b66109bdf5e60ceaad397",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590289",
+      "asset_name": "RSOP_Computer_Settings_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b952d9e837b66109bdf5e60ceaad393",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590290",
+      "asset_name": "Password_Policies_Summary.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "af956d9e837b66109bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590291",
+      "asset_name": "Outbound_Security_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00a5ad9e837b66109bdf5e60ceaad33b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590292",
+      "asset_name": "Login_History_by_Computer_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d4a5ed9e837b66109bdf5e60ceaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590293",
+      "asset_name": "Login_Failures_by_Computer_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aca521de837b66109bdf5e60ceaad3db",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590294",
+      "asset_name": "Data_Breach_Liability_Summary.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f4a561de837b66109bdf5e60ceaad335",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590295",
+      "asset_name": "Data_Breach_Liability_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d5a5e1de837b66109bdf5e60ceaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590296",
+      "asset_name": "Consolidated_Security_Report_Card.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25a525de837b66109bdf5e60ceaad371",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590297",
+      "asset_name": "User_Behavior_Analysis_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "75a565de837b66109bdf5e60ceaad3e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590298",
+      "asset_name": "Share_Permission_Report_Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1ea5a5de837b66109bdf5e60ceaad3ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590299",
+      "asset_name": "Share_Permission_Report_by_User_Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2aa529de837b66109bdf5e60ceaad32b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590300",
+      "asset_name": "Data_Breach_Liability_Report_Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "76a529de837b66109bdf5e60ceaad3fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590226",
+      "asset_name": "Microsoft_Teams_Assessment-1.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cba5a9de837b66109bdf5e60ceaad337",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590227",
+      "asset_name": "Azure_AD_Assessment_Excel_Export.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "afa5e9de837b66109bdf5e60ceaad33d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590228",
+      "asset_name": "SharePoint_Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b3a52dde837b66109bdf5e60ceaad305",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590229",
+      "asset_name": "Outlook_Usage_Detail_Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d0b56dde837b66109bdf5e60ceaad3c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590230",
+      "asset_name": "Risk_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "38b5edde837b66109bdf5e60ceaad31a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590231",
+      "asset_name": "OneDrive_Usage_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "99b5611283bb66109bdf5e60ceaad308",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590232",
+      "asset_name": "Outlook_Mail_Activity_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e1b5a11283bb66109bdf5e60ceaad3aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590233",
+      "asset_name": "OneDrive_Usage_Detail_Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ceb5251283bb66109bdf5e60ceaad308",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590234",
+      "asset_name": "MS_Cloud_Compensating_Control_Worksheet.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "12b5251283bb66109bdf5e60ceaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590235",
+      "asset_name": "Microsoft_Teams_Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a6b5651283bb66109bdf5e60ceaad3f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590236",
+      "asset_name": "Microsoft_Cloud_Security_Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "47b5e51283bb66109bdf5e60ceaad344",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590237",
+      "asset_name": "Configuration_Change_Report-3.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9fb5291283bb66109bdf5e60ceaad381",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590238",
+      "asset_name": "Configuration_Change_Report-2.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e3b5691283bb66109bdf5e60ceaad368",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590239",
+      "asset_name": "Configuration_Change_Report-1.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "40c5a91283bb66109bdf5e60ceaad3a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590240",
+      "asset_name": "Configuration_Change_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dcc5e91283bb66109bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590241",
+      "asset_name": "Azure_AD_Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e0c56d1283bb66109bdf5e60ceaad35e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11590325",
+      "asset_name": "Management_Plan.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "81c5ad1283bb66109bdf5e60ceaad337",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11512809",
+      "asset_name": "KGD_Incident_Response_Plan_r2021_Summary_rev0.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "11c5ed1283bb66109bdf5e60ceaad33b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11512810",
+      "asset_name": "KGD_Business_Continuity_r2022.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a5c5215283bb66109bdf5e60ceaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16025969",
+      "asset_name": "Image20240528152854.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0ac5615283bb66109bdf5e60ceaad38a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_05.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5635e19a837b66109bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_04.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aa35e19a837b66109bdf5e60ceaad329",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_07.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2235259a837b66109bdf5e60ceaad342",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_06.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7235259a837b66109bdf5e60ceaad316",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_08.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3a35259a837b66109bdf5e60ceaad300",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_02.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f35259a837b66109bdf5e60ceaad34b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_05.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b35259a837b66109bdf5e60ceaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_01.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8735659a837b66109bdf5e60ceaad370",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_02.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b35659a837b66109bdf5e60ceaad3de",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_02.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5735a59a837b66109bdf5e60ceaad328",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_05.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2735a59a837b66109bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_03.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b35a59a837b66109bdf5e60ceaad368",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_06.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ab35a59a837b66109bdf5e60ceaad36f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_04.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3735a59a837b66109bdf5e60ceaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_06.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f735e59a837b66109bdf5e60ceaad337",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_07.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c445e59a837b66109bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_01.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0045e59a837b66109bdf5e60ceaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_03.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0045299a837b66109bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_04.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5845299a837b66109bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_01.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1045299a837b66109bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_03.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a845699a837b66109bdf5e60ceaad354",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_05.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5635e19a837b66109bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_04.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aa35e19a837b66109bdf5e60ceaad329",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_07.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2235259a837b66109bdf5e60ceaad342",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_06.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7235259a837b66109bdf5e60ceaad316",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_08.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3a35259a837b66109bdf5e60ceaad300",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_02.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f35259a837b66109bdf5e60ceaad34b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_05.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b35259a837b66109bdf5e60ceaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_01.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8735659a837b66109bdf5e60ceaad370",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_02.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b35659a837b66109bdf5e60ceaad3de",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_02.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5735a59a837b66109bdf5e60ceaad328",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_05.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2735a59a837b66109bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_03.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b35a59a837b66109bdf5e60ceaad368",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_06.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ab35a59a837b66109bdf5e60ceaad36f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_04.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3735a59a837b66109bdf5e60ceaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_06.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f735e59a837b66109bdf5e60ceaad337",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_07.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c445e59a837b66109bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_01.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0045e59a837b66109bdf5e60ceaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_03.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0045299a837b66109bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_04.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5845299a837b66109bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_01.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1045299a837b66109bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_03.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a845699a837b66109bdf5e60ceaad354",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_05.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5635e19a837b66109bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_04.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aa35e19a837b66109bdf5e60ceaad329",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_07.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2235259a837b66109bdf5e60ceaad342",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_06.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7235259a837b66109bdf5e60ceaad316",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_08.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3a35259a837b66109bdf5e60ceaad300",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_02.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f35259a837b66109bdf5e60ceaad34b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_05.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b35259a837b66109bdf5e60ceaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_01.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8735659a837b66109bdf5e60ceaad370",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_02.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b35659a837b66109bdf5e60ceaad3de",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_02.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5735a59a837b66109bdf5e60ceaad328",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_05.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2735a59a837b66109bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_03.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b35a59a837b66109bdf5e60ceaad368",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_06.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ab35a59a837b66109bdf5e60ceaad36f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_04.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3735a59a837b66109bdf5e60ceaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_06.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f735e59a837b66109bdf5e60ceaad337",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_07.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c445e59a837b66109bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_01.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0045e59a837b66109bdf5e60ceaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack02_03.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0045299a837b66109bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_04.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5845299a837b66109bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_Rack01_01.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1045299a837b66109bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18898849",
+      "asset_name": "KGD_IT_Room_03.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a845699a837b66109bdf5e60ceaad354",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18899116",
+      "asset_name": "KGD_DC_SeatingChart_2024-12-12.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2c5a15283bb66109bdf5e60ceaad360",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18899131",
+      "asset_name": "KGD_VA_SeatingChart_2024-12-12.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9bc5e15283bb66109bdf5e60ceaad3cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11536590",
+      "asset_name": "2.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd55a5da837b66109bdf5e60ceaad3f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11536590",
+      "asset_name": "3.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9155e5da837b66109bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11536590",
+      "asset_name": "1.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d155e5da837b66109bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11536590",
+      "asset_name": "2.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd55a5da837b66109bdf5e60ceaad3f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11536590",
+      "asset_name": "3.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9155e5da837b66109bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11536590",
+      "asset_name": "1.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d155e5da837b66109bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11536590",
+      "asset_name": "2.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd55a5da837b66109bdf5e60ceaad3f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11536590",
+      "asset_name": "3.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9155e5da837b66109bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11536590",
+      "asset_name": "1.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d155e5da837b66109bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11689608",
+      "asset_name": "horizon-client-windows-installation.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b7c5655283bb66109bdf5e60ceaad36f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11689646",
+      "asset_name": "horizon-installation.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "10d5a55283bb66109bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11689660",
+      "asset_name": "Managing_virtual-desktops.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "60d5e55283bb66109bdf5e60ceaad3d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17336068",
+      "asset_name": "KGD_Architecture_-_09_27_2024_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "05d5695283bb66109bdf5e60ceaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_19761985",
+      "asset_name": "KGD_Architecture_-_05_28_2025_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "61d5e95283bb66109bdf5e60ceaad30c",
+      "error_message": null
+    }
+  ]
+}

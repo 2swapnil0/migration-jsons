@@ -1,0 +1,90 @@
+{
+  "session_id": "migration_202507_134330_a1f59c73",
+  "organization": "Lamont Offices",
+  "timestamp": "2025-09-07T13:44:14.139853",
+  "total_processed": 10,
+  "successful": 10,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "75277368",
+      "asset_name": "Not Managed By Coretelligent Not Managed By Coretelligent.local",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d9f2ed1e933fe2102dadffed1dba10c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "75277299",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a5f2ed1e933fe2102dadffed1dba10ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "14558372",
+      "asset_name": "Office 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "29f2ed1e933fe2102dadffed1dba10f9",
+      "error_message": null
+    },
+    {
+      "asset_id": "75277346",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e5f2215e933fe2102dadffed1dba1012",
+      "error_message": null
+    },
+    {
+      "asset_id": "75277329",
+      "asset_name": "Other Not Managed By Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25f2215e933fe2102dadffed1dba102b",
+      "error_message": null
+    },
+    {
+      "asset_id": "14557974",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fdf2215e933fe2102dadffed1dba103a",
+      "error_message": null
+    },
+    {
+      "asset_id": "14557975",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bdf2215e933fe2102dadffed1dba1047",
+      "error_message": null
+    },
+    {
+      "asset_id": "28865881",
+      "asset_name": "ned-ct10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "796330",
+      "asset_name": "lamontoffices.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8af2215e933fe2102dadffed1dba10ca",
+      "error_message": null
+    },
+    {
+      "asset_id": "5639634",
+      "asset_name": "NedLamont.com Domain Information",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "36f2615e933fe2102dadffed1dba102c",
+      "error_message": null
+    }
+  ]
+}

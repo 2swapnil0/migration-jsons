@@ -1,0 +1,3138 @@
+{
+  "session_id": "migration_202507_134428_2d078125",
+  "organization": "Kyverna Therapeutics",
+  "timestamp": "2025-09-07T13:57:09.791158",
+  "total_processed": 391,
+  "successful": 380,
+  "failed": 11,
+  "results": [
+    {
+      "asset_id": "15979108",
+      "asset_name": "Azure Azure",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1633259e933fe2102dadffed1dba10d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "52614306",
+      "asset_name": "Other",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e633659e933fe2102dadffed1dba1029",
+      "error_message": null
+    },
+    {
+      "asset_id": "52614294",
+      "asset_name": "Cloud Provider",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ae33659e933fe2102dadffed1dba102f",
+      "error_message": null
+    },
+    {
+      "asset_id": "17111917",
+      "asset_name": "5980 Horton Street - Corporate SSID KyvernaCorporate",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2a33659e933fe2102dadffed1dba104b",
+      "error_message": null
+    },
+    {
+      "asset_id": "17111918",
+      "asset_name": "5980 Horton Street - Guest  SSID KyvernaGuest",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b333699e933fe2102dadffed1dba10ce",
+      "error_message": null
+    },
+    {
+      "asset_id": "13973146",
+      "asset_name": "Mimecast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5843a99e933fe2102dadffed1dba10d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "14337735",
+      "asset_name": "Box.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc43a99e933fe2102dadffed1dba10df",
+      "error_message": null
+    },
+    {
+      "asset_id": "14340034",
+      "asset_name": "Carbonite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3443e99e933fe2102dadffed1dba109c",
+      "error_message": null
+    },
+    {
+      "asset_id": "14340081",
+      "asset_name": "Zoom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e9436d9e933fe2102dadffed1dba1021",
+      "error_message": null
+    },
+    {
+      "asset_id": "14340250",
+      "asset_name": "Benchling",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ee43ed9e933fe2102dadffed1dba10a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449559",
+      "asset_name": "Addigy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "764321de933fe2102dadffed1dba1042",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449745",
+      "asset_name": "ADP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "324321de933fe2102dadffed1dba1084",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449750",
+      "asset_name": "Expensify",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9f4361de933fe2102dadffed1dba1009",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449753",
+      "asset_name": "NetSuite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6053e1de933fe2102dadffed1dba1059",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449759",
+      "asset_name": "Instagantt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3c53e1de933fe2102dadffed1dba1066",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449788",
+      "asset_name": "iDaptive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3053e1de933fe2102dadffed1dba105e",
+      "error_message": null
+    },
+    {
+      "asset_id": "16069297",
+      "asset_name": "8x8",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "755365de933fe2102dadffed1dba106e",
+      "error_message": null
+    },
+    {
+      "asset_id": "17518831",
+      "asset_name": "GraphPad Prism",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ee53a5de933fe2102dadffed1dba10dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "18317002",
+      "asset_name": "FlowJo",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e53e5de933fe2102dadffed1dba1089",
+      "error_message": null
+    },
+    {
+      "asset_id": "17575178",
+      "asset_name": "Slack",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b653e5de933fe2102dadffed1dba10a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "19628018",
+      "asset_name": "Envoy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bb5369de933fe2102dadffed1dba1070",
+      "error_message": null
+    },
+    {
+      "asset_id": "19628058",
+      "asset_name": "SnapGene",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fc63e9de933fe2102dadffed1dba1065",
+      "error_message": null
+    },
+    {
+      "asset_id": "23439204",
+      "asset_name": "RealVNC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7063e9de933fe2102dadffed1dba1047",
+      "error_message": null
+    },
+    {
+      "asset_id": "23439579",
+      "asset_name": "Geneious",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f063e9de933fe2102dadffed1dba107f",
+      "error_message": null
+    },
+    {
+      "asset_id": "24812118",
+      "asset_name": "Smartsheet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5632dde933fe2102dadffed1dba10dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "59154986",
+      "asset_name": "Sharepoint",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e6636dde933fe2102dadffed1dba1096",
+      "error_message": null
+    },
+    {
+      "asset_id": "56163858",
+      "asset_name": "Survey Monkey",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "26636dde933fe2102dadffed1dba1073",
+      "error_message": null
+    },
+    {
+      "asset_id": "83025926",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "32636dde933fe2102dadffed1dba1092",
+      "error_message": null
+    },
+    {
+      "asset_id": "14007980",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4473edde933fe2102dadffed1dba107e",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449777",
+      "asset_name": "Box",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d873edde933fe2102dadffed1dba10f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "18431178",
+      "asset_name": "AT&T Fiber",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3c732112937fe2102dadffed1dba10db",
+      "error_message": null
+    },
+    {
+      "asset_id": "52934778",
+      "asset_name": "UPS - APC Smart UPS 1500 IP: 10.3.8.7",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ce73a112937fe2102dadffed1dba10c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "17111939",
+      "asset_name": "Kyverna LAN 10.3.9.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b573a112937fe2102dadffed1dba10e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "10564599",
+      "asset_name": "Kyverna",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f732512937fe2102dadffed1dba104e",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449572",
+      "asset_name": "Addigy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db732512937fe2102dadffed1dba1055",
+      "error_message": null
+    },
+    {
+      "asset_id": "17566452",
+      "asset_name": "Comcast Business - Fiber",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "24732112937fe2102dadffed1dba1052",
+      "error_message": null
+    },
+    {
+      "asset_id": "14007976",
+      "asset_name": "Mimecast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b483a512937fe2102dadffed1dba1014",
+      "error_message": null
+    },
+    {
+      "asset_id": "14336885",
+      "asset_name": "FlowJo",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3083a512937fe2102dadffed1dba101d",
+      "error_message": null
+    },
+    {
+      "asset_id": "14337000",
+      "asset_name": "GoDaddy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0d83a512937fe2102dadffed1dba1036",
+      "error_message": null
+    },
+    {
+      "asset_id": "15103824",
+      "asset_name": "AT&T",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fa832912937fe2102dadffed1dba1017",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449519",
+      "asset_name": "Verizon Wireless",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4b832912937fe2102dadffed1dba105d",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449547",
+      "asset_name": "Addigy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c7832912937fe2102dadffed1dba1073",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449609",
+      "asset_name": "Box",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b832912937fe2102dadffed1dba1067",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449633",
+      "asset_name": "Carbonite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0193e912937fe2102dadffed1dba1049",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449645",
+      "asset_name": "Adobe",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5993e912937fe2102dadffed1dba1098",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449650",
+      "asset_name": "Envoy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9993e912937fe2102dadffed1dba1066",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449658",
+      "asset_name": "GraphPad Prism",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d593e912937fe2102dadffed1dba10ad",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449704",
+      "asset_name": "iDaptive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d393ad12937fe2102dadffed1dba1093",
+      "error_message": null
+    },
+    {
+      "asset_id": "16068937",
+      "asset_name": "8x8",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "af93ed12937fe2102dadffed1dba1079",
+      "error_message": null
+    },
+    {
+      "asset_id": "16718323",
+      "asset_name": "Canon Financial",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f93ed12937fe2102dadffed1dba108e",
+      "error_message": null
+    },
+    {
+      "asset_id": "17111872",
+      "asset_name": "Comcast Business",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "55a3a152937fe2102dadffed1dba106f",
+      "error_message": null
+    },
+    {
+      "asset_id": "17574850",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "91a3a152937fe2102dadffed1dba105c",
+      "error_message": null
+    },
+    {
+      "asset_id": "17574881",
+      "asset_name": "Slack",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "19a3a152937fe2102dadffed1dba1036",
+      "error_message": null
+    },
+    {
+      "asset_id": "17574897",
+      "asset_name": "Zoom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "07a3e552937fe2102dadffed1dba103b",
+      "error_message": null
+    },
+    {
+      "asset_id": "17574946",
+      "asset_name": "Benchling",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4ba3e552937fe2102dadffed1dba1056",
+      "error_message": null
+    },
+    {
+      "asset_id": "17574956",
+      "asset_name": "Expensify",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d3a3e552937fe2102dadffed1dba105e",
+      "error_message": null
+    },
+    {
+      "asset_id": "18374772",
+      "asset_name": "Metrics Champion Consortium",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "34b3e952937fe2102dadffed1dba100e",
+      "error_message": null
+    },
+    {
+      "asset_id": "24812082",
+      "asset_name": "Smartsheet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0db3e952937fe2102dadffed1dba1038",
+      "error_message": null
+    },
+    {
+      "asset_id": "45052616",
+      "asset_name": "Apple",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "49b3e952937fe2102dadffed1dba103d",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449812",
+      "asset_name": "Aerohive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2f93ed12937fe2102dadffed1dba1053",
+      "error_message": null
+    },
+    {
+      "asset_id": "51088571",
+      "asset_name": "Meraki",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9eb36d52937fe2102dadffed1dba10c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "9068349",
+      "asset_name": "Extreme Aerohive Licensing Contract 5-01435932",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "14383280",
+      "asset_name": "Fortinet Fortinet FortiGate 101E",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "59203755",
+      "asset_name": "Spanning",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "47b3ad52937fe2102dadffed1dba10be",
+      "error_message": null
+    },
+    {
+      "asset_id": "76474020",
+      "asset_name": "Cisco",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2fb3ed52937fe2102dadffed1dba10cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "83025978",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a7b3ed52937fe2102dadffed1dba10b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449741",
+      "asset_name": "Microsoft Office365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fcc3a192937fe2102dadffed1dba1016",
+      "error_message": null
+    },
+    {
+      "asset_id": "16068782",
+      "asset_name": "Other 8x8 Additional Local Number-VOSVC0209-US",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ddc3a192937fe2102dadffed1dba10b7",
+      "error_message": null
+    },
+    {
+      "asset_id": "16068783",
+      "asset_name": "Other 8x8 Local Number - Included-VOSVC0209N-US",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3dc3e192937fe2102dadffed1dba10b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "16068786",
+      "asset_name": "Other 8x8 X Series - X1-VOSVC0216-01-US",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f1c3e192937fe2102dadffed1dba10d4",
+      "error_message": null
+    },
+    {
+      "asset_id": "18081264",
+      "asset_name": "Fortinet FortiGate 101E FortiGate 101E",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "16068788",
+      "asset_name": "Other 8x8 X Series - X2-VOSVC0216-02-US",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "43c36592937fe2102dadffed1dba10ce",
+      "error_message": null
+    },
+    {
+      "asset_id": "16068791",
+      "asset_name": "Other 8x8 X Series - X4-VOSVC0216-04-US",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dbc3a592937fe2102dadffed1dba1097",
+      "error_message": null
+    },
+    {
+      "asset_id": "17518980",
+      "asset_name": "Other GraphPad Prism",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ccd3e592937fe2102dadffed1dba10a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "18316967",
+      "asset_name": "FlowJo Licensing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c1d36992937fe2102dadffed1dba10ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "23439243",
+      "asset_name": "RealVNC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "45d36992937fe2102dadffed1dba10c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "23439571",
+      "asset_name": "Geneious",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "86d3e992937fe2102dadffed1dba1025",
+      "error_message": null
+    },
+    {
+      "asset_id": "23494718",
+      "asset_name": "Other CloudAlly CloudAlly for Box-Per 10GB Batch",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "62d36d92937fe2102dadffed1dba1041",
+      "error_message": null
+    },
+    {
+      "asset_id": "25114856",
+      "asset_name": "Adobe Creative Cloud (Acrobat)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f6d3ad92937fe2102dadffed1dba1038",
+      "error_message": null
+    },
+    {
+      "asset_id": "28121143",
+      "asset_name": "Addigy com.apple.mgmt.External.550f1b09-154b-496d-88c6-80400917d226",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "88e3e1d2937fe2102dadffed1dba10bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "50103889",
+      "asset_name": "Extreme Networks Contract 5-01463972",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "36886587",
+      "asset_name": "Mimecast Azure Secret",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9ce365d2937fe2102dadffed1dba1066",
+      "error_message": null
+    },
+    {
+      "asset_id": "47395751",
+      "asset_name": "Other SnapGene 6.0.2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a8e3a5d2937fe2102dadffed1dba1036",
+      "error_message": null
+    },
+    {
+      "asset_id": "50983254",
+      "asset_name": "Other Extreme Networks Contract 5-01461385",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "51088647",
+      "asset_name": "Meraki Kyverna License",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "70817193",
+      "asset_name": "Extreme Contract 5-01608396 (2)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9ee3a116937fe2102dadffed1dba10ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "18081310",
+      "asset_name": "Aerohive Extreme AeroHive AP250 (8 Seats) Contract 5-01600826 AeroHive AP250",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80d3e592937fe2102dadffed1dba10af",
+      "error_message": null
+    },
+    {
+      "asset_id": "84288029",
+      "asset_name": "Addigy Kyverna - Cancel Addigy service at renewal 11/30/24",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "50983178",
+      "asset_name": "Cisco Smartnet RMA License",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1ae3a116937fe2102dadffed1dba1040",
+      "error_message": null
+    },
+    {
+      "asset_id": "50983188",
+      "asset_name": "Meraki Meraki Enterprise License",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d6e3a116937fe2102dadffed1dba1068",
+      "error_message": null
+    },
+    {
+      "asset_id": "84369528",
+      "asset_name": "Sentinel One ***OPEN SYSTEMS CASE to remove Sentinel One on 7/5/2025",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "72963202",
+      "asset_name": "Cisco Kyverna LIC-MS225-48FP-HW Expires 2/1/27",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e4f3ad16937fe2102dadffed1dba10fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "84291004",
+      "asset_name": "Idaptive Kyverna  Cancel Idaptive at renewal 11/30/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "68f3ad16937fe2102dadffed1dba10e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "84291149",
+      "asset_name": "Mimecast Kyverna cancel mimecast services at renewal 1/31/25",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cdf3a156937fe2102dadffed1dba10a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449595",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f9f36556937fe2102dadffed1dba109e",
+      "error_message": null
+    },
+    {
+      "asset_id": "14340048",
+      "asset_name": "Carbonite Files",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e6f3e556937fe2102dadffed1dba1096",
+      "error_message": null
+    },
+    {
+      "asset_id": "23479750",
+      "asset_name": "Cloud Ally Volume/Image Box account backup to CloudAlly",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aef32956937fe2102dadffed1dba104d",
+      "error_message": null
+    },
+    {
+      "asset_id": "59197898",
+      "asset_name": "Spanning Files MS365 User Mailboxes and Sharepoint SItes",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b3f3e956937fe2102dadffed1dba105d",
+      "error_message": null
+    },
+    {
+      "asset_id": "72682461",
+      "asset_name": "Kyverna Therapeutics - contact",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7bf3e956937fe2102dadffed1dba1039",
+      "error_message": null
+    },
+    {
+      "asset_id": "72682462",
+      "asset_name": "Kyverna Therapeutics - mail",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80042d56937fe2102dadffed1dba107a",
+      "error_message": null
+    },
+    {
+      "asset_id": "72682464",
+      "asset_name": "Kyverna Therapeutics - OneDrive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7604e196937fe2102dadffed1dba10fd",
+      "error_message": null
+    },
+    {
+      "asset_id": "16718316",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ba042596937fe2102dadffed1dba1041",
+      "error_message": null
+    },
+    {
+      "asset_id": "72682463",
+      "asset_name": "Kyverna Therapeutics - calendar",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f6042596937fe2102dadffed1dba1056",
+      "error_message": null
+    },
+    {
+      "asset_id": "72682465",
+      "asset_name": "Kyverna Therapeutics - SharePoint",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fa042596937fe2102dadffed1dba105c",
+      "error_message": null
+    },
+    {
+      "asset_id": "22003219",
+      "asset_name": "desktop-2pdmhud",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22003402",
+      "asset_name": "desktop-4ck4434",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22003738",
+      "asset_name": "jeffreys-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22003860",
+      "asset_name": "ashleys-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22003862",
+      "asset_name": "johns-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22003969",
+      "asset_name": "lih-yuns-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22004211",
+      "asset_name": "sashas-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "23097807",
+      "asset_name": "jeannes-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "23589915",
+      "asset_name": "sarahs-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "24769204",
+      "asset_name": "Mamles-MacBook-Pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "27595165",
+      "asset_name": "minint-g99tb8t",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "24797050",
+      "asset_name": "mamles-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "25050258",
+      "asset_name": "fayes-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "28061359",
+      "asset_name": "ciriki-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "31880447",
+      "asset_name": "kvtx-utilpc01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "32022746",
+      "asset_name": "desktop-iakds1m",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "32022747",
+      "asset_name": "kyverna-spare01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "32022750",
+      "asset_name": "sshah-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "32314336",
+      "asset_name": "peterb-laptop",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "32963808",
+      "asset_name": "shriynas-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "26537028",
+      "asset_name": "Aerohive WAPs",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a9142d96937fe2102dadffed1dba1023",
+      "error_message": null
+    },
+    {
+      "asset_id": "31860636",
+      "asset_name": "S2/NetVR Controller",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e5142d96937fe2102dadffed1dba1030",
+      "error_message": null
+    },
+    {
+      "asset_id": "28978059",
+      "asset_name": "5th Floor Canon",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a5142d96937fe2102dadffed1dba1048",
+      "error_message": null
+    },
+    {
+      "asset_id": "32979222",
+      "asset_name": "KVTX-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "69142d96937fe2102dadffed1dba106e",
+      "error_message": null
+    },
+    {
+      "asset_id": "32979770",
+      "asset_name": "KVTX-SWSTK01 - Member01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b14a1d6937fe2102dadffed1dba108d",
+      "error_message": null
+    },
+    {
+      "asset_id": "32979822",
+      "asset_name": "KVTX-PUBSW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eb14a1d6937fe2102dadffed1dba10a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "32979838",
+      "asset_name": "KVTX-PUBSW02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f14a1d6937fe2102dadffed1dba10b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "32983465",
+      "asset_name": "KVTX-UPS01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "642465d6937fe2102dadffed1dba103e",
+      "error_message": null
+    },
+    {
+      "asset_id": "32983476",
+      "asset_name": "KVTX-UPS02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "32242dd6937fe2102dadffed1dba1091",
+      "error_message": null
+    },
+    {
+      "asset_id": "32984029",
+      "asset_name": "KVTX-WAP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b246dd6937fe2102dadffed1dba10d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "32984056",
+      "asset_name": "KVTX-WAP02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a324add6937fe2102dadffed1dba10fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "32983886",
+      "asset_name": "KVTX-FW02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a242dd6937fe2102dadffed1dba10e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "32984156",
+      "asset_name": "KVTX-WAP03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a034a11a937fe2102dadffed1dba102a",
+      "error_message": null
+    },
+    {
+      "asset_id": "33741434",
+      "asset_name": "kyvernalab-tc4-2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "32984242",
+      "asset_name": "KVTX-WAP04",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f834e11a937fe2102dadffed1dba1015",
+      "error_message": null
+    },
+    {
+      "asset_id": "33149954",
+      "asset_name": "KVTX-SWSTK01 - Member02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7634e51a937fe2102dadffed1dba10ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "33149981",
+      "asset_name": "KVTX-SWSTK01 - Member03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a34291a937fe2102dadffed1dba1004",
+      "error_message": null
+    },
+    {
+      "asset_id": "34257376",
+      "asset_name": "kyvernalab-tc3",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "34257377",
+      "asset_name": "kyvernalab-biorad",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "35158718",
+      "asset_name": "cores-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "35270129",
+      "asset_name": "kyverna-new-hire-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "35927199",
+      "asset_name": "marlenes-macbook-pro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "36008419",
+      "asset_name": "kyvernalab-cytation",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "36409119",
+      "asset_name": "bkwong-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "36449873",
+      "asset_name": "jyothi-mbp",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "36449874",
+      "asset_name": "andrew-mbp",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "36972669",
+      "asset_name": "rsengupta-mbp",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "37203607",
+      "asset_name": "kyverna-spare02",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "34080861",
+      "asset_name": "Back Office HP Printer",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7234291a937fe2102dadffed1dba1009",
+      "error_message": null
+    },
+    {
+      "asset_id": "34080895",
+      "asset_name": "Front Office HP Printer",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c444e91a937fe2102dadffed1dba1017",
+      "error_message": null
+    },
+    {
+      "asset_id": "34080955",
+      "asset_name": "Lab HP Printer",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "49446d1a937fe2102dadffed1dba10be",
+      "error_message": null
+    },
+    {
+      "asset_id": "37983058",
+      "asset_name": "Kyverna HP Front Office",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "41446d1a937fe2102dadffed1dba10c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "44635020",
+      "asset_name": "KVTX-UPS03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5944ad1a937fe2102dadffed1dba10c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "44635163",
+      "asset_name": "KVTX-WAP05",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "be44a15a937fe2102dadffed1dba102a",
+      "error_message": null
+    },
+    {
+      "asset_id": "58695015",
+      "asset_name": "MSD Instrument",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "44635172",
+      "asset_name": "KVTX-WAP06",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5f44e15a937fe2102dadffed1dba10b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "44635173",
+      "asset_name": "KVTX-WAP07",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4054655a937fe2102dadffed1dba10c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "44635174",
+      "asset_name": "KVTX-WAP08",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0c54655a937fe2102dadffed1dba10f9",
+      "error_message": null
+    },
+    {
+      "asset_id": "62216691",
+      "asset_name": "AP1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7854695a937fe2102dadffed1dba1035",
+      "error_message": null
+    },
+    {
+      "asset_id": "62216740",
+      "asset_name": "AP2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f654ed5a937fe2102dadffed1dba101e",
+      "error_message": null
+    },
+    {
+      "asset_id": "62216817",
+      "asset_name": "AP3",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3654ed5a937fe2102dadffed1dba1048",
+      "error_message": null
+    },
+    {
+      "asset_id": "62217350",
+      "asset_name": "AP4",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e54ed5a937fe2102dadffed1dba1059",
+      "error_message": null
+    },
+    {
+      "asset_id": "62217375",
+      "asset_name": "AP5",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3754a19a937fe2102dadffed1dba1024",
+      "error_message": null
+    },
+    {
+      "asset_id": "62217382",
+      "asset_name": "AP6",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d564659a937fe2102dadffed1dba10e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "62217660",
+      "asset_name": "AP8",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6964a59a937fe2102dadffed1dba10aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "62217807",
+      "asset_name": "AP9",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e964a59a937fe2102dadffed1dba10a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "62217822",
+      "asset_name": "AP10",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2a64299a937fe2102dadffed1dba10b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "62217827",
+      "asset_name": "AP11",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f642d9a937fe2102dadffed1dba1018",
+      "error_message": null
+    },
+    {
+      "asset_id": "62217929",
+      "asset_name": "AP7",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac746d9a937fe2102dadffed1dba10fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "62217964",
+      "asset_name": "AP12",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5574ed9a937fe2102dadffed1dba10c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "62217998",
+      "asset_name": "AP13",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1174ed9a937fe2102dadffed1dba10f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "62218006",
+      "asset_name": "AP14",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c37425da937fe2102dadffed1dba1078",
+      "error_message": null
+    },
+    {
+      "asset_id": "62218020",
+      "asset_name": "AP15",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "037425da937fe2102dadffed1dba107c",
+      "error_message": null
+    },
+    {
+      "asset_id": "62218138",
+      "asset_name": "2nd Floor Canon Main",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3774a5da937fe2102dadffed1dba105c",
+      "error_message": null
+    },
+    {
+      "asset_id": "62218139",
+      "asset_name": "2nd Floor Canon Executive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc84e5da937fe2102dadffed1dba10c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "62218279",
+      "asset_name": "Cisco AP Virtual Controller",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "158469da937fe2102dadffed1dba1072",
+      "error_message": null
+    },
+    {
+      "asset_id": "62218342",
+      "asset_name": "KVTX-IDF-SW",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "f559ec8c97ee2910511ff957f053af73",
+      "error_message": null
+    },
+    {
+      "asset_id": "62218420",
+      "asset_name": "KVTX-2nd-FL-IDF",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "fd78ce00476cc210e236f468436d4309",
+      "error_message": null
+    },
+    {
+      "asset_id": "65826499",
+      "asset_name": "Carries-Printer Brother",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "66842dda937fe2102dadffed1dba109a",
+      "error_message": null
+    },
+    {
+      "asset_id": "65826898",
+      "asset_name": "Legal-Printer Brother",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e894611e937fe2102dadffed1dba10be",
+      "error_message": null
+    },
+    {
+      "asset_id": "65827119",
+      "asset_name": "2nd Floor Brother Lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6894611e937fe2102dadffed1dba10db",
+      "error_message": null
+    },
+    {
+      "asset_id": "65827457",
+      "asset_name": "Portia Printer Brother",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6094a11e937fe2102dadffed1dba1003",
+      "error_message": null
+    },
+    {
+      "asset_id": "65867677",
+      "asset_name": "BRW4CD577EC6B90",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8594a11e937fe2102dadffed1dba10ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "621679",
+      "asset_name": "baittx.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9194e11e937fe2102dadffed1dba106b",
+      "error_message": null
+    },
+    {
+      "asset_id": "783034",
+      "asset_name": "kyvernatx.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed94251e937fe2102dadffed1dba1016",
+      "error_message": null
+    },
+    {
+      "asset_id": 226312,
+      "asset_name": "*.squarespace.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f594251e937fe2102dadffed1dba108d",
+      "error_message": null
+    },
+    {
+      "asset_id": 524336,
+      "asset_name": "apsp:550f1b09-154b-496d-88c6-80400917d226",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ce94651e937fe2102dadffed1dba102f",
+      "error_message": null
+    },
+    {
+      "asset_id": 348266,
+      "asset_name": "apsp:8ec1eac6-4069-4b6b-a0e4-7a2139d858d1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9a94651e937fe2102dadffed1dba106f",
+      "error_message": null
+    },
+    {
+      "asset_id": 308610,
+      "asset_name": "kyvernatx.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5294651e937fe2102dadffed1dba10ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "5101574",
+      "asset_name": "Idaptive_Portal_MFA_Instructions",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6625e51293bfe2102dadffed1dba10a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "5751130",
+      "asset_name": "Mac Remote Connections",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3725a91293bfe2102dadffed1dba1056",
+      "error_message": null
+    },
+    {
+      "asset_id": "9603839",
+      "asset_name": "Kyverna SmartSheet License Request Process",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8445615293bfe2102dadffed1dba109e",
+      "error_message": null
+    },
+    {
+      "asset_id": "10553020",
+      "asset_name": "Geneious Prime",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5445615293bfe2102dadffed1dba10f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "10553150",
+      "asset_name": "Oceasoft Multitech data loggers for temperature probes",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2045a15293bfe2102dadffed1dba10ad",
+      "error_message": null
+    },
+    {
+      "asset_id": "10850596",
+      "asset_name": "Install MDM profile for Kyverna MacBooks",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b545655293bfe2102dadffed1dba10f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "11066356",
+      "asset_name": "Carbonite Installation Guide",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6645e55293bfe2102dadffed1dba1032",
+      "error_message": null
+    },
+    {
+      "asset_id": "11733904",
+      "asset_name": "Sharepoint Site Creation & Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f255ed5293bfe2102dadffed1dba1080",
+      "error_message": null
+    },
+    {
+      "asset_id": "10064412",
+      "asset_name": "3rd Step: Provision 8x8 voice account (Required)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0755219293bfe2102dadffed1dba1002",
+      "error_message": null
+    },
+    {
+      "asset_id": "10179754",
+      "asset_name": "4th Step: Benchling (optional)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5355219293bfe2102dadffed1dba108b",
+      "error_message": null
+    },
+    {
+      "asset_id": "10521706",
+      "asset_name": "1st Step: Provision New User in CyberArk (Required)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b55219293bfe2102dadffed1dba10f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "10531994",
+      "asset_name": "5th Step: Box provisioning",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b355219293bfe2102dadffed1dba10f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "10538984",
+      "asset_name": "2nd Step: Add license to O365 Account (Required)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c465619293bfe2102dadffed1dba10a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "10539225",
+      "asset_name": "6th Step: Point Purchasing account creation (optional)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c65619293bfe2102dadffed1dba10f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "10550333",
+      "asset_name": "Machine Onboarding Checklist: Very rough draft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2465a19293bfe2102dadffed1dba109e",
+      "error_message": null
+    },
+    {
+      "asset_id": "10829397",
+      "asset_name": "7th Step: Slack (required if Kyverna account)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7465e19293bfe2102dadffed1dba1001",
+      "error_message": null
+    },
+    {
+      "asset_id": "10829421",
+      "asset_name": "8th Step: SmartSheet provisioning.",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0165e19293bfe2102dadffed1dba1075",
+      "error_message": null
+    },
+    {
+      "asset_id": "8138392",
+      "asset_name": "Kyverna_Therapeutics_Business_Continuity___Disaster_Recovery_Plan",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8d65e19293bfe2102dadffed1dba10cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "8138401",
+      "asset_name": "Kyverna_Therapeutics_Employee_Onboarding_Process",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d665659293bfe2102dadffed1dba1075",
+      "error_message": null
+    },
+    {
+      "asset_id": "8138407",
+      "asset_name": "Kyverna_Therapeutics_Employee_Termination_Process",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c365a59293bfe2102dadffed1dba10e8",
+      "error_message": null
+    },
+    {
+      "asset_id": "9713786",
+      "asset_name": "Office Expansion Pictures (IDF2)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0075299293bfe2102dadffed1dba101f",
+      "error_message": null
+    },
+    {
+      "asset_id": "9796725",
+      "asset_name": "Server Room",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0775ad9293bfe2102dadffed1dba1014",
+      "error_message": null
+    },
+    {
+      "asset_id": "4920551",
+      "asset_name": "Kyverna - New_User_Onboarding - Updated 3/4 Reflecting DL changes",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "108561d293bfe2102dadffed1dba1028",
+      "error_message": null
+    },
+    {
+      "asset_id": "10549288",
+      "asset_name": "smarsheet offboarding",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6885a1d293bfe2102dadffed1dba1019",
+      "error_message": null
+    },
+    {
+      "asset_id": "10108505",
+      "asset_name": "User Offboarding Guide - Kyverna Therapeutics",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7885a1d293bfe2102dadffed1dba1069",
+      "error_message": null
+    },
+    {
+      "asset_id": "10768382",
+      "asset_name": "New User Onboarding Guide - Kyverna Therapeutics",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2d8525d293bfe2102dadffed1dba105f",
+      "error_message": null
+    },
+    {
+      "asset_id": "11064505",
+      "asset_name": "Windows Setup Guide - Kyverna Therapeutics",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "238569d293bfe2102dadffed1dba1014",
+      "error_message": null
+    },
+    {
+      "asset_id": "11064521",
+      "asset_name": "Mac Setup Guide - Kyverna Therapeutics",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bb8569d293bfe2102dadffed1dba10a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "13109658",
+      "asset_name": "IT Interview Runbook:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8d956dd293bfe2102dadffed1dba1049",
+      "error_message": null
+    },
+    {
+      "asset_id": "15686975",
+      "asset_name": "New Document",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d1956dd293bfe2102dadffed1dba10f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "4096238",
+      "asset_name": "RJones Bitlocker.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e595add293bfe2102dadffed1dba1062",
+      "error_message": null
+    },
+    {
+      "asset_id": "4096240",
+      "asset_name": "BAIT  Therapeutics Welcome_Letter.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4695edd293bfe2102dadffed1dba1099",
+      "error_message": null
+    },
+    {
+      "asset_id": "4096241",
+      "asset_name": "Completed - BAIT Therapeutics Onboarding_Docs.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d695211693bfe2102dadffed1dba1034",
+      "error_message": null
+    },
+    {
+      "asset_id": "4096242",
+      "asset_name": "BAIT Therapeutics Onboarding_Docs.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6295211693bfe2102dadffed1dba10e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "4096243",
+      "asset_name": "BAIT  Therapeutics Welcome_Letter.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0395611693bfe2102dadffed1dba10f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "4096244",
+      "asset_name": "Completed BAIT Therapeutics -Coretelligent - Account and Contact RJ.2018.11.30.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1795a11693bfe2102dadffed1dba107e",
+      "error_message": null
+    },
+    {
+      "asset_id": "11726750",
+      "asset_name": "SharePointSetup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a395e11693bfe2102dadffed1dba10c0",
+      "error_message": null
+    },
+    {
+      "asset_id": "4096251",
+      "asset_name": "BAIT IT Resources and Inventory _for Coretelligent 2018.12.04.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "88a5251693bfe2102dadffed1dba1098",
+      "error_message": null
+    },
+    {
+      "asset_id": "4096252",
+      "asset_name": "BAIT - Coretelligent Technical Discovery Checklist 2018.12.04.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "90a5651693bfe2102dadffed1dba1025",
+      "error_message": null
+    },
+    {
+      "asset_id": "4000004",
+      "asset_name": "BAIT New Hire Checklist - Generic IT.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e0a5651693bfe2102dadffed1dba10b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "4933673",
+      "asset_name": "Kyverna - New User Onboarding - 9/22 LATEST.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "70a5a51693bfe2102dadffed1dba104c",
+      "error_message": null
+    },
+    {
+      "asset_id": "9779940",
+      "asset_name": "Kyverna Therapeutics Pentest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "05a5e51693bfe2102dadffed1dba103a",
+      "error_message": null
+    },
+    {
+      "asset_id": "11734528",
+      "asset_name": "HandOff_KyvernaSharepoint.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25a5e51693bfe2102dadffed1dba10bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "12772054",
+      "asset_name": "Kyverna - IT Strategy Review - 2023 Q2.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bda5291693bfe2102dadffed1dba1017",
+      "error_message": null
+    },
+    {
+      "asset_id": "17457192",
+      "asset_name": "Kyverna Therapeutics - 10_09_2024 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ea5291693bfe2102dadffed1dba1088",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818087",
+      "asset_name": "Kyverna Therapeutics Password Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2a5691693bfe2102dadffed1dba1085",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818088",
+      "asset_name": "Kyverna Therapeutics Access Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "07a5a91693bfe2102dadffed1dba1012",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818089",
+      "asset_name": "Kyverna Therapeutics Cyber Security Standards.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "17a5a91693bfe2102dadffed1dba1067",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818090",
+      "asset_name": "Kyverna Therapeutics Written Information Security Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ffa5a91693bfe2102dadffed1dba10f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818091",
+      "asset_name": "Kyverna Therapeutics Mobile Device Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "18b5e91693bfe2102dadffed1dba108c",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818092",
+      "asset_name": "Kyverna Therapeutics Incident Response Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ecb52d1693bfe2102dadffed1dba100e",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818093",
+      "asset_name": "Kyverna Therapeutics Risk Assessment Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "34b52d1693bfe2102dadffed1dba108b",
+      "error_message": null
+    },
+    {
+      "asset_id": "7818094",
+      "asset_name": "Kyverna Therapeutics Data Destruction Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c1b52d1693bfe2102dadffed1dba10e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "14196938",
+      "asset_name": "Kyverna_Therapeutics_Access_Policy_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "65b56d1693bfe2102dadffed1dba10bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "14196939",
+      "asset_name": "Kyverna_Therapeutics_Cyber_Security_Standards_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "71b5ad1693bfe2102dadffed1dba101a",
+      "error_message": null
+    },
+    {
+      "asset_id": "14196940",
+      "asset_name": "Kyverna_Therapeutics_Risk_Assessment_Policy_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c2b5ad1693bfe2102dadffed1dba10a4",
+      "error_message": null
+    },
+    {
+      "asset_id": "14196941",
+      "asset_name": "Kyverna_Therapeutics_Written_Information_Security_Policy_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6eb5ed1693bfe2102dadffed1dba1023",
+      "error_message": null
+    },
+    {
+      "asset_id": "14196942",
+      "asset_name": "Kyverna_Therapeutics_Password_Policy_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "76b5ed1693bfe2102dadffed1dba10cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "14196943",
+      "asset_name": "Kyverna_Therapeutics_Mobile_Device_Policy_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4bb5215693bfe2102dadffed1dba106e",
+      "error_message": null
+    },
+    {
+      "asset_id": "14196944",
+      "asset_name": "Kyverna_Therapeutics_Incident_Response_Policy_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d3b5215693bfe2102dadffed1dba10f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "14196945",
+      "asset_name": "Kyverna_Therapeutics_Data_Destruction_Policy_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b7b5615693bfe2102dadffed1dba108d",
+      "error_message": null
+    },
+    {
+      "asset_id": "16847924",
+      "asset_name": "2024 Kyverna Therapeutics Penetration Test Report.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c4c5a15693bfe2102dadffed1dba1083",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4096238",
+      "asset_name": "RJones_Bitlocker.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fd95add293bfe2102dadffed1dba10d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4096240",
+      "asset_name": "BAIT__Therapeutics_Welcome_Letter.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8295edd293bfe2102dadffed1dba1092",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4096241",
+      "asset_name": "Completed_-_BAIT_Therapeutics_Onboarding_Docs.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e295611693bfe2102dadffed1dba1001",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4096242",
+      "asset_name": "BAIT_Therapeutics_Onboarding_Docs.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "be95611693bfe2102dadffed1dba109d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4096243",
+      "asset_name": "BAIT__Therapeutics_Welcome_Letter.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8f95a11693bfe2102dadffed1dba1058",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4096244",
+      "asset_name": "Completed_BAIT_Therapeutics_-Coretelligent_-_Account_and_Contact_RJ.2018.11.30.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a395a11693bfe2102dadffed1dba10d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "5101574",
+      "asset_name": "7564045",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "5101574",
+      "asset_name": "7564046",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "5101574",
+      "asset_name": "7564047",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam3.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a356d1293bfe2102dadffed1dba10cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam1.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8a35ad1293bfe2102dadffed1dba101a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam2a.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5a35ad1293bfe2102dadffed1dba102c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam7.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5235ad1293bfe2102dadffed1dba1093",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam4.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9a35ad1293bfe2102dadffed1dba10ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam6.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6235ed1293bfe2102dadffed1dba1010",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Kyverna2.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea35ed1293bfe2102dadffed1dba1043",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Kyverna.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fe35ed1293bfe2102dadffed1dba1055",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam3.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a356d1293bfe2102dadffed1dba10cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam1.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8a35ad1293bfe2102dadffed1dba101a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam2a.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5a35ad1293bfe2102dadffed1dba102c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam7.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5235ad1293bfe2102dadffed1dba1093",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam4.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9a35ad1293bfe2102dadffed1dba10ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam6.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6235ed1293bfe2102dadffed1dba1010",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Kyverna2.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea35ed1293bfe2102dadffed1dba1043",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Kyverna.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fe35ed1293bfe2102dadffed1dba1055",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam3.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a356d1293bfe2102dadffed1dba10cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam1.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8a35ad1293bfe2102dadffed1dba101a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam2a.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5a35ad1293bfe2102dadffed1dba102c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam7.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5235ad1293bfe2102dadffed1dba1093",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam4.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9a35ad1293bfe2102dadffed1dba10ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Vaniam6.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6235ed1293bfe2102dadffed1dba1010",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Kyverna2.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea35ed1293bfe2102dadffed1dba1043",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5751130",
+      "asset_name": "Kyverna.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fe35ed1293bfe2102dadffed1dba1055",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10553150",
+      "asset_name": "Multitech_datalogger2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d545255293bfe2102dadffed1dba1032",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10553150",
+      "asset_name": "Multitech_datalogger1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5945255293bfe2102dadffed1dba10b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10553150",
+      "asset_name": "Multitech_datalogger2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d545255293bfe2102dadffed1dba1032",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10553150",
+      "asset_name": "Multitech_datalogger1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5945255293bfe2102dadffed1dba10b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10553150",
+      "asset_name": "Multitech_datalogger2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d545255293bfe2102dadffed1dba1032",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10553150",
+      "asset_name": "Multitech_datalogger1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5945255293bfe2102dadffed1dba10b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "10850596",
+      "asset_name": "15099357",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna24.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6055e95293bfe2102dadffed1dba10a8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna29.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac55e95293bfe2102dadffed1dba10b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna32.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b8552d5293bfe2102dadffed1dba100e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna26a.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c552d5293bfe2102dadffed1dba104d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna25.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "49552d5293bfe2102dadffed1dba1066",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna28.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c5552d5293bfe2102dadffed1dba1084",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna30.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "81552d5293bfe2102dadffed1dba10d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna31.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d5552d5293bfe2102dadffed1dba10f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna24.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6055e95293bfe2102dadffed1dba10a8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna29.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac55e95293bfe2102dadffed1dba10b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna32.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b8552d5293bfe2102dadffed1dba100e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna26a.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c552d5293bfe2102dadffed1dba104d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna25.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "49552d5293bfe2102dadffed1dba1066",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna28.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c5552d5293bfe2102dadffed1dba1084",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna30.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "81552d5293bfe2102dadffed1dba10d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna31.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d5552d5293bfe2102dadffed1dba10f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna24.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6055e95293bfe2102dadffed1dba10a8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna29.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac55e95293bfe2102dadffed1dba10b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna32.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b8552d5293bfe2102dadffed1dba100e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna26a.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c552d5293bfe2102dadffed1dba104d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna25.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "49552d5293bfe2102dadffed1dba1066",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna28.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c5552d5293bfe2102dadffed1dba1084",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna30.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "81552d5293bfe2102dadffed1dba10d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11066356",
+      "asset_name": "Kyverna31.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d5552d5293bfe2102dadffed1dba10f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11726750",
+      "asset_name": "SharePointSetup.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ff95e11693bfe2102dadffed1dba10e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4096251",
+      "asset_name": "BAIT_IT_Resources_and_Inventory__for_Coretelligent_2018.12.04.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8ca5251693bfe2102dadffed1dba10fd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4096252",
+      "asset_name": "BAIT_-_Coretelligent_Technical_Discovery_Checklist_2018.12.04.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "50a5651693bfe2102dadffed1dba107b",
+      "error_message": null
+    },
+    {
+      "asset_id": "8138392",
+      "asset_name": "11329681",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "8138392",
+      "asset_name": "11329680",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "8138401",
+      "asset_name": "11329710",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "8138401",
+      "asset_name": "11329711",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "8138407",
+      "asset_name": "11329718",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "8138407",
+      "asset_name": "11329719",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "Conference_Room_AP.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a175a99293bfe2102dadffed1dba107f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "2022-04-28_19.06.05.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2575a99293bfe2102dadffed1dba10bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "2022-04-28_18.58.56.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b175a99293bfe2102dadffed1dba10fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "IDF_Cab.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3975e99293bfe2102dadffed1dba102d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "Hall_way_AP.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4275e99293bfe2102dadffed1dba1077",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "Conference_Room_AP.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a175a99293bfe2102dadffed1dba107f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "2022-04-28_19.06.05.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2575a99293bfe2102dadffed1dba10bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "2022-04-28_18.58.56.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b175a99293bfe2102dadffed1dba10fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "IDF_Cab.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3975e99293bfe2102dadffed1dba102d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "Hall_way_AP.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4275e99293bfe2102dadffed1dba1077",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "Conference_Room_AP.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a175a99293bfe2102dadffed1dba107f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "2022-04-28_19.06.05.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2575a99293bfe2102dadffed1dba10bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "2022-04-28_18.58.56.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b175a99293bfe2102dadffed1dba10fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "IDF_Cab.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3975e99293bfe2102dadffed1dba102d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9713786",
+      "asset_name": "Hall_way_AP.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4275e99293bfe2102dadffed1dba1077",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9796725",
+      "asset_name": "2022-04-28_19.08.00.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f75ed9293bfe2102dadffed1dba107e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9796725",
+      "asset_name": "2022-04-28_19.07.59.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b75ed9293bfe2102dadffed1dba10a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9796725",
+      "asset_name": "2022-04-28_19.08.00.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f75ed9293bfe2102dadffed1dba107e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9796725",
+      "asset_name": "2022-04-28_19.07.59.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b75ed9293bfe2102dadffed1dba10a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9796725",
+      "asset_name": "2022-04-28_19.08.00.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f75ed9293bfe2102dadffed1dba107e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9796725",
+      "asset_name": "2022-04-28_19.07.59.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b75ed9293bfe2102dadffed1dba10a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4000004",
+      "asset_name": "BAIT_New_Hire_Checklist_-_Generic_IT.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "30a5a51693bfe2102dadffed1dba1007",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4933673",
+      "asset_name": "Kyverna_-_OnboardingNEW.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "41a5a51693bfe2102dadffed1dba10cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779940",
+      "asset_name": "Kyverna_Therapeutics_Pentest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d9a5e51693bfe2102dadffed1dba1087",
+      "error_message": null
+    },
+    {
+      "asset_id": "10108505",
+      "asset_name": "19964403",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_10768382",
+      "asset_name": "Kyverna2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6685e5d293bfe2102dadffed1dba1044",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10768382",
+      "asset_name": "Kyverna1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e685e5d293bfe2102dadffed1dba1060",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10768382",
+      "asset_name": "Kyverna4.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3685e5d293bfe2102dadffed1dba10df",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10768382",
+      "asset_name": "Kyverna3.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a85e5d293bfe2102dadffed1dba10eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10768382",
+      "asset_name": "Kyverna2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6685e5d293bfe2102dadffed1dba1044",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10768382",
+      "asset_name": "Kyverna1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e685e5d293bfe2102dadffed1dba1060",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10768382",
+      "asset_name": "Kyverna4.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3685e5d293bfe2102dadffed1dba10df",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10768382",
+      "asset_name": "Kyverna3.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a85e5d293bfe2102dadffed1dba10eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10768382",
+      "asset_name": "Kyverna2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6685e5d293bfe2102dadffed1dba1044",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10768382",
+      "asset_name": "Kyverna1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e685e5d293bfe2102dadffed1dba1060",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10768382",
+      "asset_name": "Kyverna4.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3685e5d293bfe2102dadffed1dba10df",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10768382",
+      "asset_name": "Kyverna3.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a85e5d293bfe2102dadffed1dba10eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11064521",
+      "asset_name": "Kyverna36.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6895e9d293bfe2102dadffed1dba101e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11064521",
+      "asset_name": "Kyverna35.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e495e9d293bfe2102dadffed1dba1038",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11064521",
+      "asset_name": "Kyverna36.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6895e9d293bfe2102dadffed1dba101e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11064521",
+      "asset_name": "Kyverna35.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e495e9d293bfe2102dadffed1dba1038",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11064521",
+      "asset_name": "Kyverna36.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6895e9d293bfe2102dadffed1dba101e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11064521",
+      "asset_name": "Kyverna35.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e495e9d293bfe2102dadffed1dba1038",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11734528",
+      "asset_name": "HandOff_KyvernaSharepoint.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3da5e51693bfe2102dadffed1dba10fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_12772054",
+      "asset_name": "Kyverna_-_IT_Strategy_Review_-_2023_Q2.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c6a5291693bfe2102dadffed1dba107e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17457192",
+      "asset_name": "Kyverna_Therapeutics_-_10_09_2024_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2ea5691693bfe2102dadffed1dba1018",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818087",
+      "asset_name": "Kyverna_Therapeutics_Password_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7aa5691693bfe2102dadffed1dba10bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818088",
+      "asset_name": "Kyverna_Therapeutics_Access_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "53a5a91693bfe2102dadffed1dba103c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818089",
+      "asset_name": "Kyverna_Therapeutics_Cyber_Security_Standards.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "33a5a91693bfe2102dadffed1dba10d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818090",
+      "asset_name": "Kyverna_Therapeutics_Written_Information_Security_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "40b5e91693bfe2102dadffed1dba1031",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818091",
+      "asset_name": "Kyverna_Therapeutics_Mobile_Device_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d0b5e91693bfe2102dadffed1dba10c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818092",
+      "asset_name": "Kyverna_Therapeutics_Incident_Response_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "74b52d1693bfe2102dadffed1dba102b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818093",
+      "asset_name": "Kyverna_Therapeutics_Risk_Assessment_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c1b52d1693bfe2102dadffed1dba109c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7818094",
+      "asset_name": "Kyverna_Therapeutics_Data_Destruction_Policy.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "11b52d1693bfe2102dadffed1dba10f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14196938",
+      "asset_name": "Kyverna_Therapeutics_Access_Policy_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "edb56d1693bfe2102dadffed1dba10ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14196939",
+      "asset_name": "Kyverna_Therapeutics_Cyber_Security_Standards_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8ab5ad1693bfe2102dadffed1dba1086",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14196940",
+      "asset_name": "Kyverna_Therapeutics_Risk_Assessment_Policy_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "16b5ad1693bfe2102dadffed1dba10f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14196941",
+      "asset_name": "Kyverna_Therapeutics_Written_Information_Security_Policy_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e2b5ed1693bfe2102dadffed1dba109a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14196942",
+      "asset_name": "Kyverna_Therapeutics_Password_Policy_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "43b5215693bfe2102dadffed1dba1033",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14196943",
+      "asset_name": "Kyverna_Therapeutics_Mobile_Device_Policy_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dfb5215693bfe2102dadffed1dba10cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14196944",
+      "asset_name": "Kyverna_Therapeutics_Incident_Response_Policy_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6bb5615693bfe2102dadffed1dba1053",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14196945",
+      "asset_name": "Kyverna_Therapeutics_Data_Destruction_Policy_23.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "33b5615693bfe2102dadffed1dba10cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16847924",
+      "asset_name": "2024_Kyverna_Therapeutics_Penetration_Test_Report.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5cc5a15693bfe2102dadffed1dba10d3",
+      "error_message": null
+    }
+  ]
+}

@@ -1,0 +1,962 @@
+{
+  "session_id": "migration_202507_143824_239083b5",
+  "organization": "Maglev Aero, Inc",
+  "timestamp": "2025-09-07T14:41:02.320403",
+  "total_processed": 119,
+  "successful": 119,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "51635021",
+      "asset_name": "Maglev Aero Azure AD",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea8fa95e937326102dadffed1dba1097",
+      "error_message": null
+    },
+    {
+      "asset_id": "48796620",
+      "asset_name": "Upworks",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ba8fa95e937326102dadffed1dba10fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "52527465",
+      "asset_name": "Yubico FIDO2 Security Key",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f68fa95e937326102dadffed1dba10f9",
+      "error_message": null
+    },
+    {
+      "asset_id": "51636779",
+      "asset_name": "Boston Office Maglev WiFi",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ba8fa95e937326102dadffed1dba10ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "53030721",
+      "asset_name": "Intune Company Portal",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "438fe95e937326102dadffed1dba104c",
+      "error_message": null
+    },
+    {
+      "asset_id": "60705694",
+      "asset_name": "Zoom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "538fe95e937326102dadffed1dba1064",
+      "error_message": null
+    },
+    {
+      "asset_id": "60705700",
+      "asset_name": "Slack",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e38fe95e937326102dadffed1dba10b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "60705705",
+      "asset_name": "LastPass",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eb8fe95e937326102dadffed1dba10bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "60705709",
+      "asset_name": "DropBox",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf8fe95e937326102dadffed1dba10d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "60705714",
+      "asset_name": "Kenesto",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf8f2d5e937326102dadffed1dba105d",
+      "error_message": null
+    },
+    {
+      "asset_id": "60705722",
+      "asset_name": "MathWorks",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "409f2d5e937326102dadffed1dba10ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "60705729",
+      "asset_name": "Altair",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "849f2d5e937326102dadffed1dba10a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "60705736",
+      "asset_name": "LabVIEW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d09f2d5e937326102dadffed1dba10f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "60705739",
+      "asset_name": "Flightstream",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "689f6d5e937326102dadffed1dba1087",
+      "error_message": null
+    },
+    {
+      "asset_id": "60705744",
+      "asset_name": "BILD",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b09f6d5e937326102dadffed1dba10ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "48792419",
+      "asset_name": "Google Apps",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "60705748",
+      "asset_name": "GRCAS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c9f6d5e937326102dadffed1dba10c7",
+      "error_message": null
+    },
+    {
+      "asset_id": "60705752",
+      "asset_name": "Solidworks",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c59fad5e937326102dadffed1dba1005",
+      "error_message": null
+    },
+    {
+      "asset_id": "60705754",
+      "asset_name": "COMSOL",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd9fad5e937326102dadffed1dba106d",
+      "error_message": null
+    },
+    {
+      "asset_id": "52244549",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "219fad5e937326102dadffed1dba10b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "51636811",
+      "asset_name": "Western Digital Shared Drive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "219fad5e937326102dadffed1dba108c",
+      "error_message": null
+    },
+    {
+      "asset_id": "51465565",
+      "asset_name": "Primary ISP - Mass Robotics",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d9fed5e937326102dadffed1dba1069",
+      "error_message": null
+    },
+    {
+      "asset_id": "51467799",
+      "asset_name": "Maglev Corporate LAN 10.30.0.0/23",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4e9fed5e937326102dadffed1dba10c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "52123566",
+      "asset_name": "No company VPN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5a9fed5e937326102dadffed1dba10e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "66909536",
+      "asset_name": "Boston - DMZ 10.10.90.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "da9fed5e937326102dadffed1dba10d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "48622471",
+      "asset_name": "Google LLC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6e9f219e937326102dadffed1dba1013",
+      "error_message": null
+    },
+    {
+      "asset_id": "48790518",
+      "asset_name": "DocuSign",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3e9f219e937326102dadffed1dba104c",
+      "error_message": null
+    },
+    {
+      "asset_id": "48790677",
+      "asset_name": "DropBox",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b9f219e937326102dadffed1dba1092",
+      "error_message": null
+    },
+    {
+      "asset_id": "48790758",
+      "asset_name": "Zoom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4b9f219e937326102dadffed1dba105c",
+      "error_message": null
+    },
+    {
+      "asset_id": "48791109",
+      "asset_name": "Slack",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1f9f219e937326102dadffed1dba108a",
+      "error_message": null
+    },
+    {
+      "asset_id": "48791332",
+      "asset_name": "Microsoft Windows",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e79f619e937326102dadffed1dba1043",
+      "error_message": null
+    },
+    {
+      "asset_id": "48791716",
+      "asset_name": "Apple IoS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b39f619e937326102dadffed1dba106e",
+      "error_message": null
+    },
+    {
+      "asset_id": "48791979",
+      "asset_name": "solidworks",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7f9f619e937326102dadffed1dba100a",
+      "error_message": null
+    },
+    {
+      "asset_id": "48793504",
+      "asset_name": "Mathworks Optimization Toolbox",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "779f619e937326102dadffed1dba10cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "48795514",
+      "asset_name": "Matlab",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4caf619e937326102dadffed1dba10d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "48795545",
+      "asset_name": "amazon business",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "54afa19e937326102dadffed1dba100c",
+      "error_message": null
+    },
+    {
+      "asset_id": "49364499",
+      "asset_name": "Nordvpn",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a8afa19e937326102dadffed1dba103b",
+      "error_message": null
+    },
+    {
+      "asset_id": "49561067",
+      "asset_name": "MassRobotics",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a8afa19e937326102dadffed1dba1012",
+      "error_message": null
+    },
+    {
+      "asset_id": "51465542",
+      "asset_name": "Mass Robotics",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 49561067 (MassRobotics)"
+    },
+    {
+      "asset_id": "50958267",
+      "asset_name": "CiC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78afa19e937326102dadffed1dba109e",
+      "error_message": null
+    },
+    {
+      "asset_id": "51465026",
+      "asset_name": "Ubiquiti",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "99afa19e937326102dadffed1dba10a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "51465105",
+      "asset_name": "APC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "99afa19e937326102dadffed1dba10bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "52244527",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "91afe19e937326102dadffed1dba100d",
+      "error_message": null
+    },
+    {
+      "asset_id": "52526582",
+      "asset_name": "Yubico",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "65afe19e937326102dadffed1dba103f",
+      "error_message": null
+    },
+    {
+      "asset_id": "52658342",
+      "asset_name": "Apple",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "02afe19e937326102dadffed1dba1051",
+      "error_message": null
+    },
+    {
+      "asset_id": "52523413",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c2afe19e937326102dadffed1dba10d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "52125083",
+      "asset_name": "Other On prem NAS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1aaf259e937326102dadffed1dba1004",
+      "error_message": null
+    },
+    {
+      "asset_id": "52124260",
+      "asset_name": "non virtualize enviroment",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "26af259e937326102dadffed1dba1084",
+      "error_message": null
+    },
+    {
+      "asset_id": "63136097",
+      "asset_name": "Fortinet Fortinet (MAG-FW01) SN:  FGT61FTK22002703",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "86afe19e937326102dadffed1dba109b",
+      "error_message": null
+    },
+    {
+      "asset_id": "44794741",
+      "asset_name": "MAG-UPS01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c4bfa59e937326102dadffed1dba1020",
+      "error_message": null
+    },
+    {
+      "asset_id": "44794643",
+      "asset_name": "MAG-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80bfa59e937326102dadffed1dba1047",
+      "error_message": null
+    },
+    {
+      "asset_id": "44803641",
+      "asset_name": "MAG-SW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00bfa59e937326102dadffed1dba1068",
+      "error_message": null
+    },
+    {
+      "asset_id": "53238052",
+      "asset_name": "MAG-WAP02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "89bfe59e937326102dadffed1dba1031",
+      "error_message": null
+    },
+    {
+      "asset_id": "44803834",
+      "asset_name": "MAG-WAP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28bfa59e937326102dadffed1dba10f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "56848289",
+      "asset_name": "385-AC-Pro",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "05bfe59e937326102dadffed1dba1035",
+      "error_message": null
+    },
+    {
+      "asset_id": "56848364",
+      "asset_name": "385-Lite-8-PoE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e5bfe59e937326102dadffed1dba10ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "44803681",
+      "asset_name": "MAG-CK01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c4bf659e937326102dadffed1dba10ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "56848423",
+      "asset_name": "Cloud-Key-Gen2-Plus",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e9bf299e937326102dadffed1dba1028",
+      "error_message": null
+    },
+    {
+      "asset_id": "1103432",
+      "asset_name": "maglevaero.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f1bf299e937326102dadffed1dba1042",
+      "error_message": null
+    },
+    {
+      "asset_id": 515763,
+      "asset_name": "apsp:ef72073f-239c-453e-a7a4-51b1360e41a6",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "96bfe59e937326102dadffed1dba10a7",
+      "error_message": null
+    },
+    {
+      "asset_id": 639907,
+      "asset_name": "eddy.maglevaero.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dabf299e937326102dadffed1dba1017",
+      "error_message": null
+    },
+    {
+      "asset_id": 495138,
+      "asset_name": "maglevaero.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2ebf299e937326102dadffed1dba1080",
+      "error_message": null
+    },
+    {
+      "asset_id": "9779971",
+      "asset_name": "12 Channel Street - Network Hardware",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d0cfa99e937326102dadffed1dba1098",
+      "error_message": null
+    },
+    {
+      "asset_id": "10305892",
+      "asset_name": "User Onboarding",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5cdf61de937326102dadffed1dba104f",
+      "error_message": null
+    },
+    {
+      "asset_id": "10305966",
+      "asset_name": "User Offboarding",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "acdf61de937326102dadffed1dba10f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "10306155",
+      "asset_name": "Standard System Specs",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0dfa1de937326102dadffed1dba1091",
+      "error_message": null
+    },
+    {
+      "asset_id": "10306226",
+      "asset_name": "PC Build",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09dfa1de937326102dadffed1dba10c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "11734397",
+      "asset_name": "New Document",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d1dfe1de937326102dadffed1dba1006",
+      "error_message": null
+    },
+    {
+      "asset_id": "9784272",
+      "asset_name": "Apps and Licensing Audit_MLA Complete.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "65dfe1de937326102dadffed1dba10aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "9784273",
+      "asset_name": "Maglev Aero - Onboarding_Docs_New V3_completed.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "35df25de937326102dadffed1dba1007",
+      "error_message": null
+    },
+    {
+      "asset_id": "9928051",
+      "asset_name": "User Template_Coretelligent_MLA Complete.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1adf25de937326102dadffed1dba1053",
+      "error_message": null
+    },
+    {
+      "asset_id": "9928053",
+      "asset_name": "New Client Schedule - Maglev Aero .msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eedf25de937326102dadffed1dba10c1",
+      "error_message": null
+    },
+    {
+      "asset_id": "9928056",
+      "asset_name": "FW_ New Client - Maglev Aero .msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1fdf65de937326102dadffed1dba1043",
+      "error_message": null
+    },
+    {
+      "asset_id": "10041118",
+      "asset_name": "Create a Temporary Access Pass.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00ef65de937326102dadffed1dba10ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "10199840",
+      "asset_name": "Maglev Aero Enroll iOS Device in InTune MDM.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e0efa5de937326102dadffed1dba10aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "10199841",
+      "asset_name": "Maglev Aero Enroll Android Device in InTune MDM.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "01efa5de937326102dadffed1dba109d",
+      "error_message": null
+    },
+    {
+      "asset_id": "10199844",
+      "asset_name": "Outlook Web Access (OWA).docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "19efe5de937326102dadffed1dba10b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "9941278",
+      "asset_name": "Maglev Aero spec system .docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f9ef29de937326102dadffed1dba107a",
+      "error_message": null
+    },
+    {
+      "asset_id": "10042755",
+      "asset_name": "FIDO2 Key Enrollment Instructions for Microsoft.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0aef29de937326102dadffed1dba10c7",
+      "error_message": null
+    },
+    {
+      "asset_id": "9980213",
+      "asset_name": "Standard System Specs Sheet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "92ef69de937326102dadffed1dba1025",
+      "error_message": null
+    },
+    {
+      "asset_id": "9988476",
+      "asset_name": "New User Setup - Maglev Aero, Inc. .docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eeef69de937326102dadffed1dba109d",
+      "error_message": null
+    },
+    {
+      "asset_id": "9988567",
+      "asset_name": "User Offboarding - Maglev Aero, Inc. .docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c3efa9de937326102dadffed1dba1025",
+      "error_message": null
+    },
+    {
+      "asset_id": "11734424",
+      "asset_name": "Maglev Aero Inc. M365 Migration Azure AD MFA  Intune Implementation.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d7efa9de937326102dadffed1dba105a",
+      "error_message": null
+    },
+    {
+      "asset_id": "11734446",
+      "asset_name": "Maglev - Cloud Migration.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7efa9de937326102dadffed1dba10c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9784272",
+      "asset_name": "Apps_and_Licensing_Audit_MLA_Complete.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "39dfe1de937326102dadffed1dba10de",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9784273",
+      "asset_name": "Maglev_Aero_-_Onboarding_Docs_New_V3_completed.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4adf25de937326102dadffed1dba1023",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9928051",
+      "asset_name": "User_Template_Coretelligent_MLA_Complete.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5edf25de937326102dadffed1dba10b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9928053",
+      "asset_name": "New_Client_Schedule_-_Maglev_Aero_.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "72df65de937326102dadffed1dba1038",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9928056",
+      "asset_name": "FW__New_Client_-_Maglev_Aero_.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "afdf65de937326102dadffed1dba10e8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "Photos-001_(1).zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1acf6d9e937326102dadffed1dba107b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131700.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eecfad9e937326102dadffed1dba1046",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131720.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a2cfad9e937326102dadffed1dba104e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131713.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2cfad9e937326102dadffed1dba10c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131658.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7acfad9e937326102dadffed1dba10dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131723.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "87cfad9e937326102dadffed1dba10a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131715.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8bcfed9e937326102dadffed1dba104d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131700.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eecfad9e937326102dadffed1dba1046",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131720.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a2cfad9e937326102dadffed1dba104e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131713.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2cfad9e937326102dadffed1dba10c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131658.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7acfad9e937326102dadffed1dba10dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131723.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "87cfad9e937326102dadffed1dba10a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131715.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8bcfed9e937326102dadffed1dba104d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131700.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eecfad9e937326102dadffed1dba1046",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131720.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a2cfad9e937326102dadffed1dba104e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131713.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2cfad9e937326102dadffed1dba10c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131658.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7acfad9e937326102dadffed1dba10dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131723.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "87cfad9e937326102dadffed1dba10a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9779971",
+      "asset_name": "20220426_131715.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8bcfed9e937326102dadffed1dba104d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10041118",
+      "asset_name": "Create_a_Temporary_Access_Pass.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dcefa5de937326102dadffed1dba1054",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10199840",
+      "asset_name": "Maglev_Aero_Enroll_iOS_Device_in_InTune_MDM.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bcefe5de937326102dadffed1dba1011",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10199841",
+      "asset_name": "Maglev_Aero_Enroll_Android_Device_in_InTune_MDM.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "59efe5de937326102dadffed1dba107c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10199844",
+      "asset_name": "Outlook_Web_Access_(OWA).docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "edefe5de937326102dadffed1dba10d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9941278",
+      "asset_name": "Maglev_Aero_spec_system_.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "35ef29de937326102dadffed1dba1084",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10042755",
+      "asset_name": "FIDO2_Key_Enrollment_Instructions_for_Microsoft.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "92ef69de937326102dadffed1dba1028",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9980213",
+      "asset_name": "Maglev_Aero_system_Build_.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a2ef69de937326102dadffed1dba1016",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9988476",
+      "asset_name": "Onboarding_Document1.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3aef69de937326102dadffed1dba10c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9988567",
+      "asset_name": "OffBoarding_document_1.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "83efa9de937326102dadffed1dba107c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11734424",
+      "asset_name": "Maglev_Aero_Inc._M365_Migration_Azure_AD_MFA__Intune_Implementation.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "abefe9de937326102dadffed1dba1000",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11734446",
+      "asset_name": "Maglev_-_Cloud_Migration.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "37efe9de937326102dadffed1dba10a8",
+      "error_message": null
+    }
+  ]
+}

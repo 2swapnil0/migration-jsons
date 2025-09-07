@@ -1,0 +1,186 @@
+{
+  "session_id": "migration_202507_134208_068ea96d",
+  "organization": "JDS Capital Management",
+  "timestamp": "2025-09-07T13:43:06.040475",
+  "total_processed": 22,
+  "successful": 22,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "71822577",
+      "asset_name": "Not Currently In Use Not Currently In Use",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fda22d9a933fe2102dadffed1dba10a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "14558367",
+      "asset_name": "Office 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f9a26d9a933fe2102dadffed1dba102f",
+      "error_message": null
+    },
+    {
+      "asset_id": "14559970",
+      "asset_name": "Circuit",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0ea22d9a933fe2102dadffed1dba10de",
+      "error_message": null
+    },
+    {
+      "asset_id": "14557806",
+      "asset_name": "Joe Samberg Wifi - Rye BlueSky",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "86a26d9a933fe2102dadffed1dba1006",
+      "error_message": null
+    },
+    {
+      "asset_id": "14988565",
+      "asset_name": "GoDaddy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "42a26d9a933fe2102dadffed1dba105c",
+      "error_message": null
+    },
+    {
+      "asset_id": "26872545",
+      "asset_name": "jsamberg-nb1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26872544",
+      "asset_name": "jsamberg-hm1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "26872546",
+      "asset_name": "gpayes-ny10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "26872547",
+      "asset_name": "smarynowskinb10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "28865963",
+      "asset_name": "gpayes-nb10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "796317",
+      "asset_name": "jdscm.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9ea2ad9a933fe2102dadffed1dba103e",
+      "error_message": null
+    },
+    {
+      "asset_id": "5639688",
+      "asset_name": "Joe's New X1 Carbon w/dock w/monitor",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eba2ed9a933fe2102dadffed1dba1073",
+      "error_message": null
+    },
+    {
+      "asset_id": "5639690",
+      "asset_name": "Verizon FIOS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d5b2a1da933fe2102dadffed1dba100c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5639688",
+      "asset_name": "IMG_0353.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "acb221da933fe2102dadffed1dba10ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5639688",
+      "asset_name": "IMG_0354.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28b261da933fe2102dadffed1dba1035",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5639688",
+      "asset_name": "IMG_0355.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b0b261da933fe2102dadffed1dba1016",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5639688",
+      "asset_name": "IMG_0353.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "acb221da933fe2102dadffed1dba10ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5639688",
+      "asset_name": "IMG_0354.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28b261da933fe2102dadffed1dba1035",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5639688",
+      "asset_name": "IMG_0355.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b0b261da933fe2102dadffed1dba1016",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5639688",
+      "asset_name": "IMG_0353.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "acb221da933fe2102dadffed1dba10ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5639688",
+      "asset_name": "IMG_0354.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28b261da933fe2102dadffed1dba1035",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5639688",
+      "asset_name": "IMG_0355.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b0b261da933fe2102dadffed1dba1016",
+      "error_message": null
+    }
+  ]
+}

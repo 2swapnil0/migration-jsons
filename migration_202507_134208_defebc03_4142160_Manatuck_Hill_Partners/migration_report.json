@@ -1,0 +1,3074 @@
+{
+  "session_id": "migration_202507_134208_defebc03",
+  "organization": "Manatuck Hill Partners",
+  "timestamp": "2025-09-07T13:52:06.749229",
+  "total_processed": 383,
+  "successful": 376,
+  "failed": 7,
+  "results": [
+    {
+      "asset_id": "18609534",
+      "asset_name": "Will Hamilton Home Yanks",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "18609553",
+      "asset_name": "Will Hamilton Home Yanks guest",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "15766705",
+      "asset_name": "manatuckhill.corp manatuckhill.corp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9ec2e1da83f766109bdf5e60ceaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "15767020",
+      "asset_name": "Panaray",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eec225da83f766109bdf5e60ceaad3c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "16446042",
+      "asset_name": "Symantec (old)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "19035870",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "62c225da83f766109bdf5e60ceaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "15184612",
+      "asset_name": "Office Wi-Fi MHP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a2c265da83f766109bdf5e60ceaad310",
+      "error_message": null
+    },
+    {
+      "asset_id": "15943189",
+      "asset_name": "Webroot",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4bc2a5da83f766109bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "16688671",
+      "asset_name": "Tradar PMS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e7c269da83f766109bdf5e60ceaad33a",
+      "error_message": null
+    },
+    {
+      "asset_id": "17627557",
+      "asset_name": "Cisco AnyConnect VPN Client",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fbc269da83f766109bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "17672974",
+      "asset_name": "Advent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b3c269da83f766109bdf5e60ceaad3cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "18016763",
+      "asset_name": "1010Data",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "40d2a9da83f766109bdf5e60ceaad3e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "18128042",
+      "asset_name": "Geneva (No Longer In Use / Exists only for compliance reasons) - Not Active",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "38d2adda83f766109bdf5e60ceaad35c",
+      "error_message": null
+    },
+    {
+      "asset_id": "18724098",
+      "asset_name": "AIM",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "18128332",
+      "asset_name": "Rack Space",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "34d2adda83f766109bdf5e60ceaad3c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "18130437",
+      "asset_name": "Citrix Xen Desktop",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0dd2edda83f766109bdf5e60ceaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "24999561",
+      "asset_name": "Teams",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "29d2a11e83f766109bdf5e60ceaad309",
+      "error_message": null
+    },
+    {
+      "asset_id": "28337242",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f5d2e11e83f766109bdf5e60ceaad332",
+      "error_message": null
+    },
+    {
+      "asset_id": "28340985",
+      "asset_name": "Acrobat DC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b1d2e11e83f766109bdf5e60ceaad338",
+      "error_message": null
+    },
+    {
+      "asset_id": "18017373",
+      "asset_name": "Bloomberg SAPI",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "90d26dda83f766109bdf5e60ceaad31b",
+      "error_message": null
+    },
+    {
+      "asset_id": "28341263",
+      "asset_name": "QuickBooks",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "16d2a51e83f766109bdf5e60ceaad331",
+      "error_message": null
+    },
+    {
+      "asset_id": "51503360",
+      "asset_name": "Manatuckhill Intranet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "72d2291e83f766109bdf5e60ceaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "51540403",
+      "asset_name": "Eze OMS & PMS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3ed2291e83f766109bdf5e60ceaad341",
+      "error_message": null
+    },
+    {
+      "asset_id": "74545411",
+      "asset_name": "Intune Endpoint Manager",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c3d2691e83f766109bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "74545447",
+      "asset_name": "Microsoft Authenticator",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "efd22d1e83f766109bdf5e60ceaad307",
+      "error_message": null
+    },
+    {
+      "asset_id": "17914016",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bbd22d1e83f766109bdf5e60ceaad3fd",
+      "error_message": null
+    },
+    {
+      "asset_id": "74552192",
+      "asset_name": "Egnyte Desktop",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "84e26d1e83f766109bdf5e60ceaad3aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "15943754",
+      "asset_name": "Shared L:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "14e2ad1e83f766109bdf5e60ceaad340",
+      "error_message": null
+    },
+    {
+      "asset_id": "15943770",
+      "asset_name": "User Folders O:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "60e2215e83f766109bdf5e60ceaad3a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "15943776",
+      "asset_name": "Eze T:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "45e2a15e83f766109bdf5e60ceaad36c",
+      "error_message": null
+    },
+    {
+      "asset_id": "15943782",
+      "asset_name": "Input I:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c5e2a15e83f766109bdf5e60ceaad355",
+      "error_message": null
+    },
+    {
+      "asset_id": "18724817",
+      "asset_name": "Jeremy Nierman Home Laptop MAPDrive U",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d5e2e15e83f766109bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "29019528",
+      "asset_name": "Veeam on MHP-CT-UTIL1 Y",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "79e2655e83f766109bdf5e60ceaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "29019560",
+      "asset_name": "Veeam on MHP-CT-UTIL1 Z:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1ae2e55e83f766109bdf5e60ceaad344",
+      "error_message": null
+    },
+    {
+      "asset_id": "74552240",
+      "asset_name": "Egnyte - Shared Z:\\",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "12e2e55e83f766109bdf5e60ceaad370",
+      "error_message": null
+    },
+    {
+      "asset_id": "74552252",
+      "asset_name": "Egnyte - Private Z:\\",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "22e2295e83f766109bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "15943447",
+      "asset_name": "Network 2 10.50.15.0/24",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "15943466",
+      "asset_name": "Network 3 10.78.15.0/24",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "14559972",
+      "asset_name": "Altice/Lightpath - CT - Primary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0fe2695e83f766109bdf5e60ceaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "14559973",
+      "asset_name": "Optimum - CT - Secondary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a3e2e95e83f766109bdf5e60ceaad37d",
+      "error_message": null
+    },
+    {
+      "asset_id": "28118274",
+      "asset_name": "MV 192.168.10.0/24",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "18610221",
+      "asset_name": "Home Mark Broach Wilton 192.168.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ffe22d5e83f766109bdf5e60ceaad3a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "27770286",
+      "asset_name": "CCE 10.100.14.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00f26d5e83f766109bdf5e60ceaad342",
+      "error_message": null
+    },
+    {
+      "asset_id": "28130192",
+      "asset_name": "APC Network 192.168.6.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20f2ad5e83f766109bdf5e60ceaad3c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "28130596",
+      "asset_name": "Avaya Network 10.50.25.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "70f2ed5e83f766109bdf5e60ceaad3fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "15943368",
+      "asset_name": "HQ (Inside) 10.50.5.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6fe2e95e83f766109bdf5e60ceaad3b7",
+      "error_message": null
+    },
+    {
+      "asset_id": "18128538",
+      "asset_name": "SSL AnyConnect",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "92710180",
+      "asset_name": "MANATUCK-AZ-VNET Virtual network SERVER SUBNET SERVER-SUBNET - 172.16.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "49f2219e83f766109bdf5e60ceaad3fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "92710264",
+      "asset_name": "MANATUCK-AZ-VNET Virtual network - Private INTERNAL-SUBNET - 172.16.2.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "edf2a19e83f766109bdf5e60ceaad311",
+      "error_message": null
+    },
+    {
+      "asset_id": "14992767",
+      "asset_name": "Xenapp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5f2a19e83f766109bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "158901899",
+      "asset_name": "Forticlient VPN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5af2259e83f766109bdf5e60ceaad3c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "15766822",
+      "asset_name": "MIK Fund Solutions",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1af2259e83f766109bdf5e60ceaad3f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "15767268",
+      "asset_name": "VITEOS Fund Services LLC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a2f2659e83f766109bdf5e60ceaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "15943184",
+      "asset_name": "Webroot",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "07f2e59e83f766109bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "15943514",
+      "asset_name": "Optimum",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e3f2699e83f766109bdf5e60ceaad32c",
+      "error_message": null
+    },
+    {
+      "asset_id": "15957709",
+      "asset_name": "VMware",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a3f2699e83f766109bdf5e60ceaad30f",
+      "error_message": null
+    },
+    {
+      "asset_id": "17656330",
+      "asset_name": "Proof Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4003699e83f766109bdf5e60ceaad3d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "17672969",
+      "asset_name": "Advent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e403e99e83f766109bdf5e60ceaad3d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "17914157",
+      "asset_name": "Global Relay",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0d03ad9e83f766109bdf5e60ceaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "18016748",
+      "asset_name": "1010Data",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c5036d9e83f766109bdf5e60ceaad3dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "18017359",
+      "asset_name": "Bloomberg Acct Rep",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9d03ad9e83f766109bdf5e60ceaad38e",
+      "error_message": null
+    },
+    {
+      "asset_id": "18128318",
+      "asset_name": "Rack Space",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "390321de83f766109bdf5e60ceaad3f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "18130047",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9e03a1de83f766109bdf5e60ceaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "18130415",
+      "asset_name": "Citrix",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "de03a1de83f766109bdf5e60ceaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "18609472",
+      "asset_name": "Cloudtrax",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b203e1de83f766109bdf5e60ceaad3d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "18610812",
+      "asset_name": "Top Ten USA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5b0365de83f766109bdf5e60ceaad334",
+      "error_message": null
+    },
+    {
+      "asset_id": "18611270",
+      "asset_name": "GoDaddy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3703a5de83f766109bdf5e60ceaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "18611673",
+      "asset_name": "Panaray",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3703a5de83f766109bdf5e60ceaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "18704695",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "441329de83f766109bdf5e60ceaad31c",
+      "error_message": null
+    },
+    {
+      "asset_id": "18711846",
+      "asset_name": "Vornado",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a81369de83f766109bdf5e60ceaad3a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "18724615",
+      "asset_name": "Goldman",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0d13e9de83f766109bdf5e60ceaad30b",
+      "error_message": null
+    },
+    {
+      "asset_id": "18724629",
+      "asset_name": "Credit Suisse",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4513e9de83f766109bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "18724640",
+      "asset_name": "Morgan Stanley",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a9132dde83f766109bdf5e60ceaad332",
+      "error_message": null
+    },
+    {
+      "asset_id": "18724962",
+      "asset_name": "Manatuck Special Services",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a136dde83f766109bdf5e60ceaad35f",
+      "error_message": null
+    },
+    {
+      "asset_id": "28337233",
+      "asset_name": "Microsoft",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 18704695 (Microsoft)"
+    },
+    {
+      "asset_id": "28281416",
+      "asset_name": "Rapid Fire",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6e13edde83f766109bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "28281538",
+      "asset_name": "KnowBe4",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6a13edde83f766109bdf5e60ceaad3e8",
+      "error_message": null
+    },
+    {
+      "asset_id": "28281667",
+      "asset_name": "Kaseya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf132112833b66109bdf5e60ceaad36e",
+      "error_message": null
+    },
+    {
+      "asset_id": "28337620",
+      "asset_name": "Veeam",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b13a112833b66109bdf5e60ceaad3ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "28340980",
+      "asset_name": "Adobe",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80232512833b66109bdf5e60ceaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "28341216",
+      "asset_name": "Intuit",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00232512833b66109bdf5e60ceaad366",
+      "error_message": null
+    },
+    {
+      "asset_id": "28346816",
+      "asset_name": "Cisco",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9c236512833b66109bdf5e60ceaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "28349260",
+      "asset_name": "Geneva",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b823a512833b66109bdf5e60ceaad3f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "28352470",
+      "asset_name": "SS&C EZE Software",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e5232912833b66109bdf5e60ceaad3e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "31159393",
+      "asset_name": "Michael White",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "21232912833b66109bdf5e60ceaad3f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "74548394",
+      "asset_name": "Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f523a912833b66109bdf5e60ceaad30e",
+      "error_message": null
+    },
+    {
+      "asset_id": "74554003",
+      "asset_name": "Spanning",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d623e912833b66109bdf5e60ceaad3b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "76553921",
+      "asset_name": "FortiNet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cb236d12833b66109bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "17672986",
+      "asset_name": "Other Advent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b23ed12833b66109bdf5e60ceaad374",
+      "error_message": null
+    },
+    {
+      "asset_id": "18017738",
+      "asset_name": "Microsoft Microsoft Office - home and busine",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c4336152833b66109bdf5e60ceaad339",
+      "error_message": null
+    },
+    {
+      "asset_id": "21031080",
+      "asset_name": "Citrix Citrix",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "10336152833b66109bdf5e60ceaad3f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "28340819",
+      "asset_name": "Other Bloomberg SAPI",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "15336552833b66109bdf5e60ceaad34d",
+      "error_message": null
+    },
+    {
+      "asset_id": "25002892",
+      "asset_name": "Dell PowerVault and PowerEdge renewals",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a833e152833b66109bdf5e60ceaad328",
+      "error_message": null
+    },
+    {
+      "asset_id": "16057352",
+      "asset_name": "VMware VMware contract 30980953",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf23ad12833b66109bdf5e60ceaad396",
+      "error_message": null
+    },
+    {
+      "asset_id": "74545238",
+      "asset_name": "Microsoft 365 Business Premium",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "56332952833b66109bdf5e60ceaad376",
+      "error_message": null
+    },
+    {
+      "asset_id": "73440263",
+      "asset_name": "Fortinet Manatuck Fortinet FG-81F-BDL-950 Expires 02/08/2027",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5e332952833b66109bdf5e60ceaad380",
+      "error_message": null
+    },
+    {
+      "asset_id": "74545254",
+      "asset_name": "Microsoft Exchange Online (Plan 1)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b33a952833b66109bdf5e60ceaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "74545269",
+      "asset_name": "Microsoft Exchange Online (Plan 2)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1f33e952833b66109bdf5e60ceaad3f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "74548471",
+      "asset_name": "Egnyte Egnyte Latest Version",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f336d52833b66109bdf5e60ceaad374",
+      "error_message": null
+    },
+    {
+      "asset_id": "27469241",
+      "asset_name": "Veeam Veeam Premium Support License #: 35841903",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "15332552833b66109bdf5e60ceaad39a",
+      "error_message": null
+    },
+    {
+      "asset_id": "74554024",
+      "asset_name": "Spanning Cloud Backup - For O365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9943a192833b66109bdf5e60ceaad372",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644491",
+      "asset_name": "mhp-ct-sql14 - Daily SQL Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6d43e192833b66109bdf5e60ceaad303",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644496",
+      "asset_name": "man-ct-dc01 - Daily File System Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e543e192833b66109bdf5e60ceaad356",
+      "error_message": null
+    },
+    {
+      "asset_id": "15943278",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a543e192833b66109bdf5e60ceaad360",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644531",
+      "asset_name": "man-ct-dc01 - New Daily Intranet Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a243a592833b66109bdf5e60ceaad323",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644542",
+      "asset_name": "MHP-CT-UTIL1 - Configuration Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f643e592833b66109bdf5e60ceaad333",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644544",
+      "asset_name": "mhp-ct-blpsapi - 02 Backup Job MAN-EZE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b43e592833b66109bdf5e60ceaad3d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644546",
+      "asset_name": "mhp-eze-omsap2 - 02 Backup Job MAN-EZE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf432992833b66109bdf5e60ceaad33e",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644548",
+      "asset_name": "mhp-eze-omsap1 - 02 Backup Job MAN-EZE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9053e992833b66109bdf5e60ceaad374",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644549",
+      "asset_name": "mhp-eze-omsdb1 - 02 Backup Job MAN-EZE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d4532d92833b66109bdf5e60ceaad306",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644550",
+      "asset_name": "man-ct-dc01 - 03 Backup Job MAN-CT-DC01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "64536d92833b66109bdf5e60ceaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644551",
+      "asset_name": "mhp-ct-sql14 - 04 Backup MHP-CT-SQL14",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "68532d92833b66109bdf5e60ceaad3d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644552",
+      "asset_name": "mhp-ct-app01 - 06 Backup MHP-CT-APPS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "395321d2833b66109bdf5e60ceaad3b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644553",
+      "asset_name": "mhp-ct-webap01 - 06 Backup MHP-CT-APPS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f95321d2833b66109bdf5e60ceaad3e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644554",
+      "asset_name": "mhp-ct-xdesk01 - 05 Backup MHP-CT-XEN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d253a1d2833b66109bdf5e60ceaad328",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644555",
+      "asset_name": "mhp-ct-vmpro - 08 Backup Avaya Servers",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1653a1d2833b66109bdf5e60ceaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644556",
+      "asset_name": "mhp-ct-dev01 - 09 Backup Job MHP-DEV",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1b53a5d2833b66109bdf5e60ceaad321",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644557",
+      "asset_name": "mhpops-ct7 - mhpops-ct7",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "535365d2833b66109bdf5e60ceaad3e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "13645110",
+      "asset_name": "mhp-ct-vcenter - 11 Backup Job MHP-CT-VCenter",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "13644559",
+      "asset_name": "mhp-ct-util1 - 10 Backup Job MHP-CT-UTIL1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f53e5d2833b66109bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "13645106",
+      "asset_name": "MHP-CT-NSGVPX - 05 Backup MHP-CT-XEN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb53e5d2833b66109bdf5e60ceaad372",
+      "error_message": null
+    },
+    {
+      "asset_id": "13645109",
+      "asset_name": "mhp-ct-avaya - 08 Backup Avaya Servers",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0163a9d2833b66109bdf5e60ceaad3a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "16387106",
+      "asset_name": "mhp-ct-app01 - 06 Backup Copy Job - mhp-ct-apps to CCW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8d63a9d2833b66109bdf5e60ceaad3d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "16387110",
+      "asset_name": "mhp-ct-dev01 - 08 Backup Copy Job - mhp-ct-dev01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "16387107",
+      "asset_name": "mhp-ct-webap01 - 06 Backup Copy Job - mhp-ct-apps to CCW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2963e9d2833b66109bdf5e60ceaad3d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "16387108",
+      "asset_name": "mhp-ct-xdesk01 - 05 Backup Copy Job - MHP-CT-XEN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6d632dd2833b66109bdf5e60ceaad371",
+      "error_message": null
+    },
+    {
+      "asset_id": "16387109",
+      "asset_name": "MHP-CT-NSGVPX - 05 Backup Copy Job - MHP-CT-XEN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b263edd2833b66109bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "16387111",
+      "asset_name": "mhp-ct-sql14 - 04 Backup Copy Job - MHP-CT-SQL14",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b2632116833b66109bdf5e60ceaad32e",
+      "error_message": null
+    },
+    {
+      "asset_id": "16587581",
+      "asset_name": "mhp-ct-dev01 - 09 Backup Copy Job - MHP-DEV",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "03636116833b66109bdf5e60ceaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "16587583",
+      "asset_name": "mhp-ct-blpsapi - 02 Backup Copy Job - MAN-EZE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "df636116833b66109bdf5e60ceaad3d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "16587584",
+      "asset_name": "mhp-eze-omsap2 - 02 Backup Copy Job - MAN-EZE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8736516833b66109bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "16587585",
+      "asset_name": "mhp-eze-omsap1 - 02 Backup Copy Job - MAN-EZE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28736516833b66109bdf5e60ceaad3c7",
+      "error_message": null
+    },
+    {
+      "asset_id": "16587586",
+      "asset_name": "mhp-eze-omsdb1 - 02 Backup Copy Job - MAN-EZE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c73a516833b66109bdf5e60ceaad359",
+      "error_message": null
+    },
+    {
+      "asset_id": "16587587",
+      "asset_name": "man-ct-dc01 - 03 Backup Copy Job - MAN-CT-DC01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c73a516833b66109bdf5e60ceaad365",
+      "error_message": null
+    },
+    {
+      "asset_id": "17832741",
+      "asset_name": "mhp-ccw-dc01 - MHP-CCW-BDR",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4273e916833b66109bdf5e60ceaad384",
+      "error_message": null
+    },
+    {
+      "asset_id": "69409528",
+      "asset_name": "mhp-ccw-dc01 - CORE114-CCW-BDR",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d673e916833b66109bdf5e60ceaad365",
+      "error_message": null
+    },
+    {
+      "asset_id": "73289754",
+      "asset_name": "Manatuck Hill Partners - contact",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ae736d16833b66109bdf5e60ceaad31d",
+      "error_message": null
+    },
+    {
+      "asset_id": "73289755",
+      "asset_name": "Manatuck Hill Partners - mail",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ee736d16833b66109bdf5e60ceaad341",
+      "error_message": null
+    },
+    {
+      "asset_id": "73289756",
+      "asset_name": "Manatuck Hill Partners - calendar",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "88832156833b66109bdf5e60ceaad37e",
+      "error_message": null
+    },
+    {
+      "asset_id": "73289757",
+      "asset_name": "Manatuck Hill Partners - OneDrive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "44832156833b66109bdf5e60ceaad3a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "73289758",
+      "asset_name": "Manatuck Hill Partners - SharePoint",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c83a156833b66109bdf5e60ceaad375",
+      "error_message": null
+    },
+    {
+      "asset_id": "73289759",
+      "asset_name": "Manatuck Hill Partners - Teams Conversation",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6083a156833b66109bdf5e60ceaad38f",
+      "error_message": null
+    },
+    {
+      "asset_id": "74554040",
+      "asset_name": "Spanning Mailboxes Microsoft 365 Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f9832956833b66109bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "74552264",
+      "asset_name": "CoreBDR Volume/Image Egnyte ESS Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3d83e556833b66109bdf5e60ceaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "81170514",
+      "asset_name": "MHP-CT-DC03 - Backup Job 11: MHP-CT-DC03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9a836956833b66109bdf5e60ceaad3f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "81170562",
+      "asset_name": "mhpops-ct7 - 04 Backup MHP-CT-SQL14",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "da83a956833b66109bdf5e60ceaad321",
+      "error_message": null
+    },
+    {
+      "asset_id": "81170564",
+      "asset_name": "mhp-ct-dev01 - 06 Backup MHP-CT-APPS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a383ad56833b66109bdf5e60ceaad300",
+      "error_message": null
+    },
+    {
+      "asset_id": "81170566",
+      "asset_name": "mhp-ct-liquid - 06 Backup MHP-CT-APPS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb83ad56833b66109bdf5e60ceaad395",
+      "error_message": null
+    },
+    {
+      "asset_id": "81194422",
+      "asset_name": "MAN-CT-EXCH01.manatuckhill.corp - 02 Backup Job MAN-EZE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4c93ed56833b66109bdf5e60ceaad3d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "81194423",
+      "asset_name": "Virtual_Lab_1 - 02 Backup Job MAN-EZE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00932196833b66109bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "81194424",
+      "asset_name": "mhp-ct-avaya - 02 Backup Job MAN-EZE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e593e196833b66109bdf5e60ceaad3bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "81194425",
+      "asset_name": "mhp-ct-util1 - 09 Backup Job MHP-DEV",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "21932596833b66109bdf5e60ceaad34c",
+      "error_message": null
+    },
+    {
+      "asset_id": "81194427",
+      "asset_name": "VMware vCenter Server Appliance - 11 Backup Job MHP-CT-VCenter",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a93a596833b66109bdf5e60ceaad308",
+      "error_message": null
+    },
+    {
+      "asset_id": "83522292",
+      "asset_name": "mhp-ct-vmpro - 08 backup copy job\\08 backup avaya servers",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8293a596833b66109bdf5e60ceaad316",
+      "error_message": null
+    },
+    {
+      "asset_id": "83522293",
+      "asset_name": "mhp-ct-avaya - 08 backup copy job\\08 backup avaya servers",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db936996833b66109bdf5e60ceaad381",
+      "error_message": null
+    },
+    {
+      "asset_id": "83522295",
+      "asset_name": "MHP-CT-NSGVPX - 05 backup copy job mhp-ct-xen\\05 backup mhp-ct-xen",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1793a996833b66109bdf5e60ceaad342",
+      "error_message": null
+    },
+    {
+      "asset_id": "83522297",
+      "asset_name": "mhp-ct-dev01 - 06 backup copy job mhp-ct-apps\\06 backup mhp-ct-apps",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b793e996833b66109bdf5e60ceaad3c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "83546567",
+      "asset_name": "mhp-ct-util1 - 09 backup copy job - mhp-dev",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7793e996833b66109bdf5e60ceaad3d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "83546569",
+      "asset_name": "mhp-ct-util1 - 10 backup copy job\\10 backup job mhp-ct-util1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "99a321d6833b66109bdf5e60ceaad331",
+      "error_message": null
+    },
+    {
+      "asset_id": "83546570",
+      "asset_name": "VMware vCenter Server Appliance - 11 backup copy job\\11 backup job mhp-ct-vcenter",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "15a321d6833b66109bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "93844929",
+      "asset_name": "iaasvmcontainerv2;manatuck-rg-srv;man-az-dc01 - man-az-dc01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "31a321d6833b66109bdf5e60ceaad3f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "122358598",
+      "asset_name": "Microsoft Azure Volume/Image Azure API backup man-az-dc01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "31a361d6833b66109bdf5e60ceaad325",
+      "error_message": null
+    },
+    {
+      "asset_id": "22811710",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0fa365d6833b66109bdf5e60ceaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "15948677",
+      "asset_name": "MHP CT Host 3",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "15945002",
+      "asset_name": "MHP CT vCenter",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "47effd3a939922502dadffed1dba10fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "15945095",
+      "asset_name": "MHP CT Host 1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "67a3e5d6833b66109bdf5e60ceaad3ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "15946308",
+      "asset_name": "MHP CT Host 2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2ba3e5d6833b66109bdf5e60ceaad346",
+      "error_message": null
+    },
+    {
+      "asset_id": "27770288",
+      "asset_name": "CCW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d8b3a9d6833b66109bdf5e60ceaad371",
+      "error_message": null
+    },
+    {
+      "asset_id": "92710128",
+      "asset_name": "MANATUCK-AZURE-COMPUTE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3cb3e9d6833b66109bdf5e60ceaad30a",
+      "error_message": null
+    },
+    {
+      "asset_id": "26835766",
+      "asset_name": "dawn-ct10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "26835767",
+      "asset_name": "mhp-ct-webap01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26835768",
+      "asset_name": "mhp-ct-dev01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26835771",
+      "asset_name": "aroyceny10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26835769",
+      "asset_name": "mhp-eze-omsdb1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26835770",
+      "asset_name": "mhp-ct-sql14",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26835773",
+      "asset_name": "dvancho-ct10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26835772",
+      "asset_name": "mhpops-ct7",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26835774",
+      "asset_name": "mshinseki-ny10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "26835775",
+      "asset_name": "mhp-eze-omsap1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26835788",
+      "asset_name": "jnierman-tr7",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26835776",
+      "asset_name": "man-ct-dc01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26835789",
+      "asset_name": "mbroach-ny10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26835790",
+      "asset_name": "MHP-CT-APP01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26835791",
+      "asset_name": "mhp-ct-dc02",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26835792",
+      "asset_name": "mhp-ct-blpsapi",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26835793",
+      "asset_name": "mbroachct10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "26835794",
+      "asset_name": "mhp-ct-exch13",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26835795",
+      "asset_name": "mhp-ct-util1 (veeam server)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26835796",
+      "asset_name": "perry-tr10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "26835797",
+      "asset_name": "mhp-ct-xdesk01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26835798",
+      "asset_name": "allen-ct10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "26835799",
+      "asset_name": "tscalia-ct10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "26835800",
+      "asset_name": "mhp-ct-vmpro",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26835801",
+      "asset_name": "mbroach-hm1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "26835802",
+      "asset_name": "mshinseki-ct10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "28865910",
+      "asset_name": "whamilton-nb7",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26835803",
+      "asset_name": "mhp-eze-omsap2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "27691943",
+      "asset_name": "mhp-dr-util1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "27691945",
+      "asset_name": "mhp-dr-dc02",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "28865915",
+      "asset_name": "whamilton-ny10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "28865916",
+      "asset_name": "svits-loaner",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "29271535",
+      "asset_name": "whamiltonct10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "28865917",
+      "asset_name": "whamliton-ct10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "29271536",
+      "asset_name": "perry-hm10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "29317430",
+      "asset_name": "mhp-ct-esx3 (CSN)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "29317429",
+      "asset_name": "mhp-ct-esx2",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "a227ec8097ee2910511ff957f053afc6",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317437",
+      "asset_name": "idrac-JZLP082",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aeb3611a833b66109bdf5e60ceaad377",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317428",
+      "asset_name": "mhp-ct-esx1",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "ea27ec8097ee2910511ff957f053afc7",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317392",
+      "asset_name": "fw-ny-manatuck",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eeb3211a833b66109bdf5e60ceaad398",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317491",
+      "asset_name": "Device@10.50.16.118",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f3b3251a833b66109bdf5e60ceaad3b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317492",
+      "asset_name": "Device@10.50.16.126",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ccc3251a833b66109bdf5e60ceaad3bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317493",
+      "asset_name": "Device@10.50.16.128",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a0c3251a833b66109bdf5e60ceaad3ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317494",
+      "asset_name": "Device@10.50.6.10",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "59c3e51a833b66109bdf5e60ceaad374",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317495",
+      "asset_name": "Device@10.50.6.100",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0ec3691a833b66109bdf5e60ceaad3c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317496",
+      "asset_name": "Device@10.50.6.101",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cac3a91a833b66109bdf5e60ceaad309",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317497",
+      "asset_name": "Device@10.50.6.102",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "26c3e91a833b66109bdf5e60ceaad385",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317498",
+      "asset_name": "Device@10.50.6.103",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "13c36d1a833b66109bdf5e60ceaad37b",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317499",
+      "asset_name": "Device@10.50.6.104",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "44d3ed1a833b66109bdf5e60ceaad3cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317500",
+      "asset_name": "Device@10.50.6.106",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c8d3ed1a833b66109bdf5e60ceaad3d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317501",
+      "asset_name": "Device@10.50.6.107",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "64d3615a833b66109bdf5e60ceaad34f",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317502",
+      "asset_name": "Device@10.50.6.108",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1dd3255a833b66109bdf5e60ceaad329",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317503",
+      "asset_name": "Device@10.50.6.110",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0ed3e55a833b66109bdf5e60ceaad35f",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317504",
+      "asset_name": "Device@10.50.6.112",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8ed3e55a833b66109bdf5e60ceaad38b",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317505",
+      "asset_name": "Device@10.50.6.114",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bed3695a833b66109bdf5e60ceaad3d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317506",
+      "asset_name": "Device@10.50.6.151",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a7d32d5a833b66109bdf5e60ceaad352",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317507",
+      "asset_name": "Device@10.50.6.153",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d0e3ad5a833b66109bdf5e60ceaad3c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317508",
+      "asset_name": "Device@10.50.6.158",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "58e36d5a833b66109bdf5e60ceaad3fd",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317509",
+      "asset_name": "Device@10.50.6.235",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3ce3ed5a833b66109bdf5e60ceaad3fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317510",
+      "asset_name": "Device@10.50.6.236",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5e3a19a833b66109bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317687",
+      "asset_name": "hp LaserJet 4250",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eae3659a833b66109bdf5e60ceaad309",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317686",
+      "asset_name": "HP LaserJet 300 colorMFP M375nw",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eae3659a833b66109bdf5e60ceaad34f",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317688",
+      "asset_name": "HP LaserJet M1536dnf MFP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "03e3a59a833b66109bdf5e60ceaad365",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317689",
+      "asset_name": "HP LaserJet P4015 Printers",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "33e3699a833b66109bdf5e60ceaad3ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317690",
+      "asset_name": "iR-ADV C5250",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c1f32d9a833b66109bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317895",
+      "asset_name": "MAN-CT-APP01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "29317691",
+      "asset_name": "NPI086B1D",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cdf36d9a833b66109bdf5e60ceaad373",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317692",
+      "asset_name": "SFPRINTQ10",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "91f3ad9a833b66109bdf5e60ceaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317764",
+      "asset_name": "10-50-5-252.manatuck.corp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "42f361da833b66109bdf5e60ceaad386",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317900",
+      "asset_name": "MAN-EZE-BLPSAPI",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "29317896",
+      "asset_name": "MAN-CT-DC01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "07f365da833b66109bdf5e60ceaad330",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317898",
+      "asset_name": "man-ct-nas2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1ff3a5da833b66109bdf5e60ceaad32d",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317903",
+      "asset_name": "MHP-CT-DC02 (DC)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "29317899",
+      "asset_name": "man-ct-nas3",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ebf3e5da833b66109bdf5e60ceaad39e",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317906",
+      "asset_name": "MHP-CT-LIQUID",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "29317901",
+      "asset_name": "mhp-ct-app01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a404a9da833b66109bdf5e60ceaad38c",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317902",
+      "asset_name": "MHP-CT-BLPSAPI",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "15046dda833b66109bdf5e60ceaad352",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317904",
+      "asset_name": "MHP-CT-DEV01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f104edda833b66109bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317907",
+      "asset_name": "MHP-CT-SQL14",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f904edda833b66109bdf5e60ceaad366",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317908",
+      "asset_name": "MHP-CT-UTIL1 (veeam server)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2a04611e833b66109bdf5e60ceaad36a",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317912",
+      "asset_name": "MHP-DR-DC02 (DC)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "29317913",
+      "asset_name": "MHP-DR-UTIL1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "29317909",
+      "asset_name": "MHP-CT-VMPRO",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b04a51e833b66109bdf5e60ceaad30a",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317910",
+      "asset_name": "MHP-CT-WEBAP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9014291e833b66109bdf5e60ceaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317911",
+      "asset_name": "MHP-CT-XDESK01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac14291e833b66109bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317917",
+      "asset_name": "SUNSP00238BA9E7A8",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "29317914",
+      "asset_name": "***CSN***MHP-EZE-OMSAP1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f014a91e833b66109bdf5e60ceaad37b",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317915",
+      "asset_name": "***CSN***MHP-EZE-OMSAP2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b1146d1e833b66109bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317916",
+      "asset_name": "***CSN***MHP-EZE-OMSDB1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3614615e833b66109bdf5e60ceaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "29317995",
+      "asset_name": "mhp-ct-core1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db14e15e833b66109bdf5e60ceaad31d",
+      "error_message": null
+    },
+    {
+      "asset_id": "29318001",
+      "asset_name": "mhp-md3200",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1714e15e833b66109bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "29318002",
+      "asset_name": "None",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7424295e833b66109bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "29318047",
+      "asset_name": "mhp-ny-core",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "29318046",
+      "asset_name": "mhp-ct-voip-sw1",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "073ae08497226910511ff957f053afa7",
+      "error_message": null
+    },
+    {
+      "asset_id": "29318044",
+      "asset_name": "mhp-ct-core1 Stack Member 1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f424295e833b66109bdf5e60ceaad3de",
+      "error_message": null
+    },
+    {
+      "asset_id": "29318077",
+      "asset_name": "Manatuck Hill Partners S8300C CT MAIN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c624ad5e833b66109bdf5e60ceaad308",
+      "error_message": null
+    },
+    {
+      "asset_id": "29318045",
+      "asset_name": "mhp-ct-core1 Stack Member 2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2124a95e833b66109bdf5e60ceaad3d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "29318110",
+      "asset_name": "MHP-APC 3",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef24e19e833b66109bdf5e60ceaad36e",
+      "error_message": null
+    },
+    {
+      "asset_id": "29318111",
+      "asset_name": "MHP-APC 2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b24259e833b66109bdf5e60ceaad380",
+      "error_message": null
+    },
+    {
+      "asset_id": "29318112",
+      "asset_name": "MHP-APC 1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bb24259e833b66109bdf5e60ceaad36c",
+      "error_message": null
+    },
+    {
+      "asset_id": "31143050",
+      "asset_name": "mhp-ccw-dc01 (DC)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "31943824",
+      "asset_name": "dvancho-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "32810788",
+      "asset_name": "NYC Office Printer",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "32810838",
+      "asset_name": "NY Canon C5235a",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33183191",
+      "asset_name": "Home Wifi - B",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33183226",
+      "asset_name": "Home Wifi - A",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "29318131",
+      "asset_name": "Device@10.50.5.217",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "92346d9e833b66109bdf5e60ceaad3db",
+      "error_message": null
+    },
+    {
+      "asset_id": "33293605",
+      "asset_name": "man-ct-nas1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33277586",
+      "asset_name": "Linksys EA6900 AC1900 Smart router",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9e34ad9e833b66109bdf5e60ceaad30a",
+      "error_message": null
+    },
+    {
+      "asset_id": "33308471",
+      "asset_name": "Mark Home PC",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "33308671",
+      "asset_name": "Charesa PC",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "33308738",
+      "asset_name": "Mark Office PC",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "29318133",
+      "asset_name": "mhp-ct-vcenter",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5234ad9e833b66109bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "29318132",
+      "asset_name": "mhp-ct-nsgvpx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d634ad9e833b66109bdf5e60ceaad337",
+      "error_message": null
+    },
+    {
+      "asset_id": "36173580",
+      "asset_name": "reception-ct10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "33295731",
+      "asset_name": "Mark Broach Home CableVision",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "184425de833b66109bdf5e60ceaad3f9",
+      "error_message": null
+    },
+    {
+      "asset_id": "33316199",
+      "asset_name": "Cablevision",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7444e5de833b66109bdf5e60ceaad341",
+      "error_message": null
+    },
+    {
+      "asset_id": "34216822",
+      "asset_name": "mhp-mb-soho252",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b844e5de833b66109bdf5e60ceaad35b",
+      "error_message": null
+    },
+    {
+      "asset_id": "37954844",
+      "asset_name": "CSN - Place holder",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "194429de833b66109bdf5e60ceaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "40389852",
+      "asset_name": "CoreArmor",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0f44edde833b66109bdf5e60ceaad377",
+      "error_message": null
+    },
+    {
+      "asset_id": "58816045",
+      "asset_name": "Mark Broach Netgear R6700AX",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "57442112837b66109bdf5e60ceaad3bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "58816117",
+      "asset_name": "MHP-MB-SOHO252",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a7442112837b66109bdf5e60ceaad3c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "38601704",
+      "asset_name": "Cisco ASA 5505",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "42442dde833b66109bdf5e60ceaad343",
+      "error_message": null
+    },
+    {
+      "asset_id": "62064730",
+      "asset_name": "MHP-CT-DC03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c154a512837b66109bdf5e60ceaad365",
+      "error_message": null
+    },
+    {
+      "asset_id": "62066320",
+      "asset_name": "MHP-CCW-ESS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0254a912837b66109bdf5e60ceaad309",
+      "error_message": null
+    },
+    {
+      "asset_id": "62900056",
+      "asset_name": "FW: MHP - CONNECTICUT - MHP-CT-FW02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5654e912837b66109bdf5e60ceaad363",
+      "error_message": null
+    },
+    {
+      "asset_id": "65021454",
+      "asset_name": "MHP-CT-AVAYA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cb546d12837b66109bdf5e60ceaad3f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "62736855",
+      "asset_name": "FW: MHP - CONNECTICUT - MHP-CT-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8654a912837b66109bdf5e60ceaad311",
+      "error_message": null
+    },
+    {
+      "asset_id": "69985641",
+      "asset_name": "man-az-dc01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4c646152837b66109bdf5e60ceaad30f",
+      "error_message": null
+    },
+    {
+      "asset_id": "69987124",
+      "asset_name": "mhp-lm01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "84646152837b66109bdf5e60ceaad3c7",
+      "error_message": null
+    },
+    {
+      "asset_id": "796346",
+      "asset_name": "manatuckhill.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9c646152837b66109bdf5e60ceaad3f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "796347",
+      "asset_name": "manatuckhill.net",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "15646552837b66109bdf5e60ceaad356",
+      "error_message": null
+    },
+    {
+      "asset_id": "796348",
+      "asset_name": "viteos.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e164a552837b66109bdf5e60ceaad314",
+      "error_message": null
+    },
+    {
+      "asset_id": "852039",
+      "asset_name": "manatuckhillpartners.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd64e552837b66109bdf5e60ceaad314",
+      "error_message": null
+    },
+    {
+      "asset_id": "852040",
+      "asset_name": "manatuckhillpartnersllc.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4a64e552837b66109bdf5e60ceaad3be",
+      "error_message": null
+    },
+    {
+      "asset_id": "977168",
+      "asset_name": "intertrustgroup.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1a642952837b66109bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": 321403,
+      "asset_name": "fgt81ftk23011502",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a646952837b66109bdf5e60ceaad3eb",
+      "error_message": null
+    },
+    {
+      "asset_id": 832444,
+      "asset_name": "xenapp.manatuckhill.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b264a952837b66109bdf5e60ceaad35c",
+      "error_message": null
+    },
+    {
+      "asset_id": "5652811",
+      "asset_name": "MHP Lars Munson",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed74a192837b66109bdf5e60ceaad39b",
+      "error_message": null
+    },
+    {
+      "asset_id": "5652816",
+      "asset_name": "VZ CT TELCO",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3574e192837b66109bdf5e60ceaad396",
+      "error_message": null
+    },
+    {
+      "asset_id": "5652818",
+      "asset_name": "NYFix",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4a742592837b66109bdf5e60ceaad33b",
+      "error_message": null
+    },
+    {
+      "asset_id": "5652828",
+      "asset_name": "MHP - EZE OMS NATs",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9a742592837b66109bdf5e60ceaad3f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "5652832",
+      "asset_name": "MHP Circuit info appears to be old",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aa746592837b66109bdf5e60ceaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "11690298",
+      "asset_name": "Blocking senders in Proofpoint",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "be74a592837b66109bdf5e60ceaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "11695137",
+      "asset_name": "How to start the LanManWorkstation service!",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e7742992837b66109bdf5e60ceaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "12715098",
+      "asset_name": "Reboot and  Check SS&C EzeDocument",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6c84e992837b66109bdf5e60ceaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "7274910",
+      "asset_name": "No bitlocker info for ManatuckHill:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bc842d92837b66109bdf5e60ceaad3b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "5126858",
+      "asset_name": "How to: Renew SSL",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c5846d92837b66109bdf5e60ceaad353",
+      "error_message": null
+    },
+    {
+      "asset_id": "5652817",
+      "asset_name": "MHP Geneva - Generic Network Systems, LLC (GNS)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "51846d92837b66109bdf5e60ceaad3c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "5652822",
+      "asset_name": "How to: Morning Call News Server",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "65846d92837b66109bdf5e60ceaad3f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "5652839",
+      "asset_name": "EZE OMS BLP SAPI",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0284ed92837b66109bdf5e60ceaad393",
+      "error_message": null
+    },
+    {
+      "asset_id": "5652883",
+      "asset_name": "MHP Geneva - Desktop Install 7.6",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "168421d2837b66109bdf5e60ceaad3c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "10722300",
+      "asset_name": "How To: Start DTCC CTM Scheduler",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a384e1d2837b66109bdf5e60ceaad3f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "11694346",
+      "asset_name": "Manatuck_LanMan_service",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "509425d2837b66109bdf5e60ceaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "11764125",
+      "asset_name": "Re-enable SMB on Server and Workstations",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd9429d2837b66109bdf5e60ceaad314",
+      "error_message": null
+    },
+    {
+      "asset_id": "8624073",
+      "asset_name": "CT Office Gallery",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a59429d2837b66109bdf5e60ceaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "8571473",
+      "asset_name": "MHP Disaster Recovery to CCW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2ca42116837b66109bdf5e60ceaad3eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "5652789",
+      "asset_name": "Advent Logon",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "30a46116837b66109bdf5e60ceaad3cc",
+      "error_message": null
+    },
+    {
+      "asset_id": "8614108",
+      "asset_name": "Holiday Calendar - Manatuck Hill Partners",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cda4a116837b66109bdf5e60ceaad3e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "15305850",
+      "asset_name": "User Offboarding Guide - Manatuck Hill Partners",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "51a4e116837b66109bdf5e60ceaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "15305851",
+      "asset_name": "New User Onboarding Guide - Manatuck Hill Partners",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ada42516837b66109bdf5e60ceaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "15305852",
+      "asset_name": "Windows Setup Guide - Manatuck Hill Partners",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "31a42516837b66109bdf5e60ceaad3f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "11694345",
+      "asset_name": "Manatuck LanMan service.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4aa42516837b66109bdf5e60ceaad3f9",
+      "error_message": null
+    },
+    {
+      "asset_id": "7964857",
+      "asset_name": "mhp telco rack.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "12a46516837b66109bdf5e60ceaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "7964858",
+      "asset_name": "mhp circuit1.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "36a4e516837b66109bdf5e60ceaad383",
+      "error_message": null
+    },
+    {
+      "asset_id": "7964861",
+      "asset_name": "mhp esx servers.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "43a42916837b66109bdf5e60ceaad357",
+      "error_message": null
+    },
+    {
+      "asset_id": "7964863",
+      "asset_name": "mhp old servers.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9ba42916837b66109bdf5e60ceaad3c0",
+      "error_message": null
+    },
+    {
+      "asset_id": "7964867",
+      "asset_name": "mhp circuits2.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bfa4a916837b66109bdf5e60ceaad360",
+      "error_message": null
+    },
+    {
+      "asset_id": "10232623",
+      "asset_name": "deletemeaswell",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4cb4a916837b66109bdf5e60ceaad3d5",
+      "error_message": null
+    },
+    {
+      "asset_id": "10236360",
+      "asset_name": "deleteme",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a8b4e916837b66109bdf5e60ceaad362",
+      "error_message": null
+    },
+    {
+      "asset_id": "10240646",
+      "asset_name": "Manatuck2022Pentest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "01b42d16837b66109bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "13758343",
+      "asset_name": "Manatuck_Partners_Short_Form_Credential_Release_082923.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25b46d16837b66109bdf5e60ceaad3c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "16997244",
+      "asset_name": "Manatuck Hill Partners - 09_04_2024 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c2b4ed16837b66109bdf5e60ceaad3cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "19558157",
+      "asset_name": "Manatuck Hill Partners - 05_07_2025 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "56b42156837b66109bdf5e60ceaad357",
+      "error_message": null
+    },
+    {
+      "asset_id": "11690298",
+      "asset_name": "16350610",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "11695137",
+      "asset_name": "16360843",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "11695137",
+      "asset_name": "16360845",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "5652822",
+      "asset_name": "12187981",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_5652883",
+      "asset_name": "1.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8f84a1d2837b66109bdf5e60ceaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5652883",
+      "asset_name": "3.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "438421d2837b66109bdf5e60ceaad3d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5652883",
+      "asset_name": "1.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8f84a1d2837b66109bdf5e60ceaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5652883",
+      "asset_name": "3.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "438421d2837b66109bdf5e60ceaad3d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5652883",
+      "asset_name": "1.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8f84a1d2837b66109bdf5e60ceaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5652883",
+      "asset_name": "3.PNG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "438421d2837b66109bdf5e60ceaad3d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "10722300",
+      "asset_name": "14905755",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_11694345",
+      "asset_name": "Manatuck_LanMan_service.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1aa46516837b66109bdf5e60ceaad3df",
+      "error_message": null
+    },
+    {
+      "asset_id": "11694346",
+      "asset_name": "16359529",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "11694346",
+      "asset_name": "16359530",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_7964857",
+      "asset_name": "mhp_telco_rack.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eea4a516837b66109bdf5e60ceaad3e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7964858",
+      "asset_name": "mhp_circuit1.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7aa4e516837b66109bdf5e60ceaad3bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7964861",
+      "asset_name": "mhp_esx_servers.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dfa42916837b66109bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7964863",
+      "asset_name": "mhp_old_servers.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ba42916837b66109bdf5e60ceaad391",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7964867",
+      "asset_name": "mhp_circuits2.JPG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7fa46916837b66109bdf5e60ceaad3c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_esx_servers.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b942dd2837b66109bdf5e60ceaad3da",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_telco_rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "97942dd2837b66109bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_old_servers.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "13942dd2837b66109bdf5e60ceaad3b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_circuits2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "57942dd2837b66109bdf5e60ceaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_circuit1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef94add2837b66109bdf5e60ceaad372",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_esx_servers.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b942dd2837b66109bdf5e60ceaad3da",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_telco_rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "97942dd2837b66109bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_old_servers.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "13942dd2837b66109bdf5e60ceaad3b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_circuits2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "57942dd2837b66109bdf5e60ceaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_circuit1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef94add2837b66109bdf5e60ceaad372",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_esx_servers.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b942dd2837b66109bdf5e60ceaad3da",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_telco_rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "97942dd2837b66109bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_old_servers.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "13942dd2837b66109bdf5e60ceaad3b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_circuits2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "57942dd2837b66109bdf5e60ceaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_8624073",
+      "asset_name": "mhp_circuit1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef94add2837b66109bdf5e60ceaad372",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10232623",
+      "asset_name": "ManatuckPentest2022.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "94b42d16837b66109bdf5e60ceaad307",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10236360",
+      "asset_name": "Manatuck2022Pentest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "34b4e916837b66109bdf5e60ceaad3f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10240646",
+      "asset_name": "Manatuck2022Pentest.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "99b4ad16837b66109bdf5e60ceaad333",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13758343",
+      "asset_name": "Manatuck_Partners_Short_Form_Credential_Release_082923.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "79b4ad16837b66109bdf5e60ceaad31b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16997244",
+      "asset_name": "Manatuck_Hill_Partners_-_09_04_2024_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "deb42156837b66109bdf5e60ceaad346",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_19558157",
+      "asset_name": "Manatuck_Hill_Partners_-_05_07_2025_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eeb46156837b66109bdf5e60ceaad38c",
+      "error_message": null
+    }
+  ]
+}

@@ -1,0 +1,946 @@
+{
+  "session_id": "migration_202507_140633_5de83a75",
+  "organization": "LABUR",
+  "timestamp": "2025-09-07T14:09:19.218778",
+  "total_processed": 117,
+  "successful": 117,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "19982467",
+      "asset_name": "(Not in use since Azure Move)lps.local lps",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef58e59a93ffe2102dadffed1dba10c1",
+      "error_message": null
+    },
+    {
+      "asset_id": "19983173",
+      "asset_name": "Other",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7f58299a93ffe2102dadffed1dba105d",
+      "error_message": null
+    },
+    {
+      "asset_id": "19983687",
+      "asset_name": "LABUR LABUR",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b358299a93ffe2102dadffed1dba1048",
+      "error_message": null
+    },
+    {
+      "asset_id": "19983724",
+      "asset_name": "BitDefender GravityZone",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8068299a93ffe2102dadffed1dba10b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "19984206",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d468699a93ffe2102dadffed1dba106e",
+      "error_message": null
+    },
+    {
+      "asset_id": "19984243",
+      "asset_name": "Microsoft Teams",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e468a99a93ffe2102dadffed1dba1062",
+      "error_message": null
+    },
+    {
+      "asset_id": "20237792",
+      "asset_name": "Adobe Acrobat Pro",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a068a99a93ffe2102dadffed1dba105c",
+      "error_message": null
+    },
+    {
+      "asset_id": "20237812",
+      "asset_name": "Bullhorn",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3868a99a93ffe2102dadffed1dba10e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "20237819",
+      "asset_name": "Docusign",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5568e99a93ffe2102dadffed1dba109a",
+      "error_message": null
+    },
+    {
+      "asset_id": "20237823",
+      "asset_name": "Quickbooks Online",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e968e99a93ffe2102dadffed1dba10f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "20237835",
+      "asset_name": "Zoom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a5682d9a93ffe2102dadffed1dba1023",
+      "error_message": null
+    },
+    {
+      "asset_id": "20238135",
+      "asset_name": "Adobe Creeative Cloud / Photoshop",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fd682d9a93ffe2102dadffed1dba10a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "20114547",
+      "asset_name": "RETIRED - Scanned Documents Z:\\",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "20114670",
+      "asset_name": "RETIRED - Public Share P:\\",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "20238145",
+      "asset_name": "Microsoft Visio",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1a686d9a93ffe2102dadffed1dba102c",
+      "error_message": null
+    },
+    {
+      "asset_id": "19982413",
+      "asset_name": "Comcast",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "19982417",
+      "asset_name": "Verizon",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "19982994",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e6686d9a93ffe2102dadffed1dba1085",
+      "error_message": null
+    },
+    {
+      "asset_id": "21264792",
+      "asset_name": "LastPass",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e2686d9a93ffe2102dadffed1dba10da",
+      "error_message": null
+    },
+    {
+      "asset_id": "20114903",
+      "asset_name": "OneDrive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b668ad9a93ffe2102dadffed1dba1039",
+      "error_message": null
+    },
+    {
+      "asset_id": "38462844",
+      "asset_name": "Cogent ISP - Primary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f68ad9a93ffe2102dadffed1dba10e6",
+      "error_message": null
+    },
+    {
+      "asset_id": "19982380",
+      "asset_name": "RETIRED - Comcast",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "67026050",
+      "asset_name": "Verizon Wireless - Secondary ISP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b68ed9a93ffe2102dadffed1dba1096",
+      "error_message": null
+    },
+    {
+      "asset_id": "19983627",
+      "asset_name": "LAN 192.168.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eb68ed9a93ffe2102dadffed1dba10ad",
+      "error_message": null
+    },
+    {
+      "asset_id": "38463061",
+      "asset_name": "Private Wifi 192.168.2.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4c7821da93ffe2102dadffed1dba1041",
+      "error_message": null
+    },
+    {
+      "asset_id": "19982403",
+      "asset_name": "Verizon",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "147821da93ffe2102dadffed1dba10a4",
+      "error_message": null
+    },
+    {
+      "asset_id": "19982711",
+      "asset_name": "Namecheap",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6c7861da93ffe2102dadffed1dba1030",
+      "error_message": null
+    },
+    {
+      "asset_id": "19982884",
+      "asset_name": "Agency Undone",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c7861da93ffe2102dadffed1dba101d",
+      "error_message": null
+    },
+    {
+      "asset_id": "19983556",
+      "asset_name": "RETIRED - SonicWALL",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "19983660",
+      "asset_name": "RETIRED - Ubiquiti",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "19982929",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "747861da93ffe2102dadffed1dba1076",
+      "error_message": null
+    },
+    {
+      "asset_id": "19983075",
+      "asset_name": "BitDefender",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9178a1da93ffe2102dadffed1dba102a",
+      "error_message": null
+    },
+    {
+      "asset_id": "19983443",
+      "asset_name": "Vault America",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ad78a1da93ffe2102dadffed1dba10c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "20212080",
+      "asset_name": "Bullhorn",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6d78a1da93ffe2102dadffed1dba109c",
+      "error_message": null
+    },
+    {
+      "asset_id": "20212083",
+      "asset_name": "Adobe",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8a78e1da93ffe2102dadffed1dba1034",
+      "error_message": null
+    },
+    {
+      "asset_id": "20212085",
+      "asset_name": "Docusign",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "da78e1da93ffe2102dadffed1dba10e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "20212115",
+      "asset_name": "RETIRED - Consolidated Technologies Inc. (CTI)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "20212087",
+      "asset_name": "Zoom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fa7825da93ffe2102dadffed1dba10a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "20212094",
+      "asset_name": "Paychex",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "767825da93ffe2102dadffed1dba10ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "20212098",
+      "asset_name": "Intuit",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "477865da93ffe2102dadffed1dba104e",
+      "error_message": null
+    },
+    {
+      "asset_id": "21264811",
+      "asset_name": "LastPass",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2f7865da93ffe2102dadffed1dba10db",
+      "error_message": null
+    },
+    {
+      "asset_id": "38462825",
+      "asset_name": "Cogent ISP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3778a5da93ffe2102dadffed1dba10ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "38463793",
+      "asset_name": "Meraki",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb78e5da93ffe2102dadffed1dba1000",
+      "error_message": null
+    },
+    {
+      "asset_id": "38467245",
+      "asset_name": "RingCentral",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1888e5da93ffe2102dadffed1dba10bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "38628087",
+      "asset_name": "Fortinet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e08829da93ffe2102dadffed1dba106b",
+      "error_message": null
+    },
+    {
+      "asset_id": "20215005",
+      "asset_name": "SonicWall Support and AV Protections",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "058869da93ffe2102dadffed1dba100f",
+      "error_message": null
+    },
+    {
+      "asset_id": "21264942",
+      "asset_name": "Other BitDefender GravityZone",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "418869da93ffe2102dadffed1dba105c",
+      "error_message": null
+    },
+    {
+      "asset_id": "19984599",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7988a9da93ffe2102dadffed1dba106d",
+      "error_message": null
+    },
+    {
+      "asset_id": "52840742",
+      "asset_name": "Meraki subscription",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d98869da93ffe2102dadffed1dba10c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "20115274",
+      "asset_name": "Other Files Vault America",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ae88e9da93ffe2102dadffed1dba10c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "97535010",
+      "asset_name": "Fortinet Fortinet Fortiguard (FG81FPTK21000183)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b188a9da93ffe2102dadffed1dba105b",
+      "error_message": null
+    },
+    {
+      "asset_id": "20114421",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "36882dda93ffe2102dadffed1dba101e",
+      "error_message": null
+    },
+    {
+      "asset_id": "20056357",
+      "asset_name": "LABUR",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b2882dda93ffe2102dadffed1dba1013",
+      "error_message": null
+    },
+    {
+      "asset_id": "34874580",
+      "asset_name": "FW: Sonicwall TZ300",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "34883872",
+      "asset_name": "lb-dell-9",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "34883874",
+      "asset_name": "lb-dell-6",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "34883875",
+      "asset_name": "lb-dell-3",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "34883876",
+      "asset_name": "lb-dell-7",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "34883880",
+      "asset_name": "lb-dell-4",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "34883885",
+      "asset_name": "lb-dell-2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "34883886",
+      "asset_name": "lb-dell-5",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "34883888",
+      "asset_name": "lb-dell-8",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "34915477",
+      "asset_name": "iLO: HP Proliant DL20 Gen9",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "34959815",
+      "asset_name": "Retired - Netgear GS752TP",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "34962166",
+      "asset_name": "SW: Netgear GS724TS-1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "34962199",
+      "asset_name": "Retired - Netgear GS110TP",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "34963095",
+      "asset_name": "SW: Netgear GS724TS-2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "34963544",
+      "asset_name": "Retired - Unifi AP-1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "34963545",
+      "asset_name": "Retired - Unifi AP-2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "34963548",
+      "asset_name": "Retired - Unifi AP-3",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "34963562",
+      "asset_name": "Retired - Unifi AP-4",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "34981405",
+      "asset_name": "LPSSERVER",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "35089289",
+      "asset_name": "lb-hp-6",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "35709344",
+      "asset_name": "lb-dell-1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "37392282",
+      "asset_name": "lb-dell-18",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "37687243",
+      "asset_name": "lb-dell-21",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "34963329",
+      "asset_name": "Xerox WorkCentre 6505DN-D71B19",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "84986dda93ffe2102dadffed1dba1097",
+      "error_message": null
+    },
+    {
+      "asset_id": "34981409",
+      "asset_name": "(Decomissioned) lb-host",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "44986dda93ffe2102dadffed1dba10ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "34981406",
+      "asset_name": "(Decomissioned) LB-DC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9498adda93ffe2102dadffed1dba1007",
+      "error_message": null
+    },
+    {
+      "asset_id": "42987939",
+      "asset_name": "LB-SW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8198edda93ffe2102dadffed1dba1010",
+      "error_message": null
+    },
+    {
+      "asset_id": "61273454",
+      "asset_name": "AP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8198edda93ffe2102dadffed1dba1034",
+      "error_message": null
+    },
+    {
+      "asset_id": "42987930",
+      "asset_name": "LB-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc986dda93ffe2102dadffed1dba10c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "61273468",
+      "asset_name": "AP02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4198edda93ffe2102dadffed1dba10a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "61273506",
+      "asset_name": "AP03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8698611e93ffe2102dadffed1dba1049",
+      "error_message": null
+    },
+    {
+      "asset_id": "61273568",
+      "asset_name": "LB-SW02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8698611e93ffe2102dadffed1dba106a",
+      "error_message": null
+    },
+    {
+      "asset_id": "61273990",
+      "asset_name": "Bullpen Printer",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d698611e93ffe2102dadffed1dba10ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "70913854",
+      "asset_name": "LABUR - APC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9698611e93ffe2102dadffed1dba10f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "907271",
+      "asset_name": "labur.com",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "d08182b293d922502dadffed1dba105b",
+      "error_message": null
+    },
+    {
+      "asset_id": 379723,
+      "asset_name": "labur.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f298a11e93ffe2102dadffed1dba107b",
+      "error_message": null
+    },
+    {
+      "asset_id": "7137649",
+      "asset_name": "RE Coretelligent Technical Onboarding - LABUR.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "04a8251e93ffe2102dadffed1dba104a",
+      "error_message": null
+    },
+    {
+      "asset_id": "7155317",
+      "asset_name": "RE Coretelligent Technical Onboarding - LABUR -- Updates acceptance.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e4a8651e93ffe2102dadffed1dba104d",
+      "error_message": null
+    },
+    {
+      "asset_id": "7416300",
+      "asset_name": "RE Kaseya Inventory and Monitored Device Audits.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f8a8651e93ffe2102dadffed1dba10eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "7416303",
+      "asset_name": "RE Apps and Licensing Audit.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "05a8a51e93ffe2102dadffed1dba106a",
+      "error_message": null
+    },
+    {
+      "asset_id": "7416309",
+      "asset_name": "RE LABUR Coretelligent Bi-Weekly Check In Call (Desk Director Approval).msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d1a8a51e93ffe2102dadffed1dba10f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "7037044",
+      "asset_name": "LABUR Onboarding Account and Contact Information.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "39a8e51e93ffe2102dadffed1dba1074",
+      "error_message": null
+    },
+    {
+      "asset_id": "7173320",
+      "asset_name": "LABUR_Onboarding Meeting Template_v3.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "caa8e51e93ffe2102dadffed1dba10c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "7718550",
+      "asset_name": "LABUR Contact List_Employees.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eea8a91e93ffe2102dadffed1dba1033",
+      "error_message": null
+    },
+    {
+      "asset_id": "9019348",
+      "asset_name": "RE_ LABUR - Office Move.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c3a8a91e93ffe2102dadffed1dba10d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "7173339",
+      "asset_name": "LABUR Contact List_Employees.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9fa8e91e93ffe2102dadffed1dba107e",
+      "error_message": null
+    },
+    {
+      "asset_id": "7133942",
+      "asset_name": "LABUR ITSP 2020.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3fa82d1e93ffe2102dadffed1dba103b",
+      "error_message": null
+    },
+    {
+      "asset_id": "7134197",
+      "asset_name": "Offboarding Checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5cb86d1e93ffe2102dadffed1dba101d",
+      "error_message": null
+    },
+    {
+      "asset_id": "7134198",
+      "asset_name": "Onboarding Checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28b86d1e93ffe2102dadffed1dba108a",
+      "error_message": null
+    },
+    {
+      "asset_id": "18627236",
+      "asset_name": "LABUR - 02_13_2025 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "34b8ad1e93ffe2102dadffed1dba1029",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7137649",
+      "asset_name": "RE_Coretelligent_Technical_Onboarding_-_LABUR.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "94a8251e93ffe2102dadffed1dba10ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7155317",
+      "asset_name": "RE_Coretelligent_Technical_Onboarding_-_LABUR_--_Updates_acceptance.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a0a8651e93ffe2102dadffed1dba1093",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7416300",
+      "asset_name": "RE_Kaseya_Inventory_and_Monitored_Device_Audits.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "89a8a51e93ffe2102dadffed1dba1017",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7416303",
+      "asset_name": "RE_Apps_and_Licensing_Audit.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5da8a51e93ffe2102dadffed1dba10b6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7416309",
+      "asset_name": "RE_LABUR_Coretelligent_Bi-Weekly_Check_In_Call.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ada8e51e93ffe2102dadffed1dba102f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7037044",
+      "asset_name": "LABUR_Onboarding_Account_and_Contact_Information.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3da8e51e93ffe2102dadffed1dba10d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7173320",
+      "asset_name": "LABUR_Onboarding_Meeting_Template_v3.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dea8691e93ffe2102dadffed1dba102d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7718550",
+      "asset_name": "LABUR_Contact_List_Employees.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bea8a91e93ffe2102dadffed1dba107a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9019348",
+      "asset_name": "RE__LABUR_-_Office_Move.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ba8e91e93ffe2102dadffed1dba101b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7173339",
+      "asset_name": "LABUR_Contact_List_Employees.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eba8e91e93ffe2102dadffed1dba10dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7133942",
+      "asset_name": "LABUR_ITSP_2020.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "08b82d1e93ffe2102dadffed1dba109b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7134197",
+      "asset_name": "Offboarding_Checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "14b86d1e93ffe2102dadffed1dba1057",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_7134198",
+      "asset_name": "Onboarding_Checklist.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f8b86d1e93ffe2102dadffed1dba10dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18627236",
+      "asset_name": "LABUR_-_02_13_2025_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "05b8ad1e93ffe2102dadffed1dba1093",
+      "error_message": null
+    }
+  ]
+}

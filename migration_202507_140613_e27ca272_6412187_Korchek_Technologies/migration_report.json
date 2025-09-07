@@ -1,0 +1,114 @@
+{
+  "session_id": "migration_202507_140613_e27ca272",
+  "organization": "Korchek Technologies",
+  "timestamp": "2025-09-07T14:07:00.434690",
+  "total_processed": 13,
+  "successful": 13,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "74868961",
+      "asset_name": "Not Managed By Coretelligent Not Managed By Coretelligent.local",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74868946",
+      "asset_name": "Not Managed By Coretelligent Not Managed By Coretelligent",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74868907",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74868920",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74868834",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74868855",
+      "asset_name": "Other Not Managed By Coretelligent",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74868971",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74868878",
+      "asset_name": "Security",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Asset not managed by Coretelligent for a 'Product Only' organization"
+    },
+    {
+      "asset_id": "1460561",
+      "asset_name": "korchek.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea28a1d6833f661026e89230feaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": 718921,
+      "asset_name": "korchek.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b28e1d6833f661026e89230feaad39d",
+      "error_message": null
+    },
+    {
+      "asset_id": "11007464",
+      "asset_name": "O365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f328e1d6833f661026e89230feaad3e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "11007467",
+      "asset_name": "CW Notes",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "803825d6833f661026e89230feaad302",
+      "error_message": null
+    },
+    {
+      "asset_id": "11007468",
+      "asset_name": "Network Solutions",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d83825d6833f661026e89230feaad377",
+      "error_message": null
+    }
+  ]
+}

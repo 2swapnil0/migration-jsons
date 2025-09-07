@@ -1,0 +1,1082 @@
+{
+  "session_id": "migration_202507_134430_e7a2be54",
+  "organization": "Landcore Engineering",
+  "timestamp": "2025-09-07T13:48:57.218540",
+  "total_processed": 134,
+  "successful": 132,
+  "failed": 2,
+  "results": [
+    {
+      "asset_id": "70226127",
+      "asset_name": "Entra ID: landcoreconsulting.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f433219e933fe2102dadffed1dba1043",
+      "error_message": null
+    },
+    {
+      "asset_id": "70226113",
+      "asset_name": "No Office Wireless *",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7033219e933fe2102dadffed1dba106b",
+      "error_message": null
+    },
+    {
+      "asset_id": "70226153",
+      "asset_name": "Other",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fc33219e933fe2102dadffed1dba105e",
+      "error_message": null
+    },
+    {
+      "asset_id": "70267312",
+      "asset_name": "Dropbox",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7033219e933fe2102dadffed1dba10aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "70267341",
+      "asset_name": "Office 365 suite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5133619e933fe2102dadffed1dba10aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "70267398",
+      "asset_name": "S1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9533619e933fe2102dadffed1dba10fd",
+      "error_message": null
+    },
+    {
+      "asset_id": "70487567",
+      "asset_name": "Snagit",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1933a19e933fe2102dadffed1dba1017",
+      "error_message": null
+    },
+    {
+      "asset_id": "70487666",
+      "asset_name": "AutoCAD",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5533a19e933fe2102dadffed1dba1006",
+      "error_message": null
+    },
+    {
+      "asset_id": "70487866",
+      "asset_name": "Trainual Web portal",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f933a19e933fe2102dadffed1dba10e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "70488068",
+      "asset_name": "Ajera",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd33e19e933fe2102dadffed1dba1030",
+      "error_message": null
+    },
+    {
+      "asset_id": "70488191",
+      "asset_name": "Unanet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b533e19e933fe2102dadffed1dba1067",
+      "error_message": null
+    },
+    {
+      "asset_id": "70488262",
+      "asset_name": "BlueBeam Revu",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f933e19e933fe2102dadffed1dba105f",
+      "error_message": null
+    },
+    {
+      "asset_id": "70488377",
+      "asset_name": "Loom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1e33259e933fe2102dadffed1dba105a",
+      "error_message": null
+    },
+    {
+      "asset_id": "70488563",
+      "asset_name": "Bloom Growth Web portal",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9633259e933fe2102dadffed1dba10e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "70488576",
+      "asset_name": "WordPress",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d633659e933fe2102dadffed1dba1018",
+      "error_message": null
+    },
+    {
+      "asset_id": "70519667",
+      "asset_name": "Acrobat",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d233659e933fe2102dadffed1dba101c",
+      "error_message": null
+    },
+    {
+      "asset_id": "70519684",
+      "asset_name": "Illustrator",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f633659e933fe2102dadffed1dba10f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "70519710",
+      "asset_name": "InDesign",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b33e59e933fe2102dadffed1dba1057",
+      "error_message": null
+    },
+    {
+      "asset_id": "70519748",
+      "asset_name": "Photoshop",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf33e59e933fe2102dadffed1dba105b",
+      "error_message": null
+    },
+    {
+      "asset_id": "70519891",
+      "asset_name": "Webroot",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "70519786",
+      "asset_name": "Civil 3D",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b33e59e933fe2102dadffed1dba1053",
+      "error_message": null
+    },
+    {
+      "asset_id": "70519841",
+      "asset_name": "OneDrive/SharePoint",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db33299e933fe2102dadffed1dba1069",
+      "error_message": null
+    },
+    {
+      "asset_id": "70519858",
+      "asset_name": "Teams",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b33299e933fe2102dadffed1dba10b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "70519910",
+      "asset_name": "Chrome",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a733299e933fe2102dadffed1dba10ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "70759858",
+      "asset_name": "Barracuda Email Protection - Sentinel",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f33699e933fe2102dadffed1dba1000",
+      "error_message": null
+    },
+    {
+      "asset_id": "71133811",
+      "asset_name": "Core IQ",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7733699e933fe2102dadffed1dba10c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "71794463",
+      "asset_name": "Datto",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4843a99e933fe2102dadffed1dba103b",
+      "error_message": null
+    },
+    {
+      "asset_id": "75315306",
+      "asset_name": "HydroCAD",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0043a99e933fe2102dadffed1dba104b",
+      "error_message": null
+    },
+    {
+      "asset_id": "75315366",
+      "asset_name": "Visual Lighting 2020",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8843a99e933fe2102dadffed1dba105a",
+      "error_message": null
+    },
+    {
+      "asset_id": "83025485",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5443a99e933fe2102dadffed1dba10f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "70225691",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7443e99e933fe2102dadffed1dba1083",
+      "error_message": null
+    },
+    {
+      "asset_id": "70226797",
+      "asset_name": "Dropbox",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fc43e99e933fe2102dadffed1dba10a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "118135440",
+      "asset_name": "Landcore consulting CLOUD PC New Tenant ISOLATED",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b043e99e933fe2102dadffed1dba10c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "70639470",
+      "asset_name": "Business Development - OneDrive/SharePoint",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "74432d9e933fe2102dadffed1dba1018",
+      "error_message": null
+    },
+    {
+      "asset_id": "70639529",
+      "asset_name": "Communication site - OneDrive/SharePoint",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "19436d9e933fe2102dadffed1dba1015",
+      "error_message": null
+    },
+    {
+      "asset_id": "70639540",
+      "asset_name": "Landcore Engineering Consultants, P.C. - OneDrive/SharePoint",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1d436d9e933fe2102dadffed1dba1019",
+      "error_message": null
+    },
+    {
+      "asset_id": "70639556",
+      "asset_name": "Onboarding & Orientation Videos - OneDrive/SharePoint",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9d436d9e933fe2102dadffed1dba1036",
+      "error_message": null
+    },
+    {
+      "asset_id": "70639580",
+      "asset_name": "Project Managers - OneDrive/SharePoint",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a1436d9e933fe2102dadffed1dba1070",
+      "error_message": null
+    },
+    {
+      "asset_id": "70639590",
+      "asset_name": "Project Web App - OneDrive/SharePoint",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4243ad9e933fe2102dadffed1dba10a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "70226093",
+      "asset_name": "No Office",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8243ad9e933fe2102dadffed1dba10a4",
+      "error_message": null
+    },
+    {
+      "asset_id": "70226107",
+      "asset_name": "No Office Network",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0243ad9e933fe2102dadffed1dba10aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "70226137",
+      "asset_name": "No Office",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ca43ad9e933fe2102dadffed1dba10e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "70225318",
+      "asset_name": "Name.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aa4321de933fe2102dadffed1dba1036",
+      "error_message": null
+    },
+    {
+      "asset_id": "70225795",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "764321de933fe2102dadffed1dba107c",
+      "error_message": null
+    },
+    {
+      "asset_id": "70225803",
+      "asset_name": "Barracuda",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b24321de933fe2102dadffed1dba1081",
+      "error_message": null
+    },
+    {
+      "asset_id": "70225839",
+      "asset_name": "Datto / Backupify",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fe4321de933fe2102dadffed1dba10af",
+      "error_message": null
+    },
+    {
+      "asset_id": "70225911",
+      "asset_name": "Dropbox",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db4361de933fe2102dadffed1dba1070",
+      "error_message": null
+    },
+    {
+      "asset_id": "70226088",
+      "asset_name": "No ISP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "534361de933fe2102dadffed1dba1080",
+      "error_message": null
+    },
+    {
+      "asset_id": "70226149",
+      "asset_name": "No Phone System",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "574361de933fe2102dadffed1dba1078",
+      "error_message": null
+    },
+    {
+      "asset_id": "70227911",
+      "asset_name": "PCS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "234361de933fe2102dadffed1dba10a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "70260556",
+      "asset_name": "Black Cipher",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0c53a1de933fe2102dadffed1dba10a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "70267448",
+      "asset_name": "S1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c53a1de933fe2102dadffed1dba10a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "70487559",
+      "asset_name": "Tech Smith",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9453a1de933fe2102dadffed1dba10ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "70487658",
+      "asset_name": "Autodesk",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c53a1de933fe2102dadffed1dba10f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "70487851",
+      "asset_name": "Trainual",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bc53e1de933fe2102dadffed1dba10ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "70488062",
+      "asset_name": "Deltek",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7453e1de933fe2102dadffed1dba10f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "70488158",
+      "asset_name": "Unanet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0953e1de933fe2102dadffed1dba10db",
+      "error_message": null
+    },
+    {
+      "asset_id": "70488258",
+      "asset_name": "BlueBeam",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c15325de933fe2102dadffed1dba1041",
+      "error_message": null
+    },
+    {
+      "asset_id": "70488371",
+      "asset_name": "Loom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "315365de933fe2102dadffed1dba1042",
+      "error_message": null
+    },
+    {
+      "asset_id": "70488558",
+      "asset_name": "Bloom Growth",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "355365de933fe2102dadffed1dba104f",
+      "error_message": null
+    },
+    {
+      "asset_id": "70488573",
+      "asset_name": "WordPress",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fd5365de933fe2102dadffed1dba1035",
+      "error_message": null
+    },
+    {
+      "asset_id": "70519615",
+      "asset_name": "Adobe",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd5365de933fe2102dadffed1dba1098",
+      "error_message": null
+    },
+    {
+      "asset_id": "70519903",
+      "asset_name": "Google",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e253e5de933fe2102dadffed1dba1014",
+      "error_message": null
+    },
+    {
+      "asset_id": "70755480",
+      "asset_name": "Peer Pressure Creative",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6e53e5de933fe2102dadffed1dba100a",
+      "error_message": null
+    },
+    {
+      "asset_id": "71133834",
+      "asset_name": "Core IQ - Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e653e5de933fe2102dadffed1dba1019",
+      "error_message": null
+    },
+    {
+      "asset_id": "83025407",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e53e5de933fe2102dadffed1dba1068",
+      "error_message": null
+    },
+    {
+      "asset_id": "70517605",
+      "asset_name": "Microsoft 365 Business Standard",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d35329de933fe2102dadffed1dba1079",
+      "error_message": null
+    },
+    {
+      "asset_id": "70517612",
+      "asset_name": "Datto SaaS Protection - Office 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1f5329de933fe2102dadffed1dba10ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "70517659",
+      "asset_name": "Barracuda Email Protection - Sentinel Service",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a75329de933fe2102dadffed1dba10e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "70517665",
+      "asset_name": "Sentinel One Endpoint Protection",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "af5329de933fe2102dadffed1dba10f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "70725846",
+      "asset_name": "Microsoft Microsoft Teams Audio Conferencing with dial-out to USA/CAN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc6369de933fe2102dadffed1dba10e8",
+      "error_message": null
+    },
+    {
+      "asset_id": "70725870",
+      "asset_name": "Microsoft Entra ID P1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8c6369de933fe2102dadffed1dba10f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "118137474",
+      "asset_name": "Microsoft WINDOWS365 CLOUD PC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c63a9de933fe2102dadffed1dba104d",
+      "error_message": null
+    },
+    {
+      "asset_id": "70225806",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d463a9de933fe2102dadffed1dba105b",
+      "error_message": null
+    },
+    {
+      "asset_id": "70226755",
+      "asset_name": "Datto Other Office 365 backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3c63e9de933fe2102dadffed1dba1096",
+      "error_message": null
+    },
+    {
+      "asset_id": "70226818",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3863e9de933fe2102dadffed1dba1083",
+      "error_message": null
+    },
+    {
+      "asset_id": "70226132",
+      "asset_name": "No Virtualization",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8d63e9de933fe2102dadffed1dba106e",
+      "error_message": null
+    },
+    {
+      "asset_id": "1387442",
+      "asset_name": "landcoreconsulting.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d9632dde933fe2102dadffed1dba1025",
+      "error_message": null
+    },
+    {
+      "asset_id": 666469,
+      "asset_name": "landcoreconsulting.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a1632dde933fe2102dadffed1dba105d",
+      "error_message": null
+    },
+    {
+      "asset_id": "14251367",
+      "asset_name": "Name-com_-_landcoreconsulting-com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c3d3ad92937fe2102dadffed1dba1053",
+      "error_message": null
+    },
+    {
+      "asset_id": "14346271",
+      "asset_name": "Landcore - Holiday Calendar 2024",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6fd321d2937fe2102dadffed1dba10fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "14327868",
+      "asset_name": "-Landcore Internal Onboarding Process-Checklist",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4ce3a1d2937fe2102dadffed1dba10e6",
+      "error_message": null
+    },
+    {
+      "asset_id": "19399372",
+      "asset_name": "LANDCORECONSULTING SOP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a8e3a5d2937fe2102dadffed1dba10e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "19418314",
+      "asset_name": "Steps to Connect to LandcoreConsulting CloudPC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "70e329d2937fe2102dadffed1dba10d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "19418321",
+      "asset_name": "Release Cloud PC License from candidate1@landcoreconsulting.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "45e369d2937fe2102dadffed1dba10c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "14147338",
+      "asset_name": "User Onboarding Guide - Landcore Engineering",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9de32dd2937fe2102dadffed1dba1010",
+      "error_message": null
+    },
+    {
+      "asset_id": "14147340",
+      "asset_name": "Windows Setup Guide - Landcore Engineering",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ade36dd2937fe2102dadffed1dba1011",
+      "error_message": null
+    },
+    {
+      "asset_id": "14147347",
+      "asset_name": "User Offboarding Guide - Landcore Engineering",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fde3edd2937fe2102dadffed1dba1019",
+      "error_message": null
+    },
+    {
+      "asset_id": "14147349",
+      "asset_name": "Standard System Specs Sheet - Landcore Engineering",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "46e32116937fe2102dadffed1dba1084",
+      "error_message": null
+    },
+    {
+      "asset_id": "16125025",
+      "asset_name": "Release,_Covenant_Not_to_Sue_and_Indemnity_General_for_Password_Release_July_2020.docx.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "56e3a116937fe2102dadffed1dba10c0",
+      "error_message": null
+    },
+    {
+      "asset_id": "14312944",
+      "asset_name": "Re_ Machine Inventory 11-3-23.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fee36516937fe2102dadffed1dba10f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "14339729",
+      "asset_name": "RE_ Onboarding and Off-boarding framework.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9be32916937fe2102dadffed1dba105b",
+      "error_message": null
+    },
+    {
+      "asset_id": "14340036",
+      "asset_name": "Re_ New computer info for procurement.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a7e3a916937fe2102dadffed1dba102b",
+      "error_message": null
+    },
+    {
+      "asset_id": "14357405",
+      "asset_name": "Recommendations Matrix - Landcore Engineering.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "37e3e916937fe2102dadffed1dba10fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "14357406",
+      "asset_name": "Applications, Services, Vendors, and Licenses Inventory - Landcore 11-8-23.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00f32d16937fe2102dadffed1dba10e6",
+      "error_message": null
+    },
+    {
+      "asset_id": "14358809",
+      "asset_name": "Technical Onboarding Catalog.xlsm",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2cf3ed16937fe2102dadffed1dba1035",
+      "error_message": null
+    },
+    {
+      "asset_id": "14307679",
+      "asset_name": "Azure AD Assessment Excel Export.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "74f36156937fe2102dadffed1dba1040",
+      "error_message": null
+    },
+    {
+      "asset_id": "14307680",
+      "asset_name": "Azure AD Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "05f3a156937fe2102dadffed1dba10ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "14307694",
+      "asset_name": "Outlook Mail Activity Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "99f32556937fe2102dadffed1dba105a",
+      "error_message": null
+    },
+    {
+      "asset_id": "14307695",
+      "asset_name": "Outlook Usage Detail Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0af3a556937fe2102dadffed1dba10d4",
+      "error_message": null
+    },
+    {
+      "asset_id": "14307696",
+      "asset_name": "SharePoint Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e6f32956937fe2102dadffed1dba1086",
+      "error_message": null
+    },
+    {
+      "asset_id": "14307697",
+      "asset_name": "Risk Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c3f36956937fe2102dadffed1dba1062",
+      "error_message": null
+    },
+    {
+      "asset_id": "14307698",
+      "asset_name": "OneDrive Usage Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "97f3a956937fe2102dadffed1dba1030",
+      "error_message": null
+    },
+    {
+      "asset_id": "14307699",
+      "asset_name": "OneDrive Usage Detail Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7f3e956937fe2102dadffed1dba1020",
+      "error_message": null
+    },
+    {
+      "asset_id": "14307700",
+      "asset_name": "MS Cloud Compensating Control Worksheet.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc04e956937fe2102dadffed1dba10ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "14307701",
+      "asset_name": "Microsoft Teams Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "50046d56937fe2102dadffed1dba106a",
+      "error_message": null
+    },
+    {
+      "asset_id": "14307704",
+      "asset_name": "Microsoft Cloud Security Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac04ad56937fe2102dadffed1dba108c",
+      "error_message": null
+    },
+    {
+      "asset_id": "14307706",
+      "asset_name": "Management Plan.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0d04ed56937fe2102dadffed1dba10d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "14307709",
+      "asset_name": "Configuration Change Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d9042196937fe2102dadffed1dba10b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "17868707",
+      "asset_name": "Landcore Engineering - 11_20_2024 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25046196937fe2102dadffed1dba1051",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16125025",
+      "asset_name": "Release__Covenant_Not_to_Sue_and_Indemnity_General_for_Password_Release_July_2020.docx.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bae36516937fe2102dadffed1dba104d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14312944",
+      "asset_name": "Re__Machine_Inventory_11-3-23.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cbe3a516937fe2102dadffed1dba10e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14339729",
+      "asset_name": "RE__Onboarding_and_Off-boarding_framework.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dfe36916937fe2102dadffed1dba1007",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14340036",
+      "asset_name": "Re__New_computer_info_for_procurement.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ffe3e916937fe2102dadffed1dba1083",
+      "error_message": null
+    },
+    {
+      "asset_id": "14251367",
+      "asset_name": "20550622",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_14357405",
+      "asset_name": "Recommendations_Matrix_-_Landcore_Engineering.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ccf32d16937fe2102dadffed1dba1053",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14357406",
+      "asset_name": "Applications__Services__Vendors__and_Licenses_Inventory_-_Landcore_11-8-23.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dcf3ad16937fe2102dadffed1dba100e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14358809",
+      "asset_name": "Technical_Onboarding_Catalog.xlsm",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ecf3ad16937fe2102dadffed1dba10a8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14307679",
+      "asset_name": "Azure_AD_Assessment_Excel_Export.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "01f3a156937fe2102dadffed1dba105d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14307680",
+      "asset_name": "Azure_AD_Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ddf3e156937fe2102dadffed1dba10b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14307694",
+      "asset_name": "Outlook_Mail_Activity_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bdf36556937fe2102dadffed1dba107e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14307695",
+      "asset_name": "Outlook_Usage_Detail_Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "96f3e556937fe2102dadffed1dba108f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14307696",
+      "asset_name": "SharePoint_Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fef32956937fe2102dadffed1dba10ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14307697",
+      "asset_name": "Risk_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8bf36956937fe2102dadffed1dba10df",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14307698",
+      "asset_name": "OneDrive_Usage_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "63f3a956937fe2102dadffed1dba1090",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14307699",
+      "asset_name": "OneDrive_Usage_Detail_Excel.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7ff3e956937fe2102dadffed1dba1063",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14307700",
+      "asset_name": "MS_Cloud_Compensating_Control_Worksheet.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d8042d56937fe2102dadffed1dba105b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14307701",
+      "asset_name": "Microsoft_Teams_Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ec04ad56937fe2102dadffed1dba1022",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14307704",
+      "asset_name": "Microsoft_Cloud_Security_Assessment.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b404ed56937fe2102dadffed1dba107c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14307706",
+      "asset_name": "Management_Plan.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "81042196937fe2102dadffed1dba103b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14307709",
+      "asset_name": "Configuration_Change_Report.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e5042196937fe2102dadffed1dba10f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "14327868",
+      "asset_name": "20682832",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_17868707",
+      "asset_name": "Landcore_Engineering_-_11_20_2024_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b9046196937fe2102dadffed1dba10fd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14147340",
+      "asset_name": "LEC_email_template.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a1e3add2937fe2102dadffed1dba105d",
+      "error_message": null
+    }
+  ]
+}

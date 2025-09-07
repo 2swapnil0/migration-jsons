@@ -1,0 +1,186 @@
+{
+  "session_id": "migration_202507_143351_5783f7ea",
+  "organization": "Kessler Global Partners",
+  "timestamp": "2025-09-07T14:34:48.544439",
+  "total_processed": 22,
+  "successful": 22,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "75276369",
+      "asset_name": "Not Managed By Coretelligent Not Managed By Coretelligent.local",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f7ee55ec3b7ea10fde1362c050131b7",
+      "error_message": null
+    },
+    {
+      "asset_id": "75276371",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8f7ee55ec3b7ea10fde1362c050131c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "14558371",
+      "asset_name": "Office 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "077ee55ec3b7ea10fde1362c05013186",
+      "error_message": null
+    },
+    {
+      "asset_id": "14558370",
+      "asset_name": "Office 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "477ee55ec3b7ea10fde1362c050131bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "75276372",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "df7ee55ec3b7ea10fde1362c050131df",
+      "error_message": null
+    },
+    {
+      "asset_id": "75276365",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "537ee55ec3b7ea10fde1362c050131f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "75276368",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ab7ee55ec3b7ea10fde1362c050131ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "75276366",
+      "asset_name": "Other Not Managed By Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b7ee55ec3b7ea10fde1362c050131f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "26947951",
+      "asset_name": "desktop-qk72abk",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "796321",
+      "asset_name": "bdcbitcoins.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b37e295ec3b7ea10fde1362c05013109",
+      "error_message": null
+    },
+    {
+      "asset_id": "796322",
+      "asset_name": "bdcblockchain.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "808e295ec3b7ea10fde1362c05013158",
+      "error_message": null
+    },
+    {
+      "asset_id": "796323",
+      "asset_name": "elevenoakscapital.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c8e295ec3b7ea10fde1362c05013162",
+      "error_message": null
+    },
+    {
+      "asset_id": "796324",
+      "asset_name": "greenlitcapital.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "308e295ec3b7ea10fde1362c05013189",
+      "error_message": null
+    },
+    {
+      "asset_id": "796325",
+      "asset_name": "kesslerglobaladvisors.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "898e295ec3b7ea10fde1362c050131df",
+      "error_message": null
+    },
+    {
+      "asset_id": "796326",
+      "asset_name": "kesslerglobaladvisors.info",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9d8e295ec3b7ea10fde1362c050131fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "796327",
+      "asset_name": "kesslerglobalpartners.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2d8e295ec3b7ea10fde1362c0501316e",
+      "error_message": null
+    },
+    {
+      "asset_id": "796328",
+      "asset_name": "kesslerglobalpartners.net",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0e8e695ec3b7ea10fde1362c05013156",
+      "error_message": null
+    },
+    {
+      "asset_id": "796329",
+      "asset_name": "kesslerglobalpartners.org",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1a8e695ec3b7ea10fde1362c05013173",
+      "error_message": null
+    },
+    {
+      "asset_id": 316110,
+      "asset_name": "www.kesslerglobaladvisors.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2a8ea95ec3b7ea10fde1362c05013127",
+      "error_message": null
+    },
+    {
+      "asset_id": "5639644",
+      "asset_name": "One Drive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b8ea95ec3b7ea10fde1362c0501314c",
+      "error_message": null
+    },
+    {
+      "asset_id": "5639646",
+      "asset_name": "One Drive Accounts",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d78ea95ec3b7ea10fde1362c05013170",
+      "error_message": null
+    },
+    {
+      "asset_id": "5639642",
+      "asset_name": "O365 svadmin",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e38ea95ec3b7ea10fde1362c0501318a",
+      "error_message": null
+    }
+  ]
+}

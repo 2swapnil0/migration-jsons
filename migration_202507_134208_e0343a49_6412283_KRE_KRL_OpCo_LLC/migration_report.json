@@ -1,0 +1,98 @@
+{
+  "session_id": "migration_202507_134208_e0343a49",
+  "organization": "KRE KRL OpCo LLC",
+  "timestamp": "2025-09-07T13:42:57.472958",
+  "total_processed": 11,
+  "successful": 11,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "75276463",
+      "asset_name": "Not Managed By Coretelligent Not Managed By Coretelligent.local",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25a2a99a933fe2102dadffed1dba107e",
+      "error_message": null
+    },
+    {
+      "asset_id": "59828246",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5a22d9a933fe2102dadffed1dba106e",
+      "error_message": null
+    },
+    {
+      "asset_id": "59828292",
+      "asset_name": "Sentinel One",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "31a22d9a933fe2102dadffed1dba1083",
+      "error_message": null
+    },
+    {
+      "asset_id": "59829137",
+      "asset_name": "Sentinel One",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b1a22d9a933fe2102dadffed1dba109c",
+      "error_message": null
+    },
+    {
+      "asset_id": "59828312",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c2a26d9a933fe2102dadffed1dba1037",
+      "error_message": null
+    },
+    {
+      "asset_id": "75276413",
+      "asset_name": "Other Not Managed By Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4ea26d9a933fe2102dadffed1dba107f",
+      "error_message": null
+    },
+    {
+      "asset_id": "75276467",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "46a26d9a933fe2102dadffed1dba1069",
+      "error_message": null
+    },
+    {
+      "asset_id": "1250724",
+      "asset_name": "rillercapital.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1ea26d9a933fe2102dadffed1dba10a0",
+      "error_message": null
+    },
+    {
+      "asset_id": 582019,
+      "asset_name": "rillercapital.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "63a26d9a933fe2102dadffed1dba10c1",
+      "error_message": null
+    },
+    {
+      "asset_id": "15025680",
+      "asset_name": "User Offboarding Guide - KRE KRL OpCo LLC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f3a2ed9a933fe2102dadffed1dba108a",
+      "error_message": null
+    },
+    {
+      "asset_id": "15025681",
+      "asset_name": "New User Onboarding Guide - KRE KRL OpCo LLC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "04b221da933fe2102dadffed1dba1041",
+      "error_message": null
+    }
+  ]
+}

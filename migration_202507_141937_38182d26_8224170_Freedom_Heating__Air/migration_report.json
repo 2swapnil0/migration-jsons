@@ -1,0 +1,1170 @@
+{
+  "session_id": "migration_202507_141937_38182d26",
+  "organization": "Freedom Heating & Air",
+  "timestamp": "2025-09-07T14:22:43.341505",
+  "total_processed": 145,
+  "successful": 134,
+  "failed": 11,
+  "results": [
+    {
+      "asset_id": "89901566",
+      "asset_name": "freedomairheat.com freedomairheat.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "933b659e477b66103c5e88f4116d43b6",
+      "error_message": null
+    },
+    {
+      "asset_id": "89276831",
+      "asset_name": "Kaseya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db3b659e477b66103c5e88f4116d43a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "89902102",
+      "asset_name": "Other",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "573b659e477b66103c5e88f4116d437f",
+      "error_message": null
+    },
+    {
+      "asset_id": "89612144",
+      "asset_name": "OneDrive",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "89897969",
+      "asset_name": "FL -  Rockledge Wireless Network 1 FreedomWiFi",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "573b659e477b66103c5e88f4116d43be",
+      "error_message": null
+    },
+    {
+      "asset_id": "89612501",
+      "asset_name": "Teams Add-in for MS Office",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "89611426",
+      "asset_name": "Chrome",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bb3be59e477b66103c5e88f4116d43d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "89611540",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "844b299e477b66103c5e88f4116d4329",
+      "error_message": null
+    },
+    {
+      "asset_id": "89612276",
+      "asset_name": "Acowin",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c84b299e477b66103c5e88f4116d435f",
+      "error_message": null
+    },
+    {
+      "asset_id": "89615651",
+      "asset_name": "Edge",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "89612787",
+      "asset_name": "Sentinel One Agent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "884b299e477b66103c5e88f4116d4363",
+      "error_message": null
+    },
+    {
+      "asset_id": "89614591",
+      "asset_name": "PCmover Enterprise",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9c4b299e477b66103c5e88f4116d43f9",
+      "error_message": null
+    },
+    {
+      "asset_id": "89614771",
+      "asset_name": "Trillian",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "684b699e477b66103c5e88f4116d434a",
+      "error_message": null
+    },
+    {
+      "asset_id": "90253560",
+      "asset_name": "Defender",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "89615819",
+      "asset_name": "Libre Office",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "204b699e477b66103c5e88f4116d4364",
+      "error_message": null
+    },
+    {
+      "asset_id": "89616118",
+      "asset_name": "Acrobat",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f04b699e477b66103c5e88f4116d43d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "89900625",
+      "asset_name": "ServiceTitan",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "494ba99e477b66103c5e88f4116d4304",
+      "error_message": null
+    },
+    {
+      "asset_id": "90360444",
+      "asset_name": "Quickbooks Online",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "194ba99e477b66103c5e88f4116d43a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "90446175",
+      "asset_name": "Energy Gauge",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "154ba99e477b66103c5e88f4116d43c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "90529002",
+      "asset_name": "Intune Endpoint Manager",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ad4be99e477b66103c5e88f4116d433e",
+      "error_message": null
+    },
+    {
+      "asset_id": "99712819",
+      "asset_name": "Microsoft Authenticator",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed4be99e477b66103c5e88f4116d4343",
+      "error_message": null
+    },
+    {
+      "asset_id": "99712977",
+      "asset_name": "Egnyte Desktop",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d4b2d9e477b66103c5e88f4116d431f",
+      "error_message": null
+    },
+    {
+      "asset_id": "89902888",
+      "asset_name": "One Drive",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "99713030",
+      "asset_name": "Egnyte WebEdit",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "024b2d9e477b66103c5e88f4116d432b",
+      "error_message": null
+    },
+    {
+      "asset_id": "105367293",
+      "asset_name": "Spanning Backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8e4b2d9e477b66103c5e88f4116d4326",
+      "error_message": null
+    },
+    {
+      "asset_id": "89901489",
+      "asset_name": "Other",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9a4b2d9e477b66103c5e88f4116d43b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "90256311",
+      "asset_name": "Accounting - ET-5150",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e64b6d9e477b66103c5e88f4116d4332",
+      "error_message": null
+    },
+    {
+      "asset_id": "90256397",
+      "asset_name": "Call Center - Kyocera",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "624b6d9e477b66103c5e88f4116d430d",
+      "error_message": null
+    },
+    {
+      "asset_id": "90256442",
+      "asset_name": "Hallway - KM C368",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "764b6d9e477b66103c5e88f4116d4376",
+      "error_message": null
+    },
+    {
+      "asset_id": "90256469",
+      "asset_name": "Hallway - TOSHIBA 3055C",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8f4b6d9e477b66103c5e88f4116d43de",
+      "error_message": null
+    },
+    {
+      "asset_id": "90256503",
+      "asset_name": "Kim Office - Cannon",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d34bad9e477b66103c5e88f4116d4304",
+      "error_message": null
+    },
+    {
+      "asset_id": "90256529",
+      "asset_name": "Purchasing - Canon D1150",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "df4b6d9e477b66103c5e88f4116d43f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "90256545",
+      "asset_name": "Warehouse - Cage",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1f4bad9e477b66103c5e88f4116d434c",
+      "error_message": null
+    },
+    {
+      "asset_id": "90256593",
+      "asset_name": "Acowindata Y:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2f4bad9e477b66103c5e88f4116d4388",
+      "error_message": null
+    },
+    {
+      "asset_id": "89892112",
+      "asset_name": "FL - Rockledge Primary",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "90256602",
+      "asset_name": "Datashare S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7b4bad9e477b66103c5e88f4116d43d4",
+      "error_message": null
+    },
+    {
+      "asset_id": "90256617",
+      "asset_name": "Acoattach P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb4bed9e477b66103c5e88f4116d4307",
+      "error_message": null
+    },
+    {
+      "asset_id": "99713139",
+      "asset_name": "Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4c5bed9e477b66103c5e88f4116d4320",
+      "error_message": null
+    },
+    {
+      "asset_id": "89896186",
+      "asset_name": "FL - Vero Beach Primary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "585bed9e477b66103c5e88f4116d4353",
+      "error_message": null
+    },
+    {
+      "asset_id": "101136201",
+      "asset_name": "Freedom Air & Plumbing - Spectrum Fiber",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "245bed9e477b66103c5e88f4116d4395",
+      "error_message": null
+    },
+    {
+      "asset_id": "89890839",
+      "asset_name": "Default 10.230.0.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ec5bed9e477b66103c5e88f4116d437f",
+      "error_message": null
+    },
+    {
+      "asset_id": "89891145",
+      "asset_name": "Public 10.230.10.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "855b21de477b66103c5e88f4116d4323",
+      "error_message": null
+    },
+    {
+      "asset_id": "89899535",
+      "asset_name": "MSP VPN Access - 97.68.158.154",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "455b21de477b66103c5e88f4116d4385",
+      "error_message": null
+    },
+    {
+      "asset_id": "89276825",
+      "asset_name": "Kaseya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6d5b21de477b66103c5e88f4116d43ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "89277393",
+      "asset_name": "Tucows Domain",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "695b61de477b66103c5e88f4116d4305",
+      "error_message": null
+    },
+    {
+      "asset_id": "89611239",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f95b61de477b66103c5e88f4116d4333",
+      "error_message": null
+    },
+    {
+      "asset_id": "89611280",
+      "asset_name": "Google",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "065ba1de477b66103c5e88f4116d4324",
+      "error_message": null
+    },
+    {
+      "asset_id": "89612205",
+      "asset_name": "Acowin",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1a5ba1de477b66103c5e88f4116d4398",
+      "error_message": null
+    },
+    {
+      "asset_id": "89612763",
+      "asset_name": "Sentinel One",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5e5ba1de477b66103c5e88f4116d43ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "89614301",
+      "asset_name": "Laplink",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a65ba1de477b66103c5e88f4116d43e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "89614707",
+      "asset_name": "Trillian",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "365ba1de477b66103c5e88f4116d43f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "89892049",
+      "asset_name": "Florida High Speed Internet",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "89615804",
+      "asset_name": "Libre Office",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db5be1de477b66103c5e88f4116d433c",
+      "error_message": null
+    },
+    {
+      "asset_id": "89616100",
+      "asset_name": "Adobe",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5b5be1de477b66103c5e88f4116d4386",
+      "error_message": null
+    },
+    {
+      "asset_id": "89619416",
+      "asset_name": "Place holder",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef5be1de477b66103c5e88f4116d43ca",
+      "error_message": null
+    },
+    {
+      "asset_id": "89893366",
+      "asset_name": "Verizon",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b35b25de477b66103c5e88f4116d4303",
+      "error_message": null
+    },
+    {
+      "asset_id": "89898496",
+      "asset_name": "Ubiquiti",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "486b25de477b66103c5e88f4116d4338",
+      "error_message": null
+    },
+    {
+      "asset_id": "89900602",
+      "asset_name": "ServiceTitan",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "006b25de477b66103c5e88f4116d4359",
+      "error_message": null
+    },
+    {
+      "asset_id": "89953355",
+      "asset_name": "Yealink",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "146b25de477b66103c5e88f4116d437e",
+      "error_message": null
+    },
+    {
+      "asset_id": "89953555",
+      "asset_name": "3CX",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "286b25de477b66103c5e88f4116d43da",
+      "error_message": null
+    },
+    {
+      "asset_id": "89955850",
+      "asset_name": "Logic Monitor",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd6b65de477b66103c5e88f4116d4320",
+      "error_message": null
+    },
+    {
+      "asset_id": "90253544",
+      "asset_name": "McAfee",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "496b65de477b66103c5e88f4116d4330",
+      "error_message": null
+    },
+    {
+      "asset_id": "90253553",
+      "asset_name": "Spybot",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d16b65de477b66103c5e88f4116d436e",
+      "error_message": null
+    },
+    {
+      "asset_id": "90354451",
+      "asset_name": "Coalition, Inc.",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "656b65de477b66103c5e88f4116d43f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "90360403",
+      "asset_name": "Intuit",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "866ba5de477b66103c5e88f4116d4362",
+      "error_message": null
+    },
+    {
+      "asset_id": "90360511",
+      "asset_name": "Energy Gauge",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8e6ba5de477b66103c5e88f4116d4355",
+      "error_message": null
+    },
+    {
+      "asset_id": "90431102",
+      "asset_name": "Godaddy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "926ba5de477b66103c5e88f4116d43c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "90434109",
+      "asset_name": "cPanel",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "626ba5de477b66103c5e88f4116d43f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "90446252",
+      "asset_name": "TP-link",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b66be5de477b66103c5e88f4116d4337",
+      "error_message": null
+    },
+    {
+      "asset_id": "90500208",
+      "asset_name": "Host Gator",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3e6be5de477b66103c5e88f4116d4341",
+      "error_message": null
+    },
+    {
+      "asset_id": "99712920",
+      "asset_name": "Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0f6be5de477b66103c5e88f4116d4389",
+      "error_message": null
+    },
+    {
+      "asset_id": "101136192",
+      "asset_name": "Spectrum Enterprise",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a36be5de477b66103c5e88f4116d43b7",
+      "error_message": null
+    },
+    {
+      "asset_id": "105367079",
+      "asset_name": "Spanning",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "376b29de477b66103c5e88f4116d4344",
+      "error_message": null
+    },
+    {
+      "asset_id": "89278588",
+      "asset_name": "Other All licensing controlled via LTP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f6b29de477b66103c5e88f4116d435b",
+      "error_message": null
+    },
+    {
+      "asset_id": "89280371",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4c7b29de477b66103c5e88f4116d435a",
+      "error_message": null
+    },
+    {
+      "asset_id": "89902069",
+      "asset_name": "Other Volume/Image",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "607b69de477b66103c5e88f4116d43a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "99713230",
+      "asset_name": "Other Files Egnyte Backup of end user files and folders",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "707ba9de477b66103c5e88f4116d431c",
+      "error_message": null
+    },
+    {
+      "asset_id": "89899776",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "307ba9de477b66103c5e88f4116d435a",
+      "error_message": null
+    },
+    {
+      "asset_id": "89901561",
+      "asset_name": "Main Virtualization",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0d7ba9de477b66103c5e88f4116d4363",
+      "error_message": null
+    },
+    {
+      "asset_id": "68204425",
+      "asset_name": "FHA-Rockledge-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "da7badde477b66103c5e88f4116d432f",
+      "error_message": null
+    },
+    {
+      "asset_id": "68207753",
+      "asset_name": "FHA-Rockledge-PTR03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1e7b6dde477b66103c5e88f4116d4334",
+      "error_message": null
+    },
+    {
+      "asset_id": "68207724",
+      "asset_name": "FHA-Rockledge-PTR02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "127badde477b66103c5e88f4116d4338",
+      "error_message": null
+    },
+    {
+      "asset_id": "68207717",
+      "asset_name": "FHA-Rockledge-PTR01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "927b6dde477b66103c5e88f4116d43e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "68209808",
+      "asset_name": "FHA-Rockledge-SW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "df7b211247bb66103c5e88f4116d4354",
+      "error_message": null
+    },
+    {
+      "asset_id": "68210250",
+      "asset_name": "FHA-Rockledge-SW02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1b7bedde477b66103c5e88f4116d43d5",
+      "error_message": null
+    },
+    {
+      "asset_id": "68244806",
+      "asset_name": "FHA-Rockledge-WAP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "177b211247bb66103c5e88f4116d435c",
+      "error_message": null
+    },
+    {
+      "asset_id": "68246190",
+      "asset_name": "FHA-Rockledge-PTR04",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f7b211247bb66103c5e88f4116d43dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "68247748",
+      "asset_name": "FHA-Rockledge-PBX01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "948b611247bb66103c5e88f4116d433a",
+      "error_message": null
+    },
+    {
+      "asset_id": "68249124",
+      "asset_name": "FHA-Rockledge-LM01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d48b611247bb66103c5e88f4116d437f",
+      "error_message": null
+    },
+    {
+      "asset_id": "68250986",
+      "asset_name": "FHA-Rockledge-PTR05",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc8b611247bb66103c5e88f4116d438a",
+      "error_message": null
+    },
+    {
+      "asset_id": "68307504",
+      "asset_name": "FHA-Rockledge-SW08",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "688b611247bb66103c5e88f4116d4386",
+      "error_message": null
+    },
+    {
+      "asset_id": "68307812",
+      "asset_name": "FHA-Rockledge-SW03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "918ba11247bb66103c5e88f4116d434c",
+      "error_message": null
+    },
+    {
+      "asset_id": "68307952",
+      "asset_name": "FHA-Rockledge-SW04",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5d8ba11247bb66103c5e88f4116d4361",
+      "error_message": null
+    },
+    {
+      "asset_id": "68308440",
+      "asset_name": "FHA-Rockledge-SW05",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "958ba11247bb66103c5e88f4116d436c",
+      "error_message": null
+    },
+    {
+      "asset_id": "68308618",
+      "asset_name": "FHA-Rockledge-SW06",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "398ba11247bb66103c5e88f4116d43d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "68308674",
+      "asset_name": "FHA-Rockledge-SW07",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aa8be11247bb66103c5e88f4116d4377",
+      "error_message": null
+    },
+    {
+      "asset_id": "68308869",
+      "asset_name": "FHA-Rockledge-SW09",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6e8be11247bb66103c5e88f4116d4399",
+      "error_message": null
+    },
+    {
+      "asset_id": "68309053",
+      "asset_name": "FHA-Rockledge-SW10",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e28be11247bb66103c5e88f4116d43c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "68309321",
+      "asset_name": "FHA-Rockledge-SW11",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c38b251247bb66103c5e88f4116d4311",
+      "error_message": null
+    },
+    {
+      "asset_id": "68323459",
+      "asset_name": "FHA-Rockledge-Freedomvs1-CSN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "889b651247bb66103c5e88f4116d436c",
+      "error_message": null
+    },
+    {
+      "asset_id": "68323463",
+      "asset_name": "FHA-Rockledge-Freedommain-CSN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c49b651247bb66103c5e88f4116d4370",
+      "error_message": null
+    },
+    {
+      "asset_id": "68323493",
+      "asset_name": "FHA-Rockledge-Freedomad-CSN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c89b651247bb66103c5e88f4116d431c",
+      "error_message": null
+    },
+    {
+      "asset_id": "68599873",
+      "asset_name": "FHA-Rockledge-PTR06",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "549b651247bb66103c5e88f4116d4320",
+      "error_message": null
+    },
+    {
+      "asset_id": "1539336",
+      "asset_name": "freedomairheat.com",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "f081c2b293d922502dadffed1dba100a",
+      "error_message": null
+    },
+    {
+      "asset_id": "1578067",
+      "asset_name": "freedomairheat.net",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b09ba51247bb66103c5e88f4116d439c",
+      "error_message": null
+    },
+    {
+      "asset_id": "1578068",
+      "asset_name": "freedomservices.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c99ba51247bb66103c5e88f4116d4393",
+      "error_message": null
+    },
+    {
+      "asset_id": 780569,
+      "asset_name": "*.freedomairheat.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "599ba51247bb66103c5e88f4116d43d4",
+      "error_message": null
+    },
+    {
+      "asset_id": "17664555",
+      "asset_name": "Holiday Calendar 2024 - Freedom Heating Air",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "529b691247bb66103c5e88f4116d43a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "17515178",
+      "asset_name": "New Documentation Format",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6a9b691247bb66103c5e88f4116d43b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "17631114",
+      "asset_name": "FHA-Rockledge-PTR03 - scan to email settings",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "acabe91247bb66103c5e88f4116d436a",
+      "error_message": null
+    },
+    {
+      "asset_id": "17631208",
+      "asset_name": "FHA-Rockledge-PTR01- scan to email settings",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "59abe91247bb66103c5e88f4116d4388",
+      "error_message": null
+    },
+    {
+      "asset_id": "17631261",
+      "asset_name": "FHA-Rockledge-PTR02 - scan to email settings",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6eab2d1247bb66103c5e88f4116d436f",
+      "error_message": null
+    },
+    {
+      "asset_id": "18574685",
+      "asset_name": "Spanning EndUser Guide",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e7ab6d1247bb66103c5e88f4116d4397",
+      "error_message": null
+    },
+    {
+      "asset_id": "17809324",
+      "asset_name": "Standard System Specs Sheet - Freedom Heating & Air",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "86bbed1247bb66103c5e88f4116d4365",
+      "error_message": null
+    },
+    {
+      "asset_id": "17809325",
+      "asset_name": "User Offboarding Guide - Freedom Heating & Air",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "96bbed1247bb66103c5e88f4116d438a",
+      "error_message": null
+    },
+    {
+      "asset_id": "17809326",
+      "asset_name": "Windows Setup Guide - Freedom Heating & Air",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ebbed1247bb66103c5e88f4116d43bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "17809327",
+      "asset_name": "New User Onboarding Guide - Freedom Heating & Air",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "72bbed1247bb66103c5e88f4116d43b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "17697184",
+      "asset_name": "Freedom Heat Air - DISK DRIVES BY FREE SPACE - 11-04-2024.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cfbb215247bb66103c5e88f4116d431d",
+      "error_message": null
+    },
+    {
+      "asset_id": "17797684",
+      "asset_name": "Freedom Heating & Air - Nessus.html",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d7bb215247bb66103c5e88f4116d4381",
+      "error_message": null
+    },
+    {
+      "asset_id": "17797764",
+      "asset_name": "Reconciliation Report - lentheplumber vs simeonbaseline.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "67bb215247bb66103c5e88f4116d431b",
+      "error_message": null
+    },
+    {
+      "asset_id": "17796510",
+      "asset_name": "Freedom Heating & Air - 11_15_2024 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80cb215247bb66103c5e88f4116d43af",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17697184",
+      "asset_name": "Freedom_Heat_Air_-_DISK_DRIVES_BY_FREE_SPACE_-_11-04-2024.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0bbb215247bb66103c5e88f4116d4331",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17797684",
+      "asset_name": "RnJlZWRvbSBIZWF0aW5nICYgQWly_7unwzl.html",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "63bb215247bb66103c5e88f4116d438b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17797764",
+      "asset_name": "Reconciliation_Report_-_lentheplumber_vs_simeonbaseline.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3fbb215247bb66103c5e88f4116d4358",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17515178",
+      "asset_name": "Relating2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e79ba91247bb66103c5e88f4116d4360",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17515178",
+      "asset_name": "Relating1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f39ba91247bb66103c5e88f4116d43f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17515178",
+      "asset_name": "Example_Screenshot.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7f9ba91247bb66103c5e88f4116d4382",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17515178",
+      "asset_name": "Relating2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e79ba91247bb66103c5e88f4116d4360",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17515178",
+      "asset_name": "Relating1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f39ba91247bb66103c5e88f4116d43f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17515178",
+      "asset_name": "Example_Screenshot.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7f9ba91247bb66103c5e88f4116d4382",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17515178",
+      "asset_name": "Relating2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e79ba91247bb66103c5e88f4116d4360",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17515178",
+      "asset_name": "Relating1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f39ba91247bb66103c5e88f4116d43f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17515178",
+      "asset_name": "Example_Screenshot.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7f9ba91247bb66103c5e88f4116d4382",
+      "error_message": null
+    },
+    {
+      "asset_id": "17631114",
+      "asset_name": "26957569",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17631208",
+      "asset_name": "26957712",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17631208",
+      "asset_name": "26957715",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17631261",
+      "asset_name": "26957767",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "17631261",
+      "asset_name": "26957765",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "18574685",
+      "asset_name": "28599533",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "18574685",
+      "asset_name": "28599535",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "18574685",
+      "asset_name": "28599530",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "18574685",
+      "asset_name": "28599534",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "18574685",
+      "asset_name": "28599531",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "18574685",
+      "asset_name": "28599532",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_17796510",
+      "asset_name": "Freedom_Heating___Air_-_11_15_2024_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1ccb615247bb66103c5e88f4116d433c",
+      "error_message": null
+    }
+  ]
+}

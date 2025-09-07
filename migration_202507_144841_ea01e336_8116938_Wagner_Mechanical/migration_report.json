@@ -1,0 +1,946 @@
+{
+  "session_id": "migration_202507_144841_ea01e336",
+  "organization": "Wagner Mechanical",
+  "timestamp": "2025-09-07T14:51:01.592186",
+  "total_processed": 117,
+  "successful": 116,
+  "failed": 1,
+  "results": [
+    {
+      "asset_id": "85320560",
+      "asset_name": "Wagnermechanical.com Wagnermechanical.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ede1bd5a47fb66103c5e88f4116d4395",
+      "error_message": null
+    },
+    {
+      "asset_id": "88960252",
+      "asset_name": "Wireless Network 2 WAREHOUSE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ade1bd5a47fb66103c5e88f4116d43b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "85216272",
+      "asset_name": "Google Drive",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85216273",
+      "asset_name": "Gmail",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85320687",
+      "asset_name": "Wireless Network 1 Wagner-Admin",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e1e1bd5a47fb66103c5e88f4116d43aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "86183969",
+      "asset_name": "Cloud Provider",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e9e1bd5a47fb66103c5e88f4116d437e",
+      "error_message": null
+    },
+    {
+      "asset_id": "88960264",
+      "asset_name": "Wireless Network 3 WagnerWIFIn",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "06e1fd5a47fb66103c5e88f4116d430f",
+      "error_message": null
+    },
+    {
+      "asset_id": "85216290",
+      "asset_name": "Chrome - web browser",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eee1fd5a47fb66103c5e88f4116d4314",
+      "error_message": null
+    },
+    {
+      "asset_id": "85255957",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ee1fd5a47fb66103c5e88f4116d435d",
+      "error_message": null
+    },
+    {
+      "asset_id": "85311347",
+      "asset_name": "Cylance Protect",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e2e1fd5a47fb66103c5e88f4116d4388",
+      "error_message": null
+    },
+    {
+      "asset_id": "85311659",
+      "asset_name": "Zoom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0be1fd5a47fb66103c5e88f4116d43de",
+      "error_message": null
+    },
+    {
+      "asset_id": "85312616",
+      "asset_name": "Acrobat",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "93e1fd5a47fb66103c5e88f4116d43e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "85312660",
+      "asset_name": "Creative Cloud",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5be1319a47fb66103c5e88f4116d4305",
+      "error_message": null
+    },
+    {
+      "asset_id": "85313030",
+      "asset_name": "Intune Endpoint Manager",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9fe1fd5a47fb66103c5e88f4116d43e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "85764379",
+      "asset_name": "Microsoft Authenticator",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b3e1319a47fb66103c5e88f4116d4373",
+      "error_message": null
+    },
+    {
+      "asset_id": "88739339",
+      "asset_name": "Service Titan",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1cf1319a47fb66103c5e88f4116d4383",
+      "error_message": null
+    },
+    {
+      "asset_id": "88740167",
+      "asset_name": "Intaact",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d0f1319a47fb66103c5e88f4116d437b",
+      "error_message": null
+    },
+    {
+      "asset_id": "88740260",
+      "asset_name": "ADP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ecf1319a47fb66103c5e88f4116d43f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "92149010",
+      "asset_name": "Egnyte Desktop",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "64f1319a47fb66103c5e88f4116d43dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "92149017",
+      "asset_name": "Egnyte WebEdit",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "45f1719a47fb66103c5e88f4116d431d",
+      "error_message": null
+    },
+    {
+      "asset_id": "85216212",
+      "asset_name": "Workspace Storage",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85699173",
+      "asset_name": "Clubs",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85699378",
+      "asset_name": "Backup",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85699383",
+      "asset_name": "Company Files",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85699414",
+      "asset_name": "CustomerDocuments",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85699447",
+      "asset_name": "Finance",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85700186",
+      "asset_name": "Installation Analysis",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85700240",
+      "asset_name": "Installs",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85700289",
+      "asset_name": "Management",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85700339",
+      "asset_name": "Operations",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85700390",
+      "asset_name": "Payroll",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85700620",
+      "asset_name": "POChecksDeposits",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85703021",
+      "asset_name": "Profiles",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85703130",
+      "asset_name": "Public",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85703153",
+      "asset_name": "Quickbooks",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85703211",
+      "asset_name": "Right-Suite Transfer",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85703286",
+      "asset_name": "Sales",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85703304",
+      "asset_name": "Scans",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85703360",
+      "asset_name": "Security",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85703384",
+      "asset_name": "Software",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85703394",
+      "asset_name": "Support",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85703400",
+      "asset_name": "TimeCard Manager 8",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "85703405",
+      "asset_name": "WagnerCorporate",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "92287967",
+      "asset_name": "Spanning Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9df1719a47fb66103c5e88f4116d439d",
+      "error_message": null
+    },
+    {
+      "asset_id": "92288840",
+      "asset_name": "SentinelOne S1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d1f1719a47fb66103c5e88f4116d4382",
+      "error_message": null
+    },
+    {
+      "asset_id": "84484148",
+      "asset_name": "Google Apps",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "61f1719a47fb66103c5e88f4116d43c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "92293071",
+      "asset_name": "Private",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5f1b19a47fb66103c5e88f4116d4323",
+      "error_message": null
+    },
+    {
+      "asset_id": "84568120",
+      "asset_name": "NM - Primary ISP",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "0080c63e939922502dadffed1dba10b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "84568144",
+      "asset_name": "NM - Secondary ISP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d2f1b19a47fb66103c5e88f4116d4377",
+      "error_message": null
+    },
+    {
+      "asset_id": "84566207",
+      "asset_name": "LAN 192.168.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aef1b19a47fb66103c5e88f4116d43a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "87489983",
+      "asset_name": "No VPN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a2f1f19a47fb66103c5e88f4116d4350",
+      "error_message": null
+    },
+    {
+      "asset_id": "84484089",
+      "asset_name": "Google",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "43f1f19a47fb66103c5e88f4116d4370",
+      "error_message": null
+    },
+    {
+      "asset_id": "84567029",
+      "asset_name": "Dell - SonicWall",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ff1f19a47fb66103c5e88f4116d43da",
+      "error_message": null
+    },
+    {
+      "asset_id": "84568073",
+      "asset_name": "Comcast - Xfinity",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eff1f19a47fb66103c5e88f4116d437d",
+      "error_message": null
+    },
+    {
+      "asset_id": "85199685",
+      "asset_name": "Logic Monitor",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ebf1359a47fb66103c5e88f4116d430c",
+      "error_message": null
+    },
+    {
+      "asset_id": "85252306",
+      "asset_name": "Spanning",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4802359a47fb66103c5e88f4116d4313",
+      "error_message": null
+    },
+    {
+      "asset_id": "85253499",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9402359a47fb66103c5e88f4116d438f",
+      "error_message": null
+    },
+    {
+      "asset_id": "85253640",
+      "asset_name": "Egnyte",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1002359a47fb66103c5e88f4116d43bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "85311309",
+      "asset_name": "Black Berry",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7002359a47fb66103c5e88f4116d43f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "85311648",
+      "asset_name": "Zoom",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd02759a47fb66103c5e88f4116d4318",
+      "error_message": null
+    },
+    {
+      "asset_id": "85311935",
+      "asset_name": "Adobe",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a902759a47fb66103c5e88f4116d4332",
+      "error_message": null
+    },
+    {
+      "asset_id": "85320673",
+      "asset_name": "Ubiquiti",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2d02759a47fb66103c5e88f4116d4382",
+      "error_message": null
+    },
+    {
+      "asset_id": "85372523",
+      "asset_name": "Kaseya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d02759a47fb66103c5e88f4116d43c0",
+      "error_message": null
+    },
+    {
+      "asset_id": "85693936",
+      "asset_name": "Bitdefender",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ca02759a47fb66103c5e88f4116d43f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "86183949",
+      "asset_name": "DialPad",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e202b59a47fb66103c5e88f4116d43b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "87410531",
+      "asset_name": "GoDaddy",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ee02f59a47fb66103c5e88f4116d4343",
+      "error_message": null
+    },
+    {
+      "asset_id": "88739277",
+      "asset_name": "Service Titan",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf02f59a47fb66103c5e88f4116d434f",
+      "error_message": null
+    },
+    {
+      "asset_id": "88739812",
+      "asset_name": "Sage",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5302399a47fb66103c5e88f4116d430e",
+      "error_message": null
+    },
+    {
+      "asset_id": "92286986",
+      "asset_name": "SentinelOne - Duplicate",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "88740228",
+      "asset_name": "ADP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ff02799a47fb66103c5e88f4116d437b",
+      "error_message": null
+    },
+    {
+      "asset_id": "89465584",
+      "asset_name": "LDD Consulting",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ff02799a47fb66103c5e88f4116d4371",
+      "error_message": null
+    },
+    {
+      "asset_id": "92278864",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8012b99a47fb66103c5e88f4116d433a",
+      "error_message": null
+    },
+    {
+      "asset_id": "84566611",
+      "asset_name": "SonicWall Sonicwall Comprehensive/Advanced Gateway Security Suite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2012f99a47fb66103c5e88f4116d4323",
+      "error_message": null
+    },
+    {
+      "asset_id": "85764264",
+      "asset_name": "Other All licensing controlled via LTP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8912f99a47fb66103c5e88f4116d4346",
+      "error_message": null
+    },
+    {
+      "asset_id": "92276570",
+      "asset_name": "Microsoft 365 E3",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd12f99a47fb66103c5e88f4116d4336",
+      "error_message": null
+    },
+    {
+      "asset_id": "92276765",
+      "asset_name": "Microsoft 365 F3",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5112f99a47fb66103c5e88f4116d43cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "92277114",
+      "asset_name": "Spanning Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8e123d9a47fb66103c5e88f4116d4349",
+      "error_message": null
+    },
+    {
+      "asset_id": "92278452",
+      "asset_name": "Egnyte Egnyte Latest Version",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a123d9a47fb66103c5e88f4116d43e8",
+      "error_message": null
+    },
+    {
+      "asset_id": "92287645",
+      "asset_name": "Sentinel One S1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c2123d9a47fb66103c5e88f4116d43fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "85311356",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2a127d9a47fb66103c5e88f4116d436d",
+      "error_message": null
+    },
+    {
+      "asset_id": "86183981",
+      "asset_name": "Spanning Mailboxes Microsoft 365 Backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e127d9a47fb66103c5e88f4116d437f",
+      "error_message": null
+    },
+    {
+      "asset_id": "85704750",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b127d9a47fb66103c5e88f4116d43c0",
+      "error_message": null
+    },
+    {
+      "asset_id": "85320549",
+      "asset_name": "Wagner Virtualization",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9f12bd9a47fb66103c5e88f4116d43b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "65981333",
+      "asset_name": "WM-EH-SW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a822fd9a47fb66103c5e88f4116d4393",
+      "error_message": null
+    },
+    {
+      "asset_id": "65981896",
+      "asset_name": "WM-EH-SRV-Wagner-DC01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c22fd9a47fb66103c5e88f4116d4384",
+      "error_message": null
+    },
+    {
+      "asset_id": "65981402",
+      "asset_name": "WM-EH-HVH-WagnerVM01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c22fd9a47fb66103c5e88f4116d437b",
+      "error_message": null
+    },
+    {
+      "asset_id": "65975707",
+      "asset_name": "WM-EH-FW01",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "640f74a183fb8a509bdf5e60ceaad301",
+      "error_message": null
+    },
+    {
+      "asset_id": "65982394",
+      "asset_name": "WM-EH-SW03",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "65981942",
+      "asset_name": "WM-EH-SRV-Wagner-FS01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a92231da47fb66103c5e88f4116d4308",
+      "error_message": null
+    },
+    {
+      "asset_id": "65981962",
+      "asset_name": "WM-EH-SRV-Wagner-TS01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6122fd9a47fb66103c5e88f4116d43df",
+      "error_message": null
+    },
+    {
+      "asset_id": "65982115",
+      "asset_name": "WM-EH-PTR01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e92231da47fb66103c5e88f4116d43ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "65982464",
+      "asset_name": "WM-EH-WAP03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f22271da47fb66103c5e88f4116d438b",
+      "error_message": null
+    },
+    {
+      "asset_id": "65982564",
+      "asset_name": "WM-EH-PTR02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ba2271da47fb66103c5e88f4116d433b",
+      "error_message": null
+    },
+    {
+      "asset_id": "65982676",
+      "asset_name": "WM-EH-WAP02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "762271da47fb66103c5e88f4116d439e",
+      "error_message": null
+    },
+    {
+      "asset_id": "65982752",
+      "asset_name": "WM-EH-PTR03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f2271da47fb66103c5e88f4116d4316",
+      "error_message": null
+    },
+    {
+      "asset_id": "65983439",
+      "asset_name": "WM-EH-PTR06",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "65982777",
+      "asset_name": "WM-EH-PTR04",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0432b1da47fb66103c5e88f4116d437c",
+      "error_message": null
+    },
+    {
+      "asset_id": "66264011",
+      "asset_name": "WM-EH-PTR07",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "65983275",
+      "asset_name": "WM-EH-PTR05",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c32b1da47fb66103c5e88f4116d4380",
+      "error_message": null
+    },
+    {
+      "asset_id": "65983331",
+      "asset_name": "WM-EH-WAP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c32b1da47fb66103c5e88f4116d4338",
+      "error_message": null
+    },
+    {
+      "asset_id": "66078407",
+      "asset_name": "ltpnucwagner",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9032b1da47fb66103c5e88f4116d43b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "66857269",
+      "asset_name": "WM-EH-SW02",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "06cf255533c99a50fa6e72d24d5c7ba1",
+      "error_message": null
+    },
+    {
+      "asset_id": "67582752",
+      "asset_name": "WM-EH-PTR08",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c532b1da47fb66103c5e88f4116d43fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "67704697",
+      "asset_name": "WM-EH-WAP04",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4132f1da47fb66103c5e88f4116d4344",
+      "error_message": null
+    },
+    {
+      "asset_id": "1517062",
+      "asset_name": "wagnermechanical.com",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "288182b293d922502dadffed1dba10d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "1536965",
+      "asset_name": "callwagner.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6932f1da47fb66103c5e88f4116d436a",
+      "error_message": null
+    },
+    {
+      "asset_id": 762477,
+      "asset_name": "wagnermechanical.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8a32f1da47fb66103c5e88f4116d4353",
+      "error_message": null
+    },
+    {
+      "asset_id": "16741234",
+      "asset_name": "Google - Workspace Storage",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2232f1da47fb66103c5e88f4116d43ad",
+      "error_message": null
+    },
+    {
+      "asset_id": "16262529",
+      "asset_name": "New User Onboarding Guide - Wagner Mechanical",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "df3235da47fb66103c5e88f4116d433f",
+      "error_message": null
+    },
+    {
+      "asset_id": "16262530",
+      "asset_name": "Windows Setup Guide - Wagner Mechanical",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "233235da47fb66103c5e88f4116d431c",
+      "error_message": null
+    },
+    {
+      "asset_id": "16262531",
+      "asset_name": "User Offboarding Guide - Non-Domain",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ff3235da47fb66103c5e88f4116d43b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "16262533",
+      "asset_name": "Standard System Specs Sheet - Wagner Mechanical",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "004235da47fb66103c5e88f4116d43d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "16803419",
+      "asset_name": "Wagner Mechanical diskutilization 08-14-2024.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "104235da47fb66103c5e88f4116d43fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "19760785",
+      "asset_name": "Wagner Mechanical - 05_30_2025 - Strategy Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac4275da47fb66103c5e88f4116d430a",
+      "error_message": null
+    },
+    {
+      "asset_id": "16741234",
+      "asset_name": "25647047",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_16803419",
+      "asset_name": "Wagner_Mechanical_diskutilization_08-14-2024.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c4275da47fb66103c5e88f4116d4314",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_19760785",
+      "asset_name": "Wagner_Mechanical_-_05_30_2025_-_Strategy_Overview.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "744235da47fb66103c5e88f4116d437b",
+      "error_message": null
+    }
+  ]
+}

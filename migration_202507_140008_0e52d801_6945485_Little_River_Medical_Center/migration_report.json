@@ -1,0 +1,98 @@
+{
+  "session_id": "migration_202507_140008_0e52d801",
+  "organization": "Little River Medical Center",
+  "timestamp": "2025-09-07T14:02:56.167395",
+  "total_processed": 11,
+  "successful": 11,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "75278253",
+      "asset_name": "Not Managed By Coretelligent Not Managed By Coretelligent.local",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f637a11693ffe2102dadffed1dba105a",
+      "error_message": null
+    },
+    {
+      "asset_id": "75278250",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e37a11693ffe2102dadffed1dba10b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "75278255",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b37a11693ffe2102dadffed1dba10d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "75278256",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7637a11693ffe2102dadffed1dba10cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "67536302",
+      "asset_name": "Watchguard - M570 (2 Devices) LRMC-WG570-MainFW1, LRMC-WG570-MainFW2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4737e11693ffe2102dadffed1dba103b",
+      "error_message": null
+    },
+    {
+      "asset_id": "67536312",
+      "asset_name": "Watchguard - (3 Devices) - HA-M270, LS-M270, MB-270",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5737e11693ffe2102dadffed1dba106a",
+      "error_message": null
+    },
+    {
+      "asset_id": "75278254",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "af37251693ffe2102dadffed1dba100d",
+      "error_message": null
+    },
+    {
+      "asset_id": "67004773",
+      "asset_name": "Other WatchGuard Annual Renewal M270 - SS-M270 WatchGuard Annual Renewal M270",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5337e11693ffe2102dadffed1dba109d",
+      "error_message": null
+    },
+    {
+      "asset_id": "1464980",
+      "asset_name": "lrmcenter.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf37251693ffe2102dadffed1dba10c9",
+      "error_message": null
+    },
+    {
+      "asset_id": 807275,
+      "asset_name": "*.netcloudshare.com",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": "79ffaf3993bb22102dadffed1dba1022",
+      "error_message": "SSL certificate with same u_itg_id or name already exists in ServiceNow"
+    },
+    {
+      "asset_id": 722012,
+      "asset_name": "lrmcenter.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7847651693ffe2102dadffed1dba10fa",
+      "error_message": null
+    }
+  ]
+}

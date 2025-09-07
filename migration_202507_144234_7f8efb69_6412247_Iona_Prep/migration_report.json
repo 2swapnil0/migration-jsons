@@ -1,0 +1,90 @@
+{
+  "session_id": "migration_202507_144234_7f8efb69",
+  "organization": "Iona Prep",
+  "timestamp": "2025-09-07T14:43:14.577093",
+  "total_processed": 10,
+  "successful": 10,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "74867261",
+      "asset_name": "Not Managed By Coretelligent Not Managed By Coretelligent.local",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74867198",
+      "asset_name": "Not Managed By Coretelligent Not Managed By Coretelligent",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74867288",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74867154",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74867173",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74866771",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74866811",
+      "asset_name": "Other Not Managed By Coretelligent",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74867273",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving keyword"
+    },
+    {
+      "asset_id": "74867132",
+      "asset_name": "Security",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Asset not managed by Coretelligent for a 'Product Only' organization"
+    },
+    {
+      "asset_id": "15351694",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cb70b19293b326102dadffed1dba1019",
+      "error_message": null
+    }
+  ]
+}

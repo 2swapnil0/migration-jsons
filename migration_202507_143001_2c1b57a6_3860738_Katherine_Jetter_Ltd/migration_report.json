@@ -1,0 +1,322 @@
+{
+  "session_id": "migration_202507_143001_2c1b57a6",
+  "organization": "Katherine Jetter, Ltd",
+  "timestamp": "2025-09-07T14:31:06.065730",
+  "total_processed": 39,
+  "successful": 39,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "9964055",
+      "asset_name": "Other",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db9da1dac3b7ea10fde1362c05013189",
+      "error_message": null
+    },
+    {
+      "asset_id": "9733784",
+      "asset_name": "Carbonite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db9da1dac3b7ea10fde1362c050131bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "9963966",
+      "asset_name": "Dropbox",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5f9da1dac3b7ea10fde1362c050131b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "9729795",
+      "asset_name": "Office 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "679da1dac3b7ea10fde1362c050131e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "9964093",
+      "asset_name": "Quickbooks",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "579da1dac3b7ea10fde1362c0501312c",
+      "error_message": null
+    },
+    {
+      "asset_id": "9963971",
+      "asset_name": "Dropbox Shares",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2f9da1dac3b7ea10fde1362c050131b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "9531329",
+      "asset_name": "Office 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7b9de1dac3b7ea10fde1362c0501311a",
+      "error_message": null
+    },
+    {
+      "asset_id": "9733527",
+      "asset_name": "Web Developer | DNS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f79de1dac3b7ea10fde1362c05013147",
+      "error_message": null
+    },
+    {
+      "asset_id": "9732754",
+      "asset_name": "Based out of home office - Coretelligent not given info. Contact PoC if required.",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "739de1dac3b7ea10fde1362c05013140",
+      "error_message": null
+    },
+    {
+      "asset_id": "9963964",
+      "asset_name": "Dropbox",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f9de1dac3b7ea10fde1362c0501314f",
+      "error_message": null
+    },
+    {
+      "asset_id": "9964082",
+      "asset_name": "Quickbooks",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c4ade1dac3b7ea10fde1362c050131db",
+      "error_message": null
+    },
+    {
+      "asset_id": "9964052",
+      "asset_name": "Microsoft Microsoft Office 365 Office Suite Latest Cloud Version",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80ade1dac3b7ea10fde1362c050131e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "9739233",
+      "asset_name": "Carbonite Files Workstation backup solution",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "84ade1dac3b7ea10fde1362c050131d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "24273683",
+      "asset_name": "kjl-wkst-cathy",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "24273684",
+      "asset_name": "kjl-lt-katherin",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "24318490",
+      "asset_name": "laptop-hr1fvve8",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "24318489",
+      "asset_name": "nancys-macbook-pro-2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "35611181",
+      "asset_name": "kjl-lt2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "25102116",
+      "asset_name": "kfi-lt82",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "27229565",
+      "asset_name": "desktop-621b6q6",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "672007",
+      "asset_name": "katherinejetter.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "10ade1dac3b7ea10fde1362c050131ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "12080182",
+      "asset_name": "Onboarding Users",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3cad25dac3b7ea10fde1362c0501317c",
+      "error_message": null
+    },
+    {
+      "asset_id": "12080235",
+      "asset_name": "Offboarding Users",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4dad25dac3b7ea10fde1362c05013191",
+      "error_message": null
+    },
+    {
+      "asset_id": "4173800",
+      "asset_name": "Katherine Jetter_Onboarding Doc.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "95ad25dac3b7ea10fde1362c050131aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "4173802",
+      "asset_name": "Katherine_Jetter_New_Client_Sales Overview.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "31ad65dac3b7ea10fde1362c05013145",
+      "error_message": null
+    },
+    {
+      "asset_id": "4177276",
+      "asset_name": "Katherine Jetter_Onboarding Doc (003).docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1aad65dac3b7ea10fde1362c05013161",
+      "error_message": null
+    },
+    {
+      "asset_id": "4280162",
+      "asset_name": "Coretelligent Go Live Presentation_Katherine Jetter_11_18_19.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "66ad65dac3b7ea10fde1362c050131f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "4295534",
+      "asset_name": "Coretelligent Go Live Presentation_Katherine Jetter_11_18_19.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "87ada5dac3b7ea10fde1362c0501313e",
+      "error_message": null
+    },
+    {
+      "asset_id": "4295535",
+      "asset_name": "Coretelligent Go Live Presentation_Katherine Jetter_11_18_19.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "afada5dac3b7ea10fde1362c0501315a",
+      "error_message": null
+    },
+    {
+      "asset_id": "4386040",
+      "asset_name": "KatherineJetter-Recommendations.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "08bda5dac3b7ea10fde1362c0501319b",
+      "error_message": null
+    },
+    {
+      "asset_id": "4512751",
+      "asset_name": "KatherineJetter-WorkstationAudit.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "90bda5dac3b7ea10fde1362c050131e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4173800",
+      "asset_name": "Katherine_Jetter_Onboarding_Doc.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "adad65dac3b7ea10fde1362c0501312a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4173802",
+      "asset_name": "Katherine_Jetter_New_Client_Sales_Overview.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "86ad25dac3b7ea10fde1362c05013162",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4177276",
+      "asset_name": "Katherine_Jetter_Onboarding_Doc_(003).docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "96ad25dac3b7ea10fde1362c050131d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4280162",
+      "asset_name": "Coretelligent_Go_Live_Presentation_Katherine_Jetter_11_18_19.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "faada5dac3b7ea10fde1362c05013117",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4295534",
+      "asset_name": "Coretelligent_Go_Live_Presentation_Katherine_Jetter_11_18_19.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "93ada5dac3b7ea10fde1362c0501314c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4295535",
+      "asset_name": "Coretelligent_Go_Live_Presentation_Katherine_Jetter_11_18_19.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "73ada5dac3b7ea10fde1362c050131a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4386040",
+      "asset_name": "KatherineJetter-Recommendations.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9cbd65dac3b7ea10fde1362c0501319c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4512751",
+      "asset_name": "KatherineJetter-WorkstationAudit.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a8bda5dac3b7ea10fde1362c050131ee",
+      "error_message": null
+    }
+  ]
+}
