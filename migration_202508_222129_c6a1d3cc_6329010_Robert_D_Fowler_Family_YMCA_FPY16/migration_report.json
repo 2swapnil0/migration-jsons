@@ -1,0 +1,322 @@
+{
+  "session_id": "migration_202508_222129_c6a1d3cc",
+  "organization": "Robert D. Fowler Family YMCA (FPY16)",
+  "timestamp": "2025-09-08T22:26:35.219776",
+  "total_processed": 39,
+  "successful": 39,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55718553",
+      "asset_name": "FPY16.ymcaatlanta.com FPY16",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8c7936ec3ff221091511f23e4013148",
+      "error_message": null
+    },
+    {
+      "asset_id": "55211773",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6cc7df2ec3ff221091511f23e4013122",
+      "error_message": null
+    },
+    {
+      "asset_id": "55966960",
+      "asset_name": "Staff P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a0c7136ec3ff221091511f23e401310f",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475977",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "acc7936ec3ff221091511f23e40131a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "56242543",
+      "asset_name": "Data S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5dd7176ec3ff221091511f23e401317a",
+      "error_message": null
+    },
+    {
+      "asset_id": "55026034",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4fd7976ec3ff221091511f23e4013121",
+      "error_message": null
+    },
+    {
+      "asset_id": "55026066",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "88e7976ec3ff221091511f23e40131b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "54962207",
+      "asset_name": "FPY16 - LAN 10.116.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c9e7976ec3ff221091511f23e40131b7",
+      "error_message": null
+    },
+    {
+      "asset_id": "55335707",
+      "asset_name": "Granite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2ef79b6ec3ff221091511f23e4013185",
+      "error_message": null
+    },
+    {
+      "asset_id": "55154042",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aaf79b6ec3ff221091511f23e4013190",
+      "error_message": null
+    },
+    {
+      "asset_id": "55178467",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aaf79b6ec3ff221091511f23e401319d",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161498",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ad08db6ec3ff221091511f23e40131a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "56068998",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b081f6ec3ff221091511f23e40131da",
+      "error_message": null
+    },
+    {
+      "asset_id": "55162015",
+      "asset_name": "FPY16 Virtual Environment",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b7081f6ec3ff221091511f23e4013167",
+      "error_message": null
+    },
+    {
+      "asset_id": "47625804",
+      "asset_name": "Workroom Color InkJet 1100DTN 16WI1100DTN",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47625805",
+      "asset_name": "Membership LaserJet 4200T 16ML4200T",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47625807",
+      "asset_name": "Workroom Color Copier 3260C 16WLA1060",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47625809",
+      "asset_name": "Wellness LaserJet P3005DN 16WL3005DN",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47625810",
+      "asset_name": "Workroom Color Copier 3260C 16WLC3260C",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47625811",
+      "asset_name": "Workroom Color Copier C5051 16WLC5051",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47625806",
+      "asset_name": "Registration LaserJet 4200T 16RL4200T",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "af2813aec3ff221091511f23e40131fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "47625802",
+      "asset_name": "Membership LaserJet 4200T 16WL4200T",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "af2853aec3ff221091511f23e4013114",
+      "error_message": null
+    },
+    {
+      "asset_id": "47625814",
+      "asset_name": "Workroom Color Copier IRC5255 16WLIRC5255",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47625812",
+      "asset_name": "Executive LaserJet Pro CP1525nw 16ELCP1525nw",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a32813aec3ff221091511f23e4013136",
+      "error_message": null
+    },
+    {
+      "asset_id": "47625808",
+      "asset_name": "Senior Center LaserJet P3005N 16SL3005N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ff2853aec3ff221091511f23e4013119",
+      "error_message": null
+    },
+    {
+      "asset_id": "47625813",
+      "asset_name": "ELR Program Office Color LaserJet M553dn 16SLC553dn",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "064893aec3ff221091511f23e40131e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "47625815",
+      "asset_name": "Registration LaserJet MF424dw 16RMF424DW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8a4817aec3ff221091511f23e40131f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "47625816",
+      "asset_name": "Workroom Color Copier IRC5550I 16WLIRC5550I",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b4857aec3ff221091511f23e4013159",
+      "error_message": null
+    },
+    {
+      "asset_id": "47682237",
+      "asset_name": "FPY16 Comcast ENS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "434857aec3ff221091511f23e4013173",
+      "error_message": null
+    },
+    {
+      "asset_id": "48147144",
+      "asset_name": "FPY16-HVH-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b8681baec3ff221091511f23e401316c",
+      "error_message": null
+    },
+    {
+      "asset_id": "48154335",
+      "asset_name": "FPY16-DC12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f4681baec3ff221091511f23e40131f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "48154383",
+      "asset_name": "CAY16-DC12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "76681baec3ff221091511f23e40131f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361077",
+      "asset_name": "FPY16-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f6689baec3ff221091511f23e401310f",
+      "error_message": null
+    },
+    {
+      "asset_id": "48505094",
+      "asset_name": "FPY16-FS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0881faec3ff221091511f23e40131b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "48505119",
+      "asset_name": "FPY16-KMC-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "74881faec3ff221091511f23e401313e",
+      "error_message": null
+    },
+    {
+      "asset_id": "48505129",
+      "asset_name": "FPY16-RDS12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ae889faec3ff221091511f23e4013162",
+      "error_message": null
+    },
+    {
+      "asset_id": "48505149",
+      "asset_name": "FPY16-VEEAM-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a889faec3ff221091511f23e401317b",
+      "error_message": null
+    },
+    {
+      "asset_id": "10669131",
+      "asset_name": "FPY - Fowler Peachtree YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7889faec3ff221091511f23e40131ad",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10669131",
+      "asset_name": "FPY_-_Fowler_Peachtree_YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd989faec3ff221091511f23e4013185",
+      "error_message": null
+    }
+  ]
+}

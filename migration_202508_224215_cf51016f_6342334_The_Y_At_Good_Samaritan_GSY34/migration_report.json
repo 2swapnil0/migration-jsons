@@ -1,0 +1,98 @@
+{
+  "session_id": "migration_202508_224215_cf51016f",
+  "organization": "The Y At Good Samaritan (GSY34)",
+  "timestamp": "2025-09-08T22:44:41.490796",
+  "total_processed": 11,
+  "successful": 11,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55444307",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "548cd7a6c333621091511f23e401318a",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475997",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c8c1ba6c333621091511f23e4013103",
+      "error_message": null
+    },
+    {
+      "asset_id": "55178527",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "148cd7a6c333621091511f23e401312d",
+      "error_message": null
+    },
+    {
+      "asset_id": "55154073",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc8c57a6c333621091511f23e401318c",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161786",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "149c9ba6c333621091511f23e4013120",
+      "error_message": null
+    },
+    {
+      "asset_id": "55162035",
+      "asset_name": "Virtualization not supported at this time",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "609c9ba6c333621091511f23e401311d",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361264",
+      "asset_name": "GSY34-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b8bc5fa6c333621091511f23e40131e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "69484805",
+      "asset_name": "Wireless Router",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f4bc5fa6c333621091511f23e40131ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "69484400",
+      "asset_name": "Wireless Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78bc9fa6c333621091511f23e40131bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "69484552",
+      "asset_name": "Wireless Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "74bc5fa6c333621091511f23e40131f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "69484947",
+      "asset_name": "Wireless Switch",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4bbcdfa6c333621091511f23e4013137",
+      "error_message": null
+    }
+  ]
+}

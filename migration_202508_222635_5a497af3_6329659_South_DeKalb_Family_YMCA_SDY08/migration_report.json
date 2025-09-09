@@ -1,0 +1,354 @@
+{
+  "session_id": "migration_202508_222635_5a497af3",
+  "organization": "South DeKalb Family YMCA (SDY08)",
+  "timestamp": "2025-09-08T22:30:58.351623",
+  "total_processed": 43,
+  "successful": 43,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55738228",
+      "asset_name": "SDY08.ymcaatlanta.com SDY08",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8fe897eec3ff221091511f23e4013112",
+      "error_message": null
+    },
+    {
+      "asset_id": "55211791",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0be817eec3ff221091511f23e40131cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "55967097",
+      "asset_name": "Staff P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8fe893eec3ff221091511f23e401319b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475980",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "43e817eec3ff221091511f23e40131d4",
+      "error_message": null
+    },
+    {
+      "asset_id": "56242569",
+      "asset_name": "Data S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ba099beec3ff221091511f23e401313b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55336043",
+      "asset_name": "Granite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3a095beec3ff221091511f23e4013156",
+      "error_message": null
+    },
+    {
+      "asset_id": "55446908",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e099beec3ff221091511f23e40131ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "55014247",
+      "asset_name": "SDY08 - LAN 10.108.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf099beec3ff221091511f23e40131d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "55154060",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "61299feec3ff221091511f23e4013134",
+      "error_message": null
+    },
+    {
+      "asset_id": "55178509",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2d291feec3ff221091511f23e4013181",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161502",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "61299feec3ff221091511f23e40131c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "56069026",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "63299feec3ff221091511f23e40131cc",
+      "error_message": null
+    },
+    {
+      "asset_id": "55162018",
+      "asset_name": "Virtualization not supported at this time",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b4399feec3ff221091511f23e40131ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621918",
+      "asset_name": "Admin B&W Copier 1035 08WLA1035",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621919",
+      "asset_name": "Registration LaserJet 4200 08RL4200",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621920",
+      "asset_name": "Workroom LaserJet 4200T 08WL4200T",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621922",
+      "asset_name": "Workroom B&W Copier 2045 08WLA2045",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621923",
+      "asset_name": "Workroom B&W Copier MP5500 08WLAMP5500",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621924",
+      "asset_name": "Color Copier MPC4500 08WLAMPC4500",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621926",
+      "asset_name": "Wellness LaserJet P3005N 08FP3005N",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621928",
+      "asset_name": "Color Copier C5051 08WLC5051",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621930",
+      "asset_name": "Workroom Color Copier IRC5255 08WLIRC5255",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621916",
+      "asset_name": "Admin Color LaserJet 4600 08WLC4600",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09591722c333621091511f23e4013156",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621933",
+      "asset_name": "Registration LaserJet PRO M402DNE 08RLM402DNE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "49595322c333621091511f23e40131dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621927",
+      "asset_name": "Executive LaserJet PRO 400 Color 08ELM451NW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "81599322c333621091511f23e4013153",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621931",
+      "asset_name": "Wellness LaserJet PRO M402DNE 08FLM402DNE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "01599322c333621091511f23e4013157",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621939",
+      "asset_name": "SAP Admin InkJet 2230 A8WI2230",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621940",
+      "asset_name": "SAP Workroom B&W Copier 1060 A8WLA1060",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621941",
+      "asset_name": "SAP Workroom Color LaserJet 3600N A8WLC3600N",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621943",
+      "asset_name": "SAP Workroom B&W Copier IR6055 A8WLCIR6055",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621944",
+      "asset_name": "SAP Workroom Color Copier IRC5550i A8WLIRC5550i",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621934",
+      "asset_name": "Workroom Color Copier IRC5550i 08WLIRC5550i",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c8791b22c333621091511f23e401318c",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621936",
+      "asset_name": "SAP Registration LaserJet 4200 A8RL4200",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c4799722c333621091511f23e401315f",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621937",
+      "asset_name": "SAP Workroom LaserJet 4200T A8WL4200T",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "51799b22c333621091511f23e4013118",
+      "error_message": null
+    },
+    {
+      "asset_id": "48197580",
+      "asset_name": "SDY08-DC12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "93799b22c333621091511f23e401312b",
+      "error_message": null
+    },
+    {
+      "asset_id": "48197607",
+      "asset_name": "VCY08-DC12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a5899f22c333621091511f23e40131ce",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361303",
+      "asset_name": "SDY08-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd89df22c333621091511f23e4013131",
+      "error_message": null
+    },
+    {
+      "asset_id": "10664680",
+      "asset_name": "ASD-L Academy at South DeKalb - Lithonia.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3689df22c333621091511f23e4013178",
+      "error_message": null
+    },
+    {
+      "asset_id": "10664681",
+      "asset_name": "ASD-S Academy at South DeKalb - Snapfinger.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0099df22c333621091511f23e401318e",
+      "error_message": null
+    },
+    {
+      "asset_id": "10664684",
+      "asset_name": "SDY - South DeKalb YMCA - Floor Plan.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0d991362c333621091511f23e401310c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10664680",
+      "asset_name": "ASD-L_Academy_at_South_DeKalb_-_Lithonia.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6789df22c333621091511f23e4013198",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10664681",
+      "asset_name": "ASD-S_Academy_at_South_DeKalb_-_Snapfinger.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "64991362c333621091511f23e4013159",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10664684",
+      "asset_name": "SDY_-_South_DeKalb_YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f9991362c333621091511f23e401319c",
+      "error_message": null
+    }
+  ]
+}

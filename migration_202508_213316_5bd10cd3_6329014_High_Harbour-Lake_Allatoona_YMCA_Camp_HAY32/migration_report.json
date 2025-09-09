@@ -1,0 +1,138 @@
+{
+  "session_id": "migration_202508_213316_5bd10cd3",
+  "organization": "High Harbour-Lake Allatoona YMCA Camp (HAY32)",
+  "timestamp": "2025-09-08T21:39:40.045222",
+  "total_processed": 16,
+  "successful": 16,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55966240",
+      "asset_name": "Staff P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a36d07eac3bf221091511f23e40131e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "55188855",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef6d83eac3bf221091511f23e401319d",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475945",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "776d47eac3bf221091511f23e401315c",
+      "error_message": null
+    },
+    {
+      "asset_id": "56241807",
+      "asset_name": "Data S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "307d47eac3bf221091511f23e4013159",
+      "error_message": null
+    },
+    {
+      "asset_id": "54957098",
+      "asset_name": "HAY32 - LAN 10.132.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c38dc7eac3bf221091511f23e4013186",
+      "error_message": null
+    },
+    {
+      "asset_id": "55335740",
+      "asset_name": "Granite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "878d0beac3bf221091511f23e401319b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55153603",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "849d8beac3bf221091511f23e4013146",
+      "error_message": null
+    },
+    {
+      "asset_id": "55177320",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c09d4beac3bf221091511f23e401317b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161385",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "06ad4feac3bf221091511f23e4013129",
+      "error_message": null
+    },
+    {
+      "asset_id": "56062208",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "82adcbeac3bf221091511f23e40131e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161979",
+      "asset_name": "Virtualization not supported at this time",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0aad4feac3bf221091511f23e401312d",
+      "error_message": null
+    },
+    {
+      "asset_id": "47625659",
+      "asset_name": "Executive Color LaserJet Pro M452NW 32ECLJPM452NW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "16cd832ec3bf221091511f23e401314b",
+      "error_message": null
+    },
+    {
+      "asset_id": "47625661",
+      "asset_name": "Workroom Color Copier IRC5240A 32WLIRC5240A",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1acd032ec3bf221091511f23e40131f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "47625662",
+      "asset_name": "Infirmary LaserJet MFPM227FDW 32ILJMFPM227FDW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dacd032ec3bf221091511f23e4013193",
+      "error_message": null
+    },
+    {
+      "asset_id": "47625660",
+      "asset_name": "Front Desk LaserJet PRO M501 32ALJPROM501",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aacd832ec3bf221091511f23e401316e",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361100",
+      "asset_name": "HAY32-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "adddc32ec3bf221091511f23e4013199",
+      "error_message": null
+    }
+  ]
+}

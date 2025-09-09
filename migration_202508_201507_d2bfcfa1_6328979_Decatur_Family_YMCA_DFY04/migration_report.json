@@ -1,0 +1,434 @@
+{
+  "session_id": "migration_202508_201507_d2bfcfa1",
+  "organization": "Decatur Family YMCA (DFY04)",
+  "timestamp": "2025-09-08T20:23:22.247786",
+  "total_processed": 53,
+  "successful": 53,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55187915",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "18eaf262c37f221091511f23e40131d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "55717555",
+      "asset_name": "DDY04.ymcaatlanta.com DDY04",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1ceaf262c37f221091511f23e401311f",
+      "error_message": null
+    },
+    {
+      "asset_id": "55966009",
+      "asset_name": "Staff P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "81eaf262c37f221091511f23e40131dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475895",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0bea7662c37f221091511f23e4013114",
+      "error_message": null
+    },
+    {
+      "asset_id": "56240406",
+      "asset_name": "Data S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0dfaf262c37f221091511f23e40131eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "55019113",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "080bf662c37f221091511f23e40131c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "68357010",
+      "asset_name": "Fire 1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8e0b7a62c37f221091511f23e4013174",
+      "error_message": null
+    },
+    {
+      "asset_id": "68357090",
+      "asset_name": "Fire 2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f0bba62c37f221091511f23e401316e",
+      "error_message": null
+    },
+    {
+      "asset_id": "68357123",
+      "asset_name": "Red Pool phone",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "330b7a62c37f221091511f23e4013186",
+      "error_message": null
+    },
+    {
+      "asset_id": "68357137",
+      "asset_name": "Elevator",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f71b3e62c37f221091511f23e4013149",
+      "error_message": null
+    },
+    {
+      "asset_id": "54887079",
+      "asset_name": "DFY04 - LAN 10.104.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ae2b3e62c37f221091511f23e401314e",
+      "error_message": null
+    },
+    {
+      "asset_id": "55019408",
+      "asset_name": "ASO - ENS WAN 10.10.10.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a62b7e62c37f221091511f23e40131a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "55578043",
+      "asset_name": "DFY04 VPN access",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a32b7e62c37f221091511f23e401319e",
+      "error_message": null
+    },
+    {
+      "asset_id": "55018984",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d94b72a2c37f221091511f23e401317b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55335602",
+      "asset_name": "Granite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d14bfe62c37f221091511f23e4013148",
+      "error_message": null
+    },
+    {
+      "asset_id": "55153318",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "114b72a2c37f221091511f23e401311b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55177287",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "115bb2a2c37f221091511f23e40131fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161316",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d65bf2a2c37f221091511f23e40131b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "56056166",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a35b36a2c37f221091511f23e40131fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161865",
+      "asset_name": "DFY04 - Virtual Environment",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a86b76a2c37f221091511f23e4013100",
+      "error_message": null
+    },
+    {
+      "asset_id": "47659917",
+      "asset_name": "Workroom Color InkJet 2230 04WIC2230",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47659918",
+      "asset_name": "Workroom B&W Copier 1060 04WLA1060",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47659919",
+      "asset_name": "Workroom Color LaserJet 4600 04WLC4600",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47659921",
+      "asset_name": "Aquatics LaserJet 4200T 04QL4200T",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47659922",
+      "asset_name": "Workroom Color LaserJet 3600N 04WLC3600N",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47659924",
+      "asset_name": "Workroom Color Copier MPC7500 04WLAMPC7500",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47659916",
+      "asset_name": "Workroom LaserJet 4200T 04WL4200T",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "608b7aa2c37f221091511f23e40131e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "47659926",
+      "asset_name": "Office Manager LaserJet M401dne 04OLM401dne",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47659925",
+      "asset_name": "Workroom Color Copier IRC7065 04WLIRC7065",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "688b7aa2c37f221091511f23e40131ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "47659923",
+      "asset_name": "Wellness LaserJet P3005N 04FLP3005N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b88b7aa2c37f221091511f23e40131f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "47659929",
+      "asset_name": "Workroom Color Copier IRC7260 04WLIRC7260",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47659927",
+      "asset_name": "VP LaserJet M401dne 04ELM401dne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed9bfaa2c37f221091511f23e4013113",
+      "error_message": null
+    },
+    {
+      "asset_id": "47659920",
+      "asset_name": "Membership Registration LaserJet 4200N 04RL4200N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "788b7aa2c37f221091511f23e4013181",
+      "error_message": null
+    },
+    {
+      "asset_id": "47659928",
+      "asset_name": "Office Manager Color OfficeJet Pro X451 04OOX451",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a69b3ea2c37f221091511f23e401317b",
+      "error_message": null
+    },
+    {
+      "asset_id": "47659930",
+      "asset_name": "Aquatics LaserJet 401dne 04QL401DNE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a79b7ea2c37f221091511f23e4013108",
+      "error_message": null
+    },
+    {
+      "asset_id": "47659931",
+      "asset_name": "Executive Color LaserJet Pro M452dn 04ECLPROM452DN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dbabbea2c37f221091511f23e4013192",
+      "error_message": null
+    },
+    {
+      "asset_id": "47659932",
+      "asset_name": "Workroom Color Copier IRC7565i 04WLIRC7565i",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "99bbfea2c37f221091511f23e4013180",
+      "error_message": null
+    },
+    {
+      "asset_id": "47677769",
+      "asset_name": "DFY04 Comcast ENS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "16bb72e2c37f221091511f23e40131e8",
+      "error_message": null
+    },
+    {
+      "asset_id": "48141752",
+      "asset_name": "DDY04-HVH-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1fbb72e2c37f221091511f23e40131ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "48153261",
+      "asset_name": "DDY04-DC12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8ecbb2e2c37f221091511f23e401318c",
+      "error_message": null
+    },
+    {
+      "asset_id": "48153263",
+      "asset_name": "WWY04-DC12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0dbf2e2c37f221091511f23e40131d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361009",
+      "asset_name": "DDY04-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "79db76e2c37f221091511f23e4013132",
+      "error_message": null
+    },
+    {
+      "asset_id": "57660850",
+      "asset_name": "D-Link",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "48505585",
+      "asset_name": "DDY04-RDS12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a6db76e2c37f221091511f23e40131b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "48505634",
+      "asset_name": "DDY04-FS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "56eb3ae2c37f221091511f23e4013107",
+      "error_message": null
+    },
+    {
+      "asset_id": "48505644",
+      "asset_name": "DDY04-VEEAM-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "97eb3ae2c37f221091511f23e4013110",
+      "error_message": null
+    },
+    {
+      "asset_id": "57660978",
+      "asset_name": "DDYO4",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "23eb7ae2c37f221091511f23e401314b",
+      "error_message": null
+    },
+    {
+      "asset_id": "10668397",
+      "asset_name": "DFY - SECOND FLOOR PLAN .pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac5cbee2c37f221091511f23e40131e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "10668399",
+      "asset_name": "DFY - Decatur DeKalb YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9a5cfee2c37f221091511f23e4013147",
+      "error_message": null
+    },
+    {
+      "asset_id": "10668401",
+      "asset_name": "DFY - FIRST FLOOR PLAN.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b5cfee2c37f221091511f23e4013195",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10668397",
+      "asset_name": "DFY_-_SECOND_FLOOR_PLAN_.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "615cbee2c37f221091511f23e40131fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10668399",
+      "asset_name": "DDY_-_Decatur_DeKalb_YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5b5c7ae2c37f221091511f23e401319a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10668401",
+      "asset_name": "DFY_-_FIRST_FLOOR_PLAN.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a06cfee2c37f221091511f23e40131df",
+      "error_message": null
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "session_id": "migration_202508_221753_4cc10cfc",
+  "organization": "Paulding Early Learning Center YMCA (PCA28)",
+  "timestamp": "2025-09-08T22:21:29.406237",
+  "total_processed": 24,
+  "successful": 24,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55211760",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e6e65beac3ff221091511f23e40131b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475973",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3ae65beac3ff221091511f23e40131bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "55966878",
+      "asset_name": "Staff P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "32e65beac3ff221091511f23e40131c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "55933151",
+      "asset_name": "PCA28 Wireless Network 1 MY-YMCA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "36e65beac3ff221091511f23e4013173",
+      "error_message": null
+    },
+    {
+      "asset_id": "56242519",
+      "asset_name": "Data S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78075feac3ff221091511f23e4013139",
+      "error_message": null
+    },
+    {
+      "asset_id": "90712484",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "62075feac3ff221091511f23e40131a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "55089601",
+      "asset_name": "PCA28 - LAN 10.128.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2607dbeac3ff221091511f23e401312c",
+      "error_message": null
+    },
+    {
+      "asset_id": "90712630",
+      "asset_name": "Granite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b079feac3ff221091511f23e4013135",
+      "error_message": null
+    },
+    {
+      "asset_id": "55153988",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6927532ec3ff221091511f23e40131b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "55178458",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed27532ec3ff221091511f23e4013152",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161491",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3527532ec3ff221091511f23e4013158",
+      "error_message": null
+    },
+    {
+      "asset_id": "56068927",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf27d32ec3ff221091511f23e401317d",
+      "error_message": null
+    },
+    {
+      "asset_id": "55162014",
+      "asset_name": "Virtualization not supported at this time",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9537d32ec3ff221091511f23e4013183",
+      "error_message": null
+    },
+    {
+      "asset_id": "47738823",
+      "asset_name": "Workroom B&W Copier AR507 28WLAR507",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47738825",
+      "asset_name": "Workroom B&W Copier IR3225 28WLIR3225",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47738826",
+      "asset_name": "Workroom LaserJet 4200N 28WL4200N",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47738827",
+      "asset_name": "Workroom B&W Copier IR4235 28WLIR4235",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47738822",
+      "asset_name": "Workroom LaserJet 4050T 28WL4050T",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4d57d72ec3ff221091511f23e4013175",
+      "error_message": null
+    },
+    {
+      "asset_id": "47738829",
+      "asset_name": "Workroom Color Copier IRC3530i 28WLIRC3530i-old",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09571b2ec3ff221091511f23e4013102",
+      "error_message": null
+    },
+    {
+      "asset_id": "47738824",
+      "asset_name": "Executive LaserJet 5SI 28EL5SI",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c957172ec3ff221091511f23e401313f",
+      "error_message": null
+    },
+    {
+      "asset_id": "47738828",
+      "asset_name": "Early Learning Director LaserJet M402DN 28ELM402DN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9d571b2ec3ff221091511f23e401310e",
+      "error_message": null
+    },
+    {
+      "asset_id": "47738830",
+      "asset_name": "Front Desk LaserJet M402DN 28RM402DN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0267db2ec3ff221091511f23e401312d",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361269",
+      "asset_name": "PCA28-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4367db2ec3ff221091511f23e4013132",
+      "error_message": null
+    },
+    {
+      "asset_id": "60477290",
+      "asset_name": "Workroom Color Printer: Sharp BP70C31",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1b67db2ec3ff221091511f23e40131ac",
+      "error_message": null
+    }
+  ]
+}

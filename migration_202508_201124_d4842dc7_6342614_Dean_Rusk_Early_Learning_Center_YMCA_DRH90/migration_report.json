@@ -1,0 +1,122 @@
+{
+  "session_id": "migration_202508_201124_d4842dc7",
+  "organization": "Dean Rusk Early Learning Center YMCA (DRH90)",
+  "timestamp": "2025-09-08T20:15:07.667980",
+  "total_processed": 14,
+  "successful": 14,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55216415",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b20a3222c37f221091511f23e401317b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55216461",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "470a3222c37f221091511f23e401310b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55578038",
+      "asset_name": "DRH90 VPN access",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f60a3222c37f221091511f23e4013104",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475875",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "470a7eeec33f221091511f23e4013182",
+      "error_message": null
+    },
+    {
+      "asset_id": "55177281",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0d2a3622c37f221091511f23e4013164",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161308",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "812af222c37f221091511f23e40131d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161859",
+      "asset_name": "Virtualization not supported at this time",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "912a3622c37f221091511f23e401316b",
+      "error_message": null
+    },
+    {
+      "asset_id": "67186473",
+      "asset_name": "Ricoh MP C3504",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0c3a7622c37f221091511f23e4013149",
+      "error_message": null
+    },
+    {
+      "asset_id": "17169046",
+      "asset_name": "Axis Door Controllers",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "893ab622c37f221091511f23e4013146",
+      "error_message": null
+    },
+    {
+      "asset_id": "12125963",
+      "asset_name": "Axis Door Management System.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "793ab622c37f221091511f23e4013196",
+      "error_message": null
+    },
+    {
+      "asset_id": "17168821",
+      "asset_name": "System Room photos",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea3af622c37f221091511f23e4013121",
+      "error_message": null
+    },
+    {
+      "asset_id": "17169044",
+      "asset_name": "New Document",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf7af222c37f221091511f23e40131a4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_12125963",
+      "asset_name": "Axis_Door_Management_System.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c63ab622c37f221091511f23e40131ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_17168821",
+      "asset_name": "iCloud_Photos_(14).zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a67afa22c37f221091511f23e401312f",
+      "error_message": null
+    }
+  ]
+}

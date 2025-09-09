@@ -1,0 +1,754 @@
+{
+  "session_id": "migration_202508_202322_be527f03",
+  "organization": "East Lake Family YMCA (ELY06)",
+  "timestamp": "2025-09-08T20:34:17.381801",
+  "total_processed": 93,
+  "successful": 93,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55474933",
+      "asset_name": "ELY06.ymcaatlanta.com ELY06",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d4fcfa26c37f221091511f23e4013188",
+      "error_message": null
+    },
+    {
+      "asset_id": "55933143",
+      "asset_name": "ELY06 Wireless Network 1 MY-YMCA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a0fcba26c37f221091511f23e4013148",
+      "error_message": null
+    },
+    {
+      "asset_id": "55188026",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "18fcba26c37f221091511f23e4013141",
+      "error_message": null
+    },
+    {
+      "asset_id": "55938750",
+      "asset_name": "ELY06 Wireless Network 4 Kiosk",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a8fc7a26c37f221091511f23e4013193",
+      "error_message": null
+    },
+    {
+      "asset_id": "55938780",
+      "asset_name": "ELY06 Wireless Network 6 Steam Lab",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9c1d3266c37f221091511f23e4013168",
+      "error_message": null
+    },
+    {
+      "asset_id": "55938759",
+      "asset_name": "ELY06 Wireless Network 5 Staff",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c1dfe26c37f221091511f23e4013177",
+      "error_message": null
+    },
+    {
+      "asset_id": "55941667",
+      "asset_name": "ELY06 Wireless Network 7 Wellness",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d01d3e26c37f221091511f23e40131ce",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475902",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a81d3266c37f221091511f23e40131a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "55966034",
+      "asset_name": "Staff P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "922db266c37f221091511f23e4013117",
+      "error_message": null
+    },
+    {
+      "asset_id": "56240587",
+      "asset_name": "Data S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "962db266c37f221091511f23e4013122",
+      "error_message": null
+    },
+    {
+      "asset_id": "55025926",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "143df266c37f221091511f23e4013157",
+      "error_message": null
+    },
+    {
+      "asset_id": "54889138",
+      "asset_name": "ELY06 - LAN 10.106.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "513d3666c37f221091511f23e4013196",
+      "error_message": null
+    },
+    {
+      "asset_id": "55578050",
+      "asset_name": "ELY06 VPN access",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2e5d3a66c37f221091511f23e4013126",
+      "error_message": null
+    },
+    {
+      "asset_id": "55025904",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f5d3a66c37f221091511f23e40131a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "55335616",
+      "asset_name": "Granite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "786d3a66c37f221091511f23e401312d",
+      "error_message": null
+    },
+    {
+      "asset_id": "55153477",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a87dfa66c37f221091511f23e401317f",
+      "error_message": null
+    },
+    {
+      "asset_id": "55177290",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2e7d7a66c37f221091511f23e4013156",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161322",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e77d7e66c37f221091511f23e4013100",
+      "error_message": null
+    },
+    {
+      "asset_id": "56056369",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a08d7e66c37f221091511f23e4013107",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161867",
+      "asset_name": "ELY06 Virtual Environment",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a8d7e66c37f221091511f23e4013181",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621779",
+      "asset_name": "Workroom LaserJet 4100T 06WL4100T",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621782",
+      "asset_name": "Workroom B&W Copier 1035 06WLA1035",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621783",
+      "asset_name": "Registration LaserJet 4200 06RL4200",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621785",
+      "asset_name": "Workroom LaserJet 4200T 06WL4200T",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621786",
+      "asset_name": "Membership Color InkJet 2200 06MI2200",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621787",
+      "asset_name": "Workroom Color LaserJet 4650N 06WLC4650N",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621781",
+      "asset_name": "Workroom Color InkJet 2200 06WI2200",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fdadb2a6c37f221091511f23e4013180",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621792",
+      "asset_name": "Membership B&W Copier 3245I 06ML3245i",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621793",
+      "asset_name": "Workroom B&W Copier MP5000 06WLAMP5000",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621795",
+      "asset_name": "Workroom Color Copier MPC6000 06WLAMPC6000",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621796",
+      "asset_name": "Workroom Color Copier IRC5051 06WLC5051",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621798",
+      "asset_name": "Workroom B&W Copier 3245i 06WL3245i",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621799",
+      "asset_name": "Workroom Color Copier IR6055 06WLIR6055",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621788",
+      "asset_name": "Membership Color LaserJet 4700N 06MLC4700N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "39ad32a6c37f221091511f23e4013116",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621790",
+      "asset_name": "Office Manager LaserJet 2420DN 06OL2420DN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "71adf2a6c37f221091511f23e4013106",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621789",
+      "asset_name": "Wellness LaserJet P3005N 06FLP3005N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f1adf2a6c37f221091511f23e4013111",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621805",
+      "asset_name": "Workroom Color Copier IRC5250 06WLIRC5250",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621807",
+      "asset_name": "Membership B&W Copier IR4245 06MLIR4245",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621808",
+      "asset_name": "Workroom Learning Academy B&W Copier IR4245 06WLIR4245",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621810",
+      "asset_name": "Workroom Admin B&W Copier IR4251 06WLIR4251",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621801",
+      "asset_name": "Office Manager LaserJet PRO 400 M401dne 06ELM401dne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7bd36a6c37f221091511f23e4013177",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621802",
+      "asset_name": "Teen Registration HP Laser Jet 600 06RLM603",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e9cdf6a6c37f221091511f23e401317f",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621811",
+      "asset_name": "Registration HP LaserJet M402DNE 06RLM402DNE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6dcdf6a6c37f221091511f23e4013116",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621804",
+      "asset_name": "Membership Color Copier IRC5235 06MLIRC5235",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a2cdf6a6c37f221091511f23e4013185",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621812",
+      "asset_name": "Workroom Color Copier IRC5550i 06WLIRC5550i",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6dddf6a6c37f221091511f23e4013191",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621815",
+      "asset_name": "Workroom Admin B&W Copier IR4551i 06WLIR4551i",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c7edfaa6c37f221091511f23e4013180",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621814",
+      "asset_name": "Membership B&W Copier IR4535i 06MLIR4535i",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c4fd7ea6c37f221091511f23e401312e",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621817",
+      "asset_name": "Workroom Learning Academy B&W Copier IR4535i 06WLIR4535i",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "08fd7ea6c37f221091511f23e4013138",
+      "error_message": null
+    },
+    {
+      "asset_id": "47680628",
+      "asset_name": "ELY06 Comcast ENS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9d0e32e6c37f221091511f23e4013161",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621819",
+      "asset_name": "Executive Color Laserjet Pro M452nw 06ECLPM452NW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "190e32e6c37f221091511f23e4013154",
+      "error_message": null
+    },
+    {
+      "asset_id": "48143117",
+      "asset_name": "ELY06-HVH-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "670e72e6c37f221091511f23e401317a",
+      "error_message": null
+    },
+    {
+      "asset_id": "48153303",
+      "asset_name": "ELY06-DC12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f0eb2e6c37f221091511f23e4013109",
+      "error_message": null
+    },
+    {
+      "asset_id": "48153370",
+      "asset_name": "ABY06-DC12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd2e36e6c37f221091511f23e401318a",
+      "error_message": null
+    },
+    {
+      "asset_id": "48508694",
+      "asset_name": "ELY06-RDS12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf2ef2e6c37f221091511f23e401318f",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361047",
+      "asset_name": "ELY06-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ff2eb6e6c37f221091511f23e401311e",
+      "error_message": null
+    },
+    {
+      "asset_id": "48508703",
+      "asset_name": "ELY06-FS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf2e76e6c37f221091511f23e401319e",
+      "error_message": null
+    },
+    {
+      "asset_id": "48508709",
+      "asset_name": "ELY06-VEEAM-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "164e7ae6c37f221091511f23e4013174",
+      "error_message": null
+    },
+    {
+      "asset_id": "57322843",
+      "asset_name": "ELY06-RTR01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d05ebae6c37f221091511f23e40131df",
+      "error_message": null
+    },
+    {
+      "asset_id": "57322693",
+      "asset_name": "ELY06 Cisco MS120-48FP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "045ebae6c37f221091511f23e40131d5",
+      "error_message": null
+    },
+    {
+      "asset_id": "57322954",
+      "asset_name": "ELY06-SWT01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "155ebae6c37f221091511f23e40131c4",
+      "error_message": null
+    },
+    {
+      "asset_id": "57323066",
+      "asset_name": "ELY06-DGS-1210-48-02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "916e7ee6c37f221091511f23e4013167",
+      "error_message": null
+    },
+    {
+      "asset_id": "57323131",
+      "asset_name": "ELY06-DES-3200-52P",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5b6e7ee6c37f221091511f23e401316f",
+      "error_message": null
+    },
+    {
+      "asset_id": "57323229",
+      "asset_name": "ELY DES-3052P",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8d7efee6c37f221091511f23e40131bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "57323270",
+      "asset_name": "ELY06-QNAP-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d57ebee6c37f221091511f23e4013183",
+      "error_message": null
+    },
+    {
+      "asset_id": "57323285",
+      "asset_name": "ELY-AP1500-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "018e722ac37f221091511f23e401317e",
+      "error_message": null
+    },
+    {
+      "asset_id": "57323301",
+      "asset_name": "ELY-AP1500-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4b8eb22ac37f221091511f23e401310b",
+      "error_message": null
+    },
+    {
+      "asset_id": "57323538",
+      "asset_name": "ELY06-DGS121016-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "038eb22ac37f221091511f23e4013184",
+      "error_message": null
+    },
+    {
+      "asset_id": "13749815",
+      "asset_name": "ELY06 Server Room Photos",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8daef22ac37f221091511f23e40131d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "12382611",
+      "asset_name": "Precor cardio machines-  tv channels scanning",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80cef62ac37f221091511f23e401312f",
+      "error_message": null
+    },
+    {
+      "asset_id": "10665217",
+      "asset_name": "ELY - East Lake YMCA - Floor plan.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bccef62ac37f221091511f23e4013157",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10665217",
+      "asset_name": "ELY_-_East_Lake_YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b0def62ac37f221091511f23e401317e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0054.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d3ae362ac37f221091511f23e40131e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0055.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a3ae762ac37f221091511f23e401319e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0052.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "37ae762ac37f221091511f23e401314b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0053.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "84be762ac37f221091511f23e4013128",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0050.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dcbeb62ac37f221091511f23e4013101",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0056.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ecbeb62ac37f221091511f23e4013109",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0057.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "85beb62ac37f221091511f23e401311e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0054.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d3ae362ac37f221091511f23e40131e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0055.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a3ae762ac37f221091511f23e401319e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0052.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "37ae762ac37f221091511f23e401314b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0053.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "84be762ac37f221091511f23e4013128",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0050.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dcbeb62ac37f221091511f23e4013101",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0056.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ecbeb62ac37f221091511f23e4013109",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0057.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "85beb62ac37f221091511f23e401311e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0054.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d3ae362ac37f221091511f23e40131e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0055.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a3ae762ac37f221091511f23e401319e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0052.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "37ae762ac37f221091511f23e401314b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0053.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "84be762ac37f221091511f23e4013128",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0050.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dcbeb62ac37f221091511f23e4013101",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0056.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ecbeb62ac37f221091511f23e4013109",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13749815",
+      "asset_name": "IMG_0057.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "85beb62ac37f221091511f23e401311e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_12382611",
+      "asset_name": "precor_ely06.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eccef62ac37f221091511f23e4013146",
+      "error_message": null
+    }
+  ]
+}

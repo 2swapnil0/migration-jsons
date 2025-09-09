@@ -1,0 +1,362 @@
+{
+  "session_id": "migration_202508_193802_add5f6e5",
+  "organization": "Carl E. Sanders Family YMCA at Buckhead (SBY03)",
+  "timestamp": "2025-09-08T19:47:11.267874",
+  "total_processed": 44,
+  "successful": 43,
+  "failed": 1,
+  "results": [
+    {
+      "asset_id": "55734771",
+      "asset_name": "SBY03.ymcaatlanta.com SBY03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6c92b2e2c33f221091511f23e40131c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "55187209",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a89272e2c33f221091511f23e40131a8",
+      "error_message": null
+    },
+    {
+      "asset_id": "55965915",
+      "asset_name": "Staff P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6c92b2e2c33f221091511f23e40131e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475846",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "289272e2c33f221091511f23e40131a4",
+      "error_message": null
+    },
+    {
+      "asset_id": "55496710",
+      "asset_name": "SBY03 VPN access",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b0b2f6e2c33f221091511f23e401315d",
+      "error_message": null
+    },
+    {
+      "asset_id": "55336007",
+      "asset_name": "Granite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bcb2f6e2c33f221091511f23e4013168",
+      "error_message": null
+    },
+    {
+      "asset_id": "54886776",
+      "asset_name": "SBY03 - LAN 10.103.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "45b2f6e2c33f221091511f23e4013162",
+      "error_message": null
+    },
+    {
+      "asset_id": "56239606",
+      "asset_name": "Data S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b8b2b6e2c33f221091511f23e40131e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "55446925",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dfc2fae2c33f221091511f23e40131eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "55153022",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "41d23ee2c33f221091511f23e4013160",
+      "error_message": null
+    },
+    {
+      "asset_id": "55177183",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d5d27ae2c33f221091511f23e40131f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161274",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1ed27ee2c33f221091511f23e401317b",
+      "error_message": null
+    },
+    {
+      "asset_id": "56036018",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fde2bee2c33f221091511f23e4013137",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161827",
+      "asset_name": "SBY03 - Virtual Environment",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5e2bee2c33f221091511f23e40131eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "47591381",
+      "asset_name": "Lower Admin LaserJet 4200T 03WL4200T",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b503b226c33f221091511f23e40131f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "47591385",
+      "asset_name": "Membership LaserJet 4200 03ML4200",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47591384",
+      "asset_name": "Registration LaserJet 4200 03RL4200",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3503f226c33f221091511f23e4013112",
+      "error_message": null
+    },
+    {
+      "asset_id": "47591386",
+      "asset_name": "Wellness LaserJet 2100 03FL2100",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47591387",
+      "asset_name": "CEC Lab Color InkJet 1100 03LI1100",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47591388",
+      "asset_name": "Workroom B&W Copier IR5075 03WL5075",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47591383",
+      "asset_name": "Upper Admin LaserJet 4050T 03AL4050T",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c203f226c33f221091511f23e4013117",
+      "error_message": null
+    },
+    {
+      "asset_id": "47591391",
+      "asset_name": "Workroom B&W Copier IR6075 03WL6075",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47591382",
+      "asset_name": "Workroom Color LaserJet 4600 03WLC4600",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8a03f226c33f221091511f23e4013106",
+      "error_message": null
+    },
+    {
+      "asset_id": "47591393",
+      "asset_name": "Lower Admin Color Xerox WorkCentre 7855P Copier 03WL7855P",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47591394",
+      "asset_name": "Upper Admin B&W Xerox WorkCentre 5335 Copier 03WL5335",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47591395",
+      "asset_name": "Upper Admin Color Xerox WorkCentre 7545 Copier 03WL7545",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47591389",
+      "asset_name": "Wellness Coach LaserJet P3005N 03FLP3005N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3023b626c33f221091511f23e40131dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "47591390",
+      "asset_name": "Tennis LaserJet 2430N 03TL2430N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f523b626c33f221091511f23e40131d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "47591392",
+      "asset_name": "Executive LaserJet P1505N 03ELP1505N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fd23f626c33f221091511f23e401317d",
+      "error_message": null
+    },
+    {
+      "asset_id": "47591396",
+      "asset_name": "Wellness Desk LaserJet Pro M401DNE 03FLPM401DNE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3a23f626c33f221091511f23e4013173",
+      "error_message": null
+    },
+    {
+      "asset_id": "47591397",
+      "asset_name": "Lower Admin Color Sharp MX6070N Copier 03WLCMX6070N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6843ba26c33f221091511f23e40131f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "47591398",
+      "asset_name": "Upper Admin Color Sharp MX4070N Copier 03WLCMX4070N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e443fa26c33f221091511f23e401310b",
+      "error_message": null
+    },
+    {
+      "asset_id": "47591399",
+      "asset_name": "Registration  LaserJet PRO MFP M426FDW 03RLJPROMFPM426FDW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c43ba26c33f221091511f23e4013100",
+      "error_message": null
+    },
+    {
+      "asset_id": "48136050",
+      "asset_name": "SBY03-HVH-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "24533e26c33f221091511f23e40131f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "48195782",
+      "asset_name": "PCY03-DC12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f53fa26c33f221091511f23e4013173",
+      "error_message": null
+    },
+    {
+      "asset_id": "48195780",
+      "asset_name": "SBY03-DC12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6753be26c33f221091511f23e4013189",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361296",
+      "asset_name": "SBY03-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6863be26c33f221091511f23e4013169",
+      "error_message": null
+    },
+    {
+      "asset_id": "48505342",
+      "asset_name": "SBY03-RDS12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6d73b266c33f221091511f23e4013144",
+      "error_message": null
+    },
+    {
+      "asset_id": "48505354",
+      "asset_name": "SBY03-FS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a973b266c33f221091511f23e4013153",
+      "error_message": null
+    },
+    {
+      "asset_id": "48505392",
+      "asset_name": "SBY03-VEEAM-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d733266c33f221091511f23e4013136",
+      "error_message": null
+    },
+    {
+      "asset_id": "10667224",
+      "asset_name": "SBY - Sanders Buckhead YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8773b266c33f221091511f23e4013188",
+      "error_message": null
+    },
+    {
+      "asset_id": "10667227",
+      "asset_name": "SBY post renovations.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e793b266c33f221091511f23e40131b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10667224",
+      "asset_name": "SBY_-_Sanders_Buckhead_YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "53933666c33f221091511f23e4013176",
+      "error_message": null
+    },
+    {
+      "asset_id": "10667227",
+      "asset_name": "SBY_post_renovations.pdf",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    }
+  ]
+}

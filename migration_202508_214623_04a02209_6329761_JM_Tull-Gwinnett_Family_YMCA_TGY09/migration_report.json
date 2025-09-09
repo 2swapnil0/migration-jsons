@@ -1,0 +1,314 @@
+{
+  "session_id": "migration_202508_214623_04a02209",
+  "organization": "J.M. Tull-Gwinnett Family YMCA (TGY09)",
+  "timestamp": "2025-09-08T21:53:28.455986",
+  "total_processed": 38,
+  "successful": 38,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55742728",
+      "asset_name": "TGY09.ymcaatlanta.com TGY09",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "42401feec3bf221091511f23e40131e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "55966497",
+      "asset_name": "Staff P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "82405feec3bf221091511f23e4013115",
+      "error_message": null
+    },
+    {
+      "asset_id": "55188922",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8a405feec3bf221091511f23e401311a",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475956",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ca405feec3bf221091511f23e4013139",
+      "error_message": null
+    },
+    {
+      "asset_id": "56241967",
+      "asset_name": "Data S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d1605322c3ff221091511f23e401314b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55336105",
+      "asset_name": "Granite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "52605322c3ff221091511f23e4013149",
+      "error_message": null
+    },
+    {
+      "asset_id": "55446570",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9e605322c3ff221091511f23e401314f",
+      "error_message": null
+    },
+    {
+      "asset_id": "54890480",
+      "asset_name": "TGY009 - LAN 10.109.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1f605322c3ff221091511f23e40131d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161416",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c9801722c3ff221091511f23e401318a",
+      "error_message": null
+    },
+    {
+      "asset_id": "55177324",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "15805722c3ff221091511f23e4013162",
+      "error_message": null
+    },
+    {
+      "asset_id": "55153618",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8d805722c3ff221091511f23e4013125",
+      "error_message": null
+    },
+    {
+      "asset_id": "56062486",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea809722c3ff221091511f23e4013199",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161990",
+      "asset_name": "TGY09 Virtual Environment",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4990d722c3ff221091511f23e40131a8",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622098",
+      "asset_name": "Workroom LaserJet 4200T 09WL4200T",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47622102",
+      "asset_name": "Wellness Office LaserJet 2100 09FL2100",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47622104",
+      "asset_name": "Publishing Color DeskJet 1220C 09PD1220C",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47622106",
+      "asset_name": "Workroom Color LaserJet 4600 09WLC4600",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47622107",
+      "asset_name": "Workroom B&W Copier 5000 09WLI5000",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47622109",
+      "asset_name": "Canon B&W Copier IR5070 UFRII",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47622111",
+      "asset_name": "Workroom Color Copier WC7545 09WLWC7545",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47622112",
+      "asset_name": "Membership B&W Copier 3635MFP 09MC3635MFP",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47622115",
+      "asset_name": "Wellness Lab LaserJet 2100 09FLL2100",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47622099",
+      "asset_name": "Registration LaserJet 4200 09RL4200",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09b0db22c3ff221091511f23e401313b",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622116",
+      "asset_name": "Executive OfficeJet ProX451dn 09EOPX451dn",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09b0d722c3ff221091511f23e40131d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622113",
+      "asset_name": "Workroom Xerox 570 Color Copier  570 09WLC570",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8db0d722c3ff221091511f23e40131b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622101",
+      "asset_name": "Membership LaserJet 5000T 09ML5000T",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "91b0db22c3ff221091511f23e40131b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622118",
+      "asset_name": "Wellness Director LaserJet PRO 402DN 09FLPRO402DN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c4d05f22c3ff221091511f23e40131e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622119",
+      "asset_name": "Wellness Lab LaserJet PRO M402DNE 09FLPROM402DNE",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "41d0df22c3ff221091511f23e401318f",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622120",
+      "asset_name": "Membership Color Copier M5526cdw 09M5526cdw",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "01d01362c3ff221091511f23e4013105",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622122",
+      "asset_name": "Workroom Color Copier MX-6580N Copier  09WLCMX6580N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "01d01362c3ff221091511f23e4013109",
+      "error_message": null
+    },
+    {
+      "asset_id": "48145875",
+      "asset_name": "TGY09-HVH-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0f0d362c3ff221091511f23e40131d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "48202056",
+      "asset_name": "TGY09-DC12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b0f05362c3ff221091511f23e40131a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "48202058",
+      "asset_name": "HHY09-DC12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0f0d362c3ff221091511f23e401310a",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361313",
+      "asset_name": "TGY09-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4df05362c3ff221091511f23e40131a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "10667603",
+      "asset_name": "TGY floor plan Current 04-2022.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "17f01762c3ff221091511f23e40131e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "10667604",
+      "asset_name": "TGY - Tull Gwinnett YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00011762c3ff221091511f23e40131f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10667603",
+      "asset_name": "TGY_floor_plan_Current_04-2022.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ebf05762c3ff221091511f23e401311a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10667604",
+      "asset_name": "TGY_-_Tull_Gwinnett_YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "64015762c3ff221091511f23e4013172",
+      "error_message": null
+    }
+  ]
+}

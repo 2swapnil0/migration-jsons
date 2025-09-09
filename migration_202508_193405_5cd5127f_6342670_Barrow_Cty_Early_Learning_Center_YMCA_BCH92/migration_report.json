@@ -1,0 +1,130 @@
+{
+  "session_id": "migration_202508_193405_5cd5127f",
+  "organization": "Barrow Cty. Early Learning Center YMCA (BCH92)",
+  "timestamp": "2025-09-08T19:38:02.276464",
+  "total_processed": 15,
+  "successful": 15,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55938698",
+      "asset_name": "BCH92 Wireless Network 2 CBCI-AA85-5",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d081fe22c33f221091511f23e4013120",
+      "error_message": null
+    },
+    {
+      "asset_id": "55214832",
+      "asset_name": "Other",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5481fa22c33f221091511f23e4013161",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475352",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d4813e22c33f221091511f23e40131b6",
+      "error_message": null
+    },
+    {
+      "asset_id": "55938707",
+      "asset_name": "BCH92 Wireless Network 3 CBCI-AA85-2.4",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6d81fe22c33f221091511f23e401310e",
+      "error_message": null
+    },
+    {
+      "asset_id": "55577879",
+      "asset_name": "BCH92 VPN access",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e4a13662c33f221091511f23e4013191",
+      "error_message": null
+    },
+    {
+      "asset_id": "55153004",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28a13662c33f221091511f23e40131d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "55177179",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b2a17662c33f221091511f23e40131aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161269",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0b1f662c33f221091511f23e4013125",
+      "error_message": null
+    },
+    {
+      "asset_id": "83230586",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "82b1f662c33f221091511f23e4013113",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161822",
+      "asset_name": "Virtualization not supported at this time",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f3b13a62c33f221091511f23e40131e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "83230146",
+      "asset_name": "YMCA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "24a13662c33f221091511f23e401314e",
+      "error_message": null
+    },
+    {
+      "asset_id": "69482259",
+      "asset_name": "Wireless Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a40232a2c33f221091511f23e40131cc",
+      "error_message": null
+    },
+    {
+      "asset_id": "69483155",
+      "asset_name": "Wireless Acess Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6402fe62c33f221091511f23e4013177",
+      "error_message": null
+    },
+    {
+      "asset_id": "69483672",
+      "asset_name": "Wifi Switch",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a80272a2c33f221091511f23e4013133",
+      "error_message": null
+    },
+    {
+      "asset_id": "69483028",
+      "asset_name": "Wireless Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fc02fe62c33f221091511f23e401317b",
+      "error_message": null
+    }
+  ]
+}

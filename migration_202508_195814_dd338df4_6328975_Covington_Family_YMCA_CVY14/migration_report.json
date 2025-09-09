@@ -1,0 +1,266 @@
+{
+  "session_id": "migration_202508_195814_dd338df4",
+  "organization": "Covington Family YMCA (CVY14)",
+  "timestamp": "2025-09-08T20:02:57.323259",
+  "total_processed": 32,
+  "successful": 32,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55474919",
+      "asset_name": "CVY14.ymcaatlanta.com CVY14",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc0776aac33f221091511f23e401314d",
+      "error_message": null
+    },
+    {
+      "asset_id": "55965948",
+      "asset_name": "Staff P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a00776aac33f221091511f23e4013165",
+      "error_message": null
+    },
+    {
+      "asset_id": "55187762",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac0776aac33f221091511f23e4013159",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475862",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e50776aac33f221091511f23e401314a",
+      "error_message": null
+    },
+    {
+      "asset_id": "56240139",
+      "asset_name": "Data S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ce173aaac33f221091511f23e4013103",
+      "error_message": null
+    },
+    {
+      "asset_id": "68123175",
+      "asset_name": "Covington Day Care",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d827baaac33f221091511f23e401313e",
+      "error_message": null
+    },
+    {
+      "asset_id": "68123271",
+      "asset_name": "Covington Day Care",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5027faaac33f221091511f23e40131fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "68123475",
+      "asset_name": "Covington Family YMCA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "26277eaac33f221091511f23e4013145",
+      "error_message": null
+    },
+    {
+      "asset_id": "55314541",
+      "asset_name": "CVY14 - LAN 10.114.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a33772eac33f221091511f23e4013134",
+      "error_message": null
+    },
+    {
+      "asset_id": "55867667",
+      "asset_name": "CVY14 - PCI/POS LAN 10.114.3.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "654772eac33f221091511f23e40131d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "55867731",
+      "asset_name": "CVY14 - ESM LAN 10.114.14.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed477eaac33f221091511f23e401314f",
+      "error_message": null
+    },
+    {
+      "asset_id": "55577938",
+      "asset_name": "CVY14 VPN access",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ee47b2eac33f221091511f23e4013148",
+      "error_message": null
+    },
+    {
+      "asset_id": "55335553",
+      "asset_name": "Granite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e75776eac33f221091511f23e40131df",
+      "error_message": null
+    },
+    {
+      "asset_id": "55177268",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "246776eac33f221091511f23e40131d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "55153047",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "556776eac33f221091511f23e40131dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161299",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "af67f6eac33f221091511f23e401319f",
+      "error_message": null
+    },
+    {
+      "asset_id": "56037089",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a577b6eac33f221091511f23e40131bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161839",
+      "asset_name": "CVY14 Virtual Environment",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "75773aeac33f221091511f23e40131b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "47624783",
+      "asset_name": "Workroom Color InkJet 1100DTN 14WI1100DTN",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47624784",
+      "asset_name": "Workroom B&W Copier 1055 14WLA1055",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47624785",
+      "asset_name": "Registration LaserJet 4200 14RL4200",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47624786",
+      "asset_name": "Workroom Color Copier 5045 14WLC5045",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47624788",
+      "asset_name": "Workroom Color Copier IRC5250 14WLIRC5250",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47624782",
+      "asset_name": "Workroom LaserJet 4050T 14WL4050T",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8297faeac33f221091511f23e40131ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "47624789",
+      "asset_name": "Workroom Color Copier IRC5550i 14WLIRC5550i",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "42973eeac33f221091511f23e40131cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "47624787",
+      "asset_name": "Executive LaserJet PRO 400 Color 14ELM451NW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "12977eeac33f221091511f23e401316a",
+      "error_message": null
+    },
+    {
+      "asset_id": "48146219",
+      "asset_name": "CVY14-HVH-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c2977eeac33f221091511f23e4013173",
+      "error_message": null
+    },
+    {
+      "asset_id": "48153125",
+      "asset_name": "CVY14-DC12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "43a7feeac33f221091511f23e4013147",
+      "error_message": null
+    },
+    {
+      "asset_id": "48153128",
+      "asset_name": "SDA14-DC12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7ba7322ec33f221091511f23e401312b",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361004",
+      "asset_name": "CVY14-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "08b7322ec33f221091511f23e401311c",
+      "error_message": null
+    },
+    {
+      "asset_id": "10665082",
+      "asset_name": "CVY - Covington YMCA - Floor plan.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4db7322ec33f221091511f23e401318a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10665082",
+      "asset_name": "CVY_-_Covington_YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fdb7322ec33f221091511f23e40131d8",
+      "error_message": null
+    }
+  ]
+}
