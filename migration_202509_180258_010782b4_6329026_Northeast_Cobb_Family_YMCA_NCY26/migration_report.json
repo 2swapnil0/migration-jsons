@@ -1,0 +1,354 @@
+{
+  "session_id": "migration_202509_180258_010782b4",
+  "organization": "Northeast Cobb Family YMCA (NCY26)",
+  "timestamp": "2025-09-09T18:07:33.568981",
+  "total_processed": 43,
+  "successful": 43,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55211526",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2681348b4773a2503c5e88f4116d4381",
+      "error_message": null
+    },
+    {
+      "asset_id": "56242014",
+      "asset_name": "Data S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3281f08b4773a2503c5e88f4116d43a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "55966667",
+      "asset_name": "Staff P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ba81348b4773a2503c5e88f4116d4387",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475965",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a81348b4773a2503c5e88f4116d438d",
+      "error_message": null
+    },
+    {
+      "asset_id": "55447091",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "71a134cb4773a2503c5e88f4116d43b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "55444910",
+      "asset_name": "Granite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "86a134cb4773a2503c5e88f4116d43c7",
+      "error_message": null
+    },
+    {
+      "asset_id": "55153634",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0fa1f4cb4773a2503c5e88f4116d432b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55178306",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "60c1f00f4773a2503c5e88f4116d4371",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161475",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2cc1f00f4773a2503c5e88f4116d433a",
+      "error_message": null
+    },
+    {
+      "asset_id": "54969255",
+      "asset_name": "NCY26 - LAN 10.126.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0fa1b4cb4773a2503c5e88f4116d4382",
+      "error_message": null
+    },
+    {
+      "asset_id": "56062746",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a6c1b40f4773a2503c5e88f4116d436f",
+      "error_message": null
+    },
+    {
+      "asset_id": "55162004",
+      "asset_name": "Virtualization not supported at this time",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "33c1f80f4773a2503c5e88f4116d430a",
+      "error_message": null
+    },
+    {
+      "asset_id": "47632561",
+      "asset_name": "Workroom LaserJet 4200N 26WL4200N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7e1384f4773a2503c5e88f4116d435b",
+      "error_message": null
+    },
+    {
+      "asset_id": "47632563",
+      "asset_name": "Membership/Registration LaserJet 4200 26RL4200",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bbe1384f4773a2503c5e88f4116d434e",
+      "error_message": null
+    },
+    {
+      "asset_id": "47632566",
+      "asset_name": "Workroom Color Copier MPC4500 26WLAMPC4500",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47632567",
+      "asset_name": "Membership/Registration Color Copier 5045 26MLC5045",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47632568",
+      "asset_name": "Workroom B&W 3235I 26WL3235i",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47632569",
+      "asset_name": "Executive LaserJet P1606dn 26ELP1606dn",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47632562",
+      "asset_name": "Workroom Color LaserJet 4600N 26WLC4600N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bfe1384f4773a2503c5e88f4116d431d",
+      "error_message": null
+    },
+    {
+      "asset_id": "47632571",
+      "asset_name": "Workroom B&W IR4235 26WLIR4235",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47632572",
+      "asset_name": "Membership/Registration Color Copier IRC5250 26MLIRC5250",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47632564",
+      "asset_name": "Wellness LaserJet P3005N 26FLP3005N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bfe1384f4773a2503c5e88f4116d43ad",
+      "error_message": null
+    },
+    {
+      "asset_id": "47632565",
+      "asset_name": "Sports LaserJet 4200 26SL4200",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b902748f4773a2503c5e88f4116d43a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "47632570",
+      "asset_name": "Membership Director LaserJet 4200 26FL4200",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3902748f4773a2503c5e88f4116d43c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "47632573",
+      "asset_name": "Executive LaserJet PRO M402DN 26ELPROM402DN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f702388f4773a2503c5e88f4116d4340",
+      "error_message": null
+    },
+    {
+      "asset_id": "47632574",
+      "asset_name": "ELR Program Color LaserJet CP4025DN 26ELRCP4025DN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f702f48f4773a2503c5e88f4116d43dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "47632575",
+      "asset_name": "Membership/Registration Color Copier IRC5550I 26MLIRC5550I",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7122b0cf4773a2503c5e88f4116d43c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "47632576",
+      "asset_name": "Workroom B&W IR4535I 26WLIR4535I",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7122f0cf4773a2503c5e88f4116d4396",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361265",
+      "asset_name": "NCY26-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "332278cf4773a2503c5e88f4116d4346",
+      "error_message": null
+    },
+    {
+      "asset_id": "69554650",
+      "asset_name": "Wireless Access Points",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "372278cf4773a2503c5e88f4116d433e",
+      "error_message": null
+    },
+    {
+      "asset_id": "69554843",
+      "asset_name": "Wireless Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2942b00347b3a2503c5e88f4116d4341",
+      "error_message": null
+    },
+    {
+      "asset_id": "69554913",
+      "asset_name": "Wireless Acess Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2942b00347b3a2503c5e88f4116d433c",
+      "error_message": null
+    },
+    {
+      "asset_id": "69554978",
+      "asset_name": "Wireless Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a742740347b3a2503c5e88f4116d4352",
+      "error_message": null
+    },
+    {
+      "asset_id": "69555030",
+      "asset_name": "Wireless Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e742740347b3a2503c5e88f4116d435f",
+      "error_message": null
+    },
+    {
+      "asset_id": "69555100",
+      "asset_name": "Wireless Router",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4462b80347b3a2503c5e88f4116d4319",
+      "error_message": null
+    },
+    {
+      "asset_id": "69555189",
+      "asset_name": "Wifi Switch",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d062b80347b3a2503c5e88f4116d4324",
+      "error_message": null
+    },
+    {
+      "asset_id": "69555222",
+      "asset_name": "Wifi Switch",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5162f80347b3a2503c5e88f4116d4358",
+      "error_message": null
+    },
+    {
+      "asset_id": "10666442",
+      "asset_name": "NCY - Northeast Cobb YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "75623c0347b3a2503c5e88f4116d433f",
+      "error_message": null
+    },
+    {
+      "asset_id": "10666443",
+      "asset_name": "NCY - Northeast Cobb YMCA site.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4e62f80347b3a2503c5e88f4116d4361",
+      "error_message": null
+    },
+    {
+      "asset_id": "18011822",
+      "asset_name": "iCloud Photos (4).zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ae627c0347b3a2503c5e88f4116d4302",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10666442",
+      "asset_name": "NCY_-_Northeast_Cobb_YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "86623c0347b3a2503c5e88f4116d43a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10666443",
+      "asset_name": "NCY_-_Northeast_Cobb_YMCA_site.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "de623c0347b3a2503c5e88f4116d43c7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_18011822",
+      "asset_name": "iCloud_Photos_(4).zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "be627c0347b3a2503c5e88f4116d4337",
+      "error_message": null
+    }
+  ]
+}

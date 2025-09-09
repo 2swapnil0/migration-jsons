@@ -1,0 +1,314 @@
+{
+  "session_id": "migration_202509_173602_0108985b",
+  "organization": "Forsyth County Family YMCA (FCY19)",
+  "timestamp": "2025-09-09T17:40:10.550034",
+  "total_processed": 38,
+  "successful": 38,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55475086",
+      "asset_name": "FCY19.ymcaatlanta.com FCY19",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b5be4c347bf62503c5e88f4116d4314",
+      "error_message": null
+    },
+    {
+      "asset_id": "55966198",
+      "asset_name": "Staff P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "735ba4c347bf62503c5e88f4116d43a8",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475229",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f5be4c347bf62503c5e88f4116d431a",
+      "error_message": null
+    },
+    {
+      "asset_id": "55188445",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b75be4c347bf62503c5e88f4116d4337",
+      "error_message": null
+    },
+    {
+      "asset_id": "56241578",
+      "asset_name": "Data S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c7b240747bf62503c5e88f4116d43d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "55025997",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e67b280747bf62503c5e88f4116d437a",
+      "error_message": null
+    },
+    {
+      "asset_id": "55578289",
+      "asset_name": "FCY19 VPN access",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eb7b2c0747bf62503c5e88f4116d4334",
+      "error_message": null
+    },
+    {
+      "asset_id": "54964851",
+      "asset_name": "FCY19 - LAN 10.119.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e48bac0747bf62503c5e88f4116d4362",
+      "error_message": null
+    },
+    {
+      "asset_id": "55025967",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "978ba04747bf62503c5e88f4116d43c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "55335680",
+      "asset_name": "Granite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0e9b684747bf62503c5e88f4116d4345",
+      "error_message": null
+    },
+    {
+      "asset_id": "55153499",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "439b684747bf62503c5e88f4116d438e",
+      "error_message": null
+    },
+    {
+      "asset_id": "55177302",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0cabe48747bf62503c5e88f4116d4390",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161345",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b6abac8747bf62503c5e88f4116d430b",
+      "error_message": null
+    },
+    {
+      "asset_id": "56056505",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "30bbac8747bf62503c5e88f4116d43c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161956",
+      "asset_name": "FCY19 Virtual Environment",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fcbbec8747bf62503c5e88f4116d43ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "47627968",
+      "asset_name": "Workroom B&W Copier Ricoh 2075 19WLA2075",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47627972",
+      "asset_name": "Membership LaserJet 4250N 19ML4250N",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47627973",
+      "asset_name": "Workroom Color LaserJet 4650N 19WLC4650N",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47627969",
+      "asset_name": "Wellness LaserJet 2430N 19FL2430N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "18dbe8c747bf62503c5e88f4116d4303",
+      "error_message": null
+    },
+    {
+      "asset_id": "47627975",
+      "asset_name": "Tennis Center LaserJet P2005dn 19TLP2005dn",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47627976",
+      "asset_name": "Executive LaserJet CP2025DN 19ELCP2025DN",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47627977",
+      "asset_name": "Workroom Color Copier IRC7065 19WLIRC7065",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47627974",
+      "asset_name": "Workroom LaserJet 4250TN 19WL4250TN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28dbe8c747bf62503c5e88f4116d432a",
+      "error_message": null
+    },
+    {
+      "asset_id": "47627970",
+      "asset_name": "Registration LaserJet 4250N 19RL4250N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "60dbe8c747bf62503c5e88f4116d4355",
+      "error_message": null
+    },
+    {
+      "asset_id": "47627971",
+      "asset_name": "Lower Admin LaserJet 4250TN 19AL4250TN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "60dbe8c747bf62503c5e88f4116d433d",
+      "error_message": null
+    },
+    {
+      "asset_id": "47627978",
+      "asset_name": "Breakroom Copier: MX-6071S",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "86eba00b47bf62503c5e88f4116d4322",
+      "error_message": null
+    },
+    {
+      "asset_id": "47627979",
+      "asset_name": "Programs LaserJet MF424dw 19PLMF424DW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "82eb600b47bf62503c5e88f4116d43f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "47627980",
+      "asset_name": "Executive LaserJet Pro M254DW 19ELPM254DW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "04fbe00b47bf62503c5e88f4116d43b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "47680756",
+      "asset_name": "FCY19 Comcast ENS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "48fbe00b47bf62503c5e88f4116d43bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "48147495",
+      "asset_name": "FCY19-HVH-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d0c6c0b47bf62503c5e88f4116d4375",
+      "error_message": null
+    },
+    {
+      "asset_id": "48154122",
+      "asset_name": "FCY19-DC12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f90c2c0b47bf62503c5e88f4116d43f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "48154125",
+      "asset_name": "IAY19-DC12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2f0cac0b47bf62503c5e88f4116d43a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361073",
+      "asset_name": "FCY19-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "670cec0b47bf62503c5e88f4116d4359",
+      "error_message": null
+    },
+    {
+      "asset_id": "48508662",
+      "asset_name": "FCY19-RDS12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "902ca04b47bf62503c5e88f4116d432f",
+      "error_message": null
+    },
+    {
+      "asset_id": "48508665",
+      "asset_name": "FCY19-FS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "902ce04b47bf62503c5e88f4116d4330",
+      "error_message": null
+    },
+    {
+      "asset_id": "48508669",
+      "asset_name": "FCY19-VEEAM-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "192ce04b47bf62503c5e88f4116d4336",
+      "error_message": null
+    },
+    {
+      "asset_id": "10665382",
+      "asset_name": "FCY - Forsyth County YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f52ce44b47bf62503c5e88f4116d431e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10665382",
+      "asset_name": "FCY_-_Forsyth_County_YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "de2ce44b47bf62503c5e88f4116d4375",
+      "error_message": null
+    }
+  ]
+}

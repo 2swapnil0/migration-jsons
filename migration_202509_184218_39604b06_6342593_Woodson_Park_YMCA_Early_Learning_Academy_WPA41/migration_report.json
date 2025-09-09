@@ -1,0 +1,106 @@
+{
+  "session_id": "migration_202509_184218_39604b06",
+  "organization": "Woodson Park YMCA Early Learning Academy (WPA41)",
+  "timestamp": "2025-09-09T18:44:02.252085",
+  "total_processed": 12,
+  "successful": 12,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55444643",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d28a708f4777a2503c5e88f4116d438a",
+      "error_message": null
+    },
+    {
+      "asset_id": "55446105",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "168a708f4777a2503c5e88f4116d43de",
+      "error_message": null
+    },
+    {
+      "asset_id": "55476005",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5a8a708f4777a2503c5e88f4116d43e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "55154127",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "da8a708f4777a2503c5e88f4116d43f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "55178544",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "da9a748f4777a2503c5e88f4116d4323",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161797",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "98aab48f4777a2503c5e88f4116d43a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "55162044",
+      "asset_name": "Virtualization not supported at this time",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "18aab48f4777a2503c5e88f4116d43d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361327",
+      "asset_name": "WPA41-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "37ba7c8f4777a2503c5e88f4116d4319",
+      "error_message": null
+    },
+    {
+      "asset_id": "70765363",
+      "asset_name": "Wireless Access Points",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7ba3c8f4777a2503c5e88f4116d43dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "70765047",
+      "asset_name": "Wireless Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7bba7c8f4777a2503c5e88f4116d4359",
+      "error_message": null
+    },
+    {
+      "asset_id": "70765422",
+      "asset_name": "Wireless Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3bba7c8f4777a2503c5e88f4116d431d",
+      "error_message": null
+    },
+    {
+      "asset_id": "70765468",
+      "asset_name": "Wireless Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f1cabc8f4777a2503c5e88f4116d436f",
+      "error_message": null
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "session_id": "migration_202509_183227_545f9a61",
+  "organization": "The Y At Morehouse School of Medicine (MMY33)",
+  "timestamp": "2025-09-09T18:34:53.690830",
+  "total_processed": 21,
+  "successful": 21,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55444441",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "834878cf4737a2503c5e88f4116d43ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "55967357",
+      "asset_name": "Staff P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf4878cf4737a2503c5e88f4116d43f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "55476000",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4b4878cf4737a2503c5e88f4116d43cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "56242699",
+      "asset_name": "Data S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0f4878cf4737a2503c5e88f4116d43e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "55154080",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eb687c034777a2503c5e88f4116d435b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55089272",
+      "asset_name": "MMY33 - LAN 10.133.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a3683c034777a2503c5e88f4116d43f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "55178532",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b687c034777a2503c5e88f4116d4325",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161789",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ab687c034777a2503c5e88f4116d43b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "55162039",
+      "asset_name": "Virtualization not supported at this time",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b7874434777a2503c5e88f4116d4317",
+      "error_message": null
+    },
+    {
+      "asset_id": "56069422",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e37834434777a2503c5e88f4116d434b",
+      "error_message": null
+    },
+    {
+      "asset_id": "71011407",
+      "asset_name": "Wireless Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf9834834777a2503c5e88f4116d43cc",
+      "error_message": null
+    },
+    {
+      "asset_id": "71011662",
+      "asset_name": "Wireless Access Point",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 71011407 (Wireless Access Point)"
+    },
+    {
+      "asset_id": "71011724",
+      "asset_name": "Wireless Access Point",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 71011407 (Wireless Access Point)"
+    },
+    {
+      "asset_id": "71012135",
+      "asset_name": "Wireless Access Point",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 71011407 (Wireless Access Point)"
+    },
+    {
+      "asset_id": "71012210",
+      "asset_name": "Wireless Access Point",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 71011407 (Wireless Access Point)"
+    },
+    {
+      "asset_id": "71012277",
+      "asset_name": "Wireless Access Point",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 71011407 (Wireless Access Point)"
+    },
+    {
+      "asset_id": "47738834",
+      "asset_name": "Membership Color ImageClass MF741Cdw",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b9834834777a2503c5e88f4116d43c0",
+      "error_message": null
+    },
+    {
+      "asset_id": "47738835",
+      "asset_name": "Wellness LaserJet P1606dn",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b79874834777a2503c5e88f4116d438e",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361255",
+      "asset_name": "MMY33-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b39834834777a2503c5e88f4116d43b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "71012485",
+      "asset_name": "Wireless Router",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bfa878834777a2503c5e88f4116d4368",
+      "error_message": null
+    },
+    {
+      "asset_id": "71012589",
+      "asset_name": "Wireless Switch",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bba878834777a2503c5e88f4116d43a6",
+      "error_message": null
+    }
+  ]
+}

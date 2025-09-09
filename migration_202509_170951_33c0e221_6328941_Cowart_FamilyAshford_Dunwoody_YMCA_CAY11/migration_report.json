@@ -1,0 +1,554 @@
+{
+  "session_id": "migration_202509_170951_33c0e221",
+  "organization": "Cowart Family/Ashford Dunwoody YMCA (CAY11)",
+  "timestamp": "2025-09-09T17:15:38.318205",
+  "total_processed": 68,
+  "successful": 68,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "87167423",
+      "asset_name": "CAY11 WIreless MY-YMCA",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c6560c347fb62503c5e88f4116d4365",
+      "error_message": null
+    },
+    {
+      "asset_id": "55474890",
+      "asset_name": "CAY11.ymcaatlanta.com CAY11",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "106560c347fb62503c5e88f4116d430c",
+      "error_message": null
+    },
+    {
+      "asset_id": "55187805",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "906560c347fb62503c5e88f4116d43a8",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475869",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d06560c347fb62503c5e88f4116d4391",
+      "error_message": null
+    },
+    {
+      "asset_id": "55965960",
+      "asset_name": "Staff P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f575a8c347fb62503c5e88f4116d43a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "56240264",
+      "asset_name": "Data S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d75a8c347fb62503c5e88f4116d43b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "55016874",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7756cc347fb62503c5e88f4116d433f",
+      "error_message": null
+    },
+    {
+      "asset_id": "54955196",
+      "asset_name": "CAY11 - LAN 10.111.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b7756cc347fb62503c5e88f4116d4360",
+      "error_message": null
+    },
+    {
+      "asset_id": "55022613",
+      "asset_name": "ASO - ENS WAN 10.10.10.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d195280747fb62503c5e88f4116d43ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "55577964",
+      "asset_name": "CAY11 VPN access",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5195280747fb62503c5e88f4116d43a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "55016838",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1b952c0747fb62503c5e88f4116d43d5",
+      "error_message": null
+    },
+    {
+      "asset_id": "55335497",
+      "asset_name": "Granite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "df956c0747fb62503c5e88f4116d4335",
+      "error_message": null
+    },
+    {
+      "asset_id": "55153061",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "89b52c4747fb62503c5e88f4116d43fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "55177272",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09b56c4747fb62503c5e88f4116d430b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161305",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8eb5208747fb62503c5e88f4116d434c",
+      "error_message": null
+    },
+    {
+      "asset_id": "56056137",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00c5a08747fb62503c5e88f4116d434b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161855",
+      "asset_name": "CAY11 Virtual Environment",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "41c5a08747fb62503c5e88f4116d4313",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622184",
+      "asset_name": "Workroom B&W Copier 1060 11WLA1060",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47622180",
+      "asset_name": "Workroom LaserJet 4200T 11WL4200T",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09e5a4c747fb62503c5e88f4116d4377",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622188",
+      "asset_name": "Wellness LaserJet 4000T 11FL4000T",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8de564c747fb62503c5e88f4116d43b7",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622191",
+      "asset_name": "Workroom Color Copier 3260C 11WLC3260C",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47622193",
+      "asset_name": "Workroom Color Copier MPC7500 11WLAMPC7500",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47622186",
+      "asset_name": "Teen Lab Color InkJet 2200 11LI2200",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "45e5a4c747fb62503c5e88f4116d437e",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622182",
+      "asset_name": "Workroom Color LaserJet 4600 11WLC4600",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09e5a4c747fb62503c5e88f4116d435e",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622189",
+      "asset_name": "Registration LaserJet 4200 11RL4200",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b6f56cc747fb62503c5e88f4116d4368",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622194",
+      "asset_name": "Membership B&W Copier MFX1450 11ML1450",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ec06600b47fb62503c5e88f4116d4357",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622196",
+      "asset_name": "Teen LaserJet 4050N 11TL4050N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f806600b47fb62503c5e88f4116d433f",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622197",
+      "asset_name": "Workroom LaserJet M603XH 11WLM603XH",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c06600b47fb62503c5e88f4116d435c",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622199",
+      "asset_name": "Membership/Registration LaserJet M603DN 11MLM603DN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed16ec0b47fb62503c5e88f4116d43a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622200",
+      "asset_name": "Executive Office Jet PRO 9010 Color",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c426a04b47fb62503c5e88f4116d438b",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622203",
+      "asset_name": "Wellness LaserJet P3015DN 11FLP3015DN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c426a04b47fb62503c5e88f4116d438f",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622209",
+      "asset_name": "Workroom Color Copier IRC7065 11WLIRC7065",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47622202",
+      "asset_name": "Aquatics LaserJet P3015DN 11QLP3015DN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc26a04b47fb62503c5e88f4116d4368",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622206",
+      "asset_name": "Office Manager LaserJet PRO 400 Color 11OLM451NW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ec36e44b47fb62503c5e88f4116d4358",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622207",
+      "asset_name": "Child Care LaserJet PRO 400 Color 11CLM451NW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5f36a48b47fb62503c5e88f4116d43d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "47622211",
+      "asset_name": "Workroom Color Copier IRC7565I 11WLIRC7565I",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1336a48b47fb62503c5e88f4116d43b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "47676003",
+      "asset_name": "CAY11 Comcast ENS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9f36a48b47fb62503c5e88f4116d43c7",
+      "error_message": null
+    },
+    {
+      "asset_id": "48146117",
+      "asset_name": "CAY11-HVH-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0456a0cb47fb62503c5e88f4116d432c",
+      "error_message": null
+    },
+    {
+      "asset_id": "48151909",
+      "asset_name": "CAY11-DC12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "be56a4cb47fb62503c5e88f4116d438e",
+      "error_message": null
+    },
+    {
+      "asset_id": "48151911",
+      "asset_name": "FPY11-DC12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3656e4cb47fb62503c5e88f4116d4361",
+      "error_message": null
+    },
+    {
+      "asset_id": "48360992",
+      "asset_name": "CAY11-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4b56a4cb47fb62503c5e88f4116d4392",
+      "error_message": null
+    },
+    {
+      "asset_id": "57161378",
+      "asset_name": "Front Desk LaserJet Pro M501",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ee662ccb47fb62503c5e88f4116d4334",
+      "error_message": null
+    },
+    {
+      "asset_id": "57162674",
+      "asset_name": "Admin Work - Sharp BP-70C65",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "94766ccb47fb62503c5e88f4116d43cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "66863821",
+      "asset_name": "CAY-Firewall",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "90762ccb47fb62503c5e88f4116d4399",
+      "error_message": null
+    },
+    {
+      "asset_id": "10667966",
+      "asset_name": "CAY - Site & Building plans.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd76eccb47fb62503c5e88f4116d4337",
+      "error_message": null
+    },
+    {
+      "asset_id": "10667968",
+      "asset_name": "CAY floor plans 10-21-2013.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6976eccb47fb62503c5e88f4116d43e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "10667970",
+      "asset_name": "CAY - Cowart Ashford Dunwoody YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5276200f47fb62503c5e88f4116d43b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "11147512",
+      "asset_name": "Close up of Unifi Switches.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6e76200f47fb62503c5e88f4116d439c",
+      "error_message": null
+    },
+    {
+      "asset_id": "11147513",
+      "asset_name": "Camera Switches Patch Panel and UPS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cb76600f47fb62503c5e88f4116d43ce",
+      "error_message": null
+    },
+    {
+      "asset_id": "11147514",
+      "asset_name": "V Host and D Link Switch.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "df76a00f47fb62503c5e88f4116d439a",
+      "error_message": null
+    },
+    {
+      "asset_id": "11147515",
+      "asset_name": "Unifi Switches Comcast Modem.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f76a00f47fb62503c5e88f4116d43fd",
+      "error_message": null
+    },
+    {
+      "asset_id": "11147516",
+      "asset_name": "Systems Room.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c486240f47fb62503c5e88f4116d437c",
+      "error_message": null
+    },
+    {
+      "asset_id": "11147517",
+      "asset_name": "Punch down Block Fire alarm phones.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c86240f47fb62503c5e88f4116d43e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "11147518",
+      "asset_name": "Punch Down Block 2 Emergency Phones.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd86640f47fb62503c5e88f4116d4322",
+      "error_message": null
+    },
+    {
+      "asset_id": "11147520",
+      "asset_name": "Poseidon_Drowning detection system for swimming pools.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1986a40f47fb62503c5e88f4116d432f",
+      "error_message": null
+    },
+    {
+      "asset_id": "11147521",
+      "asset_name": "Intercom and Fire Alarm.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7186a40f47fb62503c5e88f4116d43ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10667966",
+      "asset_name": "CAY_-_Site___Building_plans.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd76eccb47fb62503c5e88f4116d43dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10667968",
+      "asset_name": "CAY_floor_plans_10-21-2013.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8276200f47fb62503c5e88f4116d4332",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10667970",
+      "asset_name": "CAY_-_Cowart_Ashford_Dunwoody_YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5e76200f47fb62503c5e88f4116d433a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11147512",
+      "asset_name": "Close_up_of_Unifi_Switches.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b676600f47fb62503c5e88f4116d4349",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11147513",
+      "asset_name": "Camera_Switches_Patch_Panel_and_UPS.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cb76600f47fb62503c5e88f4116d435a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11147514",
+      "asset_name": "V_Host_and_D_Link_Switch.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "af76e00f47fb62503c5e88f4116d4308",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11147515",
+      "asset_name": "Unifi_Switches_Comcast_Modem.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8c86240f47fb62503c5e88f4116d43a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11147516",
+      "asset_name": "Systems_Room.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1086640f47fb62503c5e88f4116d430f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11147517",
+      "asset_name": "Punch_down_Block_Fire_alarm_phones.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7086640f47fb62503c5e88f4116d435e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11147518",
+      "asset_name": "Punch_Down_Block_2_Emergency_Phones.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd86640f47fb62503c5e88f4116d43d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11147520",
+      "asset_name": "Poseidon_Drowning_detection_system_for_swimming_pools.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed86640f47fb62503c5e88f4116d43e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_11147521",
+      "asset_name": "Intercom_and_Fire_Alarm.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd86e40f47fb62503c5e88f4116d4383",
+      "error_message": null
+    }
+  ]
+}

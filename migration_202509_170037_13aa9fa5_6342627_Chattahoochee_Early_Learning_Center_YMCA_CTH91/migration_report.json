@@ -1,0 +1,658 @@
+{
+  "session_id": "migration_202509_170037_13aa9fa5",
+  "organization": "Chattahoochee Early Learning Center YMCA (CTH91)",
+  "timestamp": "2025-09-09T17:03:38.512302",
+  "total_processed": 81,
+  "successful": 79,
+  "failed": 2,
+  "results": [
+    {
+      "asset_id": "55153034",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a54324c347bb62503c5e88f4116d43dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "55215603",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "294364c347bb62503c5e88f4116d4326",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475853",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a94364c347bb62503c5e88f4116d43c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "55502417",
+      "asset_name": "CTH91 VPN access",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2d4364c347bb62503c5e88f4116d43d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "55177188",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6253a40747bb62503c5e88f4116d4349",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161286",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e353680747bb62503c5e88f4116d432f",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161833",
+      "asset_name": "Virtualization not supported at this time",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6753680747bb62503c5e88f4116d433a",
+      "error_message": null
+    },
+    {
+      "asset_id": "70632046",
+      "asset_name": "Wireless Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c773644747bb62503c5e88f4116d4388",
+      "error_message": null
+    },
+    {
+      "asset_id": "70632437",
+      "asset_name": "Wireless Access Point",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 70632046 (Wireless Access Point)"
+    },
+    {
+      "asset_id": "70632254",
+      "asset_name": "Wireless Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8773644747bb62503c5e88f4116d4392",
+      "error_message": null
+    },
+    {
+      "asset_id": "70632384",
+      "asset_name": "Wireless Access Point",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d773644747bb62503c5e88f4116d43b7",
+      "error_message": null
+    },
+    {
+      "asset_id": "70632343",
+      "asset_name": "Wireless Access Points",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1f73644747bb62503c5e88f4116d4396",
+      "error_message": null
+    },
+    {
+      "asset_id": "70646264",
+      "asset_name": "Wireless Switch",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f83a84747bb62503c5e88f4116d4387",
+      "error_message": null
+    },
+    {
+      "asset_id": "70646318",
+      "asset_name": "Wireless Switch",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4383a84747bb62503c5e88f4116d43b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "13618998",
+      "asset_name": "CTH91-IT System Room",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b783e84747bb62503c5e88f4116d43bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "13459417",
+      "asset_name": "Axis Door Controller Management Console",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "acb3a48747bb62503c5e88f4116d430f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0379.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "de93ac4747bb62503c5e88f4116d435d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Intercom_System.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1a936c4747bb62503c5e88f4116d43ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0368.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a293ac4747bb62503c5e88f4116d4337",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0372.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2293ac4747bb62503c5e88f4116d43e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Intercom_System_2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f693ac4747bb62503c5e88f4116d43af",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0380.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f293ec4747bb62503c5e88f4116d4342",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0369.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f293ac4747bb62503c5e88f4116d43ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Lan_Devices.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8793ec4747bb62503c5e88f4116d43bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Unifi_Switch.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f93ec4747bb62503c5e88f4116d43c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0371.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1393208747bb62503c5e88f4116d435b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0374.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d393208747bb62503c5e88f4116d4362",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0375.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2393208747bb62503c5e88f4116d4377",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Rack_Switches.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e393208747bb62503c5e88f4116d437e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Fire_Alarm_System.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f93208747bb62503c5e88f4116d4395",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Rack_Back.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3793208747bb62503c5e88f4116d4331",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0376.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3393208747bb62503c5e88f4116d43d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0373.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "40a3ac4747bb62503c5e88f4116d434f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0378.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00a3208747bb62503c5e88f4116d43f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0366.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d0a3208747bb62503c5e88f4116d43fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0364.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ca3608747bb62503c5e88f4116d434e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0377.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a4a3608747bb62503c5e88f4116d438b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0379.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "de93ac4747bb62503c5e88f4116d435d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Intercom_System.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1a936c4747bb62503c5e88f4116d43ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0368.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a293ac4747bb62503c5e88f4116d4337",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0372.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2293ac4747bb62503c5e88f4116d43e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Intercom_System_2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f693ac4747bb62503c5e88f4116d43af",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0380.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f293ec4747bb62503c5e88f4116d4342",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0369.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f293ac4747bb62503c5e88f4116d43ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Lan_Devices.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8793ec4747bb62503c5e88f4116d43bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Unifi_Switch.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f93ec4747bb62503c5e88f4116d43c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0371.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1393208747bb62503c5e88f4116d435b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0374.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d393208747bb62503c5e88f4116d4362",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0375.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2393208747bb62503c5e88f4116d4377",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Rack_Switches.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e393208747bb62503c5e88f4116d437e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Fire_Alarm_System.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f93208747bb62503c5e88f4116d4395",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Rack_Back.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3793208747bb62503c5e88f4116d4331",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0376.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3393208747bb62503c5e88f4116d43d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0373.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "40a3ac4747bb62503c5e88f4116d434f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0378.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00a3208747bb62503c5e88f4116d43f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0366.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d0a3208747bb62503c5e88f4116d43fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0364.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ca3608747bb62503c5e88f4116d434e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0377.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a4a3608747bb62503c5e88f4116d438b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0379.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "de93ac4747bb62503c5e88f4116d435d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Intercom_System.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1a936c4747bb62503c5e88f4116d43ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0368.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a293ac4747bb62503c5e88f4116d4337",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0372.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2293ac4747bb62503c5e88f4116d43e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Intercom_System_2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f693ac4747bb62503c5e88f4116d43af",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0380.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f293ec4747bb62503c5e88f4116d4342",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0369.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f293ac4747bb62503c5e88f4116d43ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Lan_Devices.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8793ec4747bb62503c5e88f4116d43bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Unifi_Switch.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f93ec4747bb62503c5e88f4116d43c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0371.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1393208747bb62503c5e88f4116d435b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0374.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d393208747bb62503c5e88f4116d4362",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0375.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2393208747bb62503c5e88f4116d4377",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Rack_Switches.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e393208747bb62503c5e88f4116d437e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Fire_Alarm_System.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f93208747bb62503c5e88f4116d4395",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "Rack_Back.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3793208747bb62503c5e88f4116d4331",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0376.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3393208747bb62503c5e88f4116d43d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0373.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "40a3ac4747bb62503c5e88f4116d434f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0378.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00a3208747bb62503c5e88f4116d43f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0366.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d0a3208747bb62503c5e88f4116d43fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0364.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ca3608747bb62503c5e88f4116d434e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13618998",
+      "asset_name": "IMG_0377.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a4a3608747bb62503c5e88f4116d438b",
+      "error_message": null
+    },
+    {
+      "asset_id": "13459417",
+      "asset_name": "19313119",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "13459417",
+      "asset_name": "19313124",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    }
+  ]
+}

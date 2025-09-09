@@ -1,0 +1,242 @@
+{
+  "session_id": "migration_202509_172931_29613051",
+  "organization": "East Lake Teen Center (ELT06)",
+  "timestamp": "2025-09-09T17:32:03.446875",
+  "total_processed": 29,
+  "successful": 29,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55188185",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e4e96cc7477f62503c5e88f4116d438e",
+      "error_message": null
+    },
+    {
+      "asset_id": "55578060",
+      "asset_name": "ELT06 VPN access",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "64e96cc7477f62503c5e88f4116d432d",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475912",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e0e96cc7477f62503c5e88f4116d43bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "55335642",
+      "asset_name": "Granite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "60e96cc7477f62503c5e88f4116d43d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "67851051",
+      "asset_name": "SOS (Standard Office Systems) Printer Vendor",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7ef9204b477f62503c5e88f4116d4303",
+      "error_message": null
+    },
+    {
+      "asset_id": "55153483",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "640a244b477f62503c5e88f4116d4347",
+      "error_message": null
+    },
+    {
+      "asset_id": "55177292",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b80a244b477f62503c5e88f4116d430c",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161331",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bc0a244b477f62503c5e88f4116d4359",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161924",
+      "asset_name": "Virtualization not supported at this time",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac1aa84b477f62503c5e88f4116d43c7",
+      "error_message": null
+    },
+    {
+      "asset_id": "67389435",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6c1aa84b477f62503c5e88f4116d4346",
+      "error_message": null
+    },
+    {
+      "asset_id": "57348068",
+      "asset_name": "ELT50-DGS121028P-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "983ae88b477f62503c5e88f4116d4338",
+      "error_message": null
+    },
+    {
+      "asset_id": "57348108",
+      "asset_name": "ELT-DGS121048-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c3ae88b477f62503c5e88f4116d437a",
+      "error_message": null
+    },
+    {
+      "asset_id": "57348213",
+      "asset_name": "DES-3200-52P",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d03ae88b477f62503c5e88f4116d4320",
+      "error_message": null
+    },
+    {
+      "asset_id": "57348225",
+      "asset_name": "ELT50-SWT01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "503ae88b477f62503c5e88f4116d4389",
+      "error_message": null
+    },
+    {
+      "asset_id": "57348238",
+      "asset_name": "ELT50-RTR01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4c4a60cb477f62503c5e88f4116d439a",
+      "error_message": null
+    },
+    {
+      "asset_id": "57348521",
+      "asset_name": "Cannon ImageRunner Advance C5540i",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c04a60cb477f62503c5e88f4116d43a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "13757947",
+      "asset_name": "Server Room Photos 8/30/2023",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a04a60cb477f62503c5e88f4116d43ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13757947",
+      "asset_name": "IMG_0058.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed4aa0cb477f62503c5e88f4116d4399",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13757947",
+      "asset_name": "IMG_0060.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a94aa0cb477f62503c5e88f4116d4382",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13757947",
+      "asset_name": "IMG_4074.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a94ae0cb477f62503c5e88f4116d430c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13757947",
+      "asset_name": "IMG_0059.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "314ae0cb477f62503c5e88f4116d4352",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13757947",
+      "asset_name": "IMG_0058.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed4aa0cb477f62503c5e88f4116d4399",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13757947",
+      "asset_name": "IMG_0060.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a94aa0cb477f62503c5e88f4116d4382",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13757947",
+      "asset_name": "IMG_4074.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a94ae0cb477f62503c5e88f4116d430c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13757947",
+      "asset_name": "IMG_0059.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "314ae0cb477f62503c5e88f4116d4352",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13757947",
+      "asset_name": "IMG_0058.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed4aa0cb477f62503c5e88f4116d4399",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13757947",
+      "asset_name": "IMG_0060.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a94aa0cb477f62503c5e88f4116d4382",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13757947",
+      "asset_name": "IMG_4074.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a94ae0cb477f62503c5e88f4116d430c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13757947",
+      "asset_name": "IMG_0059.JPEG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "314ae0cb477f62503c5e88f4116d4352",
+      "error_message": null
+    }
+  ]
+}

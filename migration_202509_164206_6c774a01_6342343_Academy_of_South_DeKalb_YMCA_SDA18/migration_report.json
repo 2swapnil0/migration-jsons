@@ -1,0 +1,218 @@
+{
+  "session_id": "migration_202509_164206_6c774a01",
+  "organization": "Academy of South DeKalb YMCA (SDA18)",
+  "timestamp": "2025-09-09T16:44:53.086351",
+  "total_processed": 26,
+  "successful": 26,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55734996",
+      "asset_name": "SDA18.ymcaatlanta.com SDA18",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b2fe5007473b62503c5e88f4116d43e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "55965797",
+      "asset_name": "P: Drive Folder P",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "690f1807473b62503c5e88f4116d4307",
+      "error_message": null
+    },
+    {
+      "asset_id": "55186406",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6d0f1807473b62503c5e88f4116d4389",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475250",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "610f1807473b62503c5e88f4116d43a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "55089592",
+      "asset_name": "SDA18 - LAN 10.118.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b1f5047473b62503c5e88f4116d4360",
+      "error_message": null
+    },
+    {
+      "asset_id": "55496340",
+      "asset_name": "SDA18 VPN access",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b02fd047473b62503c5e88f4116d435f",
+      "error_message": null
+    },
+    {
+      "asset_id": "55867502",
+      "asset_name": "SDA18 - PCI LAN 10.118.3.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b42fd047473b62503c5e88f4116d4374",
+      "error_message": null
+    },
+    {
+      "asset_id": "55867559",
+      "asset_name": "SDA18 - ESM LAN 10.118.14.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b42fd047473b62503c5e88f4116d4381",
+      "error_message": null
+    },
+    {
+      "asset_id": "55152918",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b3f5c47473b62503c5e88f4116d4322",
+      "error_message": null
+    },
+    {
+      "asset_id": "55177091",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "833f5c47473b62503c5e88f4116d4302",
+      "error_message": null
+    },
+    {
+      "asset_id": "55160857",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8b3f5c47473b62503c5e88f4116d4346",
+      "error_message": null
+    },
+    {
+      "asset_id": "56034029",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7b3f9c47473b62503c5e88f4116d430b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161800",
+      "asset_name": "SDA Virtual Environment",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd4fdc47473b62503c5e88f4116d4377",
+      "error_message": null
+    },
+    {
+      "asset_id": "47738811",
+      "asset_name": "Workroom InkJet 2230 52WI2230",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47738812",
+      "asset_name": "Workroom B&W Copier 1060 52WLA1060",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47738813",
+      "asset_name": "Workroom Color LaserJet 2500TN 52WLC2500TN",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47738814",
+      "asset_name": "LAP Workroom Color LaserJet 3600N 18WLC3600N",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47738815",
+      "asset_name": "LAP Workroom B&W Copier IR6055 18WLIR6055",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47738809",
+      "asset_name": "LAP Registration LaserJet 4200 18RL4200",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "856f5c87473b62503c5e88f4116d433e",
+      "error_message": null
+    },
+    {
+      "asset_id": "47738817",
+      "asset_name": "SAP Registration LaserJet 4200 A8RL4200",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "016f9c87473b62503c5e88f4116d4317",
+      "error_message": null
+    },
+    {
+      "asset_id": "47738810",
+      "asset_name": "LAP Workroom LaserJet 4050T 18WL4050T",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0d6f9c87473b62503c5e88f4116d433d",
+      "error_message": null
+    },
+    {
+      "asset_id": "47738816",
+      "asset_name": "SAP Workroom Color Copier IRC5255 A8WCLIRC5255",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "816f9c87473b62503c5e88f4116d4330",
+      "error_message": null
+    },
+    {
+      "asset_id": "47738818",
+      "asset_name": "SAP Workroom LaserJet 4200T A8WL4200T",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "537f90c7473b62503c5e88f4116d4364",
+      "error_message": null
+    },
+    {
+      "asset_id": "48195828",
+      "asset_name": "SDA18-DC12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e77f90c7473b62503c5e88f4116d43b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "48195830",
+      "asset_name": "CVY18-DC12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "677f90c7473b62503c5e88f4116d43c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "48195853",
+      "asset_name": "SDA18-HVH-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d08f90c7473b62503c5e88f4116d43c7",
+      "error_message": null
+    }
+  ]
+}

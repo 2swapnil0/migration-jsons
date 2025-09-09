@@ -1,0 +1,90 @@
+{
+  "session_id": "migration_202509_180134_8e973b14",
+  "organization": "Morgan Cty. Early Learning Center YMCA (MCH95)",
+  "timestamp": "2025-09-09T18:02:58.560037",
+  "total_processed": 10,
+  "successful": 10,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55440249",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3431f4c74773a2503c5e88f4116d4356",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475962",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c531f4c74773a2503c5e88f4116d4377",
+      "error_message": null
+    },
+    {
+      "asset_id": "55963839",
+      "asset_name": "Camera System",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8a31b8c74773a2503c5e88f4116d43fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "55153628",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c741f40b4773a2503c5e88f4116d4338",
+      "error_message": null
+    },
+    {
+      "asset_id": "64941513",
+      "asset_name": "Other",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f031f4c74773a2503c5e88f4116d434b",
+      "error_message": null
+    },
+    {
+      "asset_id": "55178229",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3741380b4773a2503c5e88f4116d4381",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161461",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7341380b4773a2503c5e88f4116d4389",
+      "error_message": null
+    },
+    {
+      "asset_id": "66370829",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b51f80b4773a2503c5e88f4116d4313",
+      "error_message": null
+    },
+    {
+      "asset_id": "55162002",
+      "asset_name": "Virtualization not supported at this time",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b7517c0b4773a2503c5e88f4116d4382",
+      "error_message": null
+    },
+    {
+      "asset_id": "10907490",
+      "asset_name": "How-to: Access footage from camera system",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5061bc0b4773a2503c5e88f4116d4325",
+      "error_message": null
+    }
+  ]
+}

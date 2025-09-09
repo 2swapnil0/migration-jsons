@@ -1,0 +1,330 @@
+{
+  "session_id": "migration_202509_173203_77e3acc9",
+  "organization": "Ed Isakson/Alpharetta Family YMCA (IAY05)",
+  "timestamp": "2025-09-09T17:36:02.765707",
+  "total_processed": 40,
+  "successful": 40,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "55718651",
+      "asset_name": "IAY05.ymcaatlanta.com IAY05",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f57a280f477f62503c5e88f4116d43b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "55966053",
+      "asset_name": "Staff P:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b97a280f477f62503c5e88f4116d431f",
+      "error_message": null
+    },
+    {
+      "asset_id": "55475918",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "397a280f477f62503c5e88f4116d439d",
+      "error_message": null
+    },
+    {
+      "asset_id": "55188382",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "757a280f477f62503c5e88f4116d43fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "56241256",
+      "asset_name": "Data S:",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3e8a244f477f62503c5e88f4116d4341",
+      "error_message": null
+    },
+    {
+      "asset_id": "55578065",
+      "asset_name": "IAY05 VPN access",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "799aa44f477f62503c5e88f4116d43f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "55026644",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "359ae44f477f62503c5e88f4116d436a",
+      "error_message": null
+    },
+    {
+      "asset_id": "54889154",
+      "asset_name": "IAY05 - LAN 10.105.1.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b59ae44f477f62503c5e88f4116d4381",
+      "error_message": null
+    },
+    {
+      "asset_id": "55026618",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aeaa6c4f477f62503c5e88f4116d43dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "55335793",
+      "asset_name": "Granite",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "29bae08f477f62503c5e88f4116d43c7",
+      "error_message": null
+    },
+    {
+      "asset_id": "55153490",
+      "asset_name": "Other YMCA will be managing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e9ba248f477f62503c5e88f4116d4362",
+      "error_message": null
+    },
+    {
+      "asset_id": "55177296",
+      "asset_name": "Security",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "21ba248f477f62503c5e88f4116d4371",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161337",
+      "asset_name": "Other YMCA will be managing their own backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "19cae48f477f62503c5e88f4116d434c",
+      "error_message": null
+    },
+    {
+      "asset_id": "55161943",
+      "asset_name": "IAY05 Virtual Environment",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c3ca288f477f62503c5e88f4116d4387",
+      "error_message": null
+    },
+    {
+      "asset_id": "56056463",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4fcae48f477f62503c5e88f4116d43be",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621687",
+      "asset_name": "Workroom LaserJet 4200TN 05WL4200TN",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621689",
+      "asset_name": "Workroom Color LaserJet 4600 05WLC4600",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621691",
+      "asset_name": "Workroom B&W Copier 8500 05WLI8500",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621692",
+      "asset_name": "Admin LaserJet 5000T 05AL5000T",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621694",
+      "asset_name": "Membership LaserJet 4200 05ML4200",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621696",
+      "asset_name": "Registration LaserJet 4200 05RL4200",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621698",
+      "asset_name": "Teen Lower Office LaserJet 2100 05TL2100",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621700",
+      "asset_name": "Workroom B&W Copier 4595 05WL4595",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621701",
+      "asset_name": "Workroom Xerox B&W Copier D95 05WLD95",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621706",
+      "asset_name": "Workroom Xerox B&W Copier D125 05WLD125",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "47621697",
+      "asset_name": "Wellness LaserJet 2420D 05WL2420D",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1feaa8cf477f62503c5e88f4116d43ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621704",
+      "asset_name": "Executive LaserJet PRO M402dn 05ELPROM402DN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dbeae8cf477f62503c5e88f4116d438c",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621707",
+      "asset_name": "Frontdesk LaserJet MF424dw 05MLMF424DW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "13eae8cf477f62503c5e88f4116d4383",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621703",
+      "asset_name": "Workroom Xerox B&W Copier 7120 05WL7120",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1beae8cf477f62503c5e88f4116d4351",
+      "error_message": null
+    },
+    {
+      "asset_id": "47621709",
+      "asset_name": "Workroom Sharp Color Copier MX6071 05WLMX6071N",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a0b240347bf62503c5e88f4116d43b6",
+      "error_message": null
+    },
+    {
+      "asset_id": "47682583",
+      "asset_name": "IAY05 Comcast ENS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ce0b240347bf62503c5e88f4116d43f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "48142578",
+      "asset_name": "IAY05-HVH-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "470b280347bf62503c5e88f4116d4367",
+      "error_message": null
+    },
+    {
+      "asset_id": "48155185",
+      "asset_name": "IAY05-DC12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c30b680347bf62503c5e88f4116d4335",
+      "error_message": null
+    },
+    {
+      "asset_id": "48155400",
+      "asset_name": "FCY05-DC12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c12ba84347bf62503c5e88f4116d4375",
+      "error_message": null
+    },
+    {
+      "asset_id": "48361209",
+      "asset_name": "IAY05-RDS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0d2b684347bf62503c5e88f4116d439c",
+      "error_message": null
+    },
+    {
+      "asset_id": "48506801",
+      "asset_name": "IAY05-RDS12R2-2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3e2b2c4347bf62503c5e88f4116d4323",
+      "error_message": null
+    },
+    {
+      "asset_id": "48506898",
+      "asset_name": "IAY05-FS12R2-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e2b6c4347bf62503c5e88f4116d4315",
+      "error_message": null
+    },
+    {
+      "asset_id": "48507020",
+      "asset_name": "IAY05-VEEAM-1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b83bec4347bf62503c5e88f4116d434c",
+      "error_message": null
+    },
+    {
+      "asset_id": "10665911",
+      "asset_name": "IAY - Isakson Alpharetta YMCA - Floor Plan.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "153b248347bf62503c5e88f4116d433e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_10665911",
+      "asset_name": "IAY_-_Isakson_Alpharetta_YMCA.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "713b648347bf62503c5e88f4116d435c",
+      "error_message": null
+    }
+  ]
+}
