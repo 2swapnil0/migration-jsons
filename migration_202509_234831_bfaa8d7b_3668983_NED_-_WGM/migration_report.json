@@ -1,0 +1,626 @@
+{
+  "session_id": "migration_202509_234831_bfaa8d7b",
+  "organization": "NED - WGM",
+  "timestamp": "2025-09-09T23:50:12.852917",
+  "total_processed": 77,
+  "successful": 76,
+  "failed": 1,
+  "results": [
+    {
+      "asset_id": "70053633",
+      "asset_name": "Westgate.local Westgate",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8ca006cb833f26509bdf5e60ceaad3b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "20704426",
+      "asset_name": "WGM-Corp WGM-Corp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "98a006cb833f26509bdf5e60ceaad3d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "15130405",
+      "asset_name": "ShoreTel",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "54a046cb833f26509bdf5e60ceaad306",
+      "error_message": null
+    },
+    {
+      "asset_id": "82914080",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "98a046cb833f26509bdf5e60ceaad312",
+      "error_message": null
+    },
+    {
+      "asset_id": "16135236",
+      "asset_name": "Microsoft 365",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e4a046cb833f26509bdf5e60ceaad37b",
+      "error_message": null
+    },
+    {
+      "asset_id": "18343519",
+      "asset_name": "Comcast - Primary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2ca046cb833f26509bdf5e60ceaad366",
+      "error_message": null
+    },
+    {
+      "asset_id": "70093905",
+      "asset_name": "CCE 10.100.92.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8a046cb833f26509bdf5e60ceaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "15130271",
+      "asset_name": "wgm.lan 192.168.5.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a4a046cb833f26509bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "15130393",
+      "asset_name": "Barry Communications",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "70a046cb833f26509bdf5e60ceaad3ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "16135079",
+      "asset_name": "Comcast Business: NED-WGM",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "85a086cb833f26509bdf5e60ceaad389",
+      "error_message": null
+    },
+    {
+      "asset_id": "16135243",
+      "asset_name": "Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cda086cb833f26509bdf5e60ceaad39f",
+      "error_message": null
+    },
+    {
+      "asset_id": "82914105",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "01a086cb833f26509bdf5e60ceaad3ad",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644465",
+      "asset_name": "WGM-FS01 - ned-wgm-fs01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "21a0c6cb833f26509bdf5e60ceaad31a",
+      "error_message": null
+    },
+    {
+      "asset_id": "15479223",
+      "asset_name": "WGM-FS01 - wgm-fs01 daily full",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a5a0c6cb833f26509bdf5e60ceaad33a",
+      "error_message": null
+    },
+    {
+      "asset_id": "14407780",
+      "asset_name": "VMware Order / Contract 372647467",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d9a086cb833f26509bdf5e60ceaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "69408865",
+      "asset_name": "(vApp) WGM-CORE-DC02-8b01d6a0-38cc-4f79-a386-df778db21b6a - CORE92-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "71a0c6cb833f26509bdf5e60ceaad3b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "69408866",
+      "asset_name": "WGM-CCE-DC02 - CORE92-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5a0c6cb833f26509bdf5e60ceaad3f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "14408006",
+      "asset_name": "NED-WGM-ESXi02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4aa00acb833f26509bdf5e60ceaad30d",
+      "error_message": null
+    },
+    {
+      "asset_id": "16515069",
+      "asset_name": "Fortinet Fortinet SN:  FGT60D4Q16053026 (WGM-FW01) EOL 60D",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e1a0c6cb833f26509bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "22014247",
+      "asset_name": "Symantec",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014321",
+      "asset_name": "wgm-scott-dt2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014328",
+      "asset_name": "wgm-fs01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014329",
+      "asset_name": "jsilva-pc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014405",
+      "asset_name": "wgm-dc01 (DC)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014537",
+      "asset_name": "lvilani-lt2",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014577",
+      "asset_name": "bmacchia-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014590",
+      "asset_name": "dmccallum-dt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014591",
+      "asset_name": "lvillani-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014600",
+      "asset_name": "wgm-core-dc01 (DC)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "26872656",
+      "asset_name": "wgm-security-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26872657",
+      "asset_name": "jsilva-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014305",
+      "asset_name": "Dell Server",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "72a00acb833f26509bdf5e60ceaad37e",
+      "error_message": null
+    },
+    {
+      "asset_id": "22014306",
+      "asset_name": "WGM-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7ea00acb833f26509bdf5e60ceaad370",
+      "error_message": null
+    },
+    {
+      "asset_id": "29764970",
+      "asset_name": "WGM-FW01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 22014306 (WGM-FW01)"
+    },
+    {
+      "asset_id": "29195031",
+      "asset_name": "WGM-ESXi02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2a00acb833f26509bdf5e60ceaad382",
+      "error_message": null
+    },
+    {
+      "asset_id": "23285939",
+      "asset_name": "WGM-SW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "72a00acb833f26509bdf5e60ceaad345",
+      "error_message": null
+    },
+    {
+      "asset_id": "29195035",
+      "asset_name": "WGM-ESXi02-iDRAC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dba04acb833f26509bdf5e60ceaad396",
+      "error_message": null
+    },
+    {
+      "asset_id": "59003337",
+      "asset_name": "WGM-CCE-DC02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2fa04acb833f26509bdf5e60ceaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "59010459",
+      "asset_name": "CCE to WGM",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ba04acb833f26509bdf5e60ceaad37c",
+      "error_message": null
+    },
+    {
+      "asset_id": "37247243",
+      "asset_name": "Xerox AltaLink C8045",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "53a04acb833f26509bdf5e60ceaad376",
+      "error_message": null
+    },
+    {
+      "asset_id": "826859",
+      "asset_name": "shopatwestgatemall.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a4b04acb833f26509bdf5e60ceaad3cd",
+      "error_message": null
+    },
+    {
+      "asset_id": 333346,
+      "asset_name": "shop-westgate.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1db08acb833f26509bdf5e60ceaad382",
+      "error_message": null
+    },
+    {
+      "asset_id": "3899408",
+      "asset_name": "NED WGM Runbook",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "65b08acb833f26509bdf5e60ceaad32a",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063640",
+      "asset_name": "WGM - (2) Svr2012Std + (6) Svr2012 Cals.rtf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f5b08acb833f26509bdf5e60ceaad3af",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063644",
+      "asset_name": "WGM (1) OLP OFFICE STD 2010.rtf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "92b0cacb833f26509bdf5e60ceaad338",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063238",
+      "asset_name": "NED_WGM_Network.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "66b0cacb833f26509bdf5e60ceaad31c",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063239",
+      "asset_name": "Westgate Public IP Comcast.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c7b0cacb833f26509bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063246",
+      "asset_name": "HP-MSM430_config_CN26DWY2KC.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "53b0cacb833f26509bdf5e60ceaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063247",
+      "asset_name": "wgm-fw1_20171114_1011.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e7b00ecb833f26509bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063248",
+      "asset_name": "sonicwall-TZ_210-5_6_0_11-61o_12-19-20013.exp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f3b00ecb833f26509bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063250",
+      "asset_name": "sonicwall-TZ_210-5_6_0_11-61o_02-10-2014.exp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "10c00ecb833f26509bdf5e60ceaad33d",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063251",
+      "asset_name": "wgm-fw1_20180817_0904.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ecc00ecb833f26509bdf5e60ceaad3a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063255",
+      "asset_name": "Image20190829135607.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c1c00ecb833f26509bdf5e60ceaad3f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063256",
+      "asset_name": "Image20190829135551.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "59c04ecb833f26509bdf5e60ceaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063259",
+      "asset_name": "Image20190829135603.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "35c04ecb833f26509bdf5e60ceaad344",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063260",
+      "asset_name": "Image20190829135624.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cec04ecb833f26509bdf5e60ceaad39e",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063265",
+      "asset_name": "IMG_20150709_151526.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aac04ecb833f26509bdf5e60ceaad3f9",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063267",
+      "asset_name": "IMG_20150709_151714.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4bc08ecb833f26509bdf5e60ceaad331",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063269",
+      "asset_name": "IMG_20150709_151533.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "73c08ecb833f26509bdf5e60ceaad37d",
+      "error_message": null
+    },
+    {
+      "asset_id": "5787972",
+      "asset_name": "IMG_20200630_154358.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f8d08ecb833f26509bdf5e60ceaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063640",
+      "asset_name": "WGM_-_(2)_Svr2012Std___(6)_Svr2012_Cals.rtf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0ab0cacb833f26509bdf5e60ceaad33f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063644",
+      "asset_name": "WGM_(1)_OLP_OFFICE_STD_2010.rtf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2ab0cacb833f26509bdf5e60ceaad374",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063238",
+      "asset_name": "NED_WGM_Network.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "76b0cacb833f26509bdf5e60ceaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063239",
+      "asset_name": "Westgate_Public_IP_Comcast.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c3b0cacb833f26509bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063246",
+      "asset_name": "HP-MSM430_config_CN26DWY2KC.cfg",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_4063247",
+      "asset_name": "wgm-fw1_20171114_1011.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bfb00ecb833f26509bdf5e60ceaad333",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063248",
+      "asset_name": "sonicwall-TZ_210-5_6_0_11-61o_12-19-20013.exp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "44c00ecb833f26509bdf5e60ceaad35c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063250",
+      "asset_name": "sonicwall-TZ_210-5_6_0_11-61o_02-10-2014.exp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "24c00ecb833f26509bdf5e60ceaad3ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063251",
+      "asset_name": "wgm-fw1_20180817_0904.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f8c00ecb833f26509bdf5e60ceaad3d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063255",
+      "asset_name": "Image20190829135607.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09c00ecb833f26509bdf5e60ceaad3ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063256",
+      "asset_name": "Image20190829135551.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "65c04ecb833f26509bdf5e60ceaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063259",
+      "asset_name": "Image20190829135603.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5c04ecb833f26509bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063260",
+      "asset_name": "Image20190829135624.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d2c04ecb833f26509bdf5e60ceaad373",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063265",
+      "asset_name": "IMG_20150709_151526.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2c08ecb833f26509bdf5e60ceaad343",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063267",
+      "asset_name": "IMG_20150709_151714.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5bc08ecb833f26509bdf5e60ceaad386",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063269",
+      "asset_name": "IMG_20150709_151533.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00d08ecb833f26509bdf5e60ceaad3ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5787972",
+      "asset_name": "IMG_20200630_154358.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "01d0cecb833f26509bdf5e60ceaad38c",
+      "error_message": null
+    }
+  ]
+}

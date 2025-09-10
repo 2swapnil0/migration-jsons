@@ -1,0 +1,1186 @@
+{
+  "session_id": "migration_202509_224613_7c28b26c",
+  "organization": "NED - 20CS",
+  "timestamp": "2025-09-09T22:49:10.628247",
+  "total_processed": 147,
+  "successful": 147,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "82756432",
+      "asset_name": "20CS-BMS 20CS-BMS",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c462f54b837b26509bdf5e60ceaad3d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "82760538",
+      "asset_name": "20CS-SEC 20CS-SEC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9062394b837b26509bdf5e60ceaad32a",
+      "error_message": null
+    },
+    {
+      "asset_id": "82756465",
+      "asset_name": "20CS-Guest 20CS-Guest",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9c62394b837b26509bdf5e60ceaad322",
+      "error_message": null
+    },
+    {
+      "asset_id": "82761309",
+      "asset_name": "20CS-Ops 20CS-Ops",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1062394b837b26509bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "82913648",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6462394b837b26509bdf5e60ceaad36c",
+      "error_message": null
+    },
+    {
+      "asset_id": "75279039",
+      "asset_name": "Not Managed By Coretelligent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6462394b837b26509bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "70254912",
+      "asset_name": "Default VLAN 172.30.48.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3462394b837b26509bdf5e60ceaad3c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "70254966",
+      "asset_name": "MGMT/INFRA 172.30.49.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0d62794b837b26509bdf5e60ceaad317",
+      "error_message": null
+    },
+    {
+      "asset_id": "70255036",
+      "asset_name": "Security 172.30.50.0/23",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd62794b837b26509bdf5e60ceaad3aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "70255129",
+      "asset_name": "BMS 172.30.52.0/23",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1d62794b837b26509bdf5e60ceaad3bf",
+      "error_message": null
+    },
+    {
+      "asset_id": "70252687",
+      "asset_name": "Comcast (PRIMARY)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b462794b837b26509bdf5e60ceaad30c",
+      "error_message": null
+    },
+    {
+      "asset_id": "70252998",
+      "asset_name": "Comcast (Secondary)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3062794b837b26509bdf5e60ceaad314",
+      "error_message": null
+    },
+    {
+      "asset_id": "70255244",
+      "asset_name": "Corp LAN 172.30.56.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3d62b94b837b26509bdf5e60ceaad318",
+      "error_message": null
+    },
+    {
+      "asset_id": "70255365",
+      "asset_name": "Corp WiFi 172.30.57.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3562b94b837b26509bdf5e60ceaad34a",
+      "error_message": null
+    },
+    {
+      "asset_id": "70255397",
+      "asset_name": "Guest WiFi 172.30.54.0/23",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8262b94b837b26509bdf5e60ceaad3a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "80363153",
+      "asset_name": "Ops Wifi 172.30.60.1/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c662b94b837b26509bdf5e60ceaad3b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "70255467",
+      "asset_name": "20 Cambridgeside Supernet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c662b94b837b26509bdf5e60ceaad3d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "70284096",
+      "asset_name": "Meraki",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1262b94b837b26509bdf5e60ceaad3e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "82753524",
+      "asset_name": "Fortinet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e262f94b837b26509bdf5e60ceaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "82753632",
+      "asset_name": "Intelligent Buildings, LLC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f262f94b837b26509bdf5e60ceaad33d",
+      "error_message": null
+    },
+    {
+      "asset_id": "70250359",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8262b94b837b26509bdf5e60ceaad3b7",
+      "error_message": null
+    },
+    {
+      "asset_id": "82913750",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3e62f94b837b26509bdf5e60ceaad38d",
+      "error_message": null
+    },
+    {
+      "asset_id": "70254433",
+      "asset_name": "PASEK",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1662b94b837b26509bdf5e60ceaad3db",
+      "error_message": null
+    },
+    {
+      "asset_id": "70284835",
+      "asset_name": "Fortinet Firewall Licensing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b62f94b837b26509bdf5e60ceaad3ce",
+      "error_message": null
+    },
+    {
+      "asset_id": "70284150",
+      "asset_name": "Meraki Network Gear Licensing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cb62f94b837b26509bdf5e60ceaad3a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "59238786",
+      "asset_name": "NED-20CS-MDF-285-SW-01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "34723d4b837b26509bdf5e60ceaad3c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "59238673",
+      "asset_name": "NED-20CS-MDF-285-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b4723d4b837b26509bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "59238675",
+      "asset_name": "NED-20CS-MDF-285-FW02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0723d4b837b26509bdf5e60ceaad3ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "59238746",
+      "asset_name": "NED-20CS-MDF-285-FIBER-SW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b0727d4b837b26509bdf5e60ceaad30f",
+      "error_message": null
+    },
+    {
+      "asset_id": "59238849",
+      "asset_name": "NED-20CS-MDF-285-PUB-SW-01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "99727d4b837b26509bdf5e60ceaad360",
+      "error_message": null
+    },
+    {
+      "asset_id": "59238999",
+      "asset_name": "NED-20CS-MDF-285-PUB-SW-02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d1727d4b837b26509bdf5e60ceaad371",
+      "error_message": null
+    },
+    {
+      "asset_id": "59240036",
+      "asset_name": "NED-20CS-IDF-261-SW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "91727d4b837b26509bdf5e60ceaad368",
+      "error_message": null
+    },
+    {
+      "asset_id": "59294840",
+      "asset_name": "NED-20CS-IDF-361-SW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f9727d4b837b26509bdf5e60ceaad3c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "59297212",
+      "asset_name": "NED-20CS-IDF-461-SW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5727d4b837b26509bdf5e60ceaad3fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "59278656",
+      "asset_name": "Comcast Ciena Primary Circuit",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "29727d4b837b26509bdf5e60ceaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "59278669",
+      "asset_name": "Comcast Ciena Secondary Circuit",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e1727d4b837b26509bdf5e60ceaad3c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "59297305",
+      "asset_name": "NED-20CS-IDF-561-SW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1672bd4b837b26509bdf5e60ceaad355",
+      "error_message": null
+    },
+    {
+      "asset_id": "59309863",
+      "asset_name": "NED-20CS-IDF-661-SW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9272bd4b837b26509bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "59309874",
+      "asset_name": "NED-20CS-IDF-761-SW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6e72bd4b837b26509bdf5e60ceaad3f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "59309889",
+      "asset_name": "NED-20CS-IDF-861-SW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2272bd4b837b26509bdf5e60ceaad3a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "60186964",
+      "asset_name": "NED-20CS-IDF-M171-SW-02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a72fd4b837b26509bdf5e60ceaad35c",
+      "error_message": null
+    },
+    {
+      "asset_id": "60186466",
+      "asset_name": "NED-20CS-IDF-M171-SW-01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ba72fd4b837b26509bdf5e60ceaad37d",
+      "error_message": null
+    },
+    {
+      "asset_id": "60187115",
+      "asset_name": "NED-20CS-IDF-961-SW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8772bd4b837b26509bdf5e60ceaad3f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "60187261",
+      "asset_name": "NED-20CS-IDF-1061-SW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0372318b837b26509bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "65288720",
+      "asset_name": "NED-20CS-IDF-G1506-SW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5f72318b837b26509bdf5e60ceaad30a",
+      "error_message": null
+    },
+    {
+      "asset_id": "65288787",
+      "asset_name": "NED-20CS-IDF-G1509-SW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d372318b837b26509bdf5e60ceaad310",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295202",
+      "asset_name": "01st Lobby 1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7772318b837b26509bdf5e60ceaad3e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295203",
+      "asset_name": "01st Lobby 2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf72318b837b26509bdf5e60ceaad3f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295219",
+      "asset_name": "02nd flr conf room",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0882318b837b26509bdf5e60ceaad3fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295259",
+      "asset_name": "02nd flr elev lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8082718b837b26509bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295263",
+      "asset_name": "02nd flr escallator",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5882718b837b26509bdf5e60ceaad363",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295275",
+      "asset_name": "02nd flr turnstiles",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d082718b837b26509bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295281",
+      "asset_name": "03rd flr elev lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c82718b837b26509bdf5e60ceaad3b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295293",
+      "asset_name": "04th flr elev lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3082718b837b26509bdf5e60ceaad3b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295296",
+      "asset_name": "05th flr elev lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4182718b837b26509bdf5e60ceaad3f3",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295304",
+      "asset_name": "05th flr freight lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0582718b837b26509bdf5e60ceaad3c3",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295308",
+      "asset_name": "06th floor elev lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d982b18b837b26509bdf5e60ceaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295312",
+      "asset_name": "06th flr freight lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9582b18b837b26509bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295332",
+      "asset_name": "07th elev lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e982b18b837b26509bdf5e60ceaad39d",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295340",
+      "asset_name": "07th flr freight lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b582b18b837b26509bdf5e60ceaad3a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295376",
+      "asset_name": "08th freight lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0e82f18b837b26509bdf5e60ceaad346",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295372",
+      "asset_name": "08th flr elev lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4a82f18b837b26509bdf5e60ceaad333",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295380",
+      "asset_name": "09th elev lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2e82f18b837b26509bdf5e60ceaad3cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295391",
+      "asset_name": "09th freight lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6682f18b837b26509bdf5e60ceaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295408",
+      "asset_name": "10th flr elev lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aa82358b837b26509bdf5e60ceaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295416",
+      "asset_name": "10th flr freight lobby",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3a82f18b837b26509bdf5e60ceaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295428",
+      "asset_name": "e4:55:a8:0f:da:80",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5f82358b837b26509bdf5e60ceaad3c0",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295461",
+      "asset_name": "e4:55:a8:1e:75:02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5f82358b837b26509bdf5e60ceaad39f",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295535",
+      "asset_name": "e4:55:a8:1e:75:0d",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b82758b837b26509bdf5e60ceaad334",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295601",
+      "asset_name": "e4:55:a8:1e:75:1a",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "df82758b837b26509bdf5e60ceaad302",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295714",
+      "asset_name": "e4:55:a8:0f:da:80",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 65295428 (e4:55:a8:0f:da:80)"
+    },
+    {
+      "asset_id": "65295766",
+      "asset_name": "e4:55:a8:1e:75:02",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 65295461 (e4:55:a8:1e:75:02)"
+    },
+    {
+      "asset_id": "65295775",
+      "asset_name": "e4:55:a8:1e:75:0d",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 65295535 (e4:55:a8:1e:75:0d)"
+    },
+    {
+      "asset_id": "65295834",
+      "asset_name": "e4:55:a8:1e:75:1a",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 65295601 (e4:55:a8:1e:75:1a)"
+    },
+    {
+      "asset_id": "65295613",
+      "asset_name": "e4:55:a8:1f:1f:27",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8892758b837b26509bdf5e60ceaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295634",
+      "asset_name": "M1-7",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0c92b58b837b26509bdf5e60ceaad303",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295636",
+      "asset_name": "TEMP AP in MDF 285",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c092b58b837b26509bdf5e60ceaad309",
+      "error_message": null
+    },
+    {
+      "asset_id": "65295895",
+      "asset_name": "e4:55:a8:1f:1f:27",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4092b58b837b26509bdf5e60ceaad30e",
+      "error_message": null
+    },
+    {
+      "asset_id": "72741221",
+      "asset_name": "NED-20CS-IDF-261a-SW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a892b58b837b26509bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "14256426",
+      "asset_name": "2023-0609-NED 20CS NETWORK DIAGRAM T426.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a192b58b837b26509bdf5e60ceaad3d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "14256427",
+      "asset_name": "20 CS Telecomm Drawings - Plans and Riser Only.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0292f58b837b26509bdf5e60ceaad316",
+      "error_message": null
+    },
+    {
+      "asset_id": "14256428",
+      "asset_name": "20 CS Telecomm Drawings - Full Set.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e92f58b837b26509bdf5e60ceaad3dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "14256429",
+      "asset_name": "20CS Desired Wifi Locations - Highlighted in Red.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cca2f58b837b26509bdf5e60ceaad356",
+      "error_message": null
+    },
+    {
+      "asset_id": "14256430",
+      "asset_name": "NED Report.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "05a2398b837b26509bdf5e60ceaad3b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "14267140",
+      "asset_name": "CoretelligentLLC - 20CS COI.PDF",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5a2798b837b26509bdf5e60ceaad3fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "16934387",
+      "asset_name": "20CS_Wireless_M1_M2.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4aa2b98b837b26509bdf5e60ceaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "16934388",
+      "asset_name": "20 CS - WAP Status.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d6a2b98b837b26509bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "16934391",
+      "asset_name": "Gaston TD - As-Builts.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3aa2b98b837b26509bdf5e60ceaad364",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382585",
+      "asset_name": "NED-20CS-IDF-861-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "48b2f98b837b26509bdf5e60ceaad32d",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382586",
+      "asset_name": "NED-20CS-IDF-961-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ecb2f98b837b26509bdf5e60ceaad3aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382588",
+      "asset_name": "NED-20CS-IDF-861-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "89b23d8b837b26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382589",
+      "asset_name": "NED-20CS-IDF-761-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5db23d8b837b26509bdf5e60ceaad39f",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382590",
+      "asset_name": "NED-20CS-IDF-761-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "75b23d8b837b26509bdf5e60ceaad33d",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382591",
+      "asset_name": "NED-20CS-IDF-661-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0eb23d8b837b26509bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382592",
+      "asset_name": "NED-20CS-IDF-661-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aeb27d8b837b26509bdf5e60ceaad37a",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382593",
+      "asset_name": "NED-20CS-IDF-561-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "43b23d8b837b26509bdf5e60ceaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382594",
+      "asset_name": "NED-20CS-IDF-561-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "57b2bd8b837b26509bdf5e60ceaad31d",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382595",
+      "asset_name": "NED-20CS-IDF-361-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f3b2bd8b837b26509bdf5e60ceaad35e",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382596",
+      "asset_name": "NED-20CS-IDF-361-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "94c2bd8b837b26509bdf5e60ceaad39d",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382597",
+      "asset_name": "MDF-FiberDownlinks.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a8c2bd8b837b26509bdf5e60ceaad3bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382598",
+      "asset_name": "MDFComcastCircuitsCloseUp.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c1c2fd8b837b26509bdf5e60ceaad339",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382599",
+      "asset_name": "MDFComcastCircuits.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a9c2fd8b837b26509bdf5e60ceaad312",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382600",
+      "asset_name": "NED-20CS-MDF-285-PubFWFibSW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7dc2fd8b837b26509bdf5e60ceaad34f",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382601",
+      "asset_name": "NED-20CS-MDF-285-FiberSW01.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "52c2fd8b837b26509bdf5e60ceaad3e6",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382602",
+      "asset_name": "NED-20CS-IDF-M171-SW0102SwitchStack-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "62c231cb837b26509bdf5e60ceaad316",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382603",
+      "asset_name": "NED-20CS-IDF-M171-SW0102SwitchStack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0fc231cb837b26509bdf5e60ceaad30a",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382604",
+      "asset_name": "NED-20CS-IDF-G1509-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1fc231cb837b26509bdf5e60ceaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382605",
+      "asset_name": "NED-20CS-IDF-G1509-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3fc2b1cb837b26509bdf5e60ceaad30c",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382606",
+      "asset_name": "NED-20CS-IDF-G1506-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "04d271cb837b26509bdf5e60ceaad381",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382607",
+      "asset_name": "NED-20CS-IDF-G1506-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "acd2b1cb837b26509bdf5e60ceaad3b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382608",
+      "asset_name": "NED-20CS-IDF-1061-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fcd2b1cb837b26509bdf5e60ceaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382609",
+      "asset_name": "NED-20CS-IDF-1061-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "19d2f1cb837b26509bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "15382610",
+      "asset_name": "NED-20CS-IDF-961-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25d2f1cb837b26509bdf5e60ceaad3bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14256426",
+      "asset_name": "2023-0609-NED_20CS_NETWORK_DIAGRAM_T426.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3192b58b837b26509bdf5e60ceaad355",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14256427",
+      "asset_name": "20_CS_Telecomm_Drawings_-_Plans_and_Riser_Only.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9a92b58b837b26509bdf5e60ceaad3e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14256428",
+      "asset_name": "20_CS_Telecomm_Drawings_-_Full_Set.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1b92f58b837b26509bdf5e60ceaad3ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14256429",
+      "asset_name": "20CS_Desired_Wifi_Locations_-_Highlighted_in_Red.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "68a2398b837b26509bdf5e60ceaad3ca",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14256430",
+      "asset_name": "NED_Report.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e1a2798b837b26509bdf5e60ceaad390",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14267140",
+      "asset_name": "CoretelligentLLC_-_Client_Pack_-_3114248-1.PDF",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "79a2b98b837b26509bdf5e60ceaad338",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16934387",
+      "asset_name": "20CS_Wireless_M1_M2.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1aa2b98b837b26509bdf5e60ceaad36c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16934388",
+      "asset_name": "20_CS_-_WAP_Status.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ea2b98b837b26509bdf5e60ceaad392",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16934391",
+      "asset_name": "Gaston_TD_-_As-Builts.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d7a2f98b837b26509bdf5e60ceaad338",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382585",
+      "asset_name": "NED-20CS-IDF-861-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "90b2f98b837b26509bdf5e60ceaad343",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382586",
+      "asset_name": "NED-20CS-IDF-961-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f0b2f98b837b26509bdf5e60ceaad3f9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382588",
+      "asset_name": "NED-20CS-IDF-861-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09b23d8b837b26509bdf5e60ceaad332",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382589",
+      "asset_name": "NED-20CS-IDF-761-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25b2f98b837b26509bdf5e60ceaad3e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382590",
+      "asset_name": "NED-20CS-IDF-761-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4eb27d8b837b26509bdf5e60ceaad354",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382591",
+      "asset_name": "NED-20CS-IDF-661-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "56b27d8b837b26509bdf5e60ceaad321",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382592",
+      "asset_name": "NED-20CS-IDF-661-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3ab27d8b837b26509bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382593",
+      "asset_name": "NED-20CS-IDF-561-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c3b27d8b837b26509bdf5e60ceaad3ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382594",
+      "asset_name": "NED-20CS-IDF-561-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ebb2bd8b837b26509bdf5e60ceaad330",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382595",
+      "asset_name": "NED-20CS-IDF-361-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "04c27d8b837b26509bdf5e60ceaad3cc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382596",
+      "asset_name": "NED-20CS-IDF-361-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6cc2bd8b837b26509bdf5e60ceaad391",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382597",
+      "asset_name": "MDF-FiberDownlinks.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78c2bd8b837b26509bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382598",
+      "asset_name": "MDFComcastCircuitsCloseUp.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "51c2fd8b837b26509bdf5e60ceaad343",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382599",
+      "asset_name": "MDFComcastCircuits.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5c2fd8b837b26509bdf5e60ceaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382600",
+      "asset_name": "NED-20CS-MDF-285-PubFWFibSW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cec2fd8b837b26509bdf5e60ceaad3ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382601",
+      "asset_name": "NED-20CS-MDF-285-FiberSW01.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2ec231cb837b26509bdf5e60ceaad38b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382602",
+      "asset_name": "NED-20CS-IDF-M171-SW0102SwitchStack-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bac231cb837b26509bdf5e60ceaad3ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382603",
+      "asset_name": "NED-20CS-IDF-M171-SW0102SwitchStack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "97c271cb837b26509bdf5e60ceaad30d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382604",
+      "asset_name": "NED-20CS-IDF-G1509-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2bc231cb837b26509bdf5e60ceaad3c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382605",
+      "asset_name": "NED-20CS-IDF-G1509-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "84d271cb837b26509bdf5e60ceaad38c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382606",
+      "asset_name": "NED-20CS-IDF-G1506-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dcd2b1cb837b26509bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382607",
+      "asset_name": "NED-20CS-IDF-G1506-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b8d2b1cb837b26509bdf5e60ceaad3dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382608",
+      "asset_name": "NED-20CS-IDF-1061-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0dd2f1cb837b26509bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382609",
+      "asset_name": "NED-20CS-IDF-1061-SW.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "65d2f1cb837b26509bdf5e60ceaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_15382610",
+      "asset_name": "NED-20CS-IDF-961-SW-Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "71d235cb837b26509bdf5e60ceaad31c",
+      "error_message": null
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "session_id": "migration_202509_234831_bfaa8d7b",
+  "organization": "NED - WGM",
+  "timestamp": "2025-09-10T00:55:08.157503",
+  "total_processed": 24,
+  "successful": 24,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "70053633_59003337",
+      "asset_name": "Relationship: Westgate.local Westgate -> WGM-CCE-DC02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "857f4e4f83bf26509bdf5e60ceaad368",
+      "error_message": null
+    },
+    {
+      "asset_id": "70053633_59003337",
+      "asset_name": "Relationship: Westgate.local Westgate -> WGM-CCE-DC02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd7f8e4f83bf26509bdf5e60ceaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "20704426_15130271",
+      "asset_name": "Relationship: WGM-Corp WGM-Corp -> wgm.lan 192.168.5.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d7fce4f83bf26509bdf5e60ceaad319",
+      "error_message": null
+    },
+    {
+      "asset_id": "16135236_814305",
+      "asset_name": "Relationship: Microsoft 365 -> nedevelopment.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4a7fce4f83bf26509bdf5e60ceaad33b",
+      "error_message": null
+    },
+    {
+      "asset_id": "15130271_29195031",
+      "asset_name": "Relationship: wgm.lan 192.168.5.0/24 -> WGM-ESXi02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e27f8e4f83bf26509bdf5e60ceaad3d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "82914105_82914080",
+      "asset_name": "Relationship: SentinelOne -> SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "137fce4f83bf26509bdf5e60ceaad392",
+      "error_message": null
+    },
+    {
+      "asset_id": "14408006_29195031",
+      "asset_name": "Relationship: NED-WGM-ESXi02 -> WGM-ESXi02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0c8fce4f83bf26509bdf5e60ceaad3c7",
+      "error_message": null
+    },
+    {
+      "asset_id": "14408006_29195035",
+      "asset_name": "Relationship: NED-WGM-ESXi02 -> WGM-ESXi02-iDRAC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a48fce4f83bf26509bdf5e60ceaad38b",
+      "error_message": null
+    },
+    {
+      "asset_id": "70053633_59003337",
+      "asset_name": "Relationship: Westgate.local Westgate -> WGM-CCE-DC02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd8f028f83bf26509bdf5e60ceaad31d",
+      "error_message": null
+    },
+    {
+      "asset_id": "82914080_82914105",
+      "asset_name": "Relationship: SentinelOne -> SentinelOne",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Relationship already exists"
+    },
+    {
+      "asset_id": "16135236_16135243",
+      "asset_name": "Relationship: Microsoft 365 -> Microsoft",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "078f028f83bf26509bdf5e60ceaad3af",
+      "error_message": null
+    },
+    {
+      "asset_id": "15130271_20704426",
+      "asset_name": "Relationship: wgm.lan 192.168.5.0/24 -> WGM-Corp WGM-Corp",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Relationship already exists"
+    },
+    {
+      "asset_id": "15130393_15130405",
+      "asset_name": "Relationship: Barry Communications -> ShoreTel",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f49f428f83bf26509bdf5e60ceaad38b",
+      "error_message": null
+    },
+    {
+      "asset_id": "16135079_18343519",
+      "asset_name": "Relationship: Comcast Business: NED-WGM -> Comcast - Primary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "199f428f83bf26509bdf5e60ceaad3f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "16135243_16135236",
+      "asset_name": "Relationship: Microsoft -> Microsoft 365",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Relationship already exists"
+    },
+    {
+      "asset_id": "22014306_59010459",
+      "asset_name": "Relationship: WGM-FW01 -> CCE to WGM",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6caf828f83bf26509bdf5e60ceaad37c",
+      "error_message": null
+    },
+    {
+      "asset_id": "29195031_15130271",
+      "asset_name": "Relationship: WGM-ESXi02 -> wgm.lan 192.168.5.0/24",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Relationship already exists"
+    },
+    {
+      "asset_id": "29195031_14408006",
+      "asset_name": "Relationship: WGM-ESXi02 -> NED-WGM-ESXi02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "deafc28f83bf26509bdf5e60ceaad34e",
+      "error_message": null
+    },
+    {
+      "asset_id": "29195035_14408006",
+      "asset_name": "Relationship: WGM-ESXi02-iDRAC -> NED-WGM-ESXi02",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Relationship already exists"
+    },
+    {
+      "asset_id": "59003337_70053633",
+      "asset_name": "Relationship: WGM-CCE-DC02 -> Westgate.local Westgate",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Relationship already exists"
+    },
+    {
+      "asset_id": "59003337_70053633",
+      "asset_name": "Relationship: WGM-CCE-DC02 -> Westgate.local Westgate",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Relationship already exists"
+    },
+    {
+      "asset_id": "59003337_74798823",
+      "asset_name": "Relationship: WGM-CCE-DC02 -> Core Cloud (CCE1)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8bf828f83bf26509bdf5e60ceaad3db",
+      "error_message": null
+    },
+    {
+      "asset_id": "59010459_22014306",
+      "asset_name": "Relationship: CCE to WGM -> WGM-FW01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Relationship already exists"
+    },
+    {
+      "asset_id": "826859_333346",
+      "asset_name": "Relationship: shopatwestgatemall.com -> shop-westgate.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "86bf068f83bf26509bdf5e60ceaad393",
+      "error_message": null
+    }
+  ]
+}

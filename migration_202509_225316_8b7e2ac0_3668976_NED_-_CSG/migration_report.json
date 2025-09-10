@@ -1,0 +1,2218 @@
+{
+  "session_id": "migration_202509_225316_8b7e2ac0",
+  "organization": "NED - CSG",
+  "timestamp": "2025-09-09T22:58:10.127603",
+  "total_processed": 276,
+  "successful": 274,
+  "failed": 2,
+  "results": [
+    {
+      "asset_id": "70053736",
+      "asset_name": "csg.local CSG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b004718f837b26509bdf5e60ceaad319",
+      "error_message": null
+    },
+    {
+      "asset_id": "90137969",
+      "asset_name": "Corp Wireless CSG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7404718f837b26509bdf5e60ceaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "22411609",
+      "asset_name": "Guest Wireless CambridgeSide",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f404718f837b26509bdf5e60ceaad384",
+      "error_message": null
+    },
+    {
+      "asset_id": "22412753",
+      "asset_name": "Vendor Wireless CSVend",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3004718f837b26509bdf5e60ceaad38f",
+      "error_message": null
+    },
+    {
+      "asset_id": "17840255",
+      "asset_name": "Veeam",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7d04b18f837b26509bdf5e60ceaad302",
+      "error_message": null
+    },
+    {
+      "asset_id": "22413142",
+      "asset_name": "Other",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "da04718f837b26509bdf5e60ceaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "16095514",
+      "asset_name": "Home H:\\",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5e04b18f837b26509bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "26747158",
+      "asset_name": "Salient CompleteView",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6a04b18f837b26509bdf5e60ceaad38c",
+      "error_message": null
+    },
+    {
+      "asset_id": "16095515",
+      "asset_name": "Operations O:\\",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1704b18f837b26509bdf5e60ceaad3fe",
+      "error_message": null
+    },
+    {
+      "asset_id": "16095519",
+      "asset_name": "RideAndRun R:\\",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3704f18f837b26509bdf5e60ceaad383",
+      "error_message": null
+    },
+    {
+      "asset_id": "16095526",
+      "asset_name": "Tenant T:\\",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f04f18f837b26509bdf5e60ceaad3b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "18343335",
+      "asset_name": "Comcast Primary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8014f18f837b26509bdf5e60ceaad3af",
+      "error_message": null
+    },
+    {
+      "asset_id": "106214456",
+      "asset_name": "Comcast Secondary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f814758f837b26509bdf5e60ceaad301",
+      "error_message": null
+    },
+    {
+      "asset_id": "70093691",
+      "asset_name": "CCE 10.100.92.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1914358f837b26509bdf5e60ceaad3fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "8904656",
+      "asset_name": "VLan 1 - NED - CSG 172.30.232.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5914758f837b26509bdf5e60ceaad3c1",
+      "error_message": null
+    },
+    {
+      "asset_id": "89903271",
+      "asset_name": "VLan 50 - NED - CSG 192.168.96.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd14b58f837b26509bdf5e60ceaad343",
+      "error_message": null
+    },
+    {
+      "asset_id": "89903730",
+      "asset_name": "VLan 235 - NED - CSG 172.30.235.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9614f58f837b26509bdf5e60ceaad33f",
+      "error_message": null
+    },
+    {
+      "asset_id": "89903786",
+      "asset_name": "VLan 237 - NED - CSG 172.25.74.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f14f58f837b26509bdf5e60ceaad38e",
+      "error_message": null
+    },
+    {
+      "asset_id": "89903824",
+      "asset_name": "VLan 6 - NED - CSG 192.168.6.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb14398f837b26509bdf5e60ceaad36a",
+      "error_message": null
+    },
+    {
+      "asset_id": "17088446",
+      "asset_name": "Comcast - CSG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4024f58f837b26509bdf5e60ceaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "17840244",
+      "asset_name": "Veeam",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4424398f837b26509bdf5e60ceaad3a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "22411558",
+      "asset_name": "Ruckus",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1d24798f837b26509bdf5e60ceaad365",
+      "error_message": null
+    },
+    {
+      "asset_id": "87876598",
+      "asset_name": "Xerox Print/Scan Devices",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d524798f837b26509bdf5e60ceaad345",
+      "error_message": null
+    },
+    {
+      "asset_id": "89210519",
+      "asset_name": "Cisco Meraki",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3524b98f837b26509bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "90138503",
+      "asset_name": "Fortinet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b924b98f837b26509bdf5e60ceaad377",
+      "error_message": null
+    },
+    {
+      "asset_id": "19051461",
+      "asset_name": "Fortinet Fortinet SN:  FG100D3G16824541  (NED-CSG - 100D) EOL",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "21032688",
+      "asset_name": "Other Ruckus Wireless Deployment",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "17840598",
+      "asset_name": "Cisco ASA 5505",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "403 Client Error: Forbidden for url: https://coretelligent.service-now.com/api/now/table/ast_contract"
+    },
+    {
+      "asset_id": "17840628",
+      "asset_name": "Cisco SmartNet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f624f98f837b26509bdf5e60ceaad301",
+      "error_message": null
+    },
+    {
+      "asset_id": "17840725",
+      "asset_name": "Cisco SmartNet",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b24f98f837b26509bdf5e60ceaad355",
+      "error_message": null
+    },
+    {
+      "asset_id": "89212170",
+      "asset_name": "Meraki NED CSG Meraki Co-term License",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1324f98f837b26509bdf5e60ceaad334",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644464",
+      "asset_name": "CSG-DC02 - ned-csg-dc02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "10343d8f837b26509bdf5e60ceaad311",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644466",
+      "asset_name": "CSG-FP01 - ned-csg-fp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bc343d8f837b26509bdf5e60ceaad359",
+      "error_message": null
+    },
+    {
+      "asset_id": "16106194",
+      "asset_name": "CSG-DC02 - csg-dc02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3034f98f837b26509bdf5e60ceaad3e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "16203950",
+      "asset_name": "CSG-FP01 - csg-fp01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f8343d8f837b26509bdf5e60ceaad325",
+      "error_message": null
+    },
+    {
+      "asset_id": "15944168",
+      "asset_name": "CSG-ESXi01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": "ad00c67a939922502dadffed1dba1055",
+      "error_message": "Asset with same u_itg_id already exists in ServiceNow"
+    },
+    {
+      "asset_id": "70820767",
+      "asset_name": "(vApp) NED-CCE-FS01-70c32257-466e-4d28-8e34-9e95bbcdca42 - CORE92-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "61347d8f837b26509bdf5e60ceaad307",
+      "error_message": null
+    },
+    {
+      "asset_id": "70820769",
+      "asset_name": "(vApp) CSG-CCE-DC03-230ccac3-3b5f-4925-8016-d4ede02aaf4b - CORE92-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "75347d8f837b26509bdf5e60ceaad33d",
+      "error_message": null
+    },
+    {
+      "asset_id": "15944527",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ce347d8f837b26509bdf5e60ceaad341",
+      "error_message": null
+    },
+    {
+      "asset_id": "22014237",
+      "asset_name": "Symantec",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014238",
+      "asset_name": "Cisco ASA5505",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "22014287",
+      "asset_name": "CSG-FW01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "22014295",
+      "asset_name": "SSLs.com Cert",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014344",
+      "asset_name": "csg-005",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014382",
+      "asset_name": "csg-core-dc02 (DC)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22014390",
+      "asset_name": "DUP dont usecsgbase-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014411",
+      "asset_name": "csg-vr",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014417",
+      "asset_name": "csglaptop-pc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014418",
+      "asset_name": "csg-010",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014419",
+      "asset_name": "csg-bwilson-dt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014431",
+      "asset_name": "pdevito-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014457",
+      "asset_name": "dlee-w7",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014458",
+      "asset_name": "bspiegel-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014468",
+      "asset_name": "cburba-dt3",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014474",
+      "asset_name": "csg-mlavita",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014475",
+      "asset_name": "pdevito-dt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014486",
+      "asset_name": "csg-firecrl",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014487",
+      "asset_name": "csg-004",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014493",
+      "asset_name": "csgsecbase-pc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014494",
+      "asset_name": "csg-security-supervisor",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014502",
+      "asset_name": "csgbase-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014519",
+      "asset_name": "csg-bspiegel",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014530",
+      "asset_name": "csg-011",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014551",
+      "asset_name": "csg-007",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014583",
+      "asset_name": "maintenance",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014597",
+      "asset_name": "jrotigliano-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014609",
+      "asset_name": "csg-cgreen-dt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014670",
+      "asset_name": "atopinfo-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "23285640",
+      "asset_name": "CSG-SWSTCK01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "23745174",
+      "asset_name": "CSG-SWSTCK01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "23745186",
+      "asset_name": "CSG-SW02",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "23745188",
+      "asset_name": "CSG-SW03",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "23745263",
+      "asset_name": "CSG-SW04",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "23745584",
+      "asset_name": "CSG-SW05",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "23745585",
+      "asset_name": "CSG-SW06",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "23745588",
+      "asset_name": "CSG-SW07",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "23745591",
+      "asset_name": "CSG-SW08",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "23745592",
+      "asset_name": "CSG-SW09",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "23745605",
+      "asset_name": "CSG-SW10 (CSN)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "26605436",
+      "asset_name": "kleary-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26605437",
+      "asset_name": "wdavies-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26605438",
+      "asset_name": "cgreen-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26686561",
+      "asset_name": "csglaptop-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "26686562",
+      "asset_name": "asst-sec-dir-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26686563",
+      "asset_name": "ishait-cs-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26686564",
+      "asset_name": "mlavita-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26686565",
+      "asset_name": "cbrady-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "26781302",
+      "asset_name": "dsilveira",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014288",
+      "asset_name": "ZD1205 - Partner Support",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c44431cf837b26509bdf5e60ceaad33e",
+      "error_message": null
+    },
+    {
+      "asset_id": "22014290",
+      "asset_name": "Ruckus T300E Support",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "084471cf837b26509bdf5e60ceaad329",
+      "error_message": null
+    },
+    {
+      "asset_id": "22014289",
+      "asset_name": "ZoneFlex R700",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c4431cf837b26509bdf5e60ceaad344",
+      "error_message": null
+    },
+    {
+      "asset_id": "30528388",
+      "asset_name": "CSG-ESXi01-iDRAC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "184471cf837b26509bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "30528389",
+      "asset_name": "CSG-ESXi01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3544f1cf837b26509bdf5e60ceaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "30528419",
+      "asset_name": "hp LaserJet 4250",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8a44f1cf837b26509bdf5e60ceaad3ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "30528420",
+      "asset_name": "Xerox WorkCentre 7755",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8244f1cf837b26509bdf5e60ceaad38e",
+      "error_message": null
+    },
+    {
+      "asset_id": "30796579",
+      "asset_name": "csg-win10vm",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "30796581",
+      "asset_name": "csg-fp01-new",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "33328025",
+      "asset_name": "CSG-WAP09",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33328044",
+      "asset_name": "CSG-WAP15",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33328051",
+      "asset_name": "CSG-WAP26",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33328062",
+      "asset_name": "CSG-WAP30",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33328079",
+      "asset_name": "CSG-WAP31",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33328092",
+      "asset_name": "CSG-WAP03",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "30528733",
+      "asset_name": "Xerox WorkCentre 7835",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4244f1cf837b26509bdf5e60ceaad392",
+      "error_message": null
+    },
+    {
+      "asset_id": "33328140",
+      "asset_name": "CSG-WAP25",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33328150",
+      "asset_name": "CSG-WAP23",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33328192",
+      "asset_name": "CSG-WAP36",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33328216",
+      "asset_name": "CSG-WAP14",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33328231",
+      "asset_name": "CSG-WAP32",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33328273",
+      "asset_name": "CSG-WAP18",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33328525",
+      "asset_name": "CSG-WAP22",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33328785",
+      "asset_name": "CSG-WAP28",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33328997",
+      "asset_name": "CSG-WAP37",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "36973399",
+      "asset_name": "chs-base2-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "36973400",
+      "asset_name": "desktop-4oap3jv",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "50832391",
+      "asset_name": "CHM-FW01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "30528760",
+      "asset_name": "CSG-FP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b4435cf837b26509bdf5e60ceaad375",
+      "error_message": null
+    },
+    {
+      "asset_id": "30528761",
+      "asset_name": "CSG-DC02 (DC)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7b4435cf837b26509bdf5e60ceaad3ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "59003553",
+      "asset_name": "CSG-CCE-DC01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c45475cf837b26509bdf5e60ceaad34c",
+      "error_message": null
+    },
+    {
+      "asset_id": "59009299",
+      "asset_name": "CCE to CSG",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b85475cf837b26509bdf5e60ceaad3e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "33328107",
+      "asset_name": "CSG-ZD01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "734475cf837b26509bdf5e60ceaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "66398807",
+      "asset_name": "Xerox PrimeLink C9065 Printer \"Marketing C9065\"",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1554f5cf837b26509bdf5e60ceaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "66398951",
+      "asset_name": "Xerox AltaLink C8135",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9554f5cf837b26509bdf5e60ceaad3a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "67882418",
+      "asset_name": "NED-CSG-MDF-SW02",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": "443ebca693759a141a2b35847aba1073",
+      "error_message": "Asset with same u_itg_id already exists in ServiceNow"
+    },
+    {
+      "asset_id": "67882859",
+      "asset_name": "NED-CSG-MDF-SW01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": "483ebca693759a141a2b35847aba1095",
+      "error_message": "Asset with same u_itg_id already exists in ServiceNow"
+    },
+    {
+      "asset_id": "66404051",
+      "asset_name": "HP LaserJet M406",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "465439cf837b26509bdf5e60ceaad3aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "67882861",
+      "asset_name": "NED-CSG-MDF-SWSTK01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "875479cf837b26509bdf5e60ceaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "67883316",
+      "asset_name": "NED-CSG-SW02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1b54b9cf837b26509bdf5e60ceaad344",
+      "error_message": null
+    },
+    {
+      "asset_id": "67883694",
+      "asset_name": "NED-CSG-SW03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5354b9cf837b26509bdf5e60ceaad335",
+      "error_message": null
+    },
+    {
+      "asset_id": "67883960",
+      "asset_name": "NED-CSG-SW04",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb54b9cf837b26509bdf5e60ceaad3d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "67883966",
+      "asset_name": "NED-CSG-SW05",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6c64f9cf837b26509bdf5e60ceaad301",
+      "error_message": null
+    },
+    {
+      "asset_id": "67883973",
+      "asset_name": "NED-CSG-SW06",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1d64f9cf837b26509bdf5e60ceaad3e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "67883998",
+      "asset_name": "NED-CSG-SW07",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d564f9cf837b26509bdf5e60ceaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "67884004",
+      "asset_name": "NED-CSG-SW08",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5647dcf837b26509bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "67884068",
+      "asset_name": "NED-CSG-SW04B",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6e647dcf837b26509bdf5e60ceaad3a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "67884232",
+      "asset_name": "NED-CSG-L1-AP-OS1",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "60d201e293799a141a2b35847aba1059",
+      "error_message": null
+    },
+    {
+      "asset_id": "67884235",
+      "asset_name": "NED-CSG-L1-AP-OS2",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "8d0506ba931d22502dadffed1dba10c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "67884241",
+      "asset_name": "NED-CSG-L1-AP-OS3",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "a8d201e293799a141a2b35847aba10a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "67884251",
+      "asset_name": "NED-CSG-L1-AP01",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "20d201e293799a141a2b35847aba1075",
+      "error_message": null
+    },
+    {
+      "asset_id": "67884319",
+      "asset_name": "NED-CSG-L1-AP02",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "60d201e293799a141a2b35847aba1050",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887422",
+      "asset_name": "NED-CSG-L1-AP04",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "7cd201e293799a141a2b35847aba10d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887425",
+      "asset_name": "NED-CSG-L1-AP03 - DELETE ME",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc74fdcf837b26509bdf5e60ceaad355",
+      "error_message": null
+    },
+    {
+      "asset_id": "67886949",
+      "asset_name": "NED-CSG-L1-AP03",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "60d201e293799a141a2b35847aba1078",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887496",
+      "asset_name": "NED-CSG-L1-AP05",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "30d241e293799a141a2b35847aba1038",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887498",
+      "asset_name": "NED-CSG-L1-AP06",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "fcd241e293799a141a2b35847aba1034",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887558",
+      "asset_name": "NED-CSG-L1-AP07",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "3cd201e293799a141a2b35847aba10af",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887560",
+      "asset_name": "NED-CSG-L1-AP08",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "3cd201e293799a141a2b35847aba10ce",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887562",
+      "asset_name": "NED-CSG-L1-AP09",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "f8d201e293799a141a2b35847aba10ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887620",
+      "asset_name": "NED-CSG-L2-AP10",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "7cd241e293799a141a2b35847aba100f",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887623",
+      "asset_name": "NED-CSG-L2-AP11",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "f8d241e293799a141a2b35847aba1009",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887678",
+      "asset_name": "NED-CSG-L2-AP12",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "bcd241e293799a141a2b35847aba1031",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887708",
+      "asset_name": "NED-CSG-L2-AP13",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "f8d201e293799a141a2b35847aba10cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887716",
+      "asset_name": "NED-CSG-L2-AP14",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "a0d201e293799a141a2b35847aba107b",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887774",
+      "asset_name": "NED-CSG-L2-AP15",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "e0d201e293799a141a2b35847aba107e",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887828",
+      "asset_name": "NED-CSG-L2-AP16",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "7cd241e293799a141a2b35847aba102e",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887864",
+      "asset_name": "NED-CSG-L2-AP17",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "b4d241e293799a141a2b35847aba1060",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887874",
+      "asset_name": "NED-CSG-L2-AP18",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "68d201e293799a141a2b35847aba10a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "68361908",
+      "asset_name": "NED-CSG-MDF-AP20",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "67887881",
+      "asset_name": "NED-CSG-L2-AP19",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8184350383bb26509bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "67887892",
+      "asset_name": "NED-CSG-MDF-AP20",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "3cd241e293799a141a2b35847aba100c",
+      "error_message": null
+    },
+    {
+      "asset_id": "68362257",
+      "asset_name": "NED-CSG-FW1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": "bae1566f935d1210488cfea47aba1057",
+      "error_message": "Asset with same u_itg_id already exists in ServiceNow"
+    },
+    {
+      "asset_id": "67888187",
+      "asset_name": "NED-CSG-SW10",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4684750383bb26509bdf5e60ceaad390",
+      "error_message": null
+    },
+    {
+      "asset_id": "68977336",
+      "asset_name": "NED-CSG-SW09",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8684750383bb26509bdf5e60ceaad38d",
+      "error_message": null
+    },
+    {
+      "asset_id": "859525",
+      "asset_name": "cambridgeside.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1684750383bb26509bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": 860347,
+      "asset_name": "*.cambridgeside.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5784b50383bb26509bdf5e60ceaad3a0",
+      "error_message": null
+    },
+    {
+      "asset_id": 351856,
+      "asset_name": "cambridgeside.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b84b50383bb26509bdf5e60ceaad3a8",
+      "error_message": null
+    },
+    {
+      "asset_id": 723705,
+      "asset_name": "wifi.outletsofdesmoines.com",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b84b50383bb26509bdf5e60ceaad3c8",
+      "error_message": null
+    },
+    {
+      "asset_id": 723707,
+      "asset_name": "wifi.outletsofdesmoines.com",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": "2b84b50383bb26509bdf5e60ceaad3c8",
+      "error_message": "SSL certificate with same u_itg_id or name already exists in ServiceNow"
+    },
+    {
+      "asset_id": "4061336",
+      "asset_name": "CAMBRIDGE LAL -7262011.xls",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0494f50383bb26509bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061339",
+      "asset_name": "NED CSG Notes.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d494f50383bb26509bdf5e60ceaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "4057797",
+      "asset_name": "CSG-SW05(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6c94390383bb26509bdf5e60ceaad33c",
+      "error_message": null
+    },
+    {
+      "asset_id": "4057798",
+      "asset_name": "CSG-SW06(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c194390383bb26509bdf5e60ceaad32c",
+      "error_message": null
+    },
+    {
+      "asset_id": "4057799",
+      "asset_name": "CSG-SW04(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d594390383bb26509bdf5e60ceaad380",
+      "error_message": null
+    },
+    {
+      "asset_id": "4057800",
+      "asset_name": "CSG-SW03(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ad94390383bb26509bdf5e60ceaad3e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "4057801",
+      "asset_name": "CSG-SW02(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3594790383bb26509bdf5e60ceaad309",
+      "error_message": null
+    },
+    {
+      "asset_id": "4057802",
+      "asset_name": "CSG-SWSTCK01(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "da94390383bb26509bdf5e60ceaad3fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "4057803",
+      "asset_name": "CSG-SW10(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a294b90383bb26509bdf5e60ceaad303",
+      "error_message": null
+    },
+    {
+      "asset_id": "4057804",
+      "asset_name": "CSG-SW09(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fe94790383bb26509bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "4057805",
+      "asset_name": "CSG-SW08(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cf94b90383bb26509bdf5e60ceaad3ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "4057806",
+      "asset_name": "CSG-SW07(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5394f90383bb26509bdf5e60ceaad325",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061346",
+      "asset_name": "CSG-SW4_03092018.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7394f90383bb26509bdf5e60ceaad395",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061347",
+      "asset_name": "CSG-SW2_03092018.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c8a4f90383bb26509bdf5e60ceaad39e",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061349",
+      "asset_name": "CSG-ZD01_db_010918_09_59.bak",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9ca43d0383bb26509bdf5e60ceaad33a",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061350",
+      "asset_name": "csg-fw1_20180626_1306.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "38a43d0383bb26509bdf5e60ceaad31b",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061351",
+      "asset_name": "csg-fw1_20180309_1356.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "95a43d0383bb26509bdf5e60ceaad38b",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061352",
+      "asset_name": "CSG-ASA_NEW.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e5a43d0383bb26509bdf5e60ceaad3ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061353",
+      "asset_name": "CSG-ASA.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f5a47d0383bb26509bdf5e60ceaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061354",
+      "asset_name": "CSG-SW8_03092018-1426.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0ea47d0383bb26509bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061355",
+      "asset_name": "CSG-SW8_03092018-1422.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6aa47d0383bb26509bdf5e60ceaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061356",
+      "asset_name": "CSG-SW9_03092018.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7aa47d0383bb26509bdf5e60ceaad3de",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061357",
+      "asset_name": "CSG-SW7_03092018-1415.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cfa4bd0383bb26509bdf5e60ceaad309",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061358",
+      "asset_name": "CSG-SW7_03092018-1421.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "57a4bd0383bb26509bdf5e60ceaad316",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061359",
+      "asset_name": "CSG-SW6_03092018.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "33a4bd0383bb26509bdf5e60ceaad36d",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061360",
+      "asset_name": "CSG-SW5_03092018.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c8b4fd0383bb26509bdf5e60ceaad34d",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061361",
+      "asset_name": "CSG-SW3_03092018.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1cb4314383bb26509bdf5e60ceaad366",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061362",
+      "asset_name": "CSG-SW1_030892018.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e0b4314383bb26509bdf5e60ceaad39f",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061338",
+      "asset_name": "ThinkPlusLenovo Care Maintenance Services SN-MJEMACH SN-MJEMACD.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09b4314383bb26509bdf5e60ceaad3e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063565",
+      "asset_name": "CSG (2)ASA5505-JMX162441D6_JMX1635Z0TD - Smartnet exp-10-06-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1db4714383bb26509bdf5e60ceaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061370",
+      "asset_name": "CSG-Network-Migration-Worksheet.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "61b4714383bb26509bdf5e60ceaad30e",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061371",
+      "asset_name": "CambridgeSide Partners LLC - COI.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b1b4714383bb26509bdf5e60ceaad37d",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061372",
+      "asset_name": "CSG - Site visit.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "92b4714383bb26509bdf5e60ceaad3d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061374",
+      "asset_name": "WAP_Crossreference_NED.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2ab4b14383bb26509bdf5e60ceaad30b",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061376",
+      "asset_name": "Image20190829135044.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "87b4b14383bb26509bdf5e60ceaad340",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061377",
+      "asset_name": "Image20190829135039.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dfb4b14383bb26509bdf5e60ceaad35b",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061378",
+      "asset_name": "Image20190829135021.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3bb4b14383bb26509bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061380",
+      "asset_name": "Image20190829135009.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00c4b14383bb26509bdf5e60ceaad390",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061381",
+      "asset_name": "Image20190829134957.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a8c4f14383bb26509bdf5e60ceaad33e",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061382",
+      "asset_name": "Image20190829135016.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b4c4354383bb26509bdf5e60ceaad348",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061385",
+      "asset_name": "Image20190829135047.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1dc4f14383bb26509bdf5e60ceaad30e",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061386",
+      "asset_name": "Image20190829135036.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "21c4354383bb26509bdf5e60ceaad3dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "5977549",
+      "asset_name": "IMG_20200902_115649.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "82c4754383bb26509bdf5e60ceaad32e",
+      "error_message": null
+    },
+    {
+      "asset_id": "5977550",
+      "asset_name": "IMG_20200902_115652.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2ac4754383bb26509bdf5e60ceaad385",
+      "error_message": null
+    },
+    {
+      "asset_id": "5977553",
+      "asset_name": "IMG_20200902_115655.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "13c4754383bb26509bdf5e60ceaad3f5",
+      "error_message": null
+    },
+    {
+      "asset_id": "5977554",
+      "asset_name": "IMG_20200902_112537.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7c4b54383bb26509bdf5e60ceaad31b",
+      "error_message": null
+    },
+    {
+      "asset_id": "5977556",
+      "asset_name": "IMG_20200902_112543.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20d4b54383bb26509bdf5e60ceaad395",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061364",
+      "asset_name": "PO 11833 Mail 1 of 1  Your Order 3506127947 (SO 1010215138).msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d1d4f54383bb26509bdf5e60ceaad3a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061366",
+      "asset_name": "Fw_ ACTION REQUIRED_ Ruckus Wireless - Support Activation -.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "25d4f54383bb26509bdf5e60ceaad3e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "4230072",
+      "asset_name": "CSG_Ruckus_2019_03_20.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cad4394383bb26509bdf5e60ceaad36c",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061337",
+      "asset_name": "CSG Network Diagram.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d2d4394383bb26509bdf5e60ceaad380",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061340",
+      "asset_name": "CSG T1 Public IP.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7ad4794383bb26509bdf5e60ceaad330",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061341",
+      "asset_name": "CSG Network Diagram.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c3d4794383bb26509bdf5e60ceaad33a",
+      "error_message": null
+    },
+    {
+      "asset_id": "4255509",
+      "asset_name": "CSG Network Diagram.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "63d4794383bb26509bdf5e60ceaad3c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061336",
+      "asset_name": "CAMBRIDGE_LAL_-7262011.xls",
+      "action": "failed",
+      "success": false,
+      "servicenow_sys_id": null,
+      "error_message": "Failed to upload attachment to ServiceNow"
+    },
+    {
+      "asset_id": "att_4061339",
+      "asset_name": "NED_CSG_Notes.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a494f50383bb26509bdf5e60ceaad3b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4057797",
+      "asset_name": "CSG-SW05(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7894390383bb26509bdf5e60ceaad34e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4057798",
+      "asset_name": "CSG-SW06(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0994390383bb26509bdf5e60ceaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4057799",
+      "asset_name": "CSG-SW04(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d194390383bb26509bdf5e60ceaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4057800",
+      "asset_name": "CSG-SW03(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7994390383bb26509bdf5e60ceaad3c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4057801",
+      "asset_name": "CSG-SW02(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ca94790383bb26509bdf5e60ceaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4057802",
+      "asset_name": "CSG-SWSTCK01(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9294790383bb26509bdf5e60ceaad3fb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4057803",
+      "asset_name": "CSG-SW10(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea94790383bb26509bdf5e60ceaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4057804",
+      "asset_name": "CSG-SW09(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c794b90383bb26509bdf5e60ceaad399",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4057805",
+      "asset_name": "CSG-SW08(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db94f90383bb26509bdf5e60ceaad30c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4057806",
+      "asset_name": "CSG-SW07(10-01-19).txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6b94f90383bb26509bdf5e60ceaad34f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061346",
+      "asset_name": "CSG-SW4_03092018.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f94f90383bb26509bdf5e60ceaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061347",
+      "asset_name": "CSG-SW2_03092018.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dca43d0383bb26509bdf5e60ceaad314",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061349",
+      "asset_name": "CSG-ZD01_db_010918_09_59.bak",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8a43d0383bb26509bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061350",
+      "asset_name": "csg-fw1_20180626_1306.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "89a43d0383bb26509bdf5e60ceaad303",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061351",
+      "asset_name": "csg-fw1_20180309_1356.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "91a43d0383bb26509bdf5e60ceaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061352",
+      "asset_name": "CSG-ASA_NEW.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fda47d0383bb26509bdf5e60ceaad318",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061353",
+      "asset_name": "CSG-ASA.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8aa47d0383bb26509bdf5e60ceaad344",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061354",
+      "asset_name": "CSG-SW8_03092018-1426.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "12a47d0383bb26509bdf5e60ceaad360",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061355",
+      "asset_name": "CSG-SW8_03092018-1422.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a6a47d0383bb26509bdf5e60ceaad34e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061356",
+      "asset_name": "CSG-SW9_03092018.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8fa47d0383bb26509bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061357",
+      "asset_name": "CSG-SW7_03092018-1415.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "97a4bd0383bb26509bdf5e60ceaad342",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061358",
+      "asset_name": "CSG-SW7_03092018-1421.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "63a4bd0383bb26509bdf5e60ceaad3cc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061359",
+      "asset_name": "CSG-SW6_03092018.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7a4bd0383bb26509bdf5e60ceaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061360",
+      "asset_name": "CSG-SW5_03092018.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "98b4bd0383bb26509bdf5e60ceaad387",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061361",
+      "asset_name": "CSG-SW3_03092018.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20b4314383bb26509bdf5e60ceaad3b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061362",
+      "asset_name": "CSG-SW1_030892018.cfg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "34b4fd0383bb26509bdf5e60ceaad3ca",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061338",
+      "asset_name": "ThinkPlusLenovo_Care_Maintenance_Services_SN-MJEMACH_SN-MJEMACD.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c1b4314383bb26509bdf5e60ceaad3d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063565",
+      "asset_name": "CSG_(2)ASA5505-JMX162441D6_JMX1635Z0TD_-_Smartnet_exp-10-06-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e1b4314383bb26509bdf5e60ceaad3f7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061370",
+      "asset_name": "CSG-Network-Migration-Worksheet.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "79b4714383bb26509bdf5e60ceaad362",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061371",
+      "asset_name": "CambridgeSide_Partners_LLC_-_COI.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "02b4714383bb26509bdf5e60ceaad398",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061372",
+      "asset_name": "CSG_-_Site_visit.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e2b4714383bb26509bdf5e60ceaad3ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061374",
+      "asset_name": "WAP_Crossreference_NED.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "beb4b14383bb26509bdf5e60ceaad329",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061376",
+      "asset_name": "Image20190829135044.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "43b4b14383bb26509bdf5e60ceaad354",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061377",
+      "asset_name": "Image20190829135039.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a3b4b14383bb26509bdf5e60ceaad39a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061378",
+      "asset_name": "Image20190829135021.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0cc4b14383bb26509bdf5e60ceaad3c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061380",
+      "asset_name": "Image20190829135009.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "98c4b14383bb26509bdf5e60ceaad3e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061381",
+      "asset_name": "Image20190829134957.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "74c4f14383bb26509bdf5e60ceaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061382",
+      "asset_name": "Image20190829135016.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "09c4354383bb26509bdf5e60ceaad344",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061385",
+      "asset_name": "Image20190829135047.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "29c4354383bb26509bdf5e60ceaad3d4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061386",
+      "asset_name": "Image20190829135036.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "75c4754383bb26509bdf5e60ceaad378",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5977549",
+      "asset_name": "IMG_20200902_115649.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5ec4754383bb26509bdf5e60ceaad3a4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5977550",
+      "asset_name": "IMG_20200902_115652.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "36c4754383bb26509bdf5e60ceaad3eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5977553",
+      "asset_name": "IMG_20200902_115655.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a7c4b54383bb26509bdf5e60ceaad33a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5977554",
+      "asset_name": "IMG_20200902_112537.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1cd4754383bb26509bdf5e60ceaad395",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5977556",
+      "asset_name": "IMG_20200902_112543.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f8d4f54383bb26509bdf5e60ceaad343",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061364",
+      "asset_name": "PO_11833_Mail_1_of_1__Your_Order_3506127947_(SO_1010215138).msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a9d4f54383bb26509bdf5e60ceaad3cf",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061366",
+      "asset_name": "Fw__ACTION_REQUIRED__Ruckus_Wireless_-_Support_Activation_-.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "42d4f54383bb26509bdf5e60ceaad3f2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4230072",
+      "asset_name": "CSG_Ruckus_2019_03_20.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d6d4394383bb26509bdf5e60ceaad38f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061337",
+      "asset_name": "CSG_Network_Diagram.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a6d4394383bb26509bdf5e60ceaad3af",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061340",
+      "asset_name": "CSG_T1_Public_IP.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0fd4394383bb26509bdf5e60ceaad3c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061341",
+      "asset_name": "CSG_Network_Diagram.vsdx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "97d4794383bb26509bdf5e60ceaad34e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4255509",
+      "asset_name": "CSG_Network_Diagram.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7bd4794383bb26509bdf5e60ceaad3d9",
+      "error_message": null
+    }
+  ]
+}

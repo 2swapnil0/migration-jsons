@@ -1,0 +1,482 @@
+{
+  "session_id": "migration_202509_234707_b59a27ed",
+  "organization": "NED - Pine Hills Mkt",
+  "timestamp": "2025-09-09T23:48:31.816687",
+  "total_processed": 59,
+  "successful": 59,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "64956605",
+      "asset_name": "mktbasement mktbasement Guest",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1b40428b833f26509bdf5e60ceaad3ad",
+      "error_message": null
+    },
+    {
+      "asset_id": "64956672",
+      "asset_name": "The_Market The_Market",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a740828b833f26509bdf5e60ceaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "64098288",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6740828b833f26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "64961382",
+      "asset_name": "MKTOFC MKTOFC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "af40828b833f26509bdf5e60ceaad31a",
+      "error_message": null
+    },
+    {
+      "asset_id": "64098572",
+      "asset_name": "Office LAN 10.0.3.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f340828b833f26509bdf5e60ceaad30c",
+      "error_message": null
+    },
+    {
+      "asset_id": "64099675",
+      "asset_name": "WLAN 192.168.6.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f740828b833f26509bdf5e60ceaad3c5",
+      "error_message": null
+    },
+    {
+      "asset_id": "64105313",
+      "asset_name": "POS LAN 10.0.4.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b40c28b833f26509bdf5e60ceaad325",
+      "error_message": null
+    },
+    {
+      "asset_id": "64098538",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f40c28b833f26509bdf5e60ceaad331",
+      "error_message": null
+    },
+    {
+      "asset_id": "64955660",
+      "asset_name": "Dell Server Support",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "64955586",
+      "asset_name": "Dell",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4850c28b833f26509bdf5e60ceaad339",
+      "error_message": null
+    },
+    {
+      "asset_id": "64956380",
+      "asset_name": "Sonicwall",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4c50c28b833f26509bdf5e60ceaad364",
+      "error_message": null
+    },
+    {
+      "asset_id": "69290174",
+      "asset_name": "Cisco Meraki",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d450c28b833f26509bdf5e60ceaad370",
+      "error_message": null
+    },
+    {
+      "asset_id": "64105275",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1050c28b833f26509bdf5e60ceaad389",
+      "error_message": null
+    },
+    {
+      "asset_id": "55306596",
+      "asset_name": "Office Switch",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e450068b833f26509bdf5e60ceaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "55306585",
+      "asset_name": "The_Market (SonicWall)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c50068b833f26509bdf5e60ceaad328",
+      "error_message": null
+    },
+    {
+      "asset_id": "55306742",
+      "asset_name": "Trustwave Firewall",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b850c28b833f26509bdf5e60ceaad3de",
+      "error_message": null
+    },
+    {
+      "asset_id": "55307471",
+      "asset_name": "MKTOFC",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bc50068b833f26509bdf5e60ceaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "55307483",
+      "asset_name": "MktBasement",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c150068b833f26509bdf5e60ceaad39a",
+      "error_message": null
+    },
+    {
+      "asset_id": "55307509",
+      "asset_name": "POS Switch",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0550068b833f26509bdf5e60ceaad395",
+      "error_message": null
+    },
+    {
+      "asset_id": "55307656",
+      "asset_name": "MktDC01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8d50068b833f26509bdf5e60ceaad398",
+      "error_message": null
+    },
+    {
+      "asset_id": "55307673",
+      "asset_name": "iDrac",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8950068b833f26509bdf5e60ceaad3dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "55307743",
+      "asset_name": "UPS nr.1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9d50068b833f26509bdf5e60ceaad3ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "55307767",
+      "asset_name": "UPS nr.2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2550468b833f26509bdf5e60ceaad34f",
+      "error_message": null
+    },
+    {
+      "asset_id": "55307792",
+      "asset_name": "UPS nr.3",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6550468b833f26509bdf5e60ceaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "55310911",
+      "asset_name": "SonicPoint ACi a747d4",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2550468b833f26509bdf5e60ceaad35c",
+      "error_message": null
+    },
+    {
+      "asset_id": "55310936",
+      "asset_name": "SonicPoint ACi a7493c",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2150468b833f26509bdf5e60ceaad3cd",
+      "error_message": null
+    },
+    {
+      "asset_id": "55312689",
+      "asset_name": "Ricoh MFP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b950868b833f26509bdf5e60ceaad321",
+      "error_message": null
+    },
+    {
+      "asset_id": "58470712",
+      "asset_name": "NED-PHM-SW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3150868b833f26509bdf5e60ceaad34e",
+      "error_message": null
+    },
+    {
+      "asset_id": "58463516",
+      "asset_name": "NED-PHM-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3d50868b833f26509bdf5e60ceaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "13063445",
+      "asset_name": "NED - PHM Network Diagram",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2a50c68b833f26509bdf5e60ceaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "13064142",
+      "asset_name": "DeviceDiscovery Onboarding.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "af504a8b833f26509bdf5e60ceaad396",
+      "error_message": null
+    },
+    {
+      "asset_id": "13062251",
+      "asset_name": "Image20230607140302.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00608a8b833f26509bdf5e60ceaad30e",
+      "error_message": null
+    },
+    {
+      "asset_id": "13062252",
+      "asset_name": "Image20230607140324.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c608a8b833f26509bdf5e60ceaad38f",
+      "error_message": null
+    },
+    {
+      "asset_id": "13062253",
+      "asset_name": "Image20230607140401.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c60ca8b833f26509bdf5e60ceaad318",
+      "error_message": null
+    },
+    {
+      "asset_id": "13062254",
+      "asset_name": "Image20230607140358.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5160ca8b833f26509bdf5e60ceaad39f",
+      "error_message": null
+    },
+    {
+      "asset_id": "13062255",
+      "asset_name": "Image20230607140354.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e160ca8b833f26509bdf5e60ceaad3da",
+      "error_message": null
+    },
+    {
+      "asset_id": "13062256",
+      "asset_name": "Image20230607140349.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ce600e8b833f26509bdf5e60ceaad385",
+      "error_message": null
+    },
+    {
+      "asset_id": "13062257",
+      "asset_name": "Image20230607140342.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "92600e8b833f26509bdf5e60ceaad373",
+      "error_message": null
+    },
+    {
+      "asset_id": "13062258",
+      "asset_name": "Image20230607140339.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "72604e8b833f26509bdf5e60ceaad31a",
+      "error_message": null
+    },
+    {
+      "asset_id": "13062259",
+      "asset_name": "Image20230607140337.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5f604e8b833f26509bdf5e60ceaad359",
+      "error_message": null
+    },
+    {
+      "asset_id": "13062260",
+      "asset_name": "Image20230607140333.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e7604e8b833f26509bdf5e60ceaad381",
+      "error_message": null
+    },
+    {
+      "asset_id": "13062261",
+      "asset_name": "Image20230607140330.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc704e8b833f26509bdf5e60ceaad3e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "13062262",
+      "asset_name": "Image20230607140327.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "60704e8b833f26509bdf5e60ceaad3ce",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13063445",
+      "asset_name": "NED_-_PHM_Network_Diagram.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b504a8b833f26509bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13063445",
+      "asset_name": "NED_-_PHM_Network_Diagram.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b504a8b833f26509bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13063445",
+      "asset_name": "NED_-_PHM_Network_Diagram.png",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b504a8b833f26509bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13064142",
+      "asset_name": "DeviceDiscovery_Onboarding.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb504a8b833f26509bdf5e60ceaad373",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13062251",
+      "asset_name": "Image20230607140302.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "58608a8b833f26509bdf5e60ceaad387",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13062252",
+      "asset_name": "Image20230607140324.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20608a8b833f26509bdf5e60ceaad3e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13062253",
+      "asset_name": "Image20230607140401.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0960ca8b833f26509bdf5e60ceaad366",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13062254",
+      "asset_name": "Image20230607140358.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "19600e8b833f26509bdf5e60ceaad304",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13062255",
+      "asset_name": "Image20230607140354.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "79600e8b833f26509bdf5e60ceaad328",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13062256",
+      "asset_name": "Image20230607140349.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d2600e8b833f26509bdf5e60ceaad3ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13062257",
+      "asset_name": "Image20230607140342.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aa600e8b833f26509bdf5e60ceaad383",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13062258",
+      "asset_name": "Image20230607140339.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c7604e8b833f26509bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13062259",
+      "asset_name": "Image20230607140337.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d3604e8b833f26509bdf5e60ceaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13062260",
+      "asset_name": "Image20230607140333.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b7604e8b833f26509bdf5e60ceaad3aa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13062261",
+      "asset_name": "Image20230607140330.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "68708e8b833f26509bdf5e60ceaad376",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13062262",
+      "asset_name": "Image20230607140327.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78708e8b833f26509bdf5e60ceaad3d2",
+      "error_message": null
+    }
+  ]
+}

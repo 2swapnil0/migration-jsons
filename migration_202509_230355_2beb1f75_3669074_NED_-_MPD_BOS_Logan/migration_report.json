@@ -1,0 +1,538 @@
+{
+  "session_id": "migration_202509_230355_2beb1f75",
+  "organization": "NED - MPD BOS Logan",
+  "timestamp": "2025-09-09T23:05:36.418059",
+  "total_processed": 66,
+  "successful": 66,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "70053762",
+      "asset_name": "mpdev.lan MPDEV",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "79863dc783bb26509bdf5e60ceaad31a",
+      "error_message": null
+    },
+    {
+      "asset_id": "82914307",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "42863dc783bb26509bdf5e60ceaad364",
+      "error_message": null
+    },
+    {
+      "asset_id": "69890872",
+      "asset_name": "Comcast Primary",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0e863dc783bb26509bdf5e60ceaad384",
+      "error_message": null
+    },
+    {
+      "asset_id": "70093790",
+      "asset_name": "CCE 10.100.92.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5a863dc783bb26509bdf5e60ceaad39a",
+      "error_message": null
+    },
+    {
+      "asset_id": "18343369",
+      "asset_name": "Cogent ISP - (RETIRED)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "12863dc783bb26509bdf5e60ceaad397",
+      "error_message": null
+    },
+    {
+      "asset_id": "86073350",
+      "asset_name": "NED MPD BOS LOGAN 192.168.240.0",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2e863dc783bb26509bdf5e60ceaad3ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "18343368",
+      "asset_name": "Cogent",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2e863dc783bb26509bdf5e60ceaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "17869780",
+      "asset_name": "Adobe Adobe Volume Licensing",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "69890703",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "be867dc783bb26509bdf5e60ceaad309",
+      "error_message": null
+    },
+    {
+      "asset_id": "82914339",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b2867dc783bb26509bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "17869805",
+      "asset_name": "Microsoft Microsoft Open License -  Windows Server + Exchange",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c3867dc783bb26509bdf5e60ceaad332",
+      "error_message": null
+    },
+    {
+      "asset_id": "17869873",
+      "asset_name": "VMware VMware",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5b867dc783bb26509bdf5e60ceaad392",
+      "error_message": null
+    },
+    {
+      "asset_id": "18990455",
+      "asset_name": "Dell Support (MPDBOS-ESX01) 3P7YXM2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db867dc783bb26509bdf5e60ceaad38b",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644223",
+      "asset_name": "BOS-UTIL - Replicate to CCW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db867dc783bb26509bdf5e60ceaad3a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644224",
+      "asset_name": "BOS-DC01 - Replicate to CCW",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b867dc783bb26509bdf5e60ceaad3ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644235",
+      "asset_name": "BOS-UTIL - Configuration Backup",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b867dc783bb26509bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644239",
+      "asset_name": "BOS-UTIL - backup job bos-util",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb86bdc783bb26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644242",
+      "asset_name": "BOS-DC01 - backup job bos-dc01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0c96bdc783bb26509bdf5e60ceaad37b",
+      "error_message": null
+    },
+    {
+      "asset_id": "17003081",
+      "asset_name": "Fortinet Fortinet Fortigate 90D -- SN FGT90D3Z16011023 EOL",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c3867dc783bb26509bdf5e60ceaad328",
+      "error_message": null
+    },
+    {
+      "asset_id": "17008742",
+      "asset_name": "BOS-DC01 - bos-dc01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4c96bdc783bb26509bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "69408861",
+      "asset_name": "(vApp) MPD-CCE-DC02-95a44293-2002-404a-a400-50d11d8a89b7 - CORE92-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5496bdc783bb26509bdf5e60ceaad376",
+      "error_message": null
+    },
+    {
+      "asset_id": "69408862",
+      "asset_name": "MPD-CCE-DC02 - CORE92-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c96bdc783bb26509bdf5e60ceaad3ab",
+      "error_message": null
+    },
+    {
+      "asset_id": "70820771",
+      "asset_name": "(vApp) MPDDC-CCE-DC03-38ccc386-29f6-4447-a802-7c87784b20ff - CORE92-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ac96fdc783bb26509bdf5e60ceaad382",
+      "error_message": null
+    },
+    {
+      "asset_id": "16711287",
+      "asset_name": "Logan MPD-BOS Virtual Environment",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2096fdc783bb26509bdf5e60ceaad3a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "22017443",
+      "asset_name": "scolburne-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22017466",
+      "asset_name": "mdibella-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22017513",
+      "asset_name": "mzacchello-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22017596",
+      "asset_name": "abpatel-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22017652",
+      "asset_name": "mpd-cce-dc01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22017757",
+      "asset_name": "logan-surface1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22017799",
+      "asset_name": "bos-util",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22017947",
+      "asset_name": "aesposito-10lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22017968",
+      "asset_name": "logan_confrm10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22017948",
+      "asset_name": "dmarkstrom-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22017969",
+      "asset_name": "atitus-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22018009",
+      "asset_name": "mbenzan-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22018010",
+      "asset_name": "bos-dc01 (DC)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22018214",
+      "asset_name": "ngriffin-lt10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22018215",
+      "asset_name": "bgannino-lt10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22018079",
+      "asset_name": "jhart-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "25768543",
+      "asset_name": "logan-gm",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "36607327",
+      "asset_name": "eruffin-temp",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "37179489",
+      "asset_name": "mktplc-laptop",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "31310063",
+      "asset_name": "MPDBOS-ESX01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": "7c4382d49337b1542dadffed1dba1054",
+      "error_message": "Asset with same u_itg_id already exists in ServiceNow"
+    },
+    {
+      "asset_id": "22017397",
+      "asset_name": "FW: mpdbos-fw01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd96310b83bb26509bdf5e60ceaad3c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "41352683",
+      "asset_name": "MPDBOS-WAP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5596310b83bb26509bdf5e60ceaad39b",
+      "error_message": null
+    },
+    {
+      "asset_id": "59009620",
+      "asset_name": "MPDBOS-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2996310b83bb26509bdf5e60ceaad3f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "41352701",
+      "asset_name": "MPDBOS-WAP02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1d96310b83bb26509bdf5e60ceaad3d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "59009729",
+      "asset_name": "CCE to BOS LOGAN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7996710b83bb26509bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "59011308",
+      "asset_name": "MPD-CCE-DC03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7596710b83bb26509bdf5e60ceaad367",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061595",
+      "asset_name": "FW_ _EXTERNAL_ Cogent IP Allocation for   -  MarketPlace Logan LLC  -  1-300253025.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c296710b83bb26509bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061596",
+      "asset_name": "Logan users in AD.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6a96710b83bb26509bdf5e60ceaad3a2",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061598",
+      "asset_name": "Pages from 05 - Attachments A-1 to A-19-2.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3296b10b83bb26509bdf5e60ceaad3bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061599",
+      "asset_name": "Logan_Temp_space.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9796b10b83bb26509bdf5e60ceaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061600",
+      "asset_name": "Floorplans.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b96b10b83bb26509bdf5e60ceaad3b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061601",
+      "asset_name": "Logan - 'OK to Go'.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c8a6f10b83bb26509bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061602",
+      "asset_name": "mms.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1ca6f10b83bb26509bdf5e60ceaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "4061603",
+      "asset_name": "1253.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a8a6f10b83bb26509bdf5e60ceaad3dd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061595",
+      "asset_name": "FW___EXTERNAL__Cogent_IP_Allocation_for___-__MarketPlace_Logan_LLC__-__1-300253025.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5296b10b83bb26509bdf5e60ceaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061596",
+      "asset_name": "Logan_users_in_AD.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a696b10b83bb26509bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061598",
+      "asset_name": "Pages_from_05_-_Attachments_A-1_to_A-19-2.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4796f10b83bb26509bdf5e60ceaad319",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061599",
+      "asset_name": "Logan_Temp_space.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "db96f10b83bb26509bdf5e60ceaad334",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061600",
+      "asset_name": "Floorplans.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3396f10b83bb26509bdf5e60ceaad344",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061601",
+      "asset_name": "Logan_-_'OK_to_Go'.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00a6f10b83bb26509bdf5e60ceaad391",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061602",
+      "asset_name": "mms.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eca6f10b83bb26509bdf5e60ceaad3d2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4061603",
+      "asset_name": "1253.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78a6350b83bb26509bdf5e60ceaad313",
+      "error_message": null
+    }
+  ]
+}

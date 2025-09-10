@@ -1,0 +1,4442 @@
+{
+  "session_id": "migration_202509_231114_c6995f6f",
+  "organization": "NED - NBPT",
+  "timestamp": "2025-09-09T23:23:19.043838",
+  "total_processed": 554,
+  "successful": 554,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "11025081",
+      "asset_name": "nbpt.local nbpt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2d48fd4f83bb26509bdf5e60ceaad3d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "15448887",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7148fd4f83bb26509bdf5e60ceaad3f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "80125012",
+      "asset_name": "Harbor Marina HARBORM",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f548318f83bb26509bdf5e60ceaad338",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449151",
+      "asset_name": "Corporate Wireless NEWBURYPORTDEVsecure",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b548318f83bb26509bdf5e60ceaad3a0",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449032",
+      "asset_name": "Exchange 2013",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "16974885",
+      "asset_name": "Veeam Backups",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1e48318f83bb26509bdf5e60ceaad3e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "52839795",
+      "asset_name": "Dockmaster",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2e48718f83bb26509bdf5e60ceaad300",
+      "error_message": null
+    },
+    {
+      "asset_id": "82914214",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f248718f83bb26509bdf5e60ceaad395",
+      "error_message": null
+    },
+    {
+      "asset_id": "11249792",
+      "asset_name": "54 Inn St - Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f248b18f83bb26509bdf5e60ceaad3e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "16602368",
+      "asset_name": "10 State - Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0348f18f83bb26509bdf5e60ceaad38f",
+      "error_message": null
+    },
+    {
+      "asset_id": "16971710",
+      "asset_name": "29 Water St - Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b48f18f83bb26509bdf5e60ceaad39f",
+      "error_message": null
+    },
+    {
+      "asset_id": "52268446",
+      "asset_name": "58 Merrimac St - Windward Office - Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ff48358f83bb26509bdf5e60ceaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "67233357",
+      "asset_name": "Harbor Marina",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0858358f83bb26509bdf5e60ceaad3e8",
+      "error_message": null
+    },
+    {
+      "asset_id": "21506639",
+      "asset_name": "Boat Basin Retail",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2f48358f83bb26509bdf5e60ceaad355",
+      "error_message": null
+    },
+    {
+      "asset_id": "67233554",
+      "asset_name": "LEGACY CIRCUIT INFO",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9058358f83bb26509bdf5e60ceaad3ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "11024957",
+      "asset_name": "54Inn-LAN 172.30.242.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2458758f83bb26509bdf5e60ceaad381",
+      "error_message": null
+    },
+    {
+      "asset_id": "11024960",
+      "asset_name": "54Inn-VOICE 172.25.78.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3058758f83bb26509bdf5e60ceaad3eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "11024966",
+      "asset_name": "29Water-LAN 192.168.105.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9d58b58f83bb26509bdf5e60ceaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "11025053",
+      "asset_name": "29Water-VOICE 172.25.79.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d558b58f83bb26509bdf5e60ceaad32d",
+      "error_message": null
+    },
+    {
+      "asset_id": "11025062",
+      "asset_name": "10State-LAN 192.168.122.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed58b58f83bb26509bdf5e60ceaad334",
+      "error_message": null
+    },
+    {
+      "asset_id": "11025066",
+      "asset_name": "10State-VOICE 172.25.80.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7558b58f83bb26509bdf5e60ceaad364",
+      "error_message": null
+    },
+    {
+      "asset_id": "11927248",
+      "asset_name": "Michael's Harborside-LAN 192.168.109.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9658f58f83bb26509bdf5e60ceaad317",
+      "error_message": null
+    },
+    {
+      "asset_id": "12953900",
+      "asset_name": "Boat Basin 192.168.101.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9a58b58f83bb26509bdf5e60ceaad3bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "63459104",
+      "asset_name": "Windward Yacht Yard 192.168.104.1/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6258f58f83bb26509bdf5e60ceaad305",
+      "error_message": null
+    },
+    {
+      "asset_id": "63459110",
+      "asset_name": "Harbor Marina 192.168.107.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0b58f58f83bb26509bdf5e60ceaad3b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "70093880",
+      "asset_name": "CCE 10.100.92.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9358398f83bb26509bdf5e60ceaad302",
+      "error_message": null
+    },
+    {
+      "asset_id": "15448564",
+      "asset_name": "Comcast",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d358f58f83bb26509bdf5e60ceaad3a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "15448880",
+      "asset_name": "Avaya",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2f58398f83bb26509bdf5e60ceaad317",
+      "error_message": null
+    },
+    {
+      "asset_id": "15449062",
+      "asset_name": "AeroHive",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f758398f83bb26509bdf5e60ceaad366",
+      "error_message": null
+    },
+    {
+      "asset_id": "16974853",
+      "asset_name": "Veeam",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d068398f83bb26509bdf5e60ceaad383",
+      "error_message": null
+    },
+    {
+      "asset_id": "67233134",
+      "asset_name": "DockMaster",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5868398f83bb26509bdf5e60ceaad3b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "19051873",
+      "asset_name": "Fortinet Fortinet SN:  FGT90D3Z15017944  (nbpt-10state-fw01) v6.0.11 build0387 (GA)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "19054289",
+      "asset_name": "Fortinet  SN:  Qty 4 FW",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "70338972",
+      "asset_name": "vMWare",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c68398f83bb26509bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "19055344",
+      "asset_name": "Fortinet Fortinet SN:  FGT60E4Q16054763 (NED-NBPT-29WATER-FW01)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "20603453",
+      "asset_name": "Aerohive/Extreme (total 6 devices)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "30317551",
+      "asset_name": "Other Aerohive - NBPT - PO# 28064591 - 10 State",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "82914228",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8968798f83bb26509bdf5e60ceaad323",
+      "error_message": null
+    },
+    {
+      "asset_id": "18990432",
+      "asset_name": "Dell Support (NBPT-ESX01) 7TBP8N2",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1568798f83bb26509bdf5e60ceaad39e",
+      "error_message": null
+    },
+    {
+      "asset_id": "59810072",
+      "asset_name": "Fortinet Fortinet x4 FG-61F-BDL-950-36",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ad68b98f83bb26509bdf5e60ceaad34a",
+      "error_message": null
+    },
+    {
+      "asset_id": "79830600",
+      "asset_name": "Meraki CISCO Meraki MR36",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fd68b98f83bb26509bdf5e60ceaad372",
+      "error_message": null
+    },
+    {
+      "asset_id": "79830766",
+      "asset_name": "Meraki CISCO Meraki MS120-24P",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5e68b98f83bb26509bdf5e60ceaad399",
+      "error_message": null
+    },
+    {
+      "asset_id": "13644243",
+      "asset_name": "NBPT-DC02 - backup job nbpt-dc02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6268b98f83bb26509bdf5e60ceaad3ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "69408863",
+      "asset_name": "(vApp) NBPT-CCE-DC02-7e299abc-6904-4c03-aac5-42a4fb1b5abd - CORE92-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f268f98f83bb26509bdf5e60ceaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "69408864",
+      "asset_name": "NBPT-CCE-DC02 - CORE92-CCE-BACKUP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4368f98f83bb26509bdf5e60ceaad35e",
+      "error_message": null
+    },
+    {
+      "asset_id": "106972932",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9368f98f83bb26509bdf5e60ceaad357",
+      "error_message": null
+    },
+    {
+      "asset_id": "106995499",
+      "asset_name": "Printing",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Duplicate tracking: Duplicate group already migrated by asset 106972932 (Printing)"
+    },
+    {
+      "asset_id": "106978731",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a768f98f83bb26509bdf5e60ceaad397",
+      "error_message": null
+    },
+    {
+      "asset_id": "106991945",
+      "asset_name": "Printing",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "88783d8f83bb26509bdf5e60ceaad339",
+      "error_message": null
+    },
+    {
+      "asset_id": "11025085",
+      "asset_name": "NBPT-ESX01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc787d8f83bb26509bdf5e60ceaad35a",
+      "error_message": null
+    },
+    {
+      "asset_id": "12155802",
+      "asset_name": "NBPT-MHS-ESX01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28787d8f83bb26509bdf5e60ceaad399",
+      "error_message": null
+    },
+    {
+      "asset_id": "19054396",
+      "asset_name": "Fortinet Fortinet SN:  FGT81ETK19003962 (NBPT-MHS-FW01)FGT60E4Q16054763 FG101E4Q17000468",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1168798f83bb26509bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "22014242",
+      "asset_name": "Symantec",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: not moving config type"
+    },
+    {
+      "asset_id": "22014236",
+      "asset_name": "nbpt-10state-fw01_2018",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "22014312",
+      "asset_name": "mhs-w7-006",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014318",
+      "asset_name": "nbptexecoff-w7",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014319",
+      "asset_name": "nbpt-dc02 (DC)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014320",
+      "asset_name": "darciero-pc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014335",
+      "asset_name": "mhs-w7-004-dh",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014336",
+      "asset_name": "marinas-w7-004",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014337",
+      "asset_name": "mhs-w7-001",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014367",
+      "asset_name": "Nbpt-Maintenance-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014368",
+      "asset_name": "ptorrey-pc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014369",
+      "asset_name": "nbpt-core-dc01 (DC)",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "22014370",
+      "asset_name": "boatbasin-lt-pc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014383",
+      "asset_name": "bstonew7",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014384",
+      "asset_name": "cskiba-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014403",
+      "asset_name": "plawler-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014421",
+      "asset_name": "dmurray-pc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014440",
+      "asset_name": "chill-pc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014441",
+      "asset_name": "waterstreet-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014448",
+      "asset_name": "mhs-manager",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014449",
+      "asset_name": "54inn-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014477",
+      "asset_name": "nbpt-util",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014504",
+      "asset_name": "chrisskiba-pc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014505",
+      "asset_name": "groberts-pc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014513",
+      "asset_name": "mhs-w7-007",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014534",
+      "asset_name": "stwomey-pc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014555",
+      "asset_name": "lsmith-pc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014569",
+      "asset_name": "bmarchitelli-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014570",
+      "asset_name": "chris-laptop",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014587",
+      "asset_name": "nbpt-kforce",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014611",
+      "asset_name": "mkirk-lt",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "22014649",
+      "asset_name": "harborstore-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "23028116",
+      "asset_name": "lsmith-lt10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "22014653",
+      "asset_name": "bbofficemgr-pc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, archived, not moving config type"
+    },
+    {
+      "asset_id": "25805505",
+      "asset_name": "54innconf-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "25805506",
+      "asset_name": "groberts-lt-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "26089563",
+      "asset_name": "joleary-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "23545173",
+      "asset_name": "Aerohive AP230",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7578fd8f83bb26509bdf5e60ceaad3d5",
+      "error_message": null
+    },
+    {
+      "asset_id": "26222503",
+      "asset_name": "NBPT-29WATER-SW01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": "942a604497226910511ff957f053afd9",
+      "error_message": "Asset with same u_itg_id already exists in ServiceNow"
+    },
+    {
+      "asset_id": "26222559",
+      "asset_name": "NBPT-10STATE-FW01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": "47d9248097226910511ff957f053affe",
+      "error_message": "Asset with same u_itg_id already exists in ServiceNow"
+    },
+    {
+      "asset_id": "26222577",
+      "asset_name": "NBPT-10STATE-SW01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": "d2d6ce189377b1542dadffed1dba106b",
+      "error_message": "Asset with same u_itg_id already exists in ServiceNow"
+    },
+    {
+      "asset_id": "26222744",
+      "asset_name": "NBPT-ESX01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6a7831cf83bb26509bdf5e60ceaad367",
+      "error_message": null
+    },
+    {
+      "asset_id": "26319255",
+      "asset_name": "54innspare-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "26319260",
+      "asset_name": "SRV - 10state-10 - ESX",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "26475697",
+      "asset_name": "10state2-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived, not moving config type"
+    },
+    {
+      "asset_id": "26989295",
+      "asset_name": "AP250",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0f7831cf83bb26509bdf5e60ceaad3cc",
+      "error_message": null
+    },
+    {
+      "asset_id": "22014298",
+      "asset_name": "NBPT-INN-FW01 - INN ST",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3578fd8f83bb26509bdf5e60ceaad39b",
+      "error_message": null
+    },
+    {
+      "asset_id": "26222384",
+      "asset_name": "NBPT-54INN-SW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7978fd8f83bb26509bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "27198704",
+      "asset_name": "NBPT-MHS-SW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a77871cf83bb26509bdf5e60ceaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "27198831",
+      "asset_name": "NBPT-MHS-NAS01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c88b1cf83bb26509bdf5e60ceaad3ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "27260361",
+      "asset_name": "xx - delete me - Aerohive WAPs",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "27260360",
+      "asset_name": "NBPT-MHS-ESX01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7888f1cf83bb26509bdf5e60ceaad3a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "27722103",
+      "asset_name": "Other na",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2d8875cf83bb26509bdf5e60ceaad338",
+      "error_message": null
+    },
+    {
+      "asset_id": "27552324",
+      "asset_name": "NBPT-MHS-SW02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "098835cf83bb26509bdf5e60ceaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "28904407",
+      "asset_name": "jtenny-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "30003246",
+      "asset_name": "Adtran",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1e8875cf83bb26509bdf5e60ceaad3f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "30003373",
+      "asset_name": "APC 3000XL",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "30003462",
+      "asset_name": "APC 3000XL",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "27993094",
+      "asset_name": "NBPT-BBASIN-SW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "828875cf83bb26509bdf5e60ceaad3e4",
+      "error_message": null
+    },
+    {
+      "asset_id": "27198762",
+      "asset_name": "NBPT-MHS-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3778b1cf83bb26509bdf5e60ceaad319",
+      "error_message": null
+    },
+    {
+      "asset_id": "30003792",
+      "asset_name": "Avaya Phone System",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2a88b5cf83bb26509bdf5e60ceaad39f",
+      "error_message": null
+    },
+    {
+      "asset_id": "30003882",
+      "asset_name": "APC Smart UPS 2200",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "278839cf83bb26509bdf5e60ceaad3e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "31449926",
+      "asset_name": "TAKEN OFFLINE AS PER S.RICHARDSON: NBPT-BBRetail-FW01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "26222457",
+      "asset_name": "NBPT-29WaterSt-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7978fd8f83bb26509bdf5e60ceaad33b",
+      "error_message": null
+    },
+    {
+      "asset_id": "31447734",
+      "asset_name": "NBPT-54-INN-WAP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "638839cf83bb26509bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "33315686",
+      "asset_name": "NBPT-10STATE-WAP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "909879cf83bb26509bdf5e60ceaad340",
+      "error_message": null
+    },
+    {
+      "asset_id": "33315735",
+      "asset_name": "NBPT-29WATER-WAP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd98b9cf83bb26509bdf5e60ceaad3c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "31447820",
+      "asset_name": "NBPT-BBasin-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3f8839cf83bb26509bdf5e60ceaad3b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "33315842",
+      "asset_name": "NBPT-MHS-WAP03",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33315764",
+      "asset_name": "NBPT-BBASIN-WAP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1198b9cf83bb26509bdf5e60ceaad3c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "33315883",
+      "asset_name": "NBPT-MHS-WAP05",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "35678282",
+      "asset_name": "rtwomey1-pc",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "36208293",
+      "asset_name": "desktop-d8taf1n",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "36895033",
+      "asset_name": "boatbasin-lt-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "36895037",
+      "asset_name": "harbor-marina-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "36895038",
+      "asset_name": "fueldockhm",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "36895039",
+      "asset_name": "pjordan-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "36895041",
+      "asset_name": "MHS-MGR2-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "36895042",
+      "asset_name": "MHS-MGR1-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "36895043",
+      "asset_name": "MHS-MGR3-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "39989635",
+      "asset_name": "OptiPlex 790 - HFX5KS1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "39990399",
+      "asset_name": "OptiPlex 390 - 7M8GYR1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "39990671",
+      "asset_name": "OptiPlex 380 - 45BHBP1",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "33315786",
+      "asset_name": "NBPT-MHS-WAP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1598f9cf83bb26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "40003135",
+      "asset_name": "Lwetenkamp-10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "40004446",
+      "asset_name": "LWETENKAMP-LT10",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: workstation/laptop/desktop, not moving config type"
+    },
+    {
+      "asset_id": "33315803",
+      "asset_name": "NBPT-MHS-WAP02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d298f9cf83bb26509bdf5e60ceaad3f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "46125183",
+      "asset_name": "Harbor Marina SW not being used",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "33315880",
+      "asset_name": "NBPT-MHS-WAP04",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "de983dcf83bb26509bdf5e60ceaad30d",
+      "error_message": null
+    },
+    {
+      "asset_id": "39991239",
+      "asset_name": "PowerEdge R715 - G1L3TS1",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea983dcf83bb26509bdf5e60ceaad369",
+      "error_message": null
+    },
+    {
+      "asset_id": "44418325",
+      "asset_name": "NBPT-54InnStreet-Comcast Cable Modem",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6e983dcf83bb26509bdf5e60ceaad36d",
+      "error_message": null
+    },
+    {
+      "asset_id": "46125264",
+      "asset_name": "NBPT-29WaterStreet - Comcast Cable Modem",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef987dcf83bb26509bdf5e60ceaad33b",
+      "error_message": null
+    },
+    {
+      "asset_id": "46125281",
+      "asset_name": "NBPT- Harbor Marina - Comcast Cable Modem",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e7987dcf83bb26509bdf5e60ceaad329",
+      "error_message": null
+    },
+    {
+      "asset_id": "46125539",
+      "asset_name": "NBPT-10Water Street - Comcast Cable Modem",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c0a87dcf83bb26509bdf5e60ceaad3a8",
+      "error_message": null
+    },
+    {
+      "asset_id": "46127042",
+      "asset_name": "NBPT-Windward- Comcast Cable Modem",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "84a87dcf83bb26509bdf5e60ceaad3ba",
+      "error_message": null
+    },
+    {
+      "asset_id": "46127428",
+      "asset_name": "Windward -  NED-NBPT-SW03",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cda8bdcf83bb26509bdf5e60ceaad397",
+      "error_message": null
+    },
+    {
+      "asset_id": "48606758",
+      "asset_name": "NED-NBPT - Sharp MX3071",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "55a8bdcf83bb26509bdf5e60ceaad3d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "48607993",
+      "asset_name": "NED-NBPT - HPLJP M501DN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9da8bdcf83bb26509bdf5e60ceaad3b9",
+      "error_message": null
+    },
+    {
+      "asset_id": "48608276",
+      "asset_name": "NED-NBPT - HP Color LaserJet CP4005",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5da8fdcf83bb26509bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "54860216",
+      "asset_name": "NBPT-Wward-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f1a8fdcf83bb26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "59003493",
+      "asset_name": "NBPT-CCE-DC02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3fa8710383fb26509bdf5e60ceaad31a",
+      "error_message": null
+    },
+    {
+      "asset_id": "64415026",
+      "asset_name": "NBPT-HMarina-SW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fba8710383fb26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "56181999",
+      "asset_name": "54-INN-WAP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bfa8710383fb26509bdf5e60ceaad36c",
+      "error_message": null
+    },
+    {
+      "asset_id": "64415035",
+      "asset_name": "NBPT-HMarina-WAP01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7cb8710383fb26509bdf5e60ceaad3f1",
+      "error_message": null
+    },
+    {
+      "asset_id": "64415078",
+      "asset_name": "NBPT-HMarina-WAP02",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "74b8f10383fb26509bdf5e60ceaad33a",
+      "error_message": null
+    },
+    {
+      "asset_id": "54860331",
+      "asset_name": "NBPT-Hmarina-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "77a8710383fb26509bdf5e60ceaad35f",
+      "error_message": null
+    },
+    {
+      "asset_id": "75232689",
+      "asset_name": "NBPT-MHS-WAP05",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d9b8f10383fb26509bdf5e60ceaad3b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "814305",
+      "asset_name": "nedevelopment.com",
+      "action": "updated",
+      "success": true,
+      "servicenow_sys_id": "84603903837b26509bdf5e60ceaad339",
+      "error_message": null
+    },
+    {
+      "asset_id": "4267091",
+      "asset_name": "10 State Street WiFi",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4eb8f10383fb26509bdf5e60ceaad3c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "9272502",
+      "asset_name": "10 State Street - Photos",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "56b8350383fb26509bdf5e60ceaad329",
+      "error_message": null
+    },
+    {
+      "asset_id": "9272901",
+      "asset_name": "54 Inn Street - Photos",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eac8790383fb26509bdf5e60ceaad342",
+      "error_message": null
+    },
+    {
+      "asset_id": "9273579",
+      "asset_name": "Boat Basin - Photos",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8e8314383fb26509bdf5e60ceaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "9273711",
+      "asset_name": "Harbor Marina - Photos",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9bf8f54383fb26509bdf5e60ceaad33b",
+      "error_message": null
+    },
+    {
+      "asset_id": "16070540",
+      "asset_name": "6-3-2024 Pictures",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c309b94383fb26509bdf5e60ceaad382",
+      "error_message": null
+    },
+    {
+      "asset_id": "9273473",
+      "asset_name": "Michael's Harborside - Photos",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d429fd4383fb26509bdf5e60ceaad3ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "9273036",
+      "asset_name": "Phoenix Room",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3039798383fb26509bdf5e60ceaad34f",
+      "error_message": null
+    },
+    {
+      "asset_id": "9272839",
+      "asset_name": "Newburyport",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9a39b98383fb26509bdf5e60ceaad30d",
+      "error_message": null
+    },
+    {
+      "asset_id": "9272594",
+      "asset_name": "10 State Street - 20160628",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "867939c383fb26509bdf5e60ceaad32c",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062926",
+      "asset_name": "MHS - machine serials.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7e99710783fb26509bdf5e60ceaad3d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062928",
+      "asset_name": "Newburyport TS Users.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5799b10783fb26509bdf5e60ceaad305",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062929",
+      "asset_name": ".DS_Store",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "af99b10783fb26509bdf5e60ceaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062930",
+      "asset_name": "nbpt trustwave info.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bf99b10783fb26509bdf5e60ceaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062945",
+      "asset_name": "10center-fw01_12-19-2013.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c8a9b10783fb26509bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062946",
+      "asset_name": "10center-fw01_02-10-2014.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1ca9b10783fb26509bdf5e60ceaad3d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062947",
+      "asset_name": "10Center ASA 01132012.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2ca9f10783fb26509bdf5e60ceaad341",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062989",
+      "asset_name": "How to create a user to access Dockmaster.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0da9f10783fb26509bdf5e60ceaad355",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062990",
+      "asset_name": "DockMaster Contact Info.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d5a9f10783fb26509bdf5e60ceaad32c",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062991",
+      "asset_name": "Dockmaster - D3 Shutdown Procedures.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "71a9f10783fb26509bdf5e60ceaad3b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062992",
+      "asset_name": "Dockmaster User Accounts.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "46a9f10783fb26509bdf5e60ceaad3d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062999",
+      "asset_name": "MRI SaaS Password Reset Tool Instruction Guide.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1aa9350783fb26509bdf5e60ceaad33c",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063000",
+      "asset_name": "MRI SaaS Handbook (North America) (3).pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fea9350783fb26509bdf5e60ceaad357",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062953",
+      "asset_name": "Michaels IP Scan.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dba9350783fb26509bdf5e60ceaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062954",
+      "asset_name": "54 Inn IP Scan.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a3a9750783fb26509bdf5e60ceaad390",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062955",
+      "asset_name": "Notes.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "77a9b50783fb26509bdf5e60ceaad314",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062956",
+      "asset_name": "NBPT Audit 2017 DRAFT TAK.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5cb9b50783fb26509bdf5e60ceaad385",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062957",
+      "asset_name": "NBPT Audit 2017 DRAFT.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "28b9f50783fb26509bdf5e60ceaad341",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062958",
+      "asset_name": "NBPT Audit 2017 FINAL.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78b9f50783fb26509bdf5e60ceaad383",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062959",
+      "asset_name": "NBPT Audit 2017 FINAL.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "55b9390783fb26509bdf5e60ceaad367",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062973",
+      "asset_name": "54inn-sw01-03222013.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e9b9390783fb26509bdf5e60ceaad33e",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062974",
+      "asset_name": "54inn-fw01_20120130-2.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b5b9390783fb26509bdf5e60ceaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062975",
+      "asset_name": "nbpt-fw01_20181009_1149.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "deb9390783fb26509bdf5e60ceaad3eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062976",
+      "asset_name": "nbpt-fw01_20181009_1133.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e6b9b90783fb26509bdf5e60ceaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062977",
+      "asset_name": "54inn-fw01_ASA_8-12-14.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2b9b90783fb26509bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062978",
+      "asset_name": "HP2810-48G_12-19-2013.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "07b9f90783fb26509bdf5e60ceaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062979",
+      "asset_name": "54inn-fw01_02-10-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e7b9b90783fb26509bdf5e60ceaad3ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062980",
+      "asset_name": "54inn-fw01_12-19-20013.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3bb93d0783fb26509bdf5e60ceaad37d",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062981",
+      "asset_name": "BB-Main_ASA_8-12-14.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "00c97d0783fb26509bdf5e60ceaad31d",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062983",
+      "asset_name": "BB-Retail_ASA_8-12-14.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "18c97d0783fb26509bdf5e60ceaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062927",
+      "asset_name": "mhs-fw01_20120110.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7cc97d0783fb26509bdf5e60ceaad383",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062984",
+      "asset_name": "MHS-fw01_ASA_8-12-14.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "85c97d0783fb26509bdf5e60ceaad3ae",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062985",
+      "asset_name": "sonicwall-TZ_210-5_6_0_11-61o.exp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "59c9bd0783fb26509bdf5e60ceaad39e",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062986",
+      "asset_name": "sonicwall_Windward_8-12-14.exp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a1c97d0783fb26509bdf5e60ceaad3f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062995",
+      "asset_name": "Newburyport.xml",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0ec9fd0783fb26509bdf5e60ceaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062996",
+      "asset_name": "PayWare Users.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9ec9314783fb26509bdf5e60ceaad308",
+      "error_message": null
+    },
+    {
+      "asset_id": "4062997",
+      "asset_name": "payware.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eec9fd0783fb26509bdf5e60ceaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "9272547",
+      "asset_name": "10 State Street - 20170917.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4bc9714783fb26509bdf5e60ceaad30d",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063022",
+      "asset_name": "Telco Closet.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "20d9714783fb26509bdf5e60ceaad33a",
+      "error_message": null
+    },
+    {
+      "asset_id": "9272926",
+      "asset_name": "54 Inn Street.20170918..zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a9d9354783fb26509bdf5e60ceaad307",
+      "error_message": null
+    },
+    {
+      "asset_id": "9273576",
+      "asset_name": "Boat Basin.20170918.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5fd9754783fb26509bdf5e60ceaad394",
+      "error_message": null
+    },
+    {
+      "asset_id": "9273673",
+      "asset_name": "Harbor Marina.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d5e9754783fb26509bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "13941605",
+      "asset_name": "Image20230921123458.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fae9754783fb26509bdf5e60ceaad3d9",
+      "error_message": null
+    },
+    {
+      "asset_id": "13941606",
+      "asset_name": "Image20230921123535.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5be9394783fb26509bdf5e60ceaad31a",
+      "error_message": null
+    },
+    {
+      "asset_id": "13941607",
+      "asset_name": "Image20230921123609.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f7e9794783fb26509bdf5e60ceaad302",
+      "error_message": null
+    },
+    {
+      "asset_id": "13941608",
+      "asset_name": "Image20230921123601.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c8f9394783fb26509bdf5e60ceaad3a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "13941609",
+      "asset_name": "Image20230921123554.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "24f9b94783fb26509bdf5e60ceaad310",
+      "error_message": null
+    },
+    {
+      "asset_id": "13941610",
+      "asset_name": "Image20230921123548.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fcf9b94783fb26509bdf5e60ceaad35f",
+      "error_message": null
+    },
+    {
+      "asset_id": "13941611",
+      "asset_name": "Image20230921123541.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ddf9b94783fb26509bdf5e60ceaad3a3",
+      "error_message": null
+    },
+    {
+      "asset_id": "9273511",
+      "asset_name": "Michael's Harborside.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f5f9b94783fb26509bdf5e60ceaad3ec",
+      "error_message": null
+    },
+    {
+      "asset_id": "13941543",
+      "asset_name": "Image20230921124212.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d3f9f94783fb26509bdf5e60ceaad3c0",
+      "error_message": null
+    },
+    {
+      "asset_id": "13941544",
+      "asset_name": "Image20230921124201.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b7f93d4783fb26509bdf5e60ceaad352",
+      "error_message": null
+    },
+    {
+      "asset_id": "13941545",
+      "asset_name": "Image20230921124233.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "100a3d4783fb26509bdf5e60ceaad35c",
+      "error_message": null
+    },
+    {
+      "asset_id": "13941546",
+      "asset_name": "Image20230921124226.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e80a3d4783fb26509bdf5e60ceaad39b",
+      "error_message": null
+    },
+    {
+      "asset_id": "13941547",
+      "asset_name": "Image20230921124217.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "050a7d4783fb26509bdf5e60ceaad37c",
+      "error_message": null
+    },
+    {
+      "asset_id": "9273044",
+      "asset_name": "Phoenix Room.20170918.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "590a7d4783fb26509bdf5e60ceaad3f0",
+      "error_message": null
+    },
+    {
+      "asset_id": "9272871",
+      "asset_name": "Newburyport_Site_2.20110523.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ca0abd4783fb26509bdf5e60ceaad3b8",
+      "error_message": null
+    },
+    {
+      "asset_id": "9272873",
+      "asset_name": "Newburyport_Site_1.20110523.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2a0abd4783fb26509bdf5e60ceaad3d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "9272874",
+      "asset_name": "Newburyport_Site_1.20140909.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "830afd4783fb26509bdf5e60ceaad3ff",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063104",
+      "asset_name": "20160628_165757.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "981a718783fb26509bdf5e60ceaad381",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063105",
+      "asset_name": "20160628_165624.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c91ab18783fb26509bdf5e60ceaad3ed",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063106",
+      "asset_name": "20160628_165617.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "311af18783fb26509bdf5e60ceaad33a",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063107",
+      "asset_name": "20160628_165638.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e61af18783fb26509bdf5e60ceaad3ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063109",
+      "asset_name": "20160628_165805.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "231a758783fb26509bdf5e60ceaad304",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063110",
+      "asset_name": "20160628_165657.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dc2a758783fb26509bdf5e60ceaad3e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063111",
+      "asset_name": "20160628_165718.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "052ab58783fb26509bdf5e60ceaad355",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063112",
+      "asset_name": "20160628_165749.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "822ab58783fb26509bdf5e60ceaad381",
+      "error_message": null
+    },
+    {
+      "asset_id": "9272580",
+      "asset_name": "10 State Street 20160628.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7a2af58783fb26509bdf5e60ceaad30d",
+      "error_message": null
+    },
+    {
+      "asset_id": "5128097",
+      "asset_name": "ned-nbpt-voice-network-diagram.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e83a398783fb26509bdf5e60ceaad39d",
+      "error_message": null
+    },
+    {
+      "asset_id": "12954262",
+      "asset_name": "NBPT_Network_Diagram_v1.1.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c53a398783fb26509bdf5e60ceaad38c",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063670",
+      "asset_name": "NBPT (7) OLP OFFICE STD 2013.rtf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "613a398783fb26509bdf5e60ceaad39a",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063671",
+      "asset_name": "NBPT (1) OLP SNGL OFFICE STD 2013 NL VLIC.rtf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd3a798783fb26509bdf5e60ceaad362",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063672",
+      "asset_name": "NBPT - WINRMTDSKTPSRVCSCAL 2012 SNGL VLIC OLP.rtf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "063a798783fb26509bdf5e60ceaad38c",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063594",
+      "asset_name": "PO_14113_NED - NBPT Fortinet Renewal - FGT60E4Q16051656 & FGT60E4Q16054763 - expires on 03_19.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ea3a798783fb26509bdf5e60ceaad3f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063595",
+      "asset_name": "PO 7962 NBPT Mail 1 of 1  Your Order 60-11557-D161103 (SO 1010037054).msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fe3ab98783fb26509bdf5e60ceaad319",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063551",
+      "asset_name": "NBPT JMX1546X13K JMX154641E4 PO 9609.CSV",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "933ab98783fb26509bdf5e60ceaad3e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063557",
+      "asset_name": "NBPT ASA5510_JMX1546X13K & ASA5505_JMX154641E4 smartnet renewal -exp 07-AUG-2015.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "af3af98783fb26509bdf5e60ceaad342",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063559",
+      "asset_name": "NBPT ASA5505-JMX1818Z0FZ Smartnet exp-07-21-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4c4ab98783fb26509bdf5e60ceaad3f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063560",
+      "asset_name": "NBPT - JMX1546X13K JMX154641E4 PO 7024R.CSV",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "944af98783fb26509bdf5e60ceaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063562",
+      "asset_name": "NBPT (4) ASA - JMX1815Z0QH JMX1818Z0FZ JMX154641E4 JMX1546X13K - po 5140.CSV",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c4af98783fb26509bdf5e60ceaad3d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "4063563",
+      "asset_name": "NBPT ASA5505-JMX1815Z0QH Smartnet exp-07-01-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "894a3d8783fb26509bdf5e60ceaad314",
+      "error_message": null
+    },
+    {
+      "asset_id": "13069609",
+      "asset_name": "NED - NBPT Trustwave Replacement Handoff.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d14a3d8783fb26509bdf5e60ceaad3f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "14947561",
+      "asset_name": "NED- NBPT Subnet Change.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b54a7d8783fb26509bdf5e60ceaad398",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062926",
+      "asset_name": "MHS_-_machine_serials.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8399710783fb26509bdf5e60ceaad3f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062928",
+      "asset_name": "Newburyport_TS_Users.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b99b10783fb26509bdf5e60ceaad312",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062930",
+      "asset_name": "nbpt_trustwave_info.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3799b10783fb26509bdf5e60ceaad386",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062945",
+      "asset_name": "10center-fw01_12-19-2013.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "98a9b10783fb26509bdf5e60ceaad3a1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062946",
+      "asset_name": "10center-fw01_02-10-2014.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "24a9f10783fb26509bdf5e60ceaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062947",
+      "asset_name": "10Center_ASA_01132012.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78a9f10783fb26509bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062989",
+      "asset_name": "How_to_create_a_user_to_access_Dockmaster.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "55a9f10783fb26509bdf5e60ceaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062990",
+      "asset_name": "DockMaster_Contact_Info.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ada9f10783fb26509bdf5e60ceaad39b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062991",
+      "asset_name": "Dockmaster_-_D3_Shutdown_Procedures.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "06a9f10783fb26509bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062992",
+      "asset_name": "Dockmaster_User_Accounts.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "56a9350783fb26509bdf5e60ceaad32c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062999",
+      "asset_name": "MRI_SaaS_Password_Reset_Tool_Instruction_Guide.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "eaa9350783fb26509bdf5e60ceaad377",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063000",
+      "asset_name": "MRI_SaaS_Handbook_(North_America)_(3).pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0ba9350783fb26509bdf5e60ceaad3f4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062953",
+      "asset_name": "Michaels_IP_Scan.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d7a9750783fb26509bdf5e60ceaad374",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062954",
+      "asset_name": "54_Inn_IP_Scan.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bfa9750783fb26509bdf5e60ceaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062955",
+      "asset_name": "Notes.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "08b9b50783fb26509bdf5e60ceaad369",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062956",
+      "asset_name": "NBPT_Audit_2017_DRAFT_TAK.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "58b9b50783fb26509bdf5e60ceaad3d3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062957",
+      "asset_name": "NBPT_Audit_2017_DRAFT.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "30b9f50783fb26509bdf5e60ceaad307",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062958",
+      "asset_name": "NBPT_Audit_2017_FINAL.docx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "01b9390783fb26509bdf5e60ceaad334",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062959",
+      "asset_name": "NBPT_Audit_2017_FINAL.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d1b9390783fb26509bdf5e60ceaad364",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062973",
+      "asset_name": "54inn-sw01-03222013.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "39b9390783fb26509bdf5e60ceaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062974",
+      "asset_name": "54inn-fw01_20120130-2.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0eb9390783fb26509bdf5e60ceaad3e6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062975",
+      "asset_name": "nbpt-fw01_20181009_1149.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "16b9790783fb26509bdf5e60ceaad301",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062976",
+      "asset_name": "nbpt-fw01_20181009_1133.conf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6eb9b90783fb26509bdf5e60ceaad378",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062977",
+      "asset_name": "54inn-fw01_ASA_8-12-14.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0fb9f90783fb26509bdf5e60ceaad327",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062978",
+      "asset_name": "HP2810-48G_12-19-2013.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9bb9f90783fb26509bdf5e60ceaad3e6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062979",
+      "asset_name": "54inn-fw01_02-10-2010.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "afb93d0783fb26509bdf5e60ceaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062980",
+      "asset_name": "54inn-fw01_12-19-20013.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "80c93d0783fb26509bdf5e60ceaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062981",
+      "asset_name": "BB-Main_ASA_8-12-14.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "54c97d0783fb26509bdf5e60ceaad343",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062983",
+      "asset_name": "BB-Retail_ASA_8-12-14.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2cc97d0783fb26509bdf5e60ceaad348",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062927",
+      "asset_name": "mhs-fw01_20120110.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f8c97d0783fb26509bdf5e60ceaad3c8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062984",
+      "asset_name": "MHS-fw01_ASA_8-12-14.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d1c97d0783fb26509bdf5e60ceaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062985",
+      "asset_name": "sonicwall-TZ_210-5_6_0_11-61o.exp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "69c9bd0783fb26509bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062986",
+      "asset_name": "sonicwall_Windward_8-12-14.exp",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b9c9fd0783fb26509bdf5e60ceaad365",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062995",
+      "asset_name": "Newburyport.xml",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4ac9fd0783fb26509bdf5e60ceaad3b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062996",
+      "asset_name": "PayWare_Users.xlsx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "22c9314783fb26509bdf5e60ceaad325",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4062997",
+      "asset_name": "payware.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7ac9314783fb26509bdf5e60ceaad3a5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Basement_-_T1_CPE.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3cc8750383fb26509bdf5e60ceaad300",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Office_to_Basement.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "45c8f50383fb26509bdf5e60ceaad312",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Network_Equip_-_Front.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "85c8b50383fb26509bdf5e60ceaad3d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Network_Equip.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "59c8f50383fb26509bdf5e60ceaad30b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Network_Equip_-_Labels.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ddc8f50383fb26509bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Basement_-_Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "11c8f50383fb26509bdf5e60ceaad371",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Basement_-_T1_CPE.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3cc8750383fb26509bdf5e60ceaad300",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Office_to_Basement.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "45c8f50383fb26509bdf5e60ceaad312",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Network_Equip_-_Front.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "85c8b50383fb26509bdf5e60ceaad3d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Network_Equip.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "59c8f50383fb26509bdf5e60ceaad30b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Network_Equip_-_Labels.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ddc8f50383fb26509bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Basement_-_Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "11c8f50383fb26509bdf5e60ceaad371",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Basement_-_T1_CPE.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3cc8750383fb26509bdf5e60ceaad300",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Office_to_Basement.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "45c8f50383fb26509bdf5e60ceaad312",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Network_Equip_-_Front.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "85c8b50383fb26509bdf5e60ceaad3d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Network_Equip.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "59c8f50383fb26509bdf5e60ceaad30b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Network_Equip_-_Labels.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ddc8f50383fb26509bdf5e60ceaad350",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272502",
+      "asset_name": "Basement_-_Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "11c8f50383fb26509bdf5e60ceaad371",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272547",
+      "asset_name": "10_State_Street_-_20200820.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e3c9714783fb26509bdf5e60ceaad3df",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063022",
+      "asset_name": "Telco_Closet.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c5d9714783fb26509bdf5e60ceaad3eb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "Conf_Room_-_WAP.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d6d8bd0383fb26509bdf5e60ceaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "2-Post_-_Front_Top.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aad8bd0383fb26509bdf5e60ceaad386",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "4-Post_-_Front_Top.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ed8bd0383fb26509bdf5e60ceaad38d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "4-Post_-_Front_Mid.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "22d8bd0383fb26509bdf5e60ceaad395",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "2-Post_-_Rear___T1_CPE.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "72d8bd0383fb26509bdf5e60ceaad3b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "2-Post_-_Front_Bottom.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fed8bd0383fb26509bdf5e60ceaad3f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "2-Post_-_Top_Rear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "83d8fd0383fb26509bdf5e60ceaad300",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "4-Post_-_Front_Bottom.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cbd8fd0383fb26509bdf5e60ceaad343",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "Conf_Room_-_WAP.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d6d8bd0383fb26509bdf5e60ceaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "2-Post_-_Front_Top.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aad8bd0383fb26509bdf5e60ceaad386",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "4-Post_-_Front_Top.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ed8bd0383fb26509bdf5e60ceaad38d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "4-Post_-_Front_Mid.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "22d8bd0383fb26509bdf5e60ceaad395",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "2-Post_-_Rear___T1_CPE.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "72d8bd0383fb26509bdf5e60ceaad3b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "2-Post_-_Front_Bottom.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fed8bd0383fb26509bdf5e60ceaad3f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "2-Post_-_Top_Rear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "83d8fd0383fb26509bdf5e60ceaad300",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "4-Post_-_Front_Bottom.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cbd8fd0383fb26509bdf5e60ceaad343",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "Conf_Room_-_WAP.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d6d8bd0383fb26509bdf5e60ceaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "2-Post_-_Front_Top.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "aad8bd0383fb26509bdf5e60ceaad386",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "4-Post_-_Front_Top.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6ed8bd0383fb26509bdf5e60ceaad38d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "4-Post_-_Front_Mid.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "22d8bd0383fb26509bdf5e60ceaad395",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "2-Post_-_Rear___T1_CPE.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "72d8bd0383fb26509bdf5e60ceaad3b5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "2-Post_-_Front_Bottom.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fed8bd0383fb26509bdf5e60ceaad3f8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "2-Post_-_Top_Rear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "83d8fd0383fb26509bdf5e60ceaad300",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272901",
+      "asset_name": "4-Post_-_Front_Bottom.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cbd8fd0383fb26509bdf5e60ceaad343",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272926",
+      "asset_name": "54_Inn_Street.20170918..zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8ad9354783fb26509bdf5e60ceaad316",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273576",
+      "asset_name": "Boat_Basin.20170918.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9ce9f14783fb26509bdf5e60ceaad38e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Main_Office_Cabinet_-_Network_Gear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6cf8714383fb26509bdf5e60ceaad30c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Workshop_-_Modem.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f4f8754383fb26509bdf5e60ceaad309",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Workshop_-_P2P_Wifi_on_Main_Bldg.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78f8754383fb26509bdf5e60ceaad380",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_Wifi_PoE_Injectors.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "41f8754383fb26509bdf5e60ceaad3d5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Workshop_-_P2P_Wifi.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8df8754383fb26509bdf5e60ceaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_PC___Netgear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9df8b54383fb26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_Pole_Side_of_Conduits.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "51f8b54383fb26509bdf5e60ceaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_Conduits.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "55f8754383fb26509bdf5e60ceaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_Modem___Netgear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "21f8b54383fb26509bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Main_Office_Cabinet_-_Network_Gear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6cf8714383fb26509bdf5e60ceaad30c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Workshop_-_Modem.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f4f8754383fb26509bdf5e60ceaad309",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Workshop_-_P2P_Wifi_on_Main_Bldg.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78f8754383fb26509bdf5e60ceaad380",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_Wifi_PoE_Injectors.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "41f8754383fb26509bdf5e60ceaad3d5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Workshop_-_P2P_Wifi.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8df8754383fb26509bdf5e60ceaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_PC___Netgear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9df8b54383fb26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_Pole_Side_of_Conduits.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "51f8b54383fb26509bdf5e60ceaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_Conduits.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "55f8754383fb26509bdf5e60ceaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_Modem___Netgear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "21f8b54383fb26509bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Main_Office_Cabinet_-_Network_Gear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6cf8714383fb26509bdf5e60ceaad30c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Workshop_-_Modem.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f4f8754383fb26509bdf5e60ceaad309",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Workshop_-_P2P_Wifi_on_Main_Bldg.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "78f8754383fb26509bdf5e60ceaad380",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_Wifi_PoE_Injectors.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "41f8754383fb26509bdf5e60ceaad3d5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Workshop_-_P2P_Wifi.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8df8754383fb26509bdf5e60ceaad3cb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_PC___Netgear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9df8b54383fb26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_Pole_Side_of_Conduits.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "51f8b54383fb26509bdf5e60ceaad326",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_Conduits.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "55f8754383fb26509bdf5e60ceaad31f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273579",
+      "asset_name": "Shop_-_Modem___Netgear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "21f8b54383fb26509bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273673",
+      "asset_name": "Harbor_Marina.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8ae9b54783fb26509bdf5e60ceaad3b3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Dock_-_Unprotected_CAT5.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2509394383fb26509bdf5e60ceaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Back_Room_-_Security_DVR___Switch.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ad09394383fb26509bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Back_Room_-_Network_Gear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f909394383fb26509bdf5e60ceaad39e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Front_Desk_-_Public_Wifi.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3109794383fb26509bdf5e60ceaad317",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Back_Room_-_Network_Gear_2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c209394383fb26509bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Dock_-_Unprotected_CAT5.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2509394383fb26509bdf5e60ceaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Back_Room_-_Security_DVR___Switch.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ad09394383fb26509bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Back_Room_-_Network_Gear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f909394383fb26509bdf5e60ceaad39e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Front_Desk_-_Public_Wifi.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3109794383fb26509bdf5e60ceaad317",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Back_Room_-_Network_Gear_2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c209394383fb26509bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Dock_-_Unprotected_CAT5.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2509394383fb26509bdf5e60ceaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Back_Room_-_Security_DVR___Switch.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ad09394383fb26509bdf5e60ceaad3ac",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Back_Room_-_Network_Gear.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f909394383fb26509bdf5e60ceaad39e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Front_Desk_-_Public_Wifi.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3109794383fb26509bdf5e60ceaad317",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273711",
+      "asset_name": "Back_Room_-_Network_Gear_2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c209394383fb26509bdf5e60ceaad3bc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13941605",
+      "asset_name": "Image20230921123458.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "47e9394783fb26509bdf5e60ceaad37b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13941606",
+      "asset_name": "Image20230921123535.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2be9394783fb26509bdf5e60ceaad382",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13941607",
+      "asset_name": "Image20230921123609.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c0f9794783fb26509bdf5e60ceaad3a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13941608",
+      "asset_name": "Image20230921123601.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "10f9b94783fb26509bdf5e60ceaad306",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13941609",
+      "asset_name": "Image20230921123554.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bcf9b94783fb26509bdf5e60ceaad354",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13941610",
+      "asset_name": "Image20230921123548.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c5f9b94783fb26509bdf5e60ceaad37e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13941611",
+      "asset_name": "Image20230921123541.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e9f9b94783fb26509bdf5e60ceaad3c6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114736.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0e197d4383fb26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114915.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d2197d4383fb26509bdf5e60ceaad319",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114659.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ee197d4383fb26509bdf5e60ceaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114648.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ae197d4383fb26509bdf5e60ceaad389",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114656.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "36197d4383fb26509bdf5e60ceaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114714.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "32197d4383fb26509bdf5e60ceaad3e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114704.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2197d4383fb26509bdf5e60ceaad3ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114736.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0e197d4383fb26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114915.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d2197d4383fb26509bdf5e60ceaad319",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114659.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ee197d4383fb26509bdf5e60ceaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114648.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ae197d4383fb26509bdf5e60ceaad389",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114656.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "36197d4383fb26509bdf5e60ceaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114714.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "32197d4383fb26509bdf5e60ceaad3e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114704.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2197d4383fb26509bdf5e60ceaad3ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114736.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0e197d4383fb26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114915.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d2197d4383fb26509bdf5e60ceaad319",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114659.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ee197d4383fb26509bdf5e60ceaad37f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114648.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ae197d4383fb26509bdf5e60ceaad389",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114656.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "36197d4383fb26509bdf5e60ceaad379",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114714.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "32197d4383fb26509bdf5e60ceaad3e3",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_16070540",
+      "asset_name": "Image20240603114704.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f2197d4383fb26509bdf5e60ceaad3ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Modem__ASA__TrustWave.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f29358383fb26509bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Server_Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1b29358383fb26509bdf5e60ceaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Audio_Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b29758383fb26509bdf5e60ceaad357",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Server_ESX_Lock_Screen.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1329358383fb26509bdf5e60ceaad34b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Switch_Close-Up.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b29b58383fb26509bdf5e60ceaad337",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "TrustWave_Close-Up.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2729b58383fb26509bdf5e60ceaad38c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Modem__ASA__TrustWave.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f29358383fb26509bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Server_Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1b29358383fb26509bdf5e60ceaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Audio_Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b29758383fb26509bdf5e60ceaad357",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Server_ESX_Lock_Screen.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1329358383fb26509bdf5e60ceaad34b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Switch_Close-Up.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b29b58383fb26509bdf5e60ceaad337",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "TrustWave_Close-Up.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2729b58383fb26509bdf5e60ceaad38c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Modem__ASA__TrustWave.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f29358383fb26509bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Server_Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1b29358383fb26509bdf5e60ceaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Audio_Rack.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9b29758383fb26509bdf5e60ceaad357",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Server_ESX_Lock_Screen.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1329358383fb26509bdf5e60ceaad34b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "Switch_Close-Up.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2b29b58383fb26509bdf5e60ceaad337",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273473",
+      "asset_name": "TrustWave_Close-Up.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2729b58383fb26509bdf5e60ceaad38c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273511",
+      "asset_name": "Michael's_Harborside.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1af9f94783fb26509bdf5e60ceaad32a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13941543",
+      "asset_name": "Image20230921124212.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e7f93d4783fb26509bdf5e60ceaad32e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13941544",
+      "asset_name": "Image20230921124201.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0c0a3d4783fb26509bdf5e60ceaad368",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13941545",
+      "asset_name": "Image20230921124233.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "200a3d4783fb26509bdf5e60ceaad3d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13941546",
+      "asset_name": "Image20230921124226.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b40a3d4783fb26509bdf5e60ceaad3d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13941547",
+      "asset_name": "Image20230921124217.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "810a7d4783fb26509bdf5e60ceaad386",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273036",
+      "asset_name": "TPLink.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3d39798383fb26509bdf5e60ceaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273036",
+      "asset_name": "TPLink_Close-Up.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8239798383fb26509bdf5e60ceaad3e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273036",
+      "asset_name": "TPLink.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3d39798383fb26509bdf5e60ceaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273036",
+      "asset_name": "TPLink_Close-Up.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8239798383fb26509bdf5e60ceaad3e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273036",
+      "asset_name": "TPLink.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3d39798383fb26509bdf5e60ceaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273036",
+      "asset_name": "TPLink_Close-Up.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8239798383fb26509bdf5e60ceaad3e5",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9273044",
+      "asset_name": "Phoenix_Room.20170918.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "710abd4783fb26509bdf5e60ceaad357",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_9.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b75971c383fb26509bdf5e60ceaad3a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_3.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f759b1c383fb26509bdf5e60ceaad305",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_19.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0c69b1c383fb26509bdf5e60ceaad340",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_5.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc69b1c383fb26509bdf5e60ceaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_17.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9869b1c383fb26509bdf5e60ceaad370",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_18.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1869b1c383fb26509bdf5e60ceaad36e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_13.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c69b1c383fb26509bdf5e60ceaad377",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_8.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6869b1c383fb26509bdf5e60ceaad38e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_14.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6869b1c383fb26509bdf5e60ceaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_15.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7069b1c383fb26509bdf5e60ceaad3d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_7.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7469b1c383fb26509bdf5e60ceaad3a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_10.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f869b1c383fb26509bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_11.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd69b1c383fb26509bdf5e60ceaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_4.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0d69f1c383fb26509bdf5e60ceaad323",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9169f1c383fb26509bdf5e60ceaad339",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "IMG00041-20110523-1625.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1969f1c383fb26509bdf5e60ceaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_12.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed69f1c383fb26509bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_16.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6169f1c383fb26509bdf5e60ceaad343",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e169f1c383fb26509bdf5e60ceaad355",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_6.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f969f1c383fb26509bdf5e60ceaad376",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "IMG00039-20110523-1426.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd69f1c383fb26509bdf5e60ceaad37d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "IMG00040-20110523-1433.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8269f1c383fb26509bdf5e60ceaad386",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_9.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b75971c383fb26509bdf5e60ceaad3a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_3.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f759b1c383fb26509bdf5e60ceaad305",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_19.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0c69b1c383fb26509bdf5e60ceaad340",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_5.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc69b1c383fb26509bdf5e60ceaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_17.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9869b1c383fb26509bdf5e60ceaad370",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_18.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1869b1c383fb26509bdf5e60ceaad36e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_13.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c69b1c383fb26509bdf5e60ceaad377",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_8.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6869b1c383fb26509bdf5e60ceaad38e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_14.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6869b1c383fb26509bdf5e60ceaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_15.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7069b1c383fb26509bdf5e60ceaad3d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_7.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7469b1c383fb26509bdf5e60ceaad3a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_10.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f869b1c383fb26509bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_11.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd69b1c383fb26509bdf5e60ceaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_4.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0d69f1c383fb26509bdf5e60ceaad323",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9169f1c383fb26509bdf5e60ceaad339",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "IMG00041-20110523-1625.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1969f1c383fb26509bdf5e60ceaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_12.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed69f1c383fb26509bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_16.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6169f1c383fb26509bdf5e60ceaad343",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e169f1c383fb26509bdf5e60ceaad355",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_6.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f969f1c383fb26509bdf5e60ceaad376",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "IMG00039-20110523-1426.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd69f1c383fb26509bdf5e60ceaad37d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "IMG00040-20110523-1433.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8269f1c383fb26509bdf5e60ceaad386",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_9.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b75971c383fb26509bdf5e60ceaad3a6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_3.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f759b1c383fb26509bdf5e60ceaad305",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_19.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0c69b1c383fb26509bdf5e60ceaad340",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_5.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc69b1c383fb26509bdf5e60ceaad347",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_17.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9869b1c383fb26509bdf5e60ceaad370",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_18.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1869b1c383fb26509bdf5e60ceaad36e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_13.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5c69b1c383fb26509bdf5e60ceaad377",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_8.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6869b1c383fb26509bdf5e60ceaad38e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_14.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6869b1c383fb26509bdf5e60ceaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_15.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7069b1c383fb26509bdf5e60ceaad3d6",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_7.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7469b1c383fb26509bdf5e60ceaad3a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_10.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f869b1c383fb26509bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_11.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd69b1c383fb26509bdf5e60ceaad3d1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_4.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0d69f1c383fb26509bdf5e60ceaad323",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_1.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9169f1c383fb26509bdf5e60ceaad339",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "IMG00041-20110523-1625.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1969f1c383fb26509bdf5e60ceaad32f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_12.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ed69f1c383fb26509bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "Newburyport_16.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6169f1c383fb26509bdf5e60ceaad343",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_2.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e169f1c383fb26509bdf5e60ceaad355",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "newburyport_6.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f969f1c383fb26509bdf5e60ceaad376",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "IMG00039-20110523-1426.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "bd69f1c383fb26509bdf5e60ceaad37d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272839",
+      "asset_name": "IMG00040-20110523-1433.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8269f1c383fb26509bdf5e60ceaad386",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272871",
+      "asset_name": "Newburyport_Site_2.20110523.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9e0abd4783fb26509bdf5e60ceaad324",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272873",
+      "asset_name": "Newburyport_Site_1.20110523.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ba0a318783fb26509bdf5e60ceaad367",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272874",
+      "asset_name": "Newburyport_Site_1.20140909.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "230a718783fb26509bdf5e60ceaad30a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063104",
+      "asset_name": "20160628_165757.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a41a318783fb26509bdf5e60ceaad3e0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063105",
+      "asset_name": "20160628_165624.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "191af18783fb26509bdf5e60ceaad32c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063106",
+      "asset_name": "20160628_165617.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c21af18783fb26509bdf5e60ceaad334",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063107",
+      "asset_name": "20160628_165638.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "031a358783fb26509bdf5e60ceaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063109",
+      "asset_name": "20160628_165805.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7b1a758783fb26509bdf5e60ceaad39a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063110",
+      "asset_name": "20160628_165657.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "602a758783fb26509bdf5e60ceaad30f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063111",
+      "asset_name": "20160628_165718.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a52ab58783fb26509bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063112",
+      "asset_name": "20160628_165749.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "da2ab58783fb26509bdf5e60ceaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272580",
+      "asset_name": "10_State_Street_old.zip",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "132af58783fb26509bdf5e60ceaad378",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165749.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8993dc383fb26509bdf5e60ceaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165638.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3099bdc383fb26509bdf5e60ceaad396",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165617.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b099bdc383fb26509bdf5e60ceaad3ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165805.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b099fdc383fb26509bdf5e60ceaad32b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165718.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c999bdc383fb26509bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165757.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8599fdc383fb26509bdf5e60ceaad3a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165624.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1599fdc383fb26509bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165657.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d999310783fb26509bdf5e60ceaad304",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165749.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8993dc383fb26509bdf5e60ceaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165638.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3099bdc383fb26509bdf5e60ceaad396",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165617.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b099bdc383fb26509bdf5e60ceaad3ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165805.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b099fdc383fb26509bdf5e60ceaad32b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165718.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c999bdc383fb26509bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165757.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8599fdc383fb26509bdf5e60ceaad3a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165624.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1599fdc383fb26509bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165657.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d999310783fb26509bdf5e60ceaad304",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165749.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e8993dc383fb26509bdf5e60ceaad320",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165638.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3099bdc383fb26509bdf5e60ceaad396",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165617.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b099bdc383fb26509bdf5e60ceaad3ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165805.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b099fdc383fb26509bdf5e60ceaad32b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165718.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c999bdc383fb26509bdf5e60ceaad313",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165757.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8599fdc383fb26509bdf5e60ceaad3a7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165624.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1599fdc383fb26509bdf5e60ceaad336",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_9272594",
+      "asset_name": "20160628_165657.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d999310783fb26509bdf5e60ceaad304",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_5128097",
+      "asset_name": "ned-nbpt-voice-network-diagram.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "343a398783fb26509bdf5e60ceaad3b1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_12954262",
+      "asset_name": "NBPT_Network_Diagram_v1.1.pdf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d53a398783fb26509bdf5e60ceaad3d8",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063670",
+      "asset_name": "NBPT_(7)_OLP_OFFICE_STD_2013.rtf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b93a798783fb26509bdf5e60ceaad328",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063671",
+      "asset_name": "NBPT_(1)_OLP_SNGL_OFFICE_STD_2013_NL_VLIC.rtf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4a3a798783fb26509bdf5e60ceaad385",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063672",
+      "asset_name": "NBPT_-_WINRMTDSKTPSRVCSCAL_2012_SNGL_VLIC_OLP.rtf",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "963a798783fb26509bdf5e60ceaad3da",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063594",
+      "asset_name": "PO_14113_NED_-_NBPT_Fortinet_Renewal_-_FGT60E4Q16051656___FGT60E4Q16054763_-_expires_on_03_19.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "40bab10b83fb26509bdf5e60ceaad38e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063595",
+      "asset_name": "PO_7962_NBPT_Mail_1_of_1__Your_Order_60-11557-D161103_(SO_1010037054).msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4b3ab98783fb26509bdf5e60ceaad30f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063551",
+      "asset_name": "NBPT_JMX1546X13K_JMX154641E4_PO_9609.CSV",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f3ab98783fb26509bdf5e60ceaad3e2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063557",
+      "asset_name": "NBPT_ASA5510_JMX1546X13K___ASA5505_JMX154641E4_smartnet_renewal_-exp_07-AUG-2015.msg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7b3af98783fb26509bdf5e60ceaad34e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063559",
+      "asset_name": "NBPT_ASA5505-JMX1818Z0FZ_Smartnet_exp-07-21-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cc4af98783fb26509bdf5e60ceaad384",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063560",
+      "asset_name": "NBPT_-_JMX1546X13K_JMX154641E4_PO_7024R.CSV",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2c4af98783fb26509bdf5e60ceaad3ee",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063562",
+      "asset_name": "NBPT_(4)_ASA_-_JMX1815Z0QH_JMX1818Z0FZ_JMX154641E4_JMX1546X13K_-_po_5140.CSV",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b04a3d8783fb26509bdf5e60ceaad39c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_4063563",
+      "asset_name": "NBPT_ASA5505-JMX1815Z0QH_Smartnet_exp-07-01-15.txt",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c14a3d8783fb26509bdf5e60ceaad3fc",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_13069609",
+      "asset_name": "NED_-_NBPT_Trustwave_Replacement_Handoff.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "614a7d8783fb26509bdf5e60ceaad393",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14947561",
+      "asset_name": "NED-_NBPT_Subnet_Change.pptx",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "314a7d8783fb26509bdf5e60ceaad3d7",
+      "error_message": null
+    }
+  ]
+}

@@ -1,0 +1,1234 @@
+{
+  "session_id": "migration_202509_224911_bc2dd54c",
+  "organization": "NED - CHS",
+  "timestamp": "2025-09-09T22:53:16.980454",
+  "total_processed": 153,
+  "successful": 153,
+  "failed": 0,
+  "results": [
+    {
+      "asset_id": "69950064",
+      "asset_name": "RCN Cable",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": "c880c63e939922502dadffed1dba10e8",
+      "error_message": "Asset with same u_itg_id already exists in ServiceNow"
+    },
+    {
+      "asset_id": "82913831",
+      "asset_name": "Sentinelone",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e4133dcb837b26509bdf5e60ceaad3d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "69950433",
+      "asset_name": "LAN 172.30.250.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "49137dcb837b26509bdf5e60ceaad35f",
+      "error_message": null
+    },
+    {
+      "asset_id": "77336055",
+      "asset_name": "Voice 172.30.251.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "61137dcb837b26509bdf5e60ceaad374",
+      "error_message": null
+    },
+    {
+      "asset_id": "69949990",
+      "asset_name": "RCN",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d2137dcb837b26509bdf5e60ceaad3b2",
+      "error_message": null
+    },
+    {
+      "asset_id": "77386474",
+      "asset_name": "Meraki",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3e137dcb837b26509bdf5e60ceaad3ef",
+      "error_message": null
+    },
+    {
+      "asset_id": "69950469",
+      "asset_name": "Security Camera 192.168.0.0/24",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d5137dcb837b26509bdf5e60ceaad36e",
+      "error_message": null
+    },
+    {
+      "asset_id": "77386480",
+      "asset_name": "Fortigate",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4f13bdcb837b26509bdf5e60ceaad32b",
+      "error_message": null
+    },
+    {
+      "asset_id": "82913857",
+      "asset_name": "SentinelOne",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7313bdcb837b26509bdf5e60ceaad3f6",
+      "error_message": null
+    },
+    {
+      "asset_id": "75828259",
+      "asset_name": "Fortinet FORTINET",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d823fdcb837b26509bdf5e60ceaad398",
+      "error_message": null
+    },
+    {
+      "asset_id": "75828821",
+      "asset_name": "Cisco Cisco Meraki MR46",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5823fdcb837b26509bdf5e60ceaad38f",
+      "error_message": null
+    },
+    {
+      "asset_id": "75829159",
+      "asset_name": "Cisco CISCO Meraki MS120-8",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fc23310f837b26509bdf5e60ceaad300",
+      "error_message": null
+    },
+    {
+      "asset_id": "75829387",
+      "asset_name": "Cisco CISCO Meraki MS250-48LP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1123310f837b26509bdf5e60ceaad344",
+      "error_message": null
+    },
+    {
+      "asset_id": "75829620",
+      "asset_name": "Cisco CISCO Meraki MS250-48FP",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4623310f837b26509bdf5e60ceaad3dc",
+      "error_message": null
+    },
+    {
+      "asset_id": "75829825",
+      "asset_name": "Cisco CISCO Meraki MS425-32",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c223310f837b26509bdf5e60ceaad3e9",
+      "error_message": null
+    },
+    {
+      "asset_id": "76491819",
+      "asset_name": "Meraki NED-Chesnut Hill Meraki Expires 4/10/2027",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5e23710f837b26509bdf5e60ceaad31d",
+      "error_message": null
+    },
+    {
+      "asset_id": "76491836",
+      "asset_name": "Fortinet NED-Chesnut Hill Forticare expires 4/10/2027",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a223310f837b26509bdf5e60ceaad3f9",
+      "error_message": null
+    },
+    {
+      "asset_id": "58923725",
+      "asset_name": "SW01",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "58923726",
+      "asset_name": "HP SW",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "58923753",
+      "asset_name": "SW: SecurityCameras",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "58923754",
+      "asset_name": "SW: Bldg C-SW",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "58923756",
+      "asset_name": "SW: Bldg B Rm104",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "58923757",
+      "asset_name": "SW: Bldg B rm 201",
+      "action": "skipped",
+      "success": true,
+      "servicenow_sys_id": null,
+      "error_message": "Enhanced exclusion: archived"
+    },
+    {
+      "asset_id": "63241025",
+      "asset_name": "FWL:CHS-CH-FW01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1433b10f837b26509bdf5e60ceaad370",
+      "error_message": null
+    },
+    {
+      "asset_id": "63241260",
+      "asset_name": "SW:chs-ch-sw01-A104",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9833b10f837b26509bdf5e60ceaad3fa",
+      "error_message": null
+    },
+    {
+      "asset_id": "58923746",
+      "asset_name": "Shoretel UC Server 20",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5833f10f837b26509bdf5e60ceaad316",
+      "error_message": null
+    },
+    {
+      "asset_id": "58923719",
+      "asset_name": "chm-fw01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c33f10f837b26509bdf5e60ceaad30d",
+      "error_message": null
+    },
+    {
+      "asset_id": "63241303",
+      "asset_name": "SW:chs-ch-sw02-A104",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd33f10f837b26509bdf5e60ceaad338",
+      "error_message": null
+    },
+    {
+      "asset_id": "63241370",
+      "asset_name": "SW:chs-ch-sw-B201",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2d33f10f837b26509bdf5e60ceaad3b7",
+      "error_message": null
+    },
+    {
+      "asset_id": "63241550",
+      "asset_name": "SW:chs-ch-sw-B104",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f133f10f837b26509bdf5e60ceaad3d0",
+      "error_message": null
+    },
+    {
+      "asset_id": "63241566",
+      "asset_name": "SW:chs-ch-sw-C103",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9633350f837b26509bdf5e60ceaad325",
+      "error_message": null
+    },
+    {
+      "asset_id": "63241822",
+      "asset_name": "UPS:chs-ch-apc01",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1233350f837b26509bdf5e60ceaad335",
+      "error_message": null
+    },
+    {
+      "asset_id": "14190946",
+      "asset_name": "Building A - Security Office 104 (primary)",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7233350f837b26509bdf5e60ceaad37b",
+      "error_message": null
+    },
+    {
+      "asset_id": "14190947",
+      "asset_name": "Building B - 104 telephone room",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "38733d0f837b26509bdf5e60ceaad3be",
+      "error_message": null
+    },
+    {
+      "asset_id": "14190948",
+      "asset_name": "Building B 201 Electrical room",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7183fd0f837b26509bdf5e60ceaad35e",
+      "error_message": null
+    },
+    {
+      "asset_id": "14190949",
+      "asset_name": "Building C room 103",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a793f14f837b26509bdf5e60ceaad398",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1845.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4353790f837b26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1840.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9353790f837b26509bdf5e60ceaad33e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1842.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "df53390f837b26509bdf5e60ceaad3c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1839.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f53790f837b26509bdf5e60ceaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1838.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef53790f837b26509bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1834.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2353790f837b26509bdf5e60ceaad373",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1847.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb53790f837b26509bdf5e60ceaad387",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1837.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f353790f837b26509bdf5e60ceaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "A104-sw.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8463790f837b26509bdf5e60ceaad3bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1829.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4863790f837b26509bdf5e60ceaad3c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1841.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c63790f837b26509bdf5e60ceaad3c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1832.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9063790f837b26509bdf5e60ceaad359",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "A104-fw.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9063390f837b26509bdf5e60ceaad3ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1830.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6063b90f837b26509bdf5e60ceaad303",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "Primary_ISP_Modem.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e863790f837b26509bdf5e60ceaad3e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1836.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c63b90f837b26509bdf5e60ceaad311",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1844.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b863b90f837b26509bdf5e60ceaad363",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1828.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c63b90f837b26509bdf5e60ceaad36a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1875.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd63b90f837b26509bdf5e60ceaad35e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "ASA.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c563b90f837b26509bdf5e60ceaad38b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1845.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4353790f837b26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1840.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9353790f837b26509bdf5e60ceaad33e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1842.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "df53390f837b26509bdf5e60ceaad3c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1839.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f53790f837b26509bdf5e60ceaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1838.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef53790f837b26509bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1834.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2353790f837b26509bdf5e60ceaad373",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1847.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb53790f837b26509bdf5e60ceaad387",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1837.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f353790f837b26509bdf5e60ceaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "A104-sw.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8463790f837b26509bdf5e60ceaad3bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1829.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4863790f837b26509bdf5e60ceaad3c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1841.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c63790f837b26509bdf5e60ceaad3c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1832.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9063790f837b26509bdf5e60ceaad359",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "A104-fw.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9063390f837b26509bdf5e60ceaad3ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1830.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6063b90f837b26509bdf5e60ceaad303",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "Primary_ISP_Modem.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e863790f837b26509bdf5e60ceaad3e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1836.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c63b90f837b26509bdf5e60ceaad311",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1844.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b863b90f837b26509bdf5e60ceaad363",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1828.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c63b90f837b26509bdf5e60ceaad36a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1875.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd63b90f837b26509bdf5e60ceaad35e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "ASA.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c563b90f837b26509bdf5e60ceaad38b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1845.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4353790f837b26509bdf5e60ceaad31e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1840.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9353790f837b26509bdf5e60ceaad33e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1842.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "df53390f837b26509bdf5e60ceaad3c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1839.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6f53790f837b26509bdf5e60ceaad36b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1838.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ef53790f837b26509bdf5e60ceaad361",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1834.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2353790f837b26509bdf5e60ceaad373",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1847.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "fb53790f837b26509bdf5e60ceaad387",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1837.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f353790f837b26509bdf5e60ceaad3b4",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "A104-sw.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8463790f837b26509bdf5e60ceaad3bb",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1829.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "4863790f837b26509bdf5e60ceaad3c2",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1841.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "1c63790f837b26509bdf5e60ceaad3c9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1832.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9063790f837b26509bdf5e60ceaad359",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "A104-fw.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "9063390f837b26509bdf5e60ceaad3ea",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1830.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "6063b90f837b26509bdf5e60ceaad303",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "Primary_ISP_Modem.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "e863790f837b26509bdf5e60ceaad3e1",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1836.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c63b90f837b26509bdf5e60ceaad311",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1844.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "b863b90f837b26509bdf5e60ceaad363",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1828.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7c63b90f837b26509bdf5e60ceaad36a",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "IMG_1875.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "cd63b90f837b26509bdf5e60ceaad35e",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190946",
+      "asset_name": "ASA.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c563b90f837b26509bdf5e60ceaad38b",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1855.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b737d0f837b26509bdf5e60ceaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1856.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7b73bd0f837b26509bdf5e60ceaad307",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1853.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0883bd0f837b26509bdf5e60ceaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1860.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c883bd0f837b26509bdf5e60ceaad31c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1857.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d083bd0f837b26509bdf5e60ceaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "B104.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d483bd0f837b26509bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1859.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a883bd0f837b26509bdf5e60ceaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1855.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b737d0f837b26509bdf5e60ceaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1856.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7b73bd0f837b26509bdf5e60ceaad307",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1853.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0883bd0f837b26509bdf5e60ceaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1860.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c883bd0f837b26509bdf5e60ceaad31c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1857.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d083bd0f837b26509bdf5e60ceaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "B104.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d483bd0f837b26509bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1859.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a883bd0f837b26509bdf5e60ceaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1855.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "3b737d0f837b26509bdf5e60ceaad3e7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1856.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "7b73bd0f837b26509bdf5e60ceaad307",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1853.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0883bd0f837b26509bdf5e60ceaad315",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1860.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "c883bd0f837b26509bdf5e60ceaad31c",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1857.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d083bd0f837b26509bdf5e60ceaad349",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "B104.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "d483bd0f837b26509bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190947",
+      "asset_name": "IMG_1859.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a883bd0f837b26509bdf5e60ceaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1862.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5993314f837b26509bdf5e60ceaad3bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1868.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd93b14f837b26509bdf5e60ceaad337",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1874.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2193b14f837b26509bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1863.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a193b14f837b26509bdf5e60ceaad33f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1866.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f193b14f837b26509bdf5e60ceaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "B201.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f193b14f837b26509bdf5e60ceaad35f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1867.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a93b14f837b26509bdf5e60ceaad3d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1864.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ca93b14f837b26509bdf5e60ceaad3de",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1862.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5993314f837b26509bdf5e60ceaad3bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1868.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd93b14f837b26509bdf5e60ceaad337",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1874.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2193b14f837b26509bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1863.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a193b14f837b26509bdf5e60ceaad33f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1866.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f193b14f837b26509bdf5e60ceaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "B201.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f193b14f837b26509bdf5e60ceaad35f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1867.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a93b14f837b26509bdf5e60ceaad3d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1864.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ca93b14f837b26509bdf5e60ceaad3de",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1862.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "5993314f837b26509bdf5e60ceaad3bd",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1868.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "dd93b14f837b26509bdf5e60ceaad337",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1874.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "2193b14f837b26509bdf5e60ceaad351",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1863.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "a193b14f837b26509bdf5e60ceaad33f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1866.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f193b14f837b26509bdf5e60ceaad358",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "B201.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f193b14f837b26509bdf5e60ceaad35f",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1867.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "0a93b14f837b26509bdf5e60ceaad3d7",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190948",
+      "asset_name": "IMG_1864.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "ca93b14f837b26509bdf5e60ceaad3de",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190949",
+      "asset_name": "IMG_1870.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "29a3754f837b26509bdf5e60ceaad31d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190949",
+      "asset_name": "IMG_1873.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f5a3754f837b26509bdf5e60ceaad356",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190949",
+      "asset_name": "IMG_1871.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f5a3754f837b26509bdf5e60ceaad3a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190949",
+      "asset_name": "C103.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8aa3754f837b26509bdf5e60ceaad3b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190949",
+      "asset_name": "IMG_1870.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "29a3754f837b26509bdf5e60ceaad31d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190949",
+      "asset_name": "IMG_1873.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f5a3754f837b26509bdf5e60ceaad356",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190949",
+      "asset_name": "IMG_1871.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f5a3754f837b26509bdf5e60ceaad3a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190949",
+      "asset_name": "C103.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8aa3754f837b26509bdf5e60ceaad3b0",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190949",
+      "asset_name": "IMG_1870.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "29a3754f837b26509bdf5e60ceaad31d",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190949",
+      "asset_name": "IMG_1873.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f5a3754f837b26509bdf5e60ceaad356",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190949",
+      "asset_name": "IMG_1871.jpeg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "f5a3754f837b26509bdf5e60ceaad3a9",
+      "error_message": null
+    },
+    {
+      "asset_id": "att_14190949",
+      "asset_name": "C103.jpg",
+      "action": "created",
+      "success": true,
+      "servicenow_sys_id": "8aa3754f837b26509bdf5e60ceaad3b0",
+      "error_message": null
+    }
+  ]
+}
